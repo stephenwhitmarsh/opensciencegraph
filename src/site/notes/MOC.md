@@ -130,13 +130,13 @@ FAIR Principles ──implemented via──► BIDS (neuroimaging), NWB (electro
 
 ## Vault Statistics
 
-| Folder | Contents | Count |
-|---|---|---|
-| `01_Actors` | Consortia, institutes, initiatives, projects, software orgs | 33 |
-| `02_Standards` | All standards, formats, terminologies, ontologies | 47 |
-| `03_Platforms` | Repositories, platforms, data infrastructure | 27 |
-| `04_Governance` | Infrastructure, policies, frameworks, working groups | 55 |
-| **Total** | | **162** |
+| Folder       | Contents                                                    | Count   |
+| ------------ | ----------------------------------------------------------- | ------- |
+| `Actors`     | Consortia, institutes, initiatives, projects, software orgs | 33      |
+| `Standards`  | All standards, formats, terminologies, ontologies           | 47      |
+| `Platforms`  | Repositories, platforms, data infrastructure                | 27      |
+| `Governance` | Infrastructure, policies, frameworks, working groups        | 55      |
+| **Total**    |                                                             | **162** |
 
 ---
 
@@ -195,7 +195,7 @@ SORT type ASC
 All ontologies and terminologies:
 ```dataview
 TABLE type, domain, founded
-FROM "Open_Science_Neuroscience/02_Standards"
+FROM "Open_Science_Neuroscience/Standards"
 WHERE type = "terminology" OR type = "framework"
 SORT type ASC
 ```
@@ -203,7 +203,7 @@ SORT type ASC
 All format standards:
 ```dataview
 TABLE domain, founded
-FROM "Open_Science_Neuroscience/02_Standards"
+FROM "Open_Science_Neuroscience/Standards"
 WHERE type = "standard"
 SORT domain ASC
 ```
@@ -211,7 +211,7 @@ SORT domain ASC
 French governance nodes:
 ```dataview
 TABLE type, domain, founded
-FROM "Open_Science_Neuroscience/04_Governance"
+FROM "Open_Science_Neuroscience/Governance"
 WHERE scope = "french"
 SORT type ASC
 ```
@@ -219,7 +219,7 @@ SORT type ASC
 European governance nodes:
 ```dataview
 TABLE type, domain, founded
-FROM "Open_Science_Neuroscience/04_Governance"
+FROM "Open_Science_Neuroscience/Governance"
 WHERE scope = "european"
 SORT type ASC
 ```
@@ -227,7 +227,7 @@ SORT type ASC
 Working groups and frameworks:
 ```dataview
 TABLE scope, domain, founded
-FROM "Open_Science_Neuroscience/04_Governance"
+FROM "Open_Science_Neuroscience/Governance"
 WHERE type = "working-group" OR type = "framework" OR type = "initiative"
 SORT scope ASC
 ```
@@ -237,4 +237,4 @@ SORT scope ASC
 ## TODO
 
 - Add link ICM - IFB (DAC as participating platform)
-- Resolve OBI name collision: `01_Actors/OBI.md` (Ontario Brain Institute) and `02_Standards/OBI.md` (Ontology for Biomedical Investigations) will produce ambiguous links in Obsidian; consider renaming one
+- Resolve OBI name collision: `Actors/OBI.md` (Ontario Brain Institute) and `Standards/OBI.md` (Ontology for Biomedical Investigations) will produce ambiguous links in Obsidian; consider renaming one
