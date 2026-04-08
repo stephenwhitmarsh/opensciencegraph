@@ -3,7 +3,7 @@
 ---
 
 
-# iGENSEQ — ICM Genomics and Sequencing Platform
+# iGENSEQ — Genomics and Sequencing Platform
 
 ## Overview
 iGENSEQ is [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s next-generation sequencing (NGS) platform, one of ICM's 10 core technological platforms. It provides a full suite of genomic sequencing services to ICM research teams and external academic and industrial collaborators, covering bulk transcriptomics, single-cell and spatial genomics, whole-genome and whole-exome sequencing, and targeted panels.
