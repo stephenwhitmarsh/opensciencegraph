@@ -25,6 +25,39 @@ The graph is organised across four directories, each with a dedicated sub-MOC wi
 - [[Governance/_Governance\|_Governance]] — national and European infrastructures, policies, working groups and frameworks (55 nodes)
 
 ---
+## Frontmatter Schema
+
+Every node uses a lean, non-redundant YAML schema. Only two semantic tags exist, marking ICM's operational relationship to a node:
+
+| Tag | Meaning |
+|---|---|
+| `icm/uses` | ICM operationally uses this standard, platform, or tool |
+| `icm/participates` | ICM is an active member or participant in this body |
+
+**Controlled vocabularies:**
+
+`type:` — `standard` \| `terminology` \| `framework` \| `platform` \| `repository` \| `infrastructure` \| `facility` \| `institute` \| `consortium` \| `initiative` \| `working-group` \| `policy` \| `biobank`
+
+`domain:` — `neuroimaging` \| `electrophysiology` \| `clinical` \| `genomics` \| `multimodal` \| `bioimaging` \| `computational` \| `behavior` \| `health`
+
+`scope:` — `french` \| `european` \| `international`
+
+**Graph view group queries** (Settings → Graph view → Groups → `+`):
+
+| Group | Query |
+|---|---|
+| Institutes | `[type:institute]` |
+| Consortia & initiatives | `[type:consortium] OR [type:initiative]` |
+| Standards & terminologies | `[type:standard] OR [type:terminology]` |
+| Frameworks & principles | `[type:framework] OR [type:policy]` |
+| Repositories & platforms | `[type:repository] OR [type:platform]` |
+| Core facilities | `[type:facility]` |
+| Infrastructure & biobanks | `[type:infrastructure] OR [type:biobank]` |
+| Working groups | `[type:working-group]` |
+| ICM uses | `[tags:icm/uses]` |
+| ICM participates | `[tags:icm/participates]` |
+| French scope | `[scope:french]` |
+| European scope | `[scope:european]` |
 
 ## Key Structural Relationships
 
@@ -83,55 +116,12 @@ FAIR Principles ──implemented via──► BIDS (neuroimaging), NWB (electro
                                      Recherche Data Gouv (French research data)
 ```
 
----
-
-## Vault Statistics
-
-| Folder       | Contents                                                    | Count   |
-| ------------ | ----------------------------------------------------------- | ------- |
-| `Actors`     | Consortia, institutes, initiatives, projects, software orgs | 33      |
-| `Standards`  | All standards, formats, terminologies, ontologies           | 47      |
-| `Platforms`  | Repositories, platforms, data infrastructure                | 27      |
-| `Governance` | Infrastructure, policies, frameworks, working groups        | 55      |
-| **Total**    |                                                             | **162** |
 
 ---
 
-## Frontmatter Schema
+## Dataview queries
 
-Every node uses a lean, non-redundant YAML schema. Only two semantic tags exist, marking ICM's operational relationship to a node:
-
-| Tag | Meaning |
-|---|---|
-| `icm/uses` | ICM operationally uses this standard, platform, or tool |
-| `icm/participates` | ICM is an active member or participant in this body |
-
-**Controlled vocabularies:**
-
-`type:` — `standard` \| `terminology` \| `framework` \| `platform` \| `repository` \| `infrastructure` \| `facility` \| `institute` \| `consortium` \| `initiative` \| `working-group` \| `policy` \| `biobank`
-
-`domain:` — `neuroimaging` \| `electrophysiology` \| `clinical` \| `genomics` \| `multimodal` \| `bioimaging` \| `computational` \| `behavior` \| `health`
-
-`scope:` — `french` \| `european` \| `international`
-
-**Graph view group queries** (Settings → Graph view → Groups → `+`):
-
-| Group | Query |
-|---|---|
-| Institutes | `[type:institute]` |
-| Consortia & initiatives | `[type:consortium] OR [type:initiative]` |
-| Standards & terminologies | `[type:standard] OR [type:terminology]` |
-| Frameworks & principles | `[type:framework] OR [type:policy]` |
-| Repositories & platforms | `[type:repository] OR [type:platform]` |
-| Core facilities | `[type:facility]` |
-| Infrastructure & biobanks | `[type:infrastructure] OR [type:biobank]` |
-| Working groups | `[type:working-group]` |
-| ICM uses | `[tags:icm/uses]` |
-| ICM participates | `[tags:icm/participates]` |
-| French scope | `[scope:french]` |
-| European scope | `[scope:european]` |
-
-**Dataview queries — copy into a dataview code block in Obsidian:**
+Copy the following dataview code blocks in Obsidian:
 
 All `icm/uses` nodes:
 ```dataview
@@ -190,6 +180,16 @@ SORT scope ASC
 ```
 
 ---
+
+## Vault Statistics
+
+| Folder       | Contents                                                    | Count   |
+| ------------ | ----------------------------------------------------------- | ------- |
+| `Actors`     | Consortia, institutes, initiatives, projects, software orgs | 33      |
+| `Standards`  | All standards, formats, terminologies, ontologies           | 47      |
+| `Platforms`  | Repositories, platforms, data infrastructure                | 27      |
+| `Governance` | Infrastructure, policies, frameworks, working groups        | 55      |
+| **Total**    |                                                             | **162** |
 
 ## TODO
 
