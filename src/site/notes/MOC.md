@@ -4,13 +4,13 @@
 
 # Map of Content
 
-> This map is a relational index of the **open science** ecosystem for neuroscience, including open science frameworks, data standards, platforms, infrastructure and working groups. The goal is the disambiguate the field by showing dependencies and convergences across actors, domains and research initiatives. While initially overwhelming, the graph can be explored with detailed descriptions in each node.
-> 
-> The original focus is on [[00_Core/Paris Brain Institute\|Paris Brain Institute]]'s operational context, explaining it's node centrality. However, the network can be extended beyond its direct connections, as the main limitation in my understanding and memory.
-> 
-> The graph is made with Obsidian, with the website published to Vercel from my public [github repository](https://github.com/stephenwhitmarsh/opensciencegraph)  using the Digital Garden plugin. For now, to contribute please [email me](mailto:stephen.whitmarsh@icm-institute.org) directly rather than via pull-requests. The latter will be difficult to manage due to the interconnected nature of the graph. However, if you want to give it a shot, you can find the gitlab repository here. 
-> 
-> Last updated: 2026-04-08
+This map is a relational index of the **open science** ecosystem for neuroscience, including open science frameworks, data standards, platforms, infrastructure and working groups. The goal is the disambiguate the field by showing dependencies and convergences across actors, domains and research initiatives. While initially overwhelming, the graph can be explored with detailed descriptions in each node.
+
+The original focus is on [[00_Core/Paris Brain Institute\|Paris Brain Institute]]'s operational context, explaining it's node centrality. However, the network can be extended beyond its direct connections, as the main limitation in my understanding and memory.
+
+The graph is made with Obsidian, with the website published to Vercel from my public [github repository](https://github.com/stephenwhitmarsh/opensciencegraph) using the Digital Garden plugin. For now, to contribute please [email me](mailto:stephen.whitmarsh@icm-institute.org) directly rather than via pull-requests. The latter will be difficult to manage due to the interconnected nature of the graph. However, if you want to give it a shot, you can find the gitlab repository here.
+
+Last updated: 2026-04-08
 
 ---
 
