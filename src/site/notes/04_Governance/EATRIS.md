@@ -6,21 +6,11 @@
 # EATRIS — European Advanced Translational Research Infrastructure
 
 ## Overview
-EATRIS is a European Research Infrastructure Consortium (ERIC) that provides
-researchers and companies with access to expertise and technologies for
-translational medicine — the process of taking discoveries from bench to bedside.
-It bridges basic research and clinical applications by offering services in
-biomarker development, imaging, drug delivery, advanced therapies, and omics.
-Part of the ESFRI RI cluster with [[04_Governance/ELIXIR\|ELIXIR]], [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]], and [[04_Governance/ECRIN\|ECRIN]], it
-is directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] through its focus on
-neurological disease biomarkers, imaging endpoints for clinical trials, and
-its collaboration with [[04_Governance/ECRIN\|ECRIN]] for multinational clinical study infrastructure.
+EATRIS is a European Research Infrastructure Consortium (ERIC) that provides researchers and companies with access to expertise and technologies for translational medicine — the process of taking discoveries from bench to bedside. It bridges basic research and clinical applications by offering services in biomarker development, imaging, drug delivery, advanced therapies, and omics. Part of the ESFRI RI cluster with [[04_Governance/ELIXIR\|ELIXIR]], [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]], and [[04_Governance/ECRIN\|ECRIN]], it is directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] through its focus on neurological disease biomarkers, imaging endpoints for clinical trials, and its collaboration with [[04_Governance/ECRIN\|ECRIN]] for multinational clinical study infrastructure.
 
 ## Key Services Relevant to Neuroscience
-- **Biomarker development** — validated biomarker assays for neurological diseases
-  (e.g. CSF biomarkers for Alzheimer's, neuroinflammation markers)
-- **Imaging** — access to PET tracers and imaging analysis for clinical trials;
-  connects to [[04_Governance/France Life Imaging\|France Life Imaging]] and [[04_Governance/CATI\|CATI]] workflows
+- **Biomarker development** — validated biomarker assays for neurological diseases (e.g. CSF biomarkers for Alzheimer's, neuroinflammation markers)
+- **Imaging** — access to PET tracers and imaging analysis for clinical trials; connects to [[04_Governance/France Life Imaging\|France Life Imaging]] and [[04_Governance/CATI\|CATI]] workflows
 - **Advanced therapies** — gene therapy, cell therapy access infrastructure
 - **Multi-omics** — transcriptomics, proteomics, metabolomics for disease stratification
 
@@ -29,8 +19,7 @@ its collaboration with [[04_Governance/ECRIN\|ECRIN]] for multinational clinical
 - Partners: [[03_Platforms/EBRAINS\|EBRAINS]], [[04_Governance/EOSC\|EOSC]]
 - Standards: [[02_Standards/CDISC\|CDISC]] (clinical trial data), [[02_Standards/OMOP CDM\|OMOP CDM]] (observational)
 - French nodes: connected to Inserm and CNRS-affiliated platforms
-- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (translational neurology,
-  biomarker validation, imaging trial endpoints)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (translational neurology, biomarker validation, imaging trial endpoints)
 
 ## Resources
 - https://eatris.eu

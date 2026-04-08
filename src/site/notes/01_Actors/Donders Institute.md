@@ -6,14 +6,7 @@
 # Donders Institute for Brain, Cognition and Behaviour
 
 ## Overview
-The Donders Institute at Radboud University (Nijmegen, Netherlands) is one of
-Europe's largest and most open-practice neuroscience institutes, with ~800
-researchers across four centres covering cognitive neuroimaging, neuroscience,
-cognition, and language. It has been a pioneer of institutional open data
-practices, operating its own data repository (now merged into the Radboud Data
-Repository) and mandating data sharing for all publications. It is a major
-contributor to [[03_Platforms/EBRAINS\|EBRAINS]], a key [[02_Standards/BIDS\|BIDS]] adopter, and a frequent collaborator
-in [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]] working groups.
+The Donders Institute at Radboud University (Nijmegen, Netherlands) is one of Europe's largest and most open-practice neuroscience institutes, with ~800 researchers across four centres covering cognitive neuroimaging, neuroscience, cognition, and language. It has been a pioneer of institutional open data practices, operating its own data repository (now merged into the Radboud Data Repository) and mandating data sharing for all publications. It is a major contributor to [[03_Platforms/EBRAINS\|EBRAINS]], a key [[02_Standards/BIDS\|BIDS]] adopter, and a frequent collaborator in [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]] working groups.
 
 ## Four Centres
 - Donders Centre for Cognitive Neuroimaging (DCCN) — MEG, EEG, fMRI (3T, 7T)
@@ -22,9 +15,7 @@ in [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]] working groups.
 - Donders Centre for Medical Neuroscience (DCMN) — clinical neuroscience
 
 ## Open Science Practices
-- Radboud Data Repository (RDR) — institutional open data repository for all
-  Donders datasets, FAIR-compliant with persistent DOIs; absorbed the original
-  Donders Repository in 2023
+- Radboud Data Repository (RDR) — institutional open data repository for all Donders datasets, FAIR-compliant with persistent DOIs; absorbed the original Donders Repository in 2023
 - Mandatory data sharing policy for all publications from the institute
 - Dedicated data management and research data stewardship support staff
 - Active contribution to [[02_Standards/BIDS\|BIDS]] specification and tooling (fieldtrip, MNE)

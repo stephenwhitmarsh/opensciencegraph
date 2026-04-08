@@ -6,16 +6,8 @@
 # France BioImaging (FBI)
 
 ## Overview
-France BioImaging is the French national research infrastructure for biological
-and biomedical imaging at the cellular and subcellular scale, covering light
-microscopy (confocal, super-resolution, light-sheet, TIRF, FLIM), electron
-microscopy, and multimodal correlative imaging. Founded in 2012 under the
-Investissements d'Avenir programme (PIA), it federates 10+ advanced imaging
-nodes across French research institutions including Institut Pasteur, Institut
-Curie, IGBMC (Strasbourg), Bordeaux Imaging Center, and others. It is the
-French national node of [[04_Governance/Euro-BioImaging\|Euro-BioImaging]] ERIC and the imaging node of
-[[04_Governance/ELIXIR\|ELIXIR]] France. It is the cellular/subcellular imaging counterpart to
-[[04_Governance/France Life Imaging\|France Life Imaging]] (which covers in vivo whole-body imaging).
+France BioImaging is the French national research infrastructure for biological and biomedical imaging at the cellular and subcellular scale, covering light microscopy (confocal, super-resolution, light-sheet, TIRF, FLIM), electron microscopy, and multimodal correlative imaging. Founded in 2012 under the Investissements d'Avenir programme (PIA), it federates 10+ advanced imaging nodes across French research institutions including Institut Pasteur, Institu Curie, IGBMC (Strasbourg), Bordeaux Imaging Center, and others. It is the
+French national node of [[04_Governance/Euro-BioImaging\|Euro-BioImaging]] ERIC and the imaging node of [[04_Governance/ELIXIR\|ELIXIR]] France. It is the cellular/subcellular imaging counterpart to [[04_Governance/France Life Imaging\|France Life Imaging]] (which covers in vivo whole-body imaging).
 
 ## Key Activities
 - Open access to advanced microscopy platforms for French and European
@@ -28,11 +20,7 @@ French national node of [[04_Governance/Euro-BioImaging\|Euro-BioImaging]] ERIC 
 - Coordination with [[04_Governance/France Life Imaging\|France Life Imaging]] for multimodal imaging pipelines
 
 ## Relevance to Paris Brain Institute
-France BioImaging nodes cover brain-relevant imaging modalities including
-super-resolution microscopy of synaptic structures, expansion microscopy,
-light-sheet imaging of cleared brain tissue, and correlative
-light-electron microscopy — all directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
-research programmes in cellular and circuit neuroscience.
+France BioImaging nodes cover brain-relevant imaging modalities including super-resolution microscopy of synaptic structures, expansion microscopy, light-sheet imaging of cleared brain tissue, and correlative light-electron microscopy — all directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] research programmes in cellular and circuit neuroscience.
 
 ## Connections
 - European node: [[04_Governance/Euro-BioImaging\|Euro-BioImaging]] (French national node)

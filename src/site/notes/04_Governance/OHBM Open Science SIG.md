@@ -10,10 +10,7 @@
 - [[02_Standards/NIDM\|NIDM]] — reproducibility standards advocacy
 
 ## Overview
-The OHBM Open Science SIG promotes open science practices in the human brain
-mapping community, organising annual Brainhack events, producing open science
-educational resources, and advocating for [[02_Standards/BIDS\|BIDS]], [[03_Platforms/OpenNeuro\|OpenNeuro]], and
-reproducibility standards within OHBM.
+The OHBM Open Science SIG promotes open science practices in the human brain mapping community, organising annual Brainhack events, producing open science educational resources, and advocating for [[02_Standards/BIDS\|BIDS]], [[03_Platforms/OpenNeuro\|OpenNeuro]], and reproducibility standards within OHBM.
 
 ## Connections
 - Promotes: [[02_Standards/BIDS\|BIDS]], [[03_Platforms/OpenNeuro\|OpenNeuro]], [[01_Actors/ReproNim\|ReproNim]]

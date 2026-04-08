@@ -6,10 +6,7 @@
 # ANR Open Science Policy
 
 ## Overview
-ANR is the main French public research funding agency. Since 2019, all funded projects
-must submit Data Management Plans and comply with [[04_Governance/Ouvrir la Science\|Ouvrir la Science]] mandates:
-open access to publications, FAIR data deposit in [[03_Platforms/Recherche Data Gouv\|Recherche Data Gouv]], and
-open source software publication.
+ANR is the main French public research funding agency. Since 2019, all funded projects must submit Data Management Plans and comply with [[04_Governance/Ouvrir la Science\|Ouvrir la Science]] mandates: open access to publications, FAIR data deposit in [[03_Platforms/Recherche Data Gouv\|Recherche Data Gouv]], and open source software publication.
 
 ## Key Requirements
 - Mandatory Data Management Plan (DMP) for all projects
@@ -24,4 +21,3 @@ open source software publication.
 
 ## Resources
 - https://anr.fr/fr/lanr-et-la-recherche/engagements-et-valeurs/la-science-ouverte/
-

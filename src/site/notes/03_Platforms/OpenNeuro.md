@@ -6,9 +6,7 @@
 # OpenNeuro
 
 ## Overview
-OpenNeuro is the leading open-access repository for neuroimaging data (MRI, EEG,
-MEG, iEEG, PET). All uploads must be in [[02_Standards/BIDS\|BIDS]] format. It hosts 1,000+ datasets
-under CC0/PDDL licences with DOI assignment and DataLad-based versioning.
+OpenNeuro is the leading open-access repository for neuroimaging data (MRI, EEG, MEG, iEEG, PET). All uploads must be in [[02_Standards/BIDS\|BIDS]] format. It hosts 1,000+ datasets under CC0/PDDL licences with DOI assignment and DataLad-based versioning.
 
 ## Connections
 - Requires: [[02_Standards/BIDS\|BIDS]]
@@ -18,4 +16,3 @@ under CC0/PDDL licences with DOI assignment and DataLad-based versioning.
 
 ## Resources
 - https://openneuro.org
-

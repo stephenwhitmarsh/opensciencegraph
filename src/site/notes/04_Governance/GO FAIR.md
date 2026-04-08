@@ -6,10 +6,7 @@
 # GO FAIR
 
 ## Overview
-GO FAIR is a bottom-up stakeholder-driven initiative providing the Three-Point
-FAIRification Framework for implementing [[04_Governance/FAIR Principles\|FAIR Principles]]. It operates through
-Implementation Networks (INs) including a Neuroscience IN. A French GO FAIR office
-operates via [[04_Governance/CNRS Open Science\|CNRS Open Science]].
+GO FAIR is a bottom-up stakeholder-driven initiative providing the Three-Point FAIRification Framework for implementing [[04_Governance/FAIR Principles\|FAIR Principles]]. It operates through Implementation Networks (INs) including a Neuroscience IN. A French GO FAIR office operates via [[04_Governance/CNRS Open Science\|CNRS Open Science]].
 
 ## Key Outputs
 - Three-Point FAIRification Framework (Find, Interoperate, Reuse)

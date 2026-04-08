@@ -6,9 +6,7 @@
 # XNAT - Extensible Neuroimaging Archive Toolkit
 
 ## Overview
-XNAT is an open-source imaging informatics platform for DICOM management, project
-organisation, pipeline execution via Container Service (Docker), and data sharing.
-Used at multiple [[03_Platforms/EBRAINS\|EBRAINS]] member sites.
+XNAT is an open-source imaging informatics platform for DICOM management, project organisation, pipeline execution via Container Service (Docker), and data sharing. Used at multiple [[03_Platforms/EBRAINS\|EBRAINS]] member sites.
 
 ## Connections
 - Standards: [[02_Standards/DICOM\|DICOM]], [[02_Standards/BIDS\|BIDS]]
@@ -17,4 +15,3 @@ Used at multiple [[03_Platforms/EBRAINS\|EBRAINS]] member sites.
 
 ## Resources
 - https://www.xnat.org
-

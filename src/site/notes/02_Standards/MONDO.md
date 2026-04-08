@@ -6,16 +6,7 @@
 # MONDO — Monarch Disease Ontology
 
 ## Overview
-MONDO is an integrated cross-species disease ontology that harmonises major
-disease classification systems — [[02_Standards/ICD-10\|ICD-10]], ICD-11, OMIM (Mendelian inheritance),
-[[02_Standards/ORDO\|ORDO]] (Orphanet rare diseases), DOID (Disease Ontology), and others — into a
-single coherent hierarchy. Developed by the Monarch Initiative, MONDO is the
-single best ontology for **cross-database disease queries** because it provides
-a unified identifier (e.g. MONDO:0004975 for Alzheimer's disease) that maps to
-the corresponding codes in every major system. For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]],
-MONDO is the key bridge between the [[02_Standards/ICD-10\|ICD-10]] / CIM-10 coding used in French
-health data ([[04_Governance/Health Data Hub\|Health Data Hub]], [[04_Governance/AP-HP\|AP-HP]]) and the research disease databases
-(OMIM, [[02_Standards/ORDO\|ORDO]]) used in genomics and rare disease research.
+MONDO is an integrated cross-species disease ontology that harmonises major disease classification systems — [[02_Standards/ICD-10\|ICD-10]], ICD-11, OMIM (Mendelian inheritance), [[02_Standards/ORDO\|ORDO]] (Orphanet rare diseases), DOID (Disease Ontology), and others — into a single coherent hierarchy. Developed by the Monarch Initiative, MONDO is the single best ontology for **cross-database disease queries** because it provides a unified identifier (e.g. MONDO:0004975 for Alzheimer's disease) that maps to the corresponding codes in every major system. For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], MONDO is the key bridge between the [[02_Standards/ICD-10\|ICD-10]] / CIM-10 coding used in French health data ([[04_Governance/Health Data Hub\|Health Data Hub]], [[04_Governance/AP-HP\|AP-HP]]) and the research disease databases (OMIM, [[02_Standards/ORDO\|ORDO]]) used in genomics and rare disease research.
 
 ## Key Mappings for ICM Research Areas
 | Disease | MONDO ID | Maps to |

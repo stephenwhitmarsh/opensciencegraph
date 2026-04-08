@@ -6,20 +6,10 @@
 # OSIRIS
 
 ## Overview
-OSIRIS (Interoperability and data sharing of clinical and biological data in Oncology)
-is a French national minimum data set and Common Data Model for clinical and genomic
-data sharing in oncology, developed through a bottom-up national consensus process
-launched in 2015. Funded by INCa (the French National Cancer Institute), it was built
-by a task force of Integrated Cancer Research Sites (SIRICs), comprehensive cancer
-centres (Unicancer network), and university hospitals. The resulting model specifies
-67 clinical items and 65 omics items in an event-based data model that captures
-longitudinal disease course, treatment, and genomic findings in precision medicine
-trials. OSIRIS is aligned with [[02_Standards/HL7 FHIR\|HL7 FHIR]] (a full FHIR R4 Implementation Guide exists),
-approved by a National Plan Strategic Committee, and freely released.
+OSIRIS (Interoperability and data sharing of clinical and biological data in Oncology) is a French national minimum data set and Common Data Model for clinical and genomic data sharing in oncology, developed through a bottom-up national consensus process launched in 2015. Funded by INCa (the French National Cancer Institute), it was built by a task force of Integrated Cancer Research Sites (SIRICs), comprehensive cancer centres (Unicancer network), and university hospitals. The resulting model specifies 67 clinical items and 65 omics items in an event-based data model that captures longitudinal disease course, treatment, and genomic findings in precision medicine trials. OSIRIS is aligned with [[02_Standards/HL7 FHIR\|HL7 FHIR]] (a full FHIR R4 Implementation Guide exists), approved by a National Plan Strategic Committee, and freely released.
 
 ## Scope and Model
-The OSIRIS event-based data model organises data around Treatment Plan Episodes
-(TPEs) — clinical moments anchored to treatment decisions — and captures:
+The OSIRIS event-based data model organises data around Treatment Plan Episodes (TPEs) — clinical moments anchored to treatment decisions — and captures:
 - **Patient characteristics** — demographics, family history, clinical trial participation
 - **Disease characteristics** — ICD-O-3 tumour histology, ICD-10 diagnosis coding
 - **Treatment** — drug administration, surgical procedures, radiotherapy, adverse events
@@ -49,8 +39,7 @@ OSIRIS relies on international standards throughout:
 - French governance: [[04_Governance/Code de la Sante Publique\|Code de la Sante Publique]], CNIL, [[04_Governance/ANS\|ANS]]
 - Standards: [[02_Standards/HL7 FHIR\|HL7 FHIR]], [[02_Standards/ICD-10\|ICD-10]], [[02_Standards/MedDRA\|MedDRA]], [[02_Standards/RxNorm\|RxNorm]], [[02_Standards/ATC\|ATC]], [[02_Standards/OMOP CDM\|OMOP CDM]], [[04_Governance/i2b2\|i2b2]]
 - Related French oncology infrastructure: SIRICs, Unicancer, [[04_Governance/Health Data Hub\|Health Data Hub]]
-- Relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]: neuro-oncology data sharing; ICM's Institut Curie
-  peer relationship; OSIRIS is the standard for multi-centre French cancer genomics trials
+- Relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]: neuro-oncology data sharing; ICM's Institut Curie peer relationship; OSIRIS is the standard for multi-centre French cancer genomics trials
 
 ## Resources
 - FHIR IG: https://ig-osiris.cancer.fr/ig/osiris/

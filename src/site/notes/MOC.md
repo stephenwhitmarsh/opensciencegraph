@@ -454,8 +454,3 @@ FROM "Open_Science_Neuroscience/04_Governance"
 WHERE type = "working-group" OR type = "framework" OR type = "initiative"
 SORT scope ASC
 ```
-
----
-
-## Backlog — TODOs and Candidate Nodes
-

@@ -6,13 +6,7 @@
 # FAIR Principles
 
 ## Overview
-The FAIR Principles are 15 guiding principles for scientific data management and
-stewardship, published in 2016 by Wilkinson et al. in *Nature Scientific Data*
-(DOI:10.1038/sdata.2016.18). FAIR stands for **Findable, Accessible,
-Interoperable, Reusable**. They are not a standard or a certification — they are
-a set of aspirational properties that data and metadata should have to maximise
-their value for both humans and machines. They are now mandated by most major
-funders worldwide including the EU (Horizon Europe, [[04_Governance/EOSC\|EOSC]], [[04_Governance/EHDS\|EHDS]]) and
+The FAIR Principles are 15 guiding principles for scientific data management and stewardship, published in 2016 by Wilkinson et al. in *Nature Scientific Data* (DOI:10.1038/sdata.2016.18). FAIR stands for **Findable, Accessible, Interoperable, Reusable**. They are not a standard or a certification — they are a set of aspirational properties that data and metadata should have to maximise their value for both humans and machines. They are now mandated by most major funders worldwide including the EU (Horizon Europe, [[04_Governance/EOSC\|EOSC]], [[04_Governance/EHDS\|EHDS]]) and
 France ([[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[04_Governance/Ouvrir la Science\|Ouvrir la Science]]).
 
 ## The 15 Principles

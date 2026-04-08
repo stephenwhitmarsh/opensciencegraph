@@ -6,11 +6,7 @@
 # iGENSEQ — ICM Genomics and Sequencing Platform
 
 ## Overview
-iGENSEQ is [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]'s next-generation sequencing (NGS) platform,
-one of ICM's 10 core technological platforms. It provides a full suite of genomic
-sequencing services to ICM research teams and external academic and industrial
-collaborators, covering bulk transcriptomics, single-cell and spatial genomics,
-whole-genome and whole-exome sequencing, and targeted panels.
+iGENSEQ is [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]'s next-generation sequencing (NGS) platform, one of ICM's 10 core technological platforms. It provides a full suite of genomic sequencing services to ICM research teams and external academic and industrial collaborators, covering bulk transcriptomics, single-cell and spatial genomics, whole-genome and whole-exome sequencing, and targeted panels.
 
 ## Services
 - **RNA-seq** — bulk, stranded, total or polyA-selected
@@ -23,17 +19,11 @@ whole-genome and whole-exome sequencing, and targeted panels.
 - **Long-read sequencing** — Oxford Nanopore (selected applications)
 
 ## Open Science Connections
-- **Data deposition** — sequencing data from publications deposited in
-  [[03_Platforms/NCBI GEO\|NCBI GEO]] (open) or [[03_Platforms/EGA\|EGA]] (controlled access for human data)
-- **Variant data** — variant calls in [[02_Standards/VCF\|VCF]] format; deposited in [[03_Platforms/EVA\|EVA]]
-  or [[03_Platforms/dbGaP\|dbGaP]] depending on consent conditions
-- **Standards** — data aligned with [[01_Actors/GA4GH\|GA4GH]] standards; [[02_Standards/GO\|GO]] term
-  enrichment for transcriptomics; [[02_Standards/HPO\|HPO]]/[[02_Standards/ORDO\|ORDO]] phenotype annotation
-  for rare disease genomics
-- **Biobank link** — primary downstream user of [[01_Actors/Banque ADN et Cellules\|Banque ADN et Cellules]]
-  DNA and RNA stocks
-- **Bioinformatics** — analysis pipelines run via [[04_Governance/IFB\|IFB]] computing resources
-  (MUDIS4LS/NNCR); [[01_Actors/DAC\|DAC]] provides bioinformatics support
+- **Data deposition** — sequencing data from publications deposited in [[03_Platforms/NCBI GEO\|NCBI GEO]] (open) or [[03_Platforms/EGA\|EGA]] (controlled access for human data)
+- **Variant data** — variant calls in [[02_Standards/VCF\|VCF]] format; deposited in [[03_Platforms/EVA\|EVA]] or [[03_Platforms/dbGaP\|dbGaP]] depending on consent conditions
+- **Standards** — data aligned with [[01_Actors/GA4GH\|GA4GH]] standards; [[02_Standards/GO\|GO]] term enrichment for transcriptomics; [[02_Standards/HPO\|HPO]]/[[02_Standards/ORDO\|ORDO]] phenotype annotation for rare disease genomics
+- **Biobank link** — primary downstream user of [[01_Actors/Banque ADN et Cellules\|Banque ADN et Cellules]] DNA and RNA stocks
+- **Bioinformatics** — analysis pipelines run via [[04_Governance/IFB\|IFB]] computing resources (MUDIS4LS/NNCR); [[01_Actors/DAC\|DAC]] provides bioinformatics support
 
 ## Connections
 - Hosted at: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]

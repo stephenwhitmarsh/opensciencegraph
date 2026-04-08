@@ -6,10 +6,7 @@
 # ADNI - Alzheimer's Disease Neuroimaging Initiative
 
 ## Overview
-ADNI is a longitudinal multicenter study tracking MRI, PET, biomarkers, clinical,
-and genetic data across the Alzheimer's disease spectrum. One of the most widely used
-open clinical neuroimaging datasets, accessible via the LONI Image and Data Archive.
-[[04_Governance/CATI\|CATI]] manages analogous European multisite cohorts (MEMENTO, INSIGHT-preAD).
+ADNI is a longitudinal multicenter study tracking MRI, PET, biomarkers, clinical, and genetic data across the Alzheimer's disease spectrum. One of the most widely used open clinical neuroimaging datasets, accessible via the LONI Image and Data Archive. [[04_Governance/CATI\|CATI]] manages analogous European multisite cohorts (MEMENTO, INSIGHT-preAD).
 
 ## Key Outputs
 - 2,000+ participants across ADNI1, GO, 2, 3, 4
@@ -23,4 +20,3 @@ open clinical neuroimaging datasets, accessible via the LONI Image and Data Arch
 
 ## Resources
 - https://adni.loni.usc.edu
-

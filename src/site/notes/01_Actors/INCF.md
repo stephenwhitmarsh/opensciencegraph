@@ -6,10 +6,7 @@
 # INCF - International Neuroinformatics Coordinating Facility
 
 ## Overview
-INCF coordinates neuroscience data standards and neuroinformatics infrastructure
-globally. It governs [[02_Standards/BIDS\|BIDS]], endorses [[02_Standards/NWB\|NWB]], [[02_Standards/HED\|HED]], and [[02_Standards/NIDM\|NIDM]], runs a
-network of national nodes (including a French node via [[04_Governance/CNRS Open Science\|CNRS Open Science]]),
-and provides the INCF TrainingSpace open neuroscience training catalog.
+INCF coordinates neuroscience data standards and neuroinformatics infrastructure globally. It governs [[02_Standards/BIDS\|BIDS]], endorses [[02_Standards/NWB\|NWB]], [[02_Standards/HED\|HED]], and [[02_Standards/NIDM\|NIDM]], runs a network of national nodes (including a French node via [[04_Governance/CNRS Open Science\|CNRS Open Science]]), and provides the INCF TrainingSpace open neuroscience training catalog.
 
 ## Key Outputs
 - Governance of [[02_Standards/BIDS\|BIDS]]
@@ -37,4 +34,3 @@ and provides the INCF TrainingSpace open neuroscience training catalog.
 ## Resources
 - https://incf.org
 - https://training.incf.org
-

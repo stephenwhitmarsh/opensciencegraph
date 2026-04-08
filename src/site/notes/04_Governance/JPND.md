@@ -6,23 +6,14 @@
 # JPND — Joint Programme Neurodegenerative Disease Research
 
 ## Overview
-JPND (Joint Programme — Neurodegenerative Disease Research) is the largest
-international research initiative on neurodegenerative diseases, co-funded by
-EU member states and the European Commission. Established in 2009 under the
-ERA-NET framework, JPND coordinates and co-funds transnational research calls
-targeting Alzheimer's, Parkinson's, ALS, Huntington's, prion diseases, and
-related conditions. As of 2024, JPND involves 30+ participating countries, each
-contributing national funding matched by European co-funding.
+JPND (Joint Programme — Neurodegenerative Disease Research) is the largest international research initiative on neurodegenerative diseases, co-funded by EU member states and the European Commission. Established in 2009 under the ERA-NET framework, JPND coordinates and co-funds transnational research calls targeting Alzheimer's, Parkinson's, ALS, Huntington's, prion diseases, and related conditions. As of 2024, JPND involves 30+ participating countries, each contributing national funding matched by European co-funding.
 
 JPND connects the key institutes that are also [[04_Governance/CURE-ND\|CURE-ND]] alliance members:
 [[01_Actors/DZNE\|DZNE]] (Germany), [[01_Actors/UK DRI\|UK DRI]] (UK), and [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (France, via
 [[04_Governance/CNRS Open Science\|CNRS Open Science]] and [[04_Governance/Inserm Open Science\|Inserm Open Science]] as participating funders).
 
 ## Structure and Funding Mechanism
-JPND operates through transnational joint calls (JTC — Joint Transnational Calls),
-in which national funding agencies co-fund multi-country consortia addressing
-shared research priorities. Research groups from ICM/Paris can access JPND
-funding through ANR (Agence Nationale de la Recherche) as France's JPND national
+JPND operates through transnational joint calls (JTC — Joint Transnational Calls), in which national funding agencies co-fund multi-country consortia addressing shared research priorities. Research groups from ICM/Paris can access JPND funding through ANR (Agence Nationale de la Recherche) as France's JPND national
 funding body.
 
 Key funding categories:
@@ -32,20 +23,16 @@ Key funding categories:
 - **Health and social care** — care systems, patient registries, quality of life
 
 ## Open Science Alignment
-JPND has established an **Ethics Board** addressing open data and responsible
-conduct standards across its funded programmes. The programme explicitly promotes:
+JPND has established an **Ethics Board** addressing open data and responsible conduct standards across its funded programmes. The programme explicitly promotes:
 - Data sharing mandates in JTC project agreements
 - FAIR data management plans for funded projects
 - Alignment with [[04_Governance/EOSC\|EOSC]] and European open science infrastructure
 - Collaboration with [[03_Platforms/EBRAINS\|EBRAINS]] for neuroimaging data sharing
 
-JPND is also one of the members of the **EBRA (European Brain Research Area)**
-project, which coordinated European and global brain initiatives including HBP/EBRAINS,
-ERA-Net NEURON, and [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]].
+JPND is also one of the members of the **EBRA (European Brain Research Area)** project, which coordinated European and global brain initiatives including HBP/EBRAINS, ERA-Net NEURON, and [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]].
 
 ## Connections
-- Key national participants: [[01_Actors/DZNE\|DZNE]] (Germany), [[01_Actors/UK DRI\|UK DRI]] (UK), ICM/CNRS/Inserm
-  (France), plus 27+ other national research agencies
+- Key national participants: [[01_Actors/DZNE\|DZNE]] (Germany), [[01_Actors/UK DRI\|UK DRI]] (UK), ICM/CNRS/Inserm (France), plus 27+ other national research agencies
 - Alliance overlap: [[04_Governance/CURE-ND\|CURE-ND]] (DZNE, UK DRI, ICM are all JPND and CURE-ND members)
 - Infrastructure: [[03_Platforms/EBRAINS\|EBRAINS]], [[04_Governance/EOSC\|EOSC]], [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]]
 - Consortia: [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]] (EBRA coordination)

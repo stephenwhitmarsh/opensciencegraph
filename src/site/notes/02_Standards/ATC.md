@@ -6,15 +6,7 @@
 # ATC
 
 ## Overview
-The Anatomical Therapeutic Chemical (ATC) Classification System is the WHO-endorsed
-international standard for classifying drug substances by the organ or system they
-act on, and by their therapeutic, pharmacological, and chemical properties. Developed
-in Norway in the 1970s, it was formalised by the WHO Collaborating Centre for Drug
-Statistics Methodology (established 1982, hosted at the Norwegian Institute of Public
-Health in Oslo) and recommended for global use by WHO in 1996. ATC is paired with
-the Defined Daily Dose (DDD) — a unit of measurement representing the assumed average
-adult maintenance dose per day — to form the ATC/DDD methodology, the international
-standard for drug utilisation research and pharmacoepidemiology.
+The Anatomical Therapeutic Chemical (ATC) Classification System is the WHO-endorsed international standard for classifying drug substances by the organ or system they act on, and by their therapeutic, pharmacological, and chemical properties. Developed in Norway in the 1970s, it was formalised by the WHO Collaborating Centre for Drug Statistics Methodology (established 1982, hosted at the Norwegian Institute of Public Health in Oslo) and recommended for global use by WHO in 1996. ATC is paired with the Defined Daily Dose (DDD) — a unit of measurement representing the assumed average adult maintenance dose per day — to form the ATC/DDD methodology, the international standard for drug utilisation research and pharmacoepidemiology.
 
 ## Structure
 ATC codes have a five-level hierarchy:
@@ -27,13 +19,10 @@ ATC codes have a five-level hierarchy:
 | 4th | Chemical/pharmacological subgroup (letter) | `N05AH` — Diazepines, oxazepines… |
 | 5th | Chemical substance (2 digits) | `N05AH03` — Olanzapine |
 
-There are 14 anatomical main groups (A–V). The index is updated annually each
-January 1st. A substance can have multiple ATC codes for different routes of
-administration or indications.
+There are 14 anatomical main groups (A–V). The index is updated annually each January 1st. A substance can have multiple ATC codes for different routes of administration or indications.
 
 ## ATC and DDD in OMOP CDM
-ATC is a standardised vocabulary in the [[02_Standards/OMOP CDM\|OMOP CDM]] Athena vocabulary browser, where
-it supplements [[02_Standards/RxNorm\|RxNorm]] as a drug classification hierarchy. ATC codes are used for:
+ATC is a standardised vocabulary in the [[02_Standards/OMOP CDM\|OMOP CDM]] Athena vocabulary browser, where it supplements [[02_Standards/RxNorm\|RxNorm]] as a drug classification hierarchy. ATC codes are used for:
 - Drug utilisation studies and pharmacoepidemiology
 - Imputing drug exposure duration (via DDD-based calculations)
 - Mapping across different national drug coding systems
@@ -41,13 +30,9 @@ it supplements [[02_Standards/RxNorm\|RxNorm]] as a drug classification hierarch
 
 ## Connections
 - Maintained by: WHO Collaborating Centre for Drug Statistics Methodology (WHOCC, Oslo)
-- Used in: [[02_Standards/OMOP CDM\|OMOP CDM]] (Athena vocabulary), [[03_Platforms/SNDS\|SNDS]] (French national health data),
-  [[04_Governance/Health Data Hub\|Health Data Hub]], [[04_Governance/AP-HP\|AP-HP]] EDS, [[02_Standards/OSIRIS\|OSIRIS]] (oncology drug coding)
-- Complementary terminologies: [[02_Standards/RxNorm\|RxNorm]] (US clinical drug names), [[02_Standards/ChEBI\|ChEBI]]
-  (chemical entities), [[02_Standards/MedDRA\|MedDRA]] (adverse events)
-- Relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]: drug coding in SNDS-based pharmacoepidemiology
-  studies; required for OMOP CDM drug_exposure table analysis; used in neurological
-  drug utilisation research (antiepileptics, antiparkinson agents — ATC N03/N04)
+- Used in: [[02_Standards/OMOP CDM\|OMOP CDM]] (Athena vocabulary), [[03_Platforms/SNDS\|SNDS]] (French national health data), [[04_Governance/Health Data Hub\|Health Data Hub]], [[04_Governance/AP-HP\|AP-HP]] EDS, [[02_Standards/OSIRIS\|OSIRIS]] (oncology drug coding)
+- Complementary terminologies: [[02_Standards/RxNorm\|RxNorm]] (US clinical drug names), [[02_Standards/ChEBI\|ChEBI]] (chemical entities), [[02_Standards/MedDRA\|MedDRA]] (adverse events)
+- Relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]: drug coding in SNDS-based pharmacoepidemiology studies; required for OMOP CDM drug_exposure table analysis; used in neurological drug utilisation research (antiepileptics, antiparkinson agents — ATC N03/N04)
 
 ## Resources
 - ATC classification: https://www.who.int/tools/atc-ddd-toolkit/atc-classification

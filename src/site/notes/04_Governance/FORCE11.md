@@ -6,10 +6,7 @@
 # FORCE11
 
 ## Overview
-FORCE11 is a community of scholars, librarians, archivists, publishers, and
-technologists advancing scholarly communication and research data practices.
-Co-authored the original [[04_Governance/FAIR Principles\|FAIR Principles]] paper and develops guidelines for
-data citation and software citation.
+FORCE11 is a community of scholars, librarians, archivists, publishers, and technologists advancing scholarly communication and research data practices. Co-authored the original [[04_Governance/FAIR Principles\|FAIR Principles]] paper and develops guidelines for data citation and software citation.
 
 ## Key Outputs
 - [[04_Governance/FAIR Principles\|FAIR Principles]] — co-authored the original 2016 Wilkinson et al. paper

@@ -9,9 +9,7 @@
 - [[02_Standards/BIDS\|BIDS]] — specification and BEP extension process
 
 ## Overview
-The BIDS Steering Group governs the [[02_Standards/BIDS\|BIDS]] specification, overseeing the BEP
-(BIDS Extension Proposal) process, maintaining the specification, and coordinating
-with [[01_Actors/INCF\|INCF]] as the endorsing organisation.
+The BIDS Steering Group governs the [[02_Standards/BIDS\|BIDS]] specification, overseeing the BEP (BIDS Extension Proposal) process, maintaining the specification, and coordinating with [[01_Actors/INCF\|INCF]] as the endorsing organisation.
 
 ## Connections
 - Governs: [[02_Standards/BIDS\|BIDS]]

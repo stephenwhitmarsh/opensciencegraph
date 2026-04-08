@@ -6,9 +6,7 @@
 # DANDI Archive
 
 ## Overview
-DANDI is the primary public archive for neurophysiology data (NIH BRAIN Initiative).
-It requires [[02_Standards/NWB\|NWB]] format and provides FAIR-compliant access with persistent DOIs,
-cloud storage (AWS), versioned datasets, and DANDI CLI for programmatic access.
+DANDI is the primary public archive for neurophysiology data (NIH BRAIN Initiative). It requires [[02_Standards/NWB\|NWB]] format and provides FAIR-compliant access with persistent DOIs, cloud storage (AWS), versioned datasets, and DANDI CLI for programmatic access.
 
 ## Connections
 - Primary format: [[02_Standards/NWB\|NWB]]
@@ -19,4 +17,3 @@ cloud storage (AWS), versioned datasets, and DANDI CLI for programmatic access.
 
 ## Resources
 - https://dandiarchive.org
-

@@ -6,16 +6,11 @@
 # CENIR — Centre de NeuroImagerie de Recherche
 
 ## Overview
-CENIR (Centre de NeuroImagerie de Recherche) is [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]'s
-human neuroimaging research centre, one of ICM's 10 core technological platforms.
-Located at Pitié-Salpêtrière Hospital, it provides state-of-the-art multimodal
-human neuroimaging for research and translational studies, serving ICM research
-teams, [[04_Governance/NeurATRIS\|NeurATRIS]] external users, and academic and industrial collaborators.
+CENIR (Centre de NeuroImagerie de Recherche) is [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]'s human neuroimaging research centre, one of ICM's 10 core technological platforms. Located at Pitié-Salpêtrière Hospital, it provides state-of-the-art multimodal human neuroimaging for research and translational studies, serving ICM research teams, [[04_Governance/NeurATRIS\|NeurATRIS]] external users, and academic and industrial collaborators.
 
 ## Equipment
 - **3T MRI × 2** — structural, functional (fMRI), diffusion, spectroscopy
-- **PET-MRI** — Siemens Biograph mMR simultaneous PET and MRI; 18F-FDG,
-  amyloid, tau, and dopaminergic tracers
+- **PET-MRI** — Siemens Biograph mMR simultaneous PET and MRI; 18F-FDG, amyloid, tau, and dopaminergic tracers
 - **MEG** — Elekta Neuromag 306-channel magnetoencephalography
 - **EEG** — high-density EEG systems
 - **TMS** — transcranial magnetic stimulation (combined with EEG/MRI)
@@ -32,8 +27,7 @@ CENIR is the primary neuroimaging node for:
 All CENIR data is processed through [[04_Governance/CATI\|CATI]] pipelines:
 - Raw DICOM → [[02_Standards/NIfTI\|NIfTI]] conversion and [[02_Standards/BIDS\|BIDS]] organisation via CATIconv
 - Multi-site MRI harmonisation and automated QC
-- Data deposited on [[03_Platforms/OpenNeuro\|OpenNeuro]] (open datasets) or secure platforms
-  for controlled-access cohorts
+- Data deposited on [[03_Platforms/OpenNeuro\|OpenNeuro]] (open datasets) or secure platforms for controlled-access cohorts
 
 ## Connections
 - Hosted at: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]

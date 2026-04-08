@@ -6,14 +6,7 @@
 # MedDRA — Medical Dictionary for Regulatory Activities
 
 ## Overview
-MedDRA is the international medical terminology developed under the auspices of
-the International Council for Harmonisation of Technical Requirements for
-Pharmaceuticals for Human Use (ICH). It is the required standard for adverse
-event coding in clinical trial regulatory submissions to the EMA, FDA, and
-national agencies including the French **ANSM** (Agence Nationale de Sécurité
-du Médicament). Any clinical trial conducted at [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
-or through [[04_Governance/AP-HP\|AP-HP]] that submits to the EU Clinical Trials Regulation (CTR)
-requires MedDRA coding for adverse events.
+MedDRA is the international medical terminology developed under the auspices of the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use (ICH). It is the required standard for adverse event coding in clinical trial regulatory submissions to the EMA, FDA, and national agencies including the French **ANSM** (Agence Nationale de Sécurité du Médicament). Any clinical trial conducted at [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] or through [[04_Governance/AP-HP\|AP-HP]] that submits to the EU Clinical Trials Regulation (CTR) requires MedDRA coding for adverse events.
 
 ## Structure
 MedDRA uses a five-level hierarchy:
@@ -24,12 +17,7 @@ MedDRA uses a five-level hierarchy:
 5. **LLT** (Lowest Level Term) — most granular, maps to verbatim terms
 
 ## Neuroscience Relevance
-The **Nervous System Disorders** SOC contains terms for:
-- Dementia and cognitive impairment (AEs in Alzheimer's trials)
-- Movement disorders (Parkinson's trials, dyskinesia as AE)
-- Seizures and epilepsy events
-- Headache, nausea (common neurological trial AEs)
-- Peripheral neuropathy (chemotherapy-related)
+The **Nervous System Disorders** SOC contains terms for dementia and cognitive impairment (AEs in Alzheimer's trials), movement disorders (Parkinson's trials, dyskinesia as AE), seizures and epilepsy events, headache and nausea (common neurological trial AEs), and peripheral neuropathy (chemotherapy-related).
 
 ## Connections
 - Required by: [[04_Governance/ECRIN\|ECRIN]] (multinational EU clinical trials), [[04_Governance/AP-HP\|AP-HP]] (ANSM submissions)

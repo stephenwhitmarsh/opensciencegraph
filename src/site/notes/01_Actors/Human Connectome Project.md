@@ -6,10 +6,7 @@
 # Human Connectome Project (HCP)
 
 ## Overview
-The HCP produced landmark open datasets of high-resolution structural and functional
-MRI, diffusion MRI, MEG, and EEG in 1,200 healthy adults. Freely available via
-ConnectomeDB, it influenced the design of [[02_Standards/BIDS\|BIDS]] and remains a reference dataset
-for neuroimaging methods development.
+The HCP produced landmark open datasets of high-resolution structural and functional MRI, diffusion MRI, MEG, and EEG in 1,200 healthy adults. Freely available via ConnectomeDB, it influenced the design of [[02_Standards/BIDS\|BIDS]] and remains a reference dataset for neuroimaging methods development.
 
 ## Standards Influenced
 - [[02_Standards/BIDS\|BIDS]] — original design shaped by HCP data architecture and acquisition protocols
@@ -29,4 +26,3 @@ for neuroimaging methods development.
 ## Resources
 - https://www.humanconnectome.org
 - https://db.humanconnectome.org
-

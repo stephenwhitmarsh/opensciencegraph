@@ -6,30 +6,18 @@
 # SNDS
 
 ## Overview
-The Système National des Données de Santé (SNDS) is the French national health data
-system, covering virtually the entire French population (67+ million people). It
-consolidates claims data from health insurance (SNIIRAM), hospital discharge summaries
-(PMSI), causes of death (CépiDC), and disability data. It is the primary resource for
-large-scale epidemiological, pharmacological, and clinical research in France, and is
-governed and made accessible via the [[04_Governance/Health Data Hub\|Health Data Hub]].
+The Système National des Données de Santé (SNDS) is the French national health data system, covering virtually the entire French population (67+ million people). It consolidates claims data from health insurance (SNIIRAM), hospital discharge summaries (PMSI), causes of death (CépiDC), and disability data. It is the primary resource for large-scale epidemiological, pharmacological, and clinical research in France, and is governed and made accessible via the [[04_Governance/Health Data Hub\|Health Data Hub]].
 
 ## Scope and Coverage
 - **Population**: ~99% of French residents; longitudinal follow-up possible since 2003
-- **SNIIRAM** — health insurance reimbursement data: consultations, prescriptions,
-  medical acts, devices; covers ambulatory care
-- **PMSI** — Programme de Médicalisation des Systèmes d'Information; hospital stay
-  records (diagnosis, procedures, DRGs) from all French hospitals
+- **SNIIRAM** — health insurance reimbursement data: consultations, prescriptions, medical acts, devices; covers ambulatory care
+- **PMSI** — Programme de Médicalisation des Systèmes d'Information; hospital stay records (diagnosis, procedures, DRGs) from all French hospitals
 - **CépiDC** — cause-of-death data from INSERM's epidemiology centre
 - **MDPH/CNSA** — disability compensation and care data (partial linkage)
 
 ## Data Access
-- **Authorized research access** via the [[04_Governance/Health Data Hub\|Health Data Hub]] Datalab (secure processing
-  environment; no data export)
-- Access tiers:
-  - **Permanent access** (CNAM-approved standing committees): e.g. EPI-PHARE
-  - **Project access**: requires CNIL authorisation + CESREES opinion for sensitive
-    projects; INDS pathway
-  - **Simplified access** for pre-approved uses (public health agencies, HAS)
+- **Authorized research access** via the [[04_Governance/Health Data Hub\|Health Data Hub]] Datalab (secure processing environment; no data export)
+- Access tiers: **Permanent access** (CNAM-approved standing committees, e.g. EPI-PHARE); **Project access** (requires CNIL authorisation + CESREES opinion for sensitive projects; INDS pathway); **Simplified access** for pre-approved uses (public health agencies, HAS)
 - Data is pseudonymised (not anonymised); individual-level re-identification is prohibited
 
 ## Coding and Terminologies
@@ -44,8 +32,7 @@ governed and made accessible via the [[04_Governance/Health Data Hub\|Health Dat
 - [[02_Standards/OMOP CDM\|OMOP CDM]] — HDH transforms SNDS extracts to OMOP for federated research
 - [[02_Standards/HL7 FHIR\|HL7 FHIR]] — ANS-mandated interoperability profiles for future EHDS alignment
 - [[02_Standards/DCAT\|DCAT]] / [[02_Standards/Dublin Core\|Dublin Core]] — dataset catalogue metadata for discoverability
-- [[04_Governance/EHDS\|EHDS]] — SNDS is designated as the primary dataset for France's EHDS obligations;
-  HDH is France's candidate HDAB (Health Data Access Body)
+- [[04_Governance/EHDS\|EHDS]] — SNDS is designated as the primary dataset for France's EHDS obligations; HDH is France's candidate HDAB (Health Data Access Body)
 
 ## Connections
 - Hosted and governed by: [[04_Governance/Health Data Hub\|Health Data Hub]]
@@ -53,8 +40,7 @@ governed and made accessible via the [[04_Governance/Health Data Hub\|Health Dat
 - Standards: [[02_Standards/ICD-10\|ICD-10]], [[02_Standards/CCAM\|CCAM]], [[02_Standards/OMOP CDM\|OMOP CDM]], [[02_Standards/HL7 FHIR\|HL7 FHIR]], [[02_Standards/LOINC\|LOINC]], [[02_Standards/ORDO\|ORDO]]
 - European context: [[04_Governance/EHDS\|EHDS]], [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[04_Governance/EOSC\|EOSC]]
 - French governance: [[04_Governance/ANS\|ANS]], [[04_Governance/Ouvrir la Science\|Ouvrir la Science]], [[04_Governance/Code de la Sante Publique\|Code de la Sante Publique]]
-- Relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]: population-scale neurology and psychiatry
-  cohorts, linkage with CENIR neuroimaging, AP-HP clinical data, pharmacoepidemiology
+- Relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]: population-scale neurology and psychiatry cohorts, linkage with CENIR neuroimaging, AP-HP clinical data, pharmacoepidemiology
 
 ## Resources
 - https://www.health-data-hub.fr/page/acces-aux-donnees-du-snds

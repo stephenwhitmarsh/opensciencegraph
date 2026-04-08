@@ -6,9 +6,7 @@
 # NeuroVault
 
 ## Overview
-NeuroVault is a public repository for sharing unthresholded statistical maps,
-parcellations, and atlases from neuroimaging studies. Enables replication and
-meta-analysis via Neurosynth integration, complementing [[03_Platforms/OpenNeuro\|OpenNeuro]] (raw data).
+NeuroVault is a public repository for sharing unthresholded statistical maps, parcellations, and atlases from neuroimaging studies. It enables replication and meta-analysis via Neurosynth integration, complementing [[03_Platforms/OpenNeuro\|OpenNeuro]] (raw data).
 
 ## Connections
 - Standards: [[02_Standards/BIDS\|BIDS]], [[02_Standards/NIDM\|NIDM]]
@@ -17,4 +15,3 @@ meta-analysis via Neurosynth integration, complementing [[03_Platforms/OpenNeuro
 
 ## Resources
 - https://neurovault.org
-

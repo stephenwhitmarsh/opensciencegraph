@@ -6,25 +6,12 @@
 # dbGaP — Database of Genotypes and Phenotypes
 
 ## Overview
-The Database of Genotypes and Phenotypes (dbGaP) is the NIH repository for
-controlled-access human genomic and phenotypic data from studies investigating
-the relationship between genotype and phenotype — particularly genome-wide
-association studies (GWAS), sequencing studies, and epidemiological cohorts.
-Operated by NCBI/NIH, it is the US counterpart to the European [[03_Platforms/EGA\|EGA]] for
-controlled-access genomic research data.
+The Database of Genotypes and Phenotypes (dbGaP) is the NIH repository for controlled-access human genomic and phenotypic data from studies investigating the relationship between genotype and phenotype — particularly genome-wide association studies (GWAS), sequencing studies, and epidemiological cohorts. Operated by NCBI/NIH, it is the US counterpart to the European [[03_Platforms/EGA\|EGA]] for controlled-access genomic research data.
 
-dbGaP hosts data from major NIH-funded neurological and psychiatric research
-initiatives including ADSP (Alzheimer's Disease Sequencing Project), ABCD Study,
-UK Biobank-linked studies, and numerous GWAS for neurological diseases.
+dbGaP hosts data from major NIH-funded neurological and psychiatric research initiatives including ADSP (Alzheimer's Disease Sequencing Project), ABCD Study, UK Biobank-linked studies, and numerous GWAS for neurological diseases.
 
 ## Access Model
-dbGaP uses a **controlled-access model** managed by NIH:
-- **Open access** — aggregate-level summary statistics and metadata are freely
-  accessible without approval
-- **Controlled access** — individual-level genotype and phenotype data requires
-  a Data Access Request (DAR) approved by the relevant Data Access Committee (DAC)
-- Access requests are submitted through NIH's eRA Commons system
-- Approved researchers receive dbGaP data via the SRA Toolkit or cloud platforms
+dbGaP uses a **controlled-access model** managed by NIH: **open access** — aggregate-level summary statistics and metadata are freely accessible without approval; **controlled access** — individual-level genotype and phenotype data requires a Data Access Request (DAR) approved by the relevant Data Access Committee (DAC). Access requests are submitted through NIH's eRA Commons system. Approved researchers receive dbGaP data via the SRA Toolkit or cloud platforms.
 
 ## Key Neuroscience Datasets
 Notable neurological/psychiatric datasets hosted in dbGaP:
@@ -35,12 +22,7 @@ Notable neurological/psychiatric datasets hosted in dbGaP:
 - **UK Biobank GWAS** — neuroimaging and cognitive GWAS summary statistics
 
 ## Relationship to Other Repositories
-dbGaP is the NIH-primary controlled-access repository, complementing:
-- **[[03_Platforms/NCBI GEO\|NCBI GEO]]** — open-access gene expression data (GEO hosts open data;
-  dbGaP hosts controlled-access)
-- **[[03_Platforms/EGA\|EGA]]** — European equivalent for controlled-access genomics
-- **[[03_Platforms/DDBJ\|DDBJ]]** — Japanese partner for sequence data (INSDC member)
-- **SRA** — raw sequencing reads linked from dbGaP studies
+dbGaP is the NIH-primary controlled-access repository, complementing: **[[03_Platforms/NCBI GEO\|NCBI GEO]]** — open-access gene expression data (GEO hosts open data; dbGaP hosts controlled-access); **[[03_Platforms/EGA\|EGA]]** — European equivalent for controlled-access genomics; **[[03_Platforms/DDBJ\|DDBJ]]** — Japanese partner for sequence data (INSDC member); and **SRA** — raw sequencing reads linked from dbGaP studies.
 
 ## Connections
 - Operated by: NCBI / NIH
@@ -49,8 +31,7 @@ dbGaP is the NIH-primary controlled-access repository, complementing:
 - Standards: [[02_Standards/VCF\|VCF]], [[01_Actors/GA4GH\|GA4GH]] (Beacon, DRS), [[02_Standards/Phenopackets\|Phenopackets]]
 - Uses: [[02_Standards/SNOMED CT\|SNOMED CT]], [[02_Standards/HPO\|HPO]] for phenotype annotation
 - Part of: INSDC data sharing ecosystem (with [[03_Platforms/DDBJ\|DDBJ]], ENA)
-- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (access to ADSP, ENIGMA GWAS;
-  deposition of neurogenomics data from international collaborations)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (access to ADSP, ENIGMA GWAS; deposition of neurogenomics data from international collaborations)
 
 ## Resources
 - https://dbgap.ncbi.nlm.nih.gov

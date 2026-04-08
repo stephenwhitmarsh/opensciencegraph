@@ -6,9 +6,7 @@
 # ReproNim - Reproducible Neuroimaging
 
 ## Overview
-ReproNim is a NIH-funded centre dedicated to improving reproducibility in neuroimaging
-through tools, training, and standards. It builds on [[02_Standards/BIDS\|BIDS]] and [[02_Standards/NIDM\|NIDM]] to enable
-provenance tracking and computational re-executability across studies.
+ReproNim is a NIH-funded centre dedicated to improving reproducibility in neuroimaging through tools, training, and standards. It builds on [[02_Standards/BIDS\|BIDS]] and [[02_Standards/NIDM\|NIDM]] to enable provenance tracking and computational re-executability across studies.
 
 ## Standards Developed
 - [[02_Standards/NIDM\|NIDM]] — primary development home
@@ -26,4 +24,3 @@ provenance tracking and computational re-executability across studies.
 
 ## Resources
 - https://www.repronim.org
-

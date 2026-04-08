@@ -6,10 +6,7 @@
 # ENIGMA Consortium
 
 ## Overview
-ENIGMA conducts coordinated neuroimaging and genetics studies across 45+ working
-groups and hundreds of sites using federated meta-analysis: sites share derived
-statistics rather than raw data, enabling population-scale power while preserving
-privacy. [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] participates in multiple working groups.
+ENIGMA conducts coordinated neuroimaging and genetics studies across 45+ working groups and hundreds of sites using federated meta-analysis: sites share derived statistics rather than raw data, enabling population-scale power while preserving privacy. [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] participates in multiple working groups.
 
 ## Key Outputs
 - 200+ publications on brain structure in psychiatric and neurological disorders
@@ -25,4 +22,3 @@ privacy. [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] participates
 
 ## Resources
 - https://enigma.ini.usc.edu
-

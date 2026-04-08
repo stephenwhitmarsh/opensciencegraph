@@ -6,14 +6,11 @@
 # AP-HP - Assistance Publique Hopitaux de Paris
 
 ## Overview
-AP-HP is the largest hospital system in Europe (39 hospitals, 100,000+ staff) and
-a founding partner of [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] via Pitie-Salpetriere Hospital.
-It operates the EDS AP-HP clinical data warehouse ([[02_Standards/OMOP CDM\|OMOP CDM]]) and is a major
-contributor to [[04_Governance/Health Data Hub\|Health Data Hub]].
+AP-HP is the largest hospital system in Europe (39 hospitals, 100,000+ staff) and a founding partner of [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] via Pitié-Salpêtrière Hospital. It operates the EDS AP-HP clinical data warehouse ([[02_Standards/OMOP CDM\|OMOP CDM]]) and is a major contributor to [[04_Governance/Health Data Hub\|Health Data Hub]].
 
 ## Key Infrastructure
-- EDS AP-HP - Entrepot de Donnees de Sante (OMOP CDM-based clinical data warehouse)
-- CDW-AP-HP - [[04_Governance/i2b2\|i2b2]]-based clinical data warehouse
+- EDS AP-HP — Entrepôt de Données de Santé (OMOP CDM-based clinical data warehouse)
+- CDW-AP-HP — [[04_Governance/i2b2\|i2b2]]-based clinical data warehouse
 - Biological resource centres (biobanks)
 - REDCap network for clinical trial data collection
 - CIC Neurosciences (at [[01_Actors/Paris Brain Institute\|Paris Brain Institute]])
@@ -26,11 +23,9 @@ contributor to [[04_Governance/Health Data Hub\|Health Data Hub]].
 - Adverse events: [[02_Standards/MedDRA\|MedDRA]] (clinical trials)
 
 ## Connections
-- French: [[04_Governance/Health Data Hub\|Health Data Hub]], [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[04_Governance/CATI\|CATI]],
-  [[04_Governance/Inserm Open Science\|Inserm Open Science]], [[04_Governance/data.gouv.fr\|data.gouv.fr]]
+- French: [[04_Governance/Health Data Hub\|Health Data Hub]], [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[04_Governance/CATI\|CATI]], [[04_Governance/Inserm Open Science\|Inserm Open Science]], [[04_Governance/data.gouv.fr\|data.gouv.fr]]
 - European: [[04_Governance/ECRIN\|ECRIN]], [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]]
 
 ## Resources
 - https://www.aphp.fr
 - https://eds.aphp.fr
-

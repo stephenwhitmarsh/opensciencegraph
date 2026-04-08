@@ -9,10 +9,7 @@
 - [[04_Governance/FAIR Principles\|FAIR Principles]] — FAIR Data Maturity Model Working Group output
 
 ## Overview
-RDA builds social and technical infrastructure for open data sharing through
-community Working Groups and Interest Groups producing concrete outputs in 18-month
-cycles. The [[04_Governance/RDA Neuroscience IG\|RDA Neuroscience IG]] connects RDA to brain data standards.
-French national node via [[04_Governance/CNRS Open Science\|CNRS Open Science]].
+RDA builds social and technical infrastructure for open data sharing through community Working Groups and Interest Groups producing concrete outputs in 18-month cycles. The [[04_Governance/RDA Neuroscience IG\|RDA Neuroscience IG]] connects RDA to brain data standards. French national node via [[04_Governance/CNRS Open Science\|CNRS Open Science]].
 
 ## Relevant Groups for Neuroscience
 - [[04_Governance/RDA Neuroscience IG\|RDA Neuroscience IG]]

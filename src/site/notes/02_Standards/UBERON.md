@@ -6,25 +6,13 @@
 # UBERON — Uber Anatomy Ontology
 
 ## Overview
-UBERON is a cross-species integrated anatomy ontology covering body parts,
-organs, tissues, and anatomical structures from multiple organisms. It is the
-standard for anatomical annotation in the OBO Foundry ecosystem and is deeply
-relevant to neuroscience because of its detailed **brain region coverage**:
-UBERON provides species-neutral terms that bridge mouse brain atlas regions
-(Allen Mouse Brain Atlas) with human neuroimaging parcellations, enabling
-cross-species comparisons. This is exactly the role it plays on
-[[03_Platforms/EBRAINS\|EBRAINS]] — annotating datasets from mouse electrophysiology and human MRI
-with a common anatomical vocabulary.
+UBERON is a cross-species integrated anatomy ontology covering body parts, organs, tissues, and anatomical structures from multiple organisms. It is the standard for anatomical annotation in the OBO Foundry ecosystem and is deeply relevant to neuroscience because of its detailed **brain region coverage**: UBERON provides species-neutral terms that bridge mouse brain atlas regions (Allen Mouse Brain Atlas) with human neuroimaging parcellations, enabling cross-species comparisons. This is exactly the role it plays on [[03_Platforms/EBRAINS\|EBRAINS]] — annotating datasets from mouse electrophysiology and human MRI with a common anatomical vocabulary.
 
 ## Neuroscience Relevance
-- **Cross-species brain region terms** — e.g. UBERON:0001384 (primary motor cortex)
-  applies to both rodent and human data, enabling comparison
-- **Bridges atlas systems** — links Allen Brain Atlas CCF regions, human MNI
-  parcellations (AAL, Brodmann areas), and primate brain regions
-- **NWB integration** — [[02_Standards/NWB\|NWB]] uses UBERON for brain region annotation in
-  electrophysiology datasets
-- **EBRAINS** — [[03_Platforms/EBRAINS\|EBRAINS]] openMINDS schemas use UBERON for brain region
-  annotation in multimodal neuroscience datasets
+- **Cross-species brain region terms** — e.g. UBERON:0001384 (primary motor cortex) applies to both rodent and human data, enabling comparison
+- **Bridges atlas systems** — links Allen Brain Atlas CCF regions, human MNI parcellations (AAL, Brodmann areas), and primate brain regions
+- **NWB integration** — [[02_Standards/NWB\|NWB]] uses UBERON for brain region annotation in electrophysiology datasets
+- **EBRAINS** — [[03_Platforms/EBRAINS\|EBRAINS]] openMINDS schemas use UBERON for brain region annotation in multimodal neuroscience datasets
 - **IBL** — the Brain Wide Map uses UBERON-aligned region definitions
 
 ## Key Brain Structure Examples
@@ -38,8 +26,7 @@ with a common anatomical vocabulary.
 | UBERON:0001133 | Cerebral cortex |
 
 ## Connections
-- Used in: [[03_Platforms/EBRAINS\|EBRAINS]] (openMINDS schemas), [[02_Standards/NWB\|NWB]] (brain region annotation),
-  [[01_Actors/Allen Institute for Brain Science\|Allen Institute for Brain Science]] (Atlas alignment)
+- Used in: [[03_Platforms/EBRAINS\|EBRAINS]] (openMINDS schemas), [[02_Standards/NWB\|NWB]] (brain region annotation), [[01_Actors/Allen Institute for Brain Science\|Allen Institute for Brain Science]] (Atlas alignment)
 - Complements: [[02_Standards/Cognitive Atlas\|Cognitive Atlas]] (cognitive processes), [[02_Standards/HED\|HED]] (events)
 - Part of: OBO Foundry (alongside [[02_Standards/HPO\|HPO]], [[02_Standards/MONDO\|MONDO]], [[02_Standards/ORDO\|ORDO]])
 - Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/IBL\|IBL]], [[01_Actors/Human Connectome Project\|Human Connectome Project]]

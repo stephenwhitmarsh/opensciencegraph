@@ -6,10 +6,7 @@
 # CONP - Canadian Open Neuroscience Platform
 
 ## Overview
-CONP is the Canadian infrastructure for open neuroscience data sharing, providing
-a federated portal aggregating datasets from Canadian and international sources
-including [[03_Platforms/OpenNeuro\|OpenNeuro]], all in [[02_Standards/BIDS\|BIDS]] format and managed via DataLad for
-version control and reproducibility.
+CONP is the Canadian infrastructure for open neuroscience data sharing, providing a federated portal aggregating datasets from Canadian and international sources including [[03_Platforms/OpenNeuro\|OpenNeuro]], all in [[02_Standards/BIDS\|BIDS]] format and managed via DataLad for version control and reproducibility.
 
 ## Key Features
 - CONP Portal for dataset discovery and access
@@ -24,4 +21,3 @@ version control and reproducibility.
 ## Resources
 - https://conp.ca
 - https://portal.conp.ca
-

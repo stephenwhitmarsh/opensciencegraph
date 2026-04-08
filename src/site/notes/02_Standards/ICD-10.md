@@ -6,13 +6,7 @@
 # ICD-10 / CIM-10 — International Classification of Diseases, 10th Revision
 
 ## Overview
-ICD-10 is the WHO standard classification of diseases, health conditions, and
-causes of death, used worldwide for clinical coding, epidemiology, and health
-statistics. The French translation **CIM-10** (Classification Internationale
-des Maladies, 10e révision) is the coding system used in all French national
-health data systems — making it the primary disease terminology in the
-[[04_Governance/Health Data Hub\|Health Data Hub]] SNDS and all [[04_Governance/AP-HP\|AP-HP]] hospital billing data. Any cohort
-built from French health data will use CIM-10 codes.
+ICD-10 is the WHO standard classification of diseases, health conditions, and causes of death, used worldwide for clinical coding, epidemiology, and health statistics. The French translation **CIM-10** (Classification Internationale des Maladies, 10e révision) is the coding system used in all French national health data systems — making it the primary disease terminology in the [[04_Governance/Health Data Hub\|Health Data Hub]] SNDS and all [[04_Governance/AP-HP\|AP-HP]] hospital billing data. Any cohort built from French health data will use CIM-10 codes.
 
 ## Key Neurological Codes
 | Code range | Domain |

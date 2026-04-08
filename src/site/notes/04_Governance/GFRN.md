@@ -6,16 +6,9 @@
 # Global Federation of Reproducibility Networks
 
 ## Overview
-The Global Federation of Reproducibility Networks (GFRN) is an international
-consortium of national and regional reproducibility networks working to improve
-the rigour, transparency, and reproducibility of scientific research. Founded
-in 2019, it brings together national networks from across the world under a
-shared framework of promoting open science practices, methodological training,
-and research culture change.
+The Global Federation of Reproducibility Networks (GFRN) is an international consortium of national and regional reproducibility networks working to improve the rigour, transparency, and reproducibility of scientific research. Founded in 2019, it brings together national networks from across the world under a shared framework of promoting open science practices, methodological training, and research culture change.
 
-The French national network — the **Réseau Français de la Recherche Reproductible
-(RFRR)** (https://www.recherche-reproductible.fr) — is the GFRN member most
-directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] and French neuroscience.
+The French national network — the **Réseau Français de la Recherche Reproductible (RFRR)** (https://www.recherche-reproductible.fr) — is the GFRN member most directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] and French neuroscience.
 
 ## Member Networks
 GFRN currently includes national networks from:
@@ -36,8 +29,7 @@ The French network (https://www.recherche-reproductible.fr) focuses on:
 - Interface with [[04_Governance/Ouvrir la Science\|Ouvrir la Science]] policy framework
 
 ## Core Activities Across GFRN
-- **ReproducibiliTea journal clubs** — grassroots open science discussion
-  groups at universities worldwide
+- **ReproducibiliTea journal clubs** — grassroots open science discussion groups at universities worldwide
 - **Open research communities** — local networks at individual institutions
 - **Trainer training** — training the trainers in reproducibility methods
 - **Policy advocacy** — engagement with funders and publishers on open science

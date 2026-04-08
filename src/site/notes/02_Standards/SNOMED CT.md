@@ -6,37 +6,23 @@
 # SNOMED CT — Systematized Nomenclature of Medicine Clinical Terms
 
 ## Overview
-SNOMED CT is the world's most comprehensive and widely used clinical healthcare
-terminology, maintained by SNOMED International (an international non-profit
-organisation). It contains over 350,000 active concepts covering diseases,
-clinical findings, procedures, body structures, substances, organisms, and
-observable entities — all described with formal, machine-readable definitions
-and organised in a polyhierarchical structure.
+SNOMED CT is the world's most comprehensive and widely used clinical healthcare terminology, maintained by SNOMED International (an international non-profit organisation). It contains over 350,000 active concepts covering diseases, clinical findings, procedures, body structures, substances, organisms, and observable entities — all described with formal, machine-readable definitions and organised in a polyhierarchical structure.
 
-SNOMED CT is the core clinical terminology for [[02_Standards/OMOP CDM\|OMOP CDM]], [[02_Standards/HL7 FHIR\|HL7 FHIR]],
-and [[02_Standards/openEHR\|openEHR]], making it the foundational vocabulary layer for health data
-interoperability globally. France joined SNOMED International in 2023, enabling
-French health organisations including [[04_Governance/AP-HP\|AP-HP]] to use SNOMED CT under the
-international licence — directly relevant to the [[04_Governance/Health Data Hub\|Health Data Hub]] and [[04_Governance/EHDS\|EHDS]]
-ecosystem.
+SNOMED CT is the core clinical terminology for [[02_Standards/OMOP CDM\|OMOP CDM]], [[02_Standards/HL7 FHIR\|HL7 FHIR]], and [[02_Standards/openEHR\|openEHR]], making it the foundational vocabulary layer for health data interoperability globally. France joined SNOMED International in 2023, enabling French health organisations including [[04_Governance/AP-HP\|AP-HP]] to use SNOMED CT under the international licence — directly relevant to the [[04_Governance/Health Data Hub\|Health Data Hub]] and [[04_Governance/EHDS\|EHDS]] ecosystem.
 
 ## History
 - **1965** — SNOMED precursor (SNOP) created by the College of American Pathologists
-- **1999** — SNOMED CT created by merger of SNOMED RT (College of American Pathologists)
-  and Clinical Terms Version 3 (NHS UK)
+- **1999** — SNOMED CT created by merger of SNOMED RT (College of American Pathologists) and Clinical Terms Version 3 (NHS UK)
 - **2007** — SNOMED International (then IHTSDO) established as international governing body
 - **2010+** — Adopted as mandatory terminology in UK, US, Australia, Canada, Nordic countries
 - **2023** — France joins SNOMED International; ANS coordinates French National Release Centre
 
 ## Concept Model
-SNOMED CT uses a **description logic** model in which every concept is formally defined
-by its relationships to other concepts:
+SNOMED CT uses a **description logic** model in which every concept is formally defined by its relationships to other concepts:
 
 - **Concepts** — uniquely identified by a SCTID (e.g. `73211009` = Diabetes mellitus)
-- **Descriptions** — human-readable names for concepts (Fully Specified Name, Preferred Term,
-  Synonyms)
-- **Relationships** — typed semantic links between concepts (IS-A for hierarchy, attribute
-  relationships for clinical meaning)
+- **Descriptions** — human-readable names for concepts (Fully Specified Name, Preferred Term, Synonyms)
+- **Relationships** — typed semantic links between concepts (IS-A for hierarchy, attribute relationships for clinical meaning)
 
 Key concept hierarchies relevant to neuroscience:
 - **Clinical finding** (404684003) — diseases, symptoms, signs; includes all neurological disorders
@@ -50,8 +36,7 @@ Key concept hierarchies relevant to neuroscience:
 - French National Release provides French-language translations and France-specific extensions
 - Mandated for use in French EHR systems under the ANS interoperability framework
 - [[04_Governance/AP-HP\|AP-HP]] EDS (Entrepôt de Données de Santé) maps clinical data to SNOMED CT
-- [[02_Standards/OMOP CDM\|OMOP CDM]] deployments at [[04_Governance/Health Data Hub\|Health Data Hub]] use SNOMED CT as the primary
-  condition and procedure vocabulary (via Athena)
+- [[02_Standards/OMOP CDM\|OMOP CDM]] deployments at [[04_Governance/Health Data Hub\|Health Data Hub]] use SNOMED CT as the primary condition and procedure vocabulary (via Athena)
 
 ## Role in the Data Ecosystem
 
@@ -72,8 +57,7 @@ Key concept hierarchies relevant to neuroscience:
 - Harmonised by: [[02_Standards/MONDO\|MONDO]] (SNOMED disease concepts integrated into unified ontology)
 - Related: [[02_Standards/HPO\|HPO]] (phenotype layer — more granular for rare disease genomics)
 - French coordination: ANS (Agence du Numérique en Santé) — NRC France
-- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (OMOP CDM clinical data standardisation,
-  AP-HP EDS linkage, EHDS compliance)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (OMOP CDM clinical data standardisation, AP-HP EDS linkage, EHDS compliance)
 
 ## Resources
 - https://www.snomed.org

@@ -9,8 +9,7 @@
 - [[02_Standards/NWB\|NWB]] — specification and NDX extension process
 
 ## Overview
-The NWB Working Group governs the [[02_Standards/NWB\|NWB]] standard specification and the NWB
-Data Extensions (NDX) process under the oversight of [[01_Actors/INCF\|INCF]].
+The NWB Working Group governs the [[02_Standards/NWB\|NWB]] standard specification and the NWB Data Extensions (NDX) process under the oversight of [[01_Actors/INCF\|INCF]].
 
 ## Connections
 - Governs: [[02_Standards/NWB\|NWB]]

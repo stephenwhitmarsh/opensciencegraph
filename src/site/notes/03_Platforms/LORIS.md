@@ -6,9 +6,7 @@
 # LORIS - Longitudinal Online Research and Imaging System
 
 ## Overview
-LORIS is an open-source web-based data management system for neuroimaging and
-clinical research, supporting multisite longitudinal studies from DICOM ingestion
-through QC, [[02_Standards/BIDS\|BIDS]] conversion, and public release. Used in [[01_Actors/ADNI\|ADNI]] and [[01_Actors/CONP\|CONP]].
+LORIS is an open-source web-based data management system for neuroimaging and clinical research, supporting multisite longitudinal studies from DICOM ingestion through QC, [[02_Standards/BIDS\|BIDS]] conversion, and public release. Used in [[01_Actors/ADNI\|ADNI]] and [[01_Actors/CONP\|CONP]].
 
 ## Connections
 - Standards: [[02_Standards/BIDS\|BIDS]], [[02_Standards/DICOM\|DICOM]], [[02_Standards/CDISC\|CDISC]]
@@ -17,4 +15,3 @@ through QC, [[02_Standards/BIDS\|BIDS]] conversion, and public release. Used in 
 
 ## Resources
 - https://loris.ca
-

@@ -6,14 +6,7 @@
 # HPO - Human Phenotype Ontology
 
 ## Overview
-The Human Phenotype Ontology is the standard controlled vocabulary for describing
-human disease phenotypes — abnormal morphological, physiological, and behavioural
-features — in a machine-readable, hierarchically organised format. With 18,000+
-terms covering all organ systems including the nervous system, HPO is the primary
-phenotype language for rare disease genomics globally. It is directly integrated
-into [[02_Standards/Phenopackets\|Phenopackets]] and is used by virtually every rare disease gene discovery
-programme, including neurological disease cohorts relevant to
-[[01_Actors/Paris Brain Institute\|Paris Brain Institute]].
+The Human Phenotype Ontology is the standard controlled vocabulary for describing human disease phenotypes — abnormal morphological, physiological, and behavioural features — in a machine-readable, hierarchically organised format. With 18,000+ terms covering all organ systems including the nervous system, HPO is the primary phenotype language for rare disease genomics globally. It is directly integrated into [[02_Standards/Phenopackets\|Phenopackets]] and is used by virtually every rare disease gene discovery programme, including neurological disease cohorts relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]].
 
 ## Created / Governed By
 - The Jackson Laboratory (JAX) and the Monarch Initiative — primary development
@@ -22,18 +15,13 @@ programme, including neurological disease cohorts relevant to
 
 ## Key Features
 - 18,000+ terms organised in a directed acyclic graph (DAG) hierarchy
-- Covers all organ systems; neurology/psychiatry terms are especially rich
-  (e.g. seizure types, cognitive phenotypes, movement disorders, dementia)
+- Covers all organ systems; neurology/psychiatry terms are especially rich (e.g. seizure types, cognitive phenotypes, movement disorders, dementia)
 - Linked to OMIM, Orphanet, ClinVar, and DECIPHER disease databases
 - Available in OWL and OBO formats for computational use
 - Updated monthly; versioned releases with stable term identifiers (HP:XXXXXXX)
 
 ## Neuroscience Relevance
-HPO's neurological and psychiatric sub-ontologies are among the most detailed,
-covering terms for epilepsy, intellectual disability, autism spectrum, cerebellar
-ataxia, movement disorders, dementia, white matter abnormalities, and more.
-These terms are essential for phenotype-driven gene discovery and patient
-stratification in rare neurology.
+HPO's neurological and psychiatric sub-ontologies are among the most detailed, covering terms for epilepsy, intellectual disability, autism spectrum, cerebellar ataxia, movement disorders, dementia, white matter abnormalities, and more. These terms are essential for phenotype-driven gene discovery and patient stratification in rare neurology.
 
 ## Connections
 - Integrated into: [[02_Standards/Phenopackets\|Phenopackets]] (primary phenotype vocabulary)

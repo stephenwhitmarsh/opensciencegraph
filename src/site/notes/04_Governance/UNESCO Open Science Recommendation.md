@@ -6,16 +6,9 @@
 # UNESCO Recommendation on Open Science (2021)
 
 ## Overview
-The UNESCO Recommendation on Open Science was adopted by UNESCO Member States
-in November 2021 at the 41st General Conference. It is the **first international
-normative instrument on open science**, providing a common definition, shared
-values, guiding principles, and areas of action for open science policy globally.
-As a UNESCO Recommendation (rather than a Convention), it is not legally binding
-but represents strong political commitment from 193 member states and provides
-a framework for national open science policy development.
+The UNESCO Recommendation on Open Science was adopted by UNESCO Member States in November 2021 at the 41st General Conference. It is the **first international normative instrument on open science**, providing a common definition, shared values, guiding principles, and areas of action for open science policy globally. As a UNESCO Recommendation (rather than a Convention), it is not legally binding but represents strong political commitment from 193 member states and provides a framework for national open science policy development.
 
-The Recommendation directly influenced and aligns with [[04_Governance/Ouvrir la Science\|Ouvrir la Science]]
-(France), [[04_Governance/EC Open Science Policy\|EC Open Science Policy]] (EU), and other national open science plans.
+The Recommendation directly influenced and aligns with [[04_Governance/Ouvrir la Science\|Ouvrir la Science]] (France), [[04_Governance/EC Open Science Policy\|EC Open Science Policy]] (EU), and other national open science plans.
 
 ## Four Pillars
 The Recommendation defines open science across four interconnected pillars:
@@ -55,18 +48,15 @@ The Recommendation provides the internationally agreed definition of open scienc
 
 ## Implementation
 - UNESCO monitors implementation through biennial reports from member states
-- **Global Open Science Conference** — UNESCO convenes regular ministerial-level
-  meetings on open science implementation
+- **Global Open Science Conference** — UNESCO convenes regular ministerial-level meetings on open science implementation
 - France reports implementation via [[04_Governance/CoSO\|CoSO]] and the [[04_Governance/Barometre Science Ouverte\|Barometre Science Ouverte]]
-- The Recommendation explicitly endorses [[04_Governance/FAIR Principles\|FAIR Principles]] as the technical
-  framework for open research data
+- The Recommendation explicitly endorses [[04_Governance/FAIR Principles\|FAIR Principles]] as the technical framework for open research data
 
 ## Connections
 - Aligns with: [[04_Governance/FAIR Principles\|FAIR Principles]], [[04_Governance/Ouvrir la Science\|Ouvrir la Science]], [[04_Governance/EC Open Science Policy\|EC Open Science Policy]]
 - French implementation: [[04_Governance/CoSO\|CoSO]], [[04_Governance/Ouvrir la Science\|Ouvrir la Science]], [[04_Governance/Barometre Science Ouverte\|Barometre Science Ouverte]]
 - Partners: [[04_Governance/GO FAIR\|GO FAIR]], [[04_Governance/EOSC\|EOSC]], [[04_Governance/OpenAIRE\|OpenAIRE]], [[04_Governance/RDA\|RDA]]
-- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (provides normative framework for ICM
-  open science commitments; referenced in CNRS/Inserm open science policies)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (provides normative framework for ICM open science commitments; referenced in CNRS/Inserm open science policies)
 
 ## Resources
 - https://www.unesco.org/en/open-science

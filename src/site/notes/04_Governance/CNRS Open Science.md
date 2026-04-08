@@ -16,9 +16,7 @@
 - [[04_Governance/France BioImaging\|France BioImaging]] — French microscopy infrastructure
 
 ## Overview
-CNRS is the primary research partner of [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] and operates
-the French national nodes of [[01_Actors/INCF\|INCF]], [[04_Governance/RDA\|RDA]], and [[04_Governance/GO FAIR\|GO FAIR]]. Its open science
-policy mandates DMPs, open access via HAL-CNRS, and FAIR data via [[03_Platforms/Recherche Data Gouv\|Recherche Data Gouv]].
+CNRS is the primary research partner of [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] and operates the French national nodes of [[01_Actors/INCF\|INCF]], [[04_Governance/RDA\|RDA]], and [[04_Governance/GO FAIR\|GO FAIR]]. Its open science policy mandates DMPs, open access via HAL-CNRS, and FAIR data via [[03_Platforms/Recherche Data Gouv\|Recherche Data Gouv]].
 
 ## Connections
 - Implements: [[04_Governance/Ouvrir la Science\|Ouvrir la Science]]
@@ -29,4 +27,3 @@ policy mandates DMPs, open access via HAL-CNRS, and FAIR data via [[03_Platforms
 
 ## Resources
 - https://www.cnrs.fr/fr/cnrsinfo/la-science-ouverte-au-cnrs
-

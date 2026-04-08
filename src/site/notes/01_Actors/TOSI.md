@@ -6,23 +6,15 @@
 # TOSI - Tanenbaum Open Science Institute
 
 ## Overview
-TOSI is the open science institute at The Neuro (Montreal Neurological Institute-Hospital,
-McGill University), established in 2016 with a $20M gift from the Larry and Judy Tanenbaum
-family. It was the first institute in the world to formally adopt Open Science as a core
-institutional value. TOSI's mission is to establish open science best practices within
-The Neuro and to build a growing alliance of Canadian neuroscience research institutes
-committed to open science principles. It is directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
-as a peer institution and model for open science implementation.
+TOSI is the open science institute at The Neuro (Montreal Neurological Institute-Hospital, McGill University), established in 2016 with a $20M gift from the Larry and Judy Tanenbaum family. It was the first institute in the world to formally adopt Open Science as a core institutional value. TOSI's mission is to establish open science best practices within The Neuro and to build a growing alliance of Canadian neuroscience research institutes committed to open science principles. It is directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] as a peer institution and model for open science implementation.
 
 ## Key Activities
 - Open Science Principles framework — developed and exported to partner institutes
 - Open Science Support and Partnership Framework — guides other institutes through adoption
-- C-BIG Repository — open multimodal biobank (brain imaging, clinical, genetic, cell data)
-  running on [[03_Platforms/LORIS\|LORIS]]
+- C-BIG Repository — open multimodal biobank (brain imaging, clinical, genetic, cell data) running on [[03_Platforms/LORIS\|LORIS]]
 - Brainstorm — open-source MEG/EEG analysis software developed at The Neuro
 - Open Science Grants — annual internal funding for open science projects at The Neuro
-- Neuro–Irv and Helga Cooper Foundation Open Science Prizes — $100K CAD annual
-  international awards for open science contributions in neuroscience
+- Neuro–Irv and Helga Cooper Foundation Open Science Prizes — $100K CAD annual international awards for open science contributions in neuroscience
 - Open Science Office Hours — peer support and training for researchers and trainees
 
 ## Canadian Open Science Alliance (TOSI Partners)

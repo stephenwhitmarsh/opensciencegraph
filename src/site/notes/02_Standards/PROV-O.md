@@ -6,15 +6,7 @@
 # PROV-O — W3C Provenance Ontology
 
 ## Overview
-PROV-O is the W3C standard ontology for representing **provenance** — the
-documented history of how a piece of data was created, by whom, using what
-process, and from which inputs. Published as a W3C Recommendation in 2013,
-it provides a minimal but powerful vocabulary for recording data lineage in
-a machine-readable, interoperable way. PROV-O is the foundation on which
-[[02_Standards/NIDM\|NIDM]] (Neuroimaging Data Model) is built: NIDM extends PROV-O with
-neuroscience-specific terms to track the full computational history of a
-neuroimaging analysis. DataLad, the distributed data management system used
-by [[03_Platforms/OpenNeuro\|OpenNeuro]] and [[01_Actors/ReproNim\|ReproNim]], also generates PROV-O compatible provenance.
+PROV-O is the W3C standard ontology for representing **provenance** — the documented history of how a piece of data was created, by whom, using what process, and from which inputs. Published as a W3C Recommendation in 2013, it provides a minimal but powerful vocabulary for recording data lineage in a machine-readable, interoperable way. PROV-O is the foundation on which [[02_Standards/NIDM\|NIDM]] (Neuroimaging Data Model) is built: NIDM extends PROV-O with neuroscience-specific terms to track the full computational history of a neuroimaging analysis. DataLad, the distributed data management system used by [[03_Platforms/OpenNeuro\|OpenNeuro]] and [[01_Actors/ReproNim\|ReproNim]], also generates PROV-O compatible provenance.
 
 ## Core Model
 Three fundamental classes:
@@ -28,12 +20,9 @@ Three fundamental classes:
 Key relationships: `wasGeneratedBy`, `used`, `wasAttributedTo`, `wasDerivedFrom`, `wasAssociatedWith`
 
 ## Neuroscience Use Cases
-- **[[02_Standards/NIDM\|NIDM]]** — extends PROV-O to describe neuroimaging experiments, results,
-  and workflows with neuroscience-specific semantics
-- **[[01_Actors/ReproNim\|ReproNim]]** — uses PROV-O via NIDM for reproducibility tracking in
-  neuroimaging pipelines
-- **DataLad** (used by [[03_Platforms/OpenNeuro\|OpenNeuro]], [[01_Actors/CONP\|CONP]]) — generates PROV-O compatible
-  records for dataset version history and pipeline execution
+- **[[02_Standards/NIDM\|NIDM]]** — extends PROV-O to describe neuroimaging experiments, results, and workflows with neuroscience-specific semantics
+- **[[01_Actors/ReproNim\|ReproNim]]** — uses PROV-O via NIDM for reproducibility tracking in neuroimaging pipelines
+- **DataLad** (used by [[03_Platforms/OpenNeuro\|OpenNeuro]], [[01_Actors/CONP\|CONP]]) — generates PROV-O compatible records for dataset version history and pipeline execution
 - **[[04_Governance/EOSC\|EOSC]]** — EOSC data catalogues use PROV-O for provenance metadata
 
 ## Connections

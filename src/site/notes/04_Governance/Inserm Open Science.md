@@ -6,10 +6,7 @@
 # Inserm Open Science
 
 ## Overview
-Inserm is the French national biomedical research institute and a founding partner
-of [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]. Its open science policy aligns with [[04_Governance/Ouvrir la Science\|Ouvrir la Science]]
-and includes governance of [[04_Governance/Health Data Hub\|Health Data Hub]] and the national CIC clinical investigation
-centre network (including at [[04_Governance/AP-HP\|AP-HP]]).
+Inserm is the French national biomedical research institute and a founding partner of [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]. Its open science policy aligns with [[04_Governance/Ouvrir la Science\|Ouvrir la Science]] and includes governance of [[04_Governance/Health Data Hub\|Health Data Hub]] and the national CIC clinical investigation centre network (including at [[04_Governance/AP-HP\|AP-HP]]).
 
 ## Connections
 - Implements: [[04_Governance/Ouvrir la Science\|Ouvrir la Science]]

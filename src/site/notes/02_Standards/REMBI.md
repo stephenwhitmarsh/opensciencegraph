@@ -6,16 +6,7 @@
 # REMBI — Recommended Metadata for Biological Images
 
 ## Overview
-REMBI is a community-developed metadata framework for biological image data,
-published in 2021 (Sarkans et al., *Nature Methods*) as a consensus output of
-a broad working group spanning the BioImage Archive (EMBL-EBI), [[04_Governance/Euro-BioImaging\|Euro-BioImaging]],
-[[01_Actors/OME\|OME]], and the wider bioimaging community. It provides a structured set of
-recommended metadata fields covering study, biosample, specimen, acquisition,
-image data, and image analysis — applicable across all biological microscopy
-modalities. REMBI is the metadata layer used by the BioImage Archive and is
-increasingly adopted by [[04_Governance/QUAREP-LiMi\|QUAREP-LiMi]], [[04_Governance/France BioImaging\|France BioImaging]], and [[01_Actors/OME\|OME]]
-tooling. It is the bioimaging equivalent of the structured metadata that [[02_Standards/BIDS\|BIDS]]
-provides for neuroimaging.
+REMBI is a community-developed metadata framework for biological image data, published in 2021 (Sarkans et al., *Nature Methods*) as a consensus output of a broad working group spanning the BioImage Archive (EMBL-EBI), [[04_Governance/Euro-BioImaging\|Euro-BioImaging]], [[01_Actors/OME\|OME]], and the wider bioimaging community. It provides a structured set of recommended metadata fields covering study, biosample, specimen, acquisition, image data, and image analysis — applicable across all biological microscopy modalities. REMBI is the metadata layer used by the BioImage Archive and is increasingly adopted by [[04_Governance/QUAREP-LiMi\|QUAREP-LiMi]], [[04_Governance/France BioImaging\|France BioImaging]], and [[01_Actors/OME\|OME]] tooling. It is the bioimaging equivalent of the structured metadata that [[02_Standards/BIDS\|BIDS]] provides for neuroimaging.
 
 ## Created / Governed By
 - EMBL-EBI / BioImage Archive — primary development
@@ -38,8 +29,7 @@ provides for neuroimaging.
 - Integrated with: [[02_Standards/OME File Formats\|OME File Formats]] (OME-Zarr RO-Crate metadata)
 - Aligned with: [[04_Governance/QUAREP-LiMi\|QUAREP-LiMi]] (QC metadata), [[04_Governance/GT-GeDeM\|GT-GeDeM]] (DMP guidelines)
 - Complements: [[02_Standards/BIDS\|BIDS]] (BIDS has a microscopy BEP building on REMBI concepts)
-- Relevant to: [[04_Governance/France BioImaging\|France BioImaging]], [[01_Actors/Institut Pasteur\|Institut Pasteur]], [[01_Actors/Institut Curie\|Institut Curie]],
-  [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (microscopy data management)
+- Relevant to: [[04_Governance/France BioImaging\|France BioImaging]], [[01_Actors/Institut Pasteur\|Institut Pasteur]], [[01_Actors/Institut Curie\|Institut Curie]], [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (microscopy data management)
 
 ## Resources
 - https://www.nature.com/articles/s41592-021-01166-8 (Sarkans et al. 2021)

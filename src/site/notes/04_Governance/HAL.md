@@ -6,23 +6,12 @@
 # HAL — Hyper Articles en Ligne
 
 ## Overview
-HAL is the French national open-access publication archive, operated by the CCSD
-(Centre pour la Communication Scientifique Directe) under CNRS. Founded in 2001,
-it is the primary mandatory deposit platform for open access to French publicly
-funded research publications, serving as the national infrastructure implementing
-the open access requirements of [[04_Governance/Ouvrir la Science\|Ouvrir la Science]], [[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]],
-[[04_Governance/CNRS Open Science\|CNRS Open Science]], and [[04_Governance/Inserm Open Science\|Inserm Open Science]].
+HAL is the French national open-access publication archive, operated by the CCSD (Centre pour la Communication Scientifique Directe) under CNRS. Founded in 2001, it is the primary mandatory deposit platform for open access to French publicly funded research publications, serving as the national infrastructure implementing the open access requirements of [[04_Governance/Ouvrir la Science\|Ouvrir la Science]], [[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[04_Governance/CNRS Open Science\|CNRS Open Science]], and [[04_Governance/Inserm Open Science\|Inserm Open Science]].
 
-HAL accepts preprints, postprints (author accepted manuscripts), and full-text
-publications in all scientific disciplines. Deposits are timestamped and
-permalinked, providing stable open-access URLs for mandated publications. HAL
-integrates with European open access infrastructure via [[04_Governance/OpenAIRE\|OpenAIRE]], which
-harvests HAL metadata for EU compliance reporting.
+HAL accepts preprints, postprints (author accepted manuscripts), and full-text publications in all scientific disciplines. Deposits are timestamped and permalinked, providing stable open-access URLs for mandated publications. HAL integrates with European open access infrastructure via [[04_Governance/OpenAIRE\|OpenAIRE]], which harvests HAL metadata for EU compliance reporting.
 
 ## Institutional Portals
-HAL operates institutional portals for major French research organisations,
-each with their own branding and collection, while sharing the same underlying
-infrastructure:
+HAL operates institutional portals for major French research organisations, each with their own branding and collection, while sharing the same underlying infrastructure:
 - **HAL-CNRS** — https://hal.science/CNRS (CNRS institutional portal)
 - **HAL-Inserm** — https://hal.inserm.fr (Inserm institutional portal)
 - **HAL-Sorbonne Université** — https://hal.sorbonne-universite.fr
@@ -31,15 +20,11 @@ infrastructure:
 - **HAL-AP-HP** — Assistance Publique Hôpitaux de Paris portal
 
 ## Open Access Mandates Driving HAL Deposits
-- **[[04_Governance/Ouvrir la Science\|Ouvrir la Science]]** — mandates open access to publications via HAL
-  for all French publicly funded research (2018, updated 2021)
-- **[[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]]** — requires immediate open access deposit in HAL
-  or discipline-specific repository for all ANR-funded publications from 2022
-- **[[04_Governance/CNRS Open Science\|CNRS Open Science]]** — institutional mandate for all CNRS-affiliated
-  researchers to deposit in HAL
+- **[[04_Governance/Ouvrir la Science\|Ouvrir la Science]]** — mandates open access to publications via HAL for all French publicly funded research (2018, updated 2021)
+- **[[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]]** — requires immediate open access deposit in HAL or discipline-specific repository for all ANR-funded publications from 2022
+- **[[04_Governance/CNRS Open Science\|CNRS Open Science]]** — institutional mandate for all CNRS-affiliated researchers to deposit in HAL
 - **[[04_Governance/Inserm Open Science\|Inserm Open Science]]** — institutional mandate for all Inserm researchers
-- **Horizon Europe** — EU open access mandate; HAL deposits satisfy EU compliance
-  via [[04_Governance/OpenAIRE\|OpenAIRE]] harvesting
+- **Horizon Europe** — EU open access mandate; HAL deposits satisfy EU compliance via [[04_Governance/OpenAIRE\|OpenAIRE]] harvesting
 
 ## HAL and the French Open Science Infrastructure
 HAL is the publication layer of the French open science stack:

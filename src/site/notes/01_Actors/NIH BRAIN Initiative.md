@@ -6,14 +6,7 @@
 # NIH BRAIN Initiative
 
 ## Overview
-The BRAIN (Brain Research through Advancing Innovative Neurotechnologies) Initiative
-is a large-scale US research programme launched by President Obama in 2013 and funded
-by the National Institutes of Health (NIH), DARPA, NSF, FDA, and private partners.
-It is the primary US funder of the open neuroscience data infrastructure that underlies
-much of this vault: [[03_Platforms/DANDI Archive\|DANDI Archive]] (primary BRAIN Initiative neurophysiology archive),
-[[02_Standards/NWB\|NWB]] (its mandated data format), and several large-scale electrophysiology and
-connectomics datasets. The BRAIN Initiative mandates data sharing for all funded projects,
-making it a key driver of open neuroscience practice in the US.
+The BRAIN (Brain Research through Advancing Innovative Neurotechnologies) Initiative is a large-scale US research programme launched by President Obama in 2013 and funded by the National Institutes of Health (NIH), DARPA, NSF, FDA, and private partners. It is the primary US funder of the open neuroscience data infrastructure that underlies much of this vault: [[03_Platforms/DANDI Archive\|DANDI Archive]] (primary BRAIN Initiative neurophysiology archive), [[02_Standards/NWB\|NWB]] (its mandated data format), and several large-scale electrophysiology and connectomics datasets. The BRAIN Initiative mandates data sharing for all funded projects, making it a key driver of open neuroscience practice in the US.
 
 ## Key Data Infrastructure Funded
 - [[03_Platforms/DANDI Archive\|DANDI Archive]] — primary public archive for BRAIN Initiative neurophysiology data
@@ -31,11 +24,9 @@ making it a key driver of open neuroscience practice in the US.
 ## Connections
 - Funds: [[03_Platforms/DANDI Archive\|DANDI Archive]], [[02_Standards/NWB\|NWB]], [[01_Actors/Allen Institute for Brain Science\|Allen Institute for Brain Science]]
 - Data format mandate: [[02_Standards/NWB\|NWB]]
-- Complementary: [[04_Governance/Human Brain Project\|Human Brain Project]] / [[03_Platforms/EBRAINS\|EBRAINS]] (EU counterpart),
-  [[01_Actors/Human Connectome Project\|Human Connectome Project]] (precursor large-scale effort)
+- Complementary: [[04_Governance/Human Brain Project\|Human Brain Project]] / [[03_Platforms/EBRAINS\|EBRAINS]] (EU counterpart), [[01_Actors/Human Connectome Project\|Human Connectome Project]] (precursor large-scale effort)
 - Policy alignment: NIH DMS Policy connects to [[04_Governance/FAIR Principles\|FAIR Principles]] F1 and A1
-- Related consortia: [[01_Actors/IBL\|IBL]] (Simons/Wellcome funded, uses BRAIN data standards),
-  [[01_Actors/INCF\|INCF]] (international standards body partnering with BRAIN)
+- Related consortia: [[01_Actors/IBL\|IBL]] (Simons/Wellcome funded, uses BRAIN data standards), [[01_Actors/INCF\|INCF]] (international standards body partnering with BRAIN)
 
 ## Resources
 - https://braininitiative.nih.gov

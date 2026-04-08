@@ -6,18 +6,9 @@
 # NIF — Neuroscience Information Framework
 
 ## Overview
-The Neuroscience Information Framework (NIF) is a US NIH-funded resource for
-discovering and accessing neuroscience data, tools, and materials. Developed
-at UCSD (University of California San Diego) under the NIH Blueprint for
-Neuroscience Research, NIF provides a comprehensive registry of neuroscience
-resources — databases, software tools, data repositories, model organisms,
-antibodies, and more — with unique identifiers (RRID — Research Resource
-Identifiers) that enable unambiguous citation of research resources in
-scientific publications.
+The Neuroscience Information Framework (NIF) is a US NIH-funded resource for discovering and accessing neuroscience data, tools, and materials. Developed at UCSD (University of California San Diego) under the NIH Blueprint for Neuroscience Research, NIF provides a comprehensive registry of neuroscience resources — databases, software tools, data repositories, model organisms, antibodies, and more — with unique identifiers (RRID — Research Resource Identifiers) that enable unambiguous citation of research resources in scientific publications.
 
-NIF's most widely used product is the **RRID** (Research Resource Identifier)
-system, which is now mandated by hundreds of journals for citing antibodies,
-cell lines, model organisms, software tools, and databases in Methods sections.
+NIF's most widely used product is the **RRID** (Research Resource Identifier) system, which is now mandated by hundreds of journals for citing antibodies, mcell lines, model organisms, software tools, and databases in Methods sections.
 
 ## Key Products
 
@@ -29,20 +20,13 @@ RRIDs provide unique, persistent identifiers for research resources:
 - **Software tools** — RRID:SCR_xxxxxx (from SciCrunch Registry)
 - **Databases** — RRID:SCR_xxxxxx
 
-RRIDs are increasingly required in Methods sections by journals including
-Nature, Science, Cell, eLife, and most neuroscience journals. They resolve
-to resource records in the SciCrunch Registry (https://scicrunch.org).
+RRIDs are increasingly required in Methods sections by journals including Nature, Science, Cell, eLife, and most neuroscience journals. They resolve to resource records in the SciCrunch Registry (https://scicrunch.org).
 
 ### NIF Data Federation / SPARC Portal Integration
-NIF originally operated as a federated neuroscience data search engine, and
-its registry infrastructure now underpins the **SPARC Portal** (https://sparc.science)
-used by [[02_Standards/SPARC SDS\|SPARC SDS]] datasets and the NIH BRAIN Initiative resource catalogue.
+NIF originally operated as a federated neuroscience data search engine, and its registry infrastructure now underpins the **SPARC Portal** (https://sparc.science) used by [[02_Standards/SPARC SDS\|SPARC SDS]] datasets and the NIH BRAIN Initiative resource catalogue.
 
 ### Suggested Data Repositories
-NIF maintains a curated list of recommended data repositories for neuroscience
-(https://neuinfo.org/rin/suggested-data-repositories), organised by data type —
-a key reference for researchers choosing deposit venues for neuroimaging,
-electrophysiology, genomics, and clinical neuroscience data.
+NIF maintains a curated list of recommended data repositories for neuroscience (https://neuinfo.org/rin/suggested-data-repositories), organised by data type — a key reference for researchers choosing deposit venues for neuroimaging, electrophysiology, genomics, and clinical neuroscience data.
 
 ## Connections
 - Funded by: NIH Blueprint for Neuroscience Research
@@ -51,8 +35,7 @@ electrophysiology, genomics, and clinical neuroscience data.
 - Integrates with: [[02_Standards/SPARC SDS\|SPARC SDS]] (SPARC Portal uses NIF resource registry)
 - Data repository guide: https://neuinfo.org/rin/suggested-data-repositories
 - Related: [[01_Actors/INCF\|INCF]] (complementary international neuroinformatics body)
-- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (RRID use in publications for
-  antibodies, cell lines, and software tools; repository selection guidance)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (RRID use in publications for antibodies, cell lines, and software tools; repository selection guidance)
 
 ## Resources
 - https://neuinfo.org

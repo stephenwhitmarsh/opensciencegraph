@@ -13,9 +13,7 @@
 - [[02_Standards/NeuroML\|NeuroML]] — multiscale modeling task force output
 
 ## Overview
-INCF organises multiple working groups on neuroinformatics topics including brain
-atlases, metadata standards, ontologies, and reproducibility. Groups produce endorsed
-standards and best practice recommendations for neuroscience data.
+INCF organises multiple working groups on neuroinformatics topics including brain atlases, metadata standards, ontologies, and reproducibility. Groups produce endorsed standards and best practice recommendations for neuroscience data.
 
 ## Active Areas
 - Brain Atlases and Spatial Reference Frameworks

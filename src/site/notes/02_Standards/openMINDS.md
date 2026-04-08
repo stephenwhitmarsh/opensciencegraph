@@ -6,27 +6,15 @@
 # openMINDS — Open Metadata Initiative for Neuroscience Data Structures
 
 ## Overview
-openMINDS is the metadata framework developed by [[03_Platforms/EBRAINS\|EBRAINS]] for describing
-neuroscience research products — datasets, models, software, and workflows —
-with rich, FAIR-compliant, machine-readable schemas. It is the metadata
-infrastructure that powers EBRAINS Data and Knowledge: every dataset, model,
-and software tool shared on the EBRAINS platform is described using openMINDS
-schemas. For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] as an EBRAINS member institution,
-openMINDS is the required metadata standard when depositing any data on
-the EBRAINS platform.
+openMINDS is the metadata framework developed by [[03_Platforms/EBRAINS\|EBRAINS]] for describing neuroscience research products — datasets, models, software, and workflows — with rich, FAIR-compliant, machine-readable schemas. It is the metadata infrastructure that powers EBRAINS Data and Knowledge: every dataset, model, and software tool shared on the EBRAINS platform is described using openMINDS schemas. For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] as an EBRAINS member institution, openMINDS is the required metadata standard when depositing any data on the EBRAINS platform.
 
 ## Schema Collections
 openMINDS is organised into domain-specific schema collections:
 
-- **core** — fundamental research product metadata: datasets, persons,
-  organisations, licenses, protocols, subjects, specimens, digital identifiers
-- **SANDS** (Spatial Anchoring in Neuroscience Data Structures) — spatial
-  anchoring of data to brain atlases; uses [[02_Standards/UBERON\|UBERON]] for cross-species region
-  terms and maps to specific atlas versions (Allen CCF, BigBrain, MNI)
-- **computation** — computational models, simulations, workflows; relevant for
-  EBRAINS neuromorphic computing and modelling datasets
-- **controlled terms** — the controlled vocabulary library for openMINDS,
-  covering brain regions, species, techniques, licenses, etc.
+- **core** — fundamental research product metadata: datasets, persons, organisations, licenses, protocols, subjects, specimens, digital identifiers
+- **SANDS** (Spatial Anchoring in Neuroscience Data Structures) — spatial anchoring of data to brain atlases; uses [[02_Standards/UBERON\|UBERON]] for cross-species region terms and maps to specific atlas versions (Allen CCF, BigBrain, MNI)
+- **computation** — computational models, simulations, workflows; relevant for EBRAINS neuromorphic computing and modelling datasets
+- **controlled terms** — the controlled vocabulary library for openMINDS, covering brain regions, species, techniques, licenses, etc.
 
 ## FAIR Integration
 openMINDS schemas are designed to fulfil the FAIR principles:
@@ -37,11 +25,9 @@ openMINDS schemas are designed to fulfil the FAIR principles:
 
 ## Connections
 - Required for: [[03_Platforms/EBRAINS\|EBRAINS]] data and model sharing
-- Uses: [[02_Standards/UBERON\|UBERON]] (brain region annotation), [[02_Standards/BIDS\|BIDS]] (dataset organisation),
-  [[02_Standards/NWB\|NWB]] (electrophysiology data format)
+- Uses: [[02_Standards/UBERON\|UBERON]] (brain region annotation), [[02_Standards/BIDS\|BIDS]] (dataset organisation), [[02_Standards/NWB\|NWB]] (electrophysiology data format)
 - Complements: [[02_Standards/REMBI\|REMBI]] (microscopy metadata), [[02_Standards/BIDS\|BIDS]] (neuroimaging organisation)
-- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (EBRAINS data deposit),
-  [[01_Actors/Donders Institute\|Donders Institute]], [[04_Governance/Human Brain Project\|Human Brain Project]]
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (EBRAINS data deposit), [[01_Actors/Donders Institute\|Donders Institute]], [[04_Governance/Human Brain Project\|Human Brain Project]]
 
 ## Resources
 - https://openminds.ebrains.eu

@@ -6,20 +6,10 @@
 # Paris Brain Institute
 
 ## Overview
-The Paris Brain Institute (Institut du Cerveau — ICM) is a world-leading neuroscience
-research centre located at Pitié-Salpêtrière Hospital, Paris. It unites basic science,
-clinical neurology, and translational research under one roof, co-governed by
-[[04_Governance/CNRS Open Science\|CNRS Open Science]], [[04_Governance/Inserm Open Science\|Inserm Open Science]], [[04_Governance/AP-HP\|AP-HP]], and [[01_Actors/Sorbonne Universite\|Sorbonne Universite]].
+The Paris Brain Institute (Institut du Cerveau — ICM) is a world-leading neuroscience research centre located at Pitié-Salpêtrière Hospital, Paris. It unites basic science, clinical neurology, and translational research under one roof, co-governed by [[04_Governance/CNRS Open Science\|CNRS Open Science]], [[04_Governance/Inserm Open Science\|Inserm Open Science]], [[04_Governance/AP-HP\|AP-HP]], and [[01_Actors/Sorbonne Universite\|Sorbonne Universite]].
 
-ICM operates 10 core technological platforms and participates in the major French and
-European open science infrastructures. It is a member node of [[04_Governance/NeurATRIS\|NeurATRIS]] (French
-translational neuroscience infrastructure, French component of [[04_Governance/EATRIS\|EATRIS]]), a participant
-in [[04_Governance/MUDIS4LS\|MUDIS4LS]] (IFB-led FAIR data infrastructure), and active in [[03_Platforms/EBRAINS\|EBRAINS]], [[ENIGMA
-Consortium]], and [[04_Governance/France BioImaging\|France BioImaging]] through its platforms [[04_Governance/CATI\|CATI]] ([[France Life
-Imaging]]) and ICM Quant. Data management and bioinformatics are centralised through
-[[04_Governance/CATI\|CATI]] (neuroimaging) and [[01_Actors/DAC\|DAC]] (genomics and multi-omics), with computing resources
-via [[04_Governance/IFB\|IFB]] and open science compliance implemented through [[04_Governance/OPIDoR\|OPIDoR]] and [[04_Governance/HAL\|HAL]].
- 
+ICM operates 10 core technological platforms and participates in the major French and European open science infrastructures. It is a member node of [[04_Governance/NeurATRIS\|NeurATRIS]] (French translational neuroscience infrastructure, French component of [[04_Governance/EATRIS\|EATRIS]]), a participant in [[04_Governance/MUDIS4LS\|MUDIS4LS]] (IFB-led FAIR data infrastructure), and active in [[03_Platforms/EBRAINS\|EBRAINS]], [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]], and [[04_Governance/France BioImaging\|France BioImaging]] through its platforms [[04_Governance/CATI\|CATI]] ([[04_Governance/France Life Imaging\|France Life Imaging]]) and ICM Quant. Data management and bioinformatics are centralised through [[04_Governance/CATI\|CATI]] (neuroimaging) and [[01_Actors/DAC\|DAC]] (genomics and multi-omics), with computing resources via [[04_Governance/IFB\|IFB]] and open science compliance implemented through [[04_Governance/OPIDoR\|OPIDoR]] and [[04_Governance/HAL\|HAL]].
+
 ## Core Facilities
 
 ICM operates 10 technological platforms accessible to internal and external researchers via https://plateforme.institutducerveau.org.

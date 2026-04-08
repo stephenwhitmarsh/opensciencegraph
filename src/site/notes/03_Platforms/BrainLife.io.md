@@ -6,9 +6,7 @@
 # BrainLife.io
 
 ## Overview
-BrainLife is an open cloud computing platform for FAIR and reproducible neuroimaging
-analysis. Users run containerised Apps on [[02_Standards/BIDS\|BIDS]]-organised data with automatic
-provenance tracking. Directly imports from [[03_Platforms/OpenNeuro\|OpenNeuro]] and [[03_Platforms/DANDI Archive\|DANDI Archive]].
+BrainLife is an open cloud computing platform for FAIR and reproducible neuroimaging analysis. Users run containerised Apps on [[02_Standards/BIDS\|BIDS]]-organised data with automatic provenance tracking. It directly imports from [[03_Platforms/OpenNeuro\|OpenNeuro]] and [[03_Platforms/DANDI Archive\|DANDI Archive]].
 
 ## Connections
 - Standards: [[02_Standards/BIDS\|BIDS]], [[02_Standards/NWB\|NWB]]
@@ -17,4 +15,3 @@ provenance tracking. Directly imports from [[03_Platforms/OpenNeuro\|OpenNeuro]]
 
 ## Resources
 - https://brainlife.io
-

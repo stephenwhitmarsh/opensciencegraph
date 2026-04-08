@@ -6,24 +6,13 @@
 # DAC — Data Analysis Core
 
 ## Overview
-The Data Analysis Core (DAC) is [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]'s bioinformatics
-and statistical analysis support platform, one of ICM's 10 core technological
-platforms. It provides computational expertise, analysis pipelines, training,
-and consultation to ICM research teams and external collaborators, bridging
-the gap between data production (at platforms like [[01_Actors/iGENSEQ\|iGENSEQ]], [[01_Actors/CENIR\|CENIR]],
-and [[01_Actors/Banque ADN et Cellules\|Banque ADN et Cellules]]) and publication-ready scientific outputs.
+The Data Analysis Core (DAC) is [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]'s bioinformatics and statistical analysis support platform, one of ICM's 10 core technological platforms. It provides computational expertise, analysis pipelines, training, and consultation to ICM research teams and external collaborators, bridging the gap between data production (at platforms like [[01_Actors/iGENSEQ\|iGENSEQ]], [[01_Actors/CENIR\|CENIR]], and [[01_Actors/Banque ADN et Cellules\|Banque ADN et Cellules]]) and publication-ready scientific outputs.
 
-The DAC is staffed by bioinformaticians, statisticians, and data scientists
-who work embedded in or in close collaboration with ICM research teams. It
-implements [[04_Governance/FAIR Principles\|FAIR Principles]] in ICM data management workflows and serves
-as the primary interface between ICM and national infrastructure providers
-[[04_Governance/IFB\|IFB]] and [[04_Governance/OPIDoR\|OPIDoR]].
+The DAC is staffed by bioinformaticians, statisticians, and data scientists who work embedded in or in close collaboration with ICM research teams. It implements [[04_Governance/FAIR Principles\|FAIR Principles]] in ICM data management workflows and serves as the primary interface between ICM and national infrastructure providers [[04_Governance/IFB\|IFB]] and [[04_Governance/OPIDoR\|OPIDoR]].
 
 ## Divisions and Services
 
-The DAC is organised into four divisions serving both internal ICM teams and external
-biomedical research projects, on a collaborative basis (co-authorship model) or
-fee-for-service for standardised analyses.
+The DAC is organised into four divisions serving both internal ICM teams and external biomedical research projects, on a collaborative basis (co-authorship model) or fee-for-service for standardised analyses.
 
 ### Omics Analysis
 Processing and visualisation of high-throughput sequencing (NGS) data from [[01_Actors/iGENSEQ\|iGENSEQ]]:
@@ -33,25 +22,19 @@ Processing and visualisation of high-throughput sequencing (NGS) data from [[01_
 - **Epigenomics** — DNA methylation, ATAC-seq (chromatin accessibility), ChIP-seq
 - **Long-read sequencing** — Oxford Nanopore (ONT)
 - Pipelines built with Snakemake, Conda, Docker for reproducibility and portability
-- **DEJAVU** — ICM-internal tool aggregating exome/genome short variants from ~3,000
-  ICM project samples
-- **QUBY** — web interface for researchers to self-explore RNA-seq, scRNA-seq,
-  and WES data analysed by DAC
+- **DEJAVU** — ICM-internal tool aggregating exome/genome short variants from ~3,000 ICM project samples
+- **QUBY** — web interface for researchers to self-explore RNA-seq, scRNA-seq, and WES data analysed by DAC
 
 ### Biostatistics
 - Expert statistical support from study design through to data interpretation
 - Responsive helpdesk for researchers at any stage of their project
-- Advanced statistical methods for high-dimensional and multimodal data:
-  omics, electrophysiology, cell imaging, neuroimaging, and clinical data
+- Advanced statistical methods for high-dimensional and multimodal data: omics, electrophysiology, cell imaging, neuroimaging, and clinical data
 
 ### Data Management
-- FAIR data management: databases and secure web interfaces aligned with shared
-  data models
+- FAIR data management: databases and secure web interfaces aligned with shared data models
 - Develops and implements ICM's data management policy
-- Data Management Plans in collaboration with legal, data protection, and
-  integrity officers, and the innovation office
-- Provides databases and data warehouse infrastructure to exploit transversal
-  potential of ICM data
+- Data Management Plans in collaboration with legal, data protection, and integrity officers, and the innovation office
+- Provides databases and data warehouse infrastructure to exploit transversal potential of ICM data
 
 ### Training and Outreach
 - Regular training programme spanning bioinformatics, biostatistics, and RDM
@@ -60,8 +43,7 @@ Processing and visualisation of high-throughput sequencing (NGS) data from [[01_
 - Image analysis courses (ImageJ, MATLAB; available on-demand online)
 - Statistics helpdesk every 1st and 3rd Friday
 - Custom sessions for research teams available on request
-- Recent catalogue (Jan–Mar 2026): survival analysis, MRI segmentation, single-cell
-  workshops, REDCap training, spatial transcriptomics focus groups
+- Recent catalogue (Jan–Mar 2026): survival analysis, MRI segmentation, single-cell workshops, REDCap training, spatial transcriptomics focus groups
 
 ## Computing Infrastructure
 DAC activities run on ICM IT-managed high-performance computing equipment:
@@ -71,17 +53,11 @@ DAC activities run on ICM IT-managed high-performance computing equipment:
 - Application servers
 
 ## Open Science Role
-The DAC is ICM's primary interface with the French and European open science
-infrastructure:
-- **[[04_Governance/IFB\|IFB]]** — DAC is a member of IFB and participates in the coordination of
-  several of its missions and its executive committee; uses IFB NNCR computing
-  resources; participates in the [[04_Governance/MUDIS4LS\|MUDIS4LS]] initiative (managed by IFB)
-- **[[04_Governance/OPIDoR\|OPIDoR]]** — DAC provides DMP training and support using OPIDoR tools;
-  DMP writing is part of the regular training programme
-- **[[04_Governance/FAIR Principles\|FAIR Principles]]** — the Data Management division implements FAIR data
-  management across ICM through databases, data models, and policy development
-- **Reproducibility** — omics pipelines use Snakemake, Conda, Docker;
-  training covers Git and open-source tools
+The DAC is ICM's primary interface with the French and European open science infrastructure:
+- **[[04_Governance/IFB\|IFB]]** — DAC is a member of IFB and participates in the coordination of several of its missions and its executive committee; uses IFB NNCR computing resources; participates in the [[04_Governance/MUDIS4LS\|MUDIS4LS]] initiative (managed by IFB)
+- **[[04_Governance/OPIDoR\|OPIDoR]]** — DAC provides DMP training and support using OPIDoR tools; DMP writing is part of the regular training programme
+- **[[04_Governance/FAIR Principles\|FAIR Principles]]** — the Data Management division implements FAIR data management across ICM through databases, data models, and policy development
+- **Reproducibility** — omics pipelines use Snakemake, Conda, Docker; training covers Git and open-source tools
 
 ## Connections
 - Hosted at: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]

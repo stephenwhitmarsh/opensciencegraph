@@ -6,10 +6,7 @@
 # Health Data Hub
 
 ## Overview
-The Health Data Hub is the French national platform for health data, providing access
-to the SNDS (Systeme National des Donnees de Sante, covering 99% of the French
-population) via a GDPR-compliant secure Datalab. It uses [[02_Standards/OMOP CDM\|OMOP CDM]] and [[02_Standards/HL7 FHIR\|HL7 FHIR]]
-for data standardisation and connects to [[04_Governance/AP-HP\|AP-HP]] hospital data.
+The Health Data Hub is the French national platform for health data, providing access to the SNDS (Systeme National des Donnees de Sante, covering 99% of the French population) via a GDPR-compliant secure Datalab. It uses [[02_Standards/OMOP CDM\|OMOP CDM]] and [[02_Standards/HL7 FHIR\|HL7 FHIR]] for data standardisation and connects to [[04_Governance/AP-HP\|AP-HP]] hospital data.
 
 ## Key Resources
 - SNDS - National Health Data System (insurance and hospital billing, 67M people)

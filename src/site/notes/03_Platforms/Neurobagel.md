@@ -6,32 +6,16 @@
 # Neurobagel
 
 ## Overview
-Neurobagel is an open-source ecosystem of tools for federated neuroscience cohort
-discovery across decentralised BIDS datasets. Developed at McGill University in
-collaboration with [[01_Actors/CONP\|CONP]] and [[01_Actors/ReproNim\|ReproNim]], it enables participant-level cohort
-search across multiple institutions simultaneously — without centralising data or
-requiring data transfer. Each participating institution deploys a local Neurobagel
-node; the federation API aggregates query results across all nodes while data
-files remain under local custody and governance.
+Neurobagel is an open-source ecosystem of tools for federated neuroscience cohort discovery across decentralised BIDS datasets. Developed at McGill University in collaboration with [[01_Actors/CONP\|CONP]] and [[01_Actors/ReproNim\|ReproNim]], it enables participant-level cohort search across multiple institutions simultaneously — without centralising data or requiring data transfer. Each participating institution deploys a local Neurobagel node; the federation API aggregates query results across all nodes while data files remain under local custody and governance.
 
-Neurobagel complements [[03_Platforms/OpenNeuro\|OpenNeuro]] (which centralises open datasets) by providing
-federated search across both open and restricted datasets, including controlled-access
-clinical cohorts that cannot be centralised. It is particularly relevant for
-multi-site clinical neuroimaging studies like those coordinated by [[04_Governance/CATI\|CATI]].
+Neurobagel complements [[03_Platforms/OpenNeuro\|OpenNeuro]] (which centralises open datasets) by providing federated search across both open and restricted datasets, including controlled-access clinical cohorts that cannot be centralised. It is particularly relevant for multi-site clinical neuroimaging studies like those coordinated by [[04_Governance/CATI\|CATI]].
 
 ## Architecture
-Neurobagel uses a **hub-and-spoke federated model**:
-- Each institution deploys a **Neurobagel node** (containerised, self-hosted)
-  containing a knowledge graph of harmonised participant-level metadata
-- The **federation API** (federate.neurobagel.org) aggregates queries across
-  all public nodes simultaneously
-- The **query tool** (query.neurobagel.org) provides a web interface for
-  defining cohort criteria and retrieving matching participant lists
+Neurobagel uses a **hub-and-spoke federated model**: each institution deploys a **Neurobagel node** (containerised, self-hosted) containing a knowledge graph of harmonised participant-level metadata; the **federation API** (federate.neurobagel.org) aggregates queries across all public nodes simultaneously; the **query tool** (query.neurobagel.org) provides a web interface for defining cohort criteria and retrieving matching participant lists.
 
 ## Data Model and Standards
 - Phenotypic data annotated using [[02_Standards/BIDS\|BIDS]] conventions and [[02_Standards/NIDM\|NIDM]] terms
-- Controlled vocabularies: [[02_Standards/SNOMED CT\|SNOMED CT]] (diagnosis), age/sex standardisation,
-  imaging modality from BIDS
+- Controlled vocabularies: [[02_Standards/SNOMED CT\|SNOMED CT]] (diagnosis), age/sex standardisation, imaging modality from BIDS
 - Linked data / semantic web representation (JSON-LD, knowledge graphs)
 - DataLad backend for imaging data download from participating nodes
 
@@ -42,11 +26,7 @@ Neurobagel uses a **hub-and-spoke federated model**:
 - **ENIGMA-Parkinson's WG** — pilot deployment across 4 Dutch sites (2025)
 
 ## Companion Tool: Nipoppy
-Nipoppy is a Python package that extends [[02_Standards/BIDS\|BIDS]] for managing neuroimaging
-pipeline tracking and curation. It standardises the management and monitoring
-of neuroimaging data processing workflows, producing Neurobagel-ready metadata
-as output. The Neurobagel+Nipoppy stack provides a complete pipeline from
-raw data curation to federated discovery.
+Nipoppy is a Python package that extends [[02_Standards/BIDS\|BIDS]] for managing neuroimaging pipeline tracking and curation. It standardises the management and monitoring of neuroimaging data processing workflows, producing Neurobagel-ready metadata as output. The Neurobagel+Nipoppy stack provides a complete pipeline from raw data curation to federated discovery.
 
 ## Connections
 - Built on: [[02_Standards/BIDS\|BIDS]], [[02_Standards/NIDM\|NIDM]], DataLad
@@ -54,8 +34,7 @@ raw data curation to federated discovery.
 - Complements: [[03_Platforms/OpenNeuro\|OpenNeuro]] (centralised open data), [[03_Platforms/LORIS\|LORIS]] (site-level data management)
 - Developed by: McGill / [[01_Actors/CONP\|CONP]] / [[01_Actors/ReproNim\|ReproNim]]
 - Deployed at: [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]] Parkinson's WG, Ontario Brain Institute, others
-- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (multi-site BIDS cohort discovery,
-  CATI-managed datasets)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (multi-site BIDS cohort discovery, CATI-managed datasets)
 
 ## Resources
 - https://neurobagel.org

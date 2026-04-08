@@ -6,10 +6,7 @@
 # UK Biobank
 
 ## Overview
-UK Biobank is a large-scale biomedical database with in-depth genetic and health
-information from 500,000 UK participants, including brain MRI for 50,000+. One of
-the largest combined neuroimaging, genomics, and clinical data resources worldwide.
-Accessed via the Research Analysis Platform (RAP).
+UK Biobank is a large-scale biomedical database with in-depth genetic and health information from 500,000 UK participants, including brain MRI for 50,000+. One of the largest combined neuroimaging, genomics, and clinical data resources worldwide. Accessed via the Research Analysis Platform (RAP).
 
 ## Key Resources
 - 500,000 participants (genetics, blood biomarkers, linked NHS records)
@@ -23,4 +20,3 @@ Accessed via the Research Analysis Platform (RAP).
 
 ## Resources
 - https://www.ukbiobank.ac.uk
-

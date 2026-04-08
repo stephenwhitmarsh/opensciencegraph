@@ -6,19 +6,10 @@
 # ORDO — Orphanet Rare Disease Ontology
 
 ## Overview
-ORDO is the Orphanet Rare Disease Ontology, providing the European standard
-classification of rare diseases with 10,000+ rare conditions, their clinical
-descriptions, genetic causes, epidemiological data, and relationships. Maintained
-by the **Orphanet** consortium (coordinated by INSERM in France), ORDO is the
-mandatory coding system for rare diseases in European Reference Networks (ERNs)
-and is deeply integrated into French rare disease research infrastructure. For
-[[01_Actors/Paris Brain Institute\|Paris Brain Institute]], which conducts extensive research on rare
-neurological diseases (rare epilepsies, rare ataxias, rare dementias, rare
-movement disorders), ORDO is the primary coding system.
+ORDO is the Orphanet Rare Disease Ontology, providing the European standard classification of rare diseases with 10,000+ rare conditions, their clinical descriptions, genetic causes, epidemiological data, and relationships. Maintained by the **Orphanet** consortium (coordinated by INSERM in France), ORDO is the mandatory coding system for rare diseases in European Reference Networks (ERNs) and is deeply integrated into French rare disease research infrastructure. For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], which conducts extensive research on rare neurological diseases (rare epilepsies, rare ataxias, rare dementias, rare movement disorders), ORDO is the primary coding system.
 
 ## Structure
-ORDO organises rare diseases using ORPHA codes (e.g. ORPHA:411 for Parkinson's
-disease, ORPHA:282 for Huntington's disease) at five levels of classification:
+ORDO organises rare diseases using ORPHA codes (e.g. ORPHA:411 for Parkinson's disease, ORPHA:282 for Huntington's disease) at five levels of classification:
 - **Disorder** — a specific rare condition (e.g. ORPHA:899 Rett syndrome)
 - **Group of disorders** — clinical or aetiological groupings
 - **Subtype** — clinical or genetic subtypes
@@ -26,12 +17,10 @@ disease, ORPHA:282 for Huntington's disease) at five levels of classification:
 - **Biological anomaly** — abnormal biological findings
 
 ## French Relevance
-- **Orphanet** is headquartered in Paris, coordinated by INSERM — making it
-  a direct ICM neighbour institution
+- **Orphanet** is headquartered in Paris, coordinated by INSERM — making it a direct ICM neighbour institution
 - All French **Centres de Référence Maladies Rares (CRMR)** use ORPHA codes
 - [[04_Governance/Health Data Hub\|Health Data Hub]] rare disease module uses ORDO for coding
-- European Reference Networks (ERNs) — ERN-RND (rare neurological diseases)
-  and ERN-EpiCARE (rare epilepsies) use ORDO for patient registry coding
+- European Reference Networks (ERNs) — ERN-RND (rare neurological diseases) and ERN-EpiCARE (rare epilepsies) use ORDO for patient registry coding
 
 ## Key Neurological ORPHA Codes
 | ORPHA Code | Disease |

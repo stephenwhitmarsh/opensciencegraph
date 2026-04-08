@@ -6,22 +6,14 @@
 # DICOM — Digital Imaging and Communications in Medicine
 
 ## Overview
-DICOM is the universal standard for storing, transmitting, and displaying medical
-imaging data. Developed jointly by the ACR (American College of Radiology) and NEMA
-(National Electrical Manufacturers Association) from 1983, DICOM defines both the
-**file format** for medical images and the **network protocol** for communicating
-between imaging devices, PACS systems, and clinical applications. Every clinical MRI,
-CT, PET, ultrasound, and X-ray scanner in the world produces DICOM files. All imaging
-data at [[01_Actors/CENIR\|CENIR]] originates as DICOM and is subsequently converted to [[02_Standards/NIfTI\|NIfTI]]
-and organised into [[02_Standards/BIDS\|BIDS]] for research use.
+DICOM is the universal standard for storing, transmitting, and displaying medical imaging data. Developed jointly by the ACR (American College of Radiology) and NEMA (National Electrical Manufacturers Association) from 1983, DICOM defines both the **file format** for medical images and the **network protocol** for communicating between imaging devices, PACS systems, and clinical applications. Every clinical MRI, CT, PET, ultrasound, and X-ray scanner in the world produces DICOM files. All imaging data at [[01_Actors/CENIR\|CENIR]] originates as DICOM and is subsequently converted to [[02_Standards/NIfTI\|NIfTI]] and organised into [[02_Standards/BIDS\|BIDS]] for research use.
 
 ## DICOM Object Model
 A DICOM dataset is organised hierarchically:
 - **Patient** → **Study** → **Series** → **Instance (Image)**
 - Each level has a unique identifier (Patient ID, Study Instance UID, Series Instance UID, SOP Instance UID)
 - A **DICOM file** = one or more pixel data frames + a structured header of metadata **tags**
-- Tags are identified by (Group, Element) pairs, e.g. (0010,0020) = Patient ID,
-  (0008,0060) = Modality (MR, PT, CT…)
+- Tags are identified by (Group, Element) pairs, e.g. (0010,0020) = Patient ID, (0008,0060) = Modality (MR, PT, CT…)
 
 ## Key SOP Classes (Modalities)
 DICOM defines **Service-Object Pair (SOP) Classes** for each imaging modality and service type:
@@ -45,12 +37,10 @@ Beyond file storage, DICOM defines network services for clinical workflow:
 - **C-FIND** — query/retrieve metadata from PACS
 - **C-MOVE** — retrieve images from remote PACS
 - **C-GET** — retrieve images directly
-- **WADO-RS** (Web Access to DICOM Objects) — modern RESTful image retrieval;
-  used by [[02_Standards/HL7 FHIR\|HL7 FHIR]] ImagingStudy resource
+- **WADO-RS** (Web Access to DICOM Objects) — modern RESTful image retrieval; used by [[02_Standards/HL7 FHIR\|HL7 FHIR]] ImagingStudy resource
 
 ## DICOM to Research Pipeline
-At [[01_Actors/CENIR\|CENIR]] and research sites managed by [[04_Governance/CATI\|CATI]], DICOM files are converted
-to research formats via standardised pipelines:
+At [[01_Actors/CENIR\|CENIR]] and research sites managed by [[04_Governance/CATI\|CATI]], DICOM files are converted to research formats via standardised pipelines:
 
 ```
 Scanner → DICOM (raw) → dcm2niix → NIfTI + JSON sidecar → BIDS
@@ -58,27 +48,20 @@ Scanner → DICOM (raw) → dcm2niix → NIfTI + JSON sidecar → BIDS
 ```
 
 Key tools:
-- **dcm2niix** — primary DICOM-to-NIfTI converter; produced by Chris Rorden (MRIcroGL);
-  used by [[04_Governance/CATI\|CATI]] CATIconv pipeline and most BIDS converters
-- **heudiconv** — flexible DICOM organiser for automated [[02_Standards/BIDS\|BIDS]] conversion;
-  used in [[01_Actors/ReproNim\|ReproNim]] workflows
+- **dcm2niix** — primary DICOM-to-NIfTI converter; produced by Chris Rorden (MRIcroGL); used by [[04_Governance/CATI\|CATI]] CATIconv pipeline and most BIDS converters
+- **heudiconv** — flexible DICOM organiser for automated [[02_Standards/BIDS\|BIDS]] conversion; used in [[01_Actors/ReproNim\|ReproNim]] workflows
 - **Orthanc** — open-source DICOM server for local PACS and research DICOM management
 - **XNAT** ([[03_Platforms/XNAT\|XNAT]]) — imaging data management platform built on DICOM
 
 ## DICOM Structured Reports (SR)
-DICOM SR allows machine-readable, coded clinical findings to be embedded directly
-in the DICOM object alongside images. Used for:
-- Radiology reports with coded measurements
-- AI/CAD findings (lesion measurements, segmentation results)
-- [[02_Standards/HL7 FHIR\|HL7 FHIR]] DiagnosticReport can link to DICOM SR objects via WADO-RS
+DICOM SR allows machine-readable, coded clinical findings to be embedded directly in the DICOM object alongside images. Used for radiology reports with coded measurements, AI/CAD findings (lesion measurements, segmentation results), and [[02_Standards/HL7 FHIR\|HL7 FHIR]] DiagnosticReport which can link to DICOM SR objects via WADO-RS.
 
 ## Connections
 - Converted to: [[02_Standards/NIfTI\|NIfTI]] (via dcm2niix, heudiconv), then organised into [[02_Standards/BIDS\|BIDS]]
 - Used by: [[04_Governance/CATI\|CATI]] (CATIconv pipeline), [[03_Platforms/XNAT\|XNAT]], [[03_Platforms/LORIS\|LORIS]], [[04_Governance/AP-HP\|AP-HP]]
 - Compatible with: [[02_Standards/HL7 FHIR\|HL7 FHIR]] (ImagingStudy and DiagnosticReport resources)
 - Tools: dcm2niix, heudiconv, Orthanc, [[03_Platforms/XNAT\|XNAT]]
-- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (all CENIR acquisitions; primary source
-  format for all MRI, PET-MRI, and MEG-linked MRI data)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (all CENIR acquisitions; primary source format for all MRI, PET-MRI, and MEG-linked MRI data)
 
 ## Resources
 - https://www.dicomstandard.org

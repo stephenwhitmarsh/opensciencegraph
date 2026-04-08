@@ -6,14 +6,7 @@
 # CleanWEB
 
 ## Overview
-CleanWEB is a French electronic clinical trial management platform developed by
-Telemedicine Technologies (Boulogne-Billancourt), the leading eClinical SaaS provider
-in France. It provides a modular, GDPR-compliant suite for the electronic management
-of clinical studies and patient registries. Since 2003, AP-HP (Assistance Publique —
-Hôpitaux de Paris) has contracted with Telemedicine Technologies for institutional
-use of CleanWEB as the standard eCRF platform for its clinical trials, making it the
-de facto standard for AP-HP-sponsored research. It is functionally comparable to
-[[03_Platforms/REDCap\|REDCap]] but oriented toward regulatory-grade Phase I–IV clinical trials.
+CleanWEB is a French electronic clinical trial management platform developed by Telemedicine Technologies (Boulogne-Billancourt), the leading eClinical SaaS provider in France. It provides a modular, GDPR-compliant suite for the electronic management of clinical studies and patient registries. Since 2003, AP-HP (Assistance Publique — Hôpitaux de Paris) has contracted with Telemedicine Technologies for institutional use of CleanWEB as the standard eCRF platform for its clinical trials, making it the de facto standard for AP-HP-sponsored research. It is functionally comparable to [[03_Platforms/REDCap\|REDCap]] but oriented toward regulatory-grade Phase I–IV clinical trials.
 
 ## Key Modules
 - **eCRF** — electronic Case Report Form; the core module; supports CDASH/CDISC compliance
@@ -38,9 +31,7 @@ de facto standard for AP-HP-sponsored research. It is functionally comparable to
 - Standards: [[02_Standards/CDISC\|CDISC]] (CDASH/SDTM), [[02_Standards/MedDRA\|MedDRA]] (adverse event coding)
 - Comparable tools: [[03_Platforms/REDCap\|REDCap]] (research/academic), CleanWEB (regulatory-grade trials)
 - French governance: [[04_Governance/Code de la Sante Publique\|Code de la Sante Publique]], CNIL, [[04_Governance/ANS\|ANS]]
-- Relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]: used widely across AP-HP-sponsored clinical
-  trials; context for understanding the French clinical research eCRF ecosystem alongside
-  [[03_Platforms/REDCap\|REDCap]]
+- Relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]: used widely across AP-HP-sponsored clinical trials; context for understanding the French clinical research eCRF ecosystem alongside [[03_Platforms/REDCap\|REDCap]]
 
 ## Resources
 - https://tentelemed.com/clinical-research/

@@ -6,12 +6,7 @@
 # OMERO — OME Remote Objects
 
 ## Overview
-OMERO is the client-server image data management platform produced by the [[01_Actors/OME\|OME]]
-consortium. It is to microscopy image data what [[03_Platforms/LORIS\|LORIS]] and [[03_Platforms/XNAT\|XNAT]] are to
-neuroimaging — the institutional platform where raw images are ingested, annotated,
-quality-checked, and made accessible to researchers. OMERO is deployed at
-[[04_Governance/Euro-BioImaging\|Euro-BioImaging]] nodes, [[04_Governance/France BioImaging\|France BioImaging]] nodes (including [[01_Actors/Institut Pasteur\|Institut Pasteur]]
-and [[01_Actors/Institut Curie\|Institut Curie]] PICT-IBiSA), and core facilities worldwide.
+OMERO is the client-server image data management platform produced by the [[01_Actors/OME\|OME]] consortium. It is to microscopy image data what [[03_Platforms/LORIS\|LORIS]] and [[03_Platforms/XNAT\|XNAT]] are to neuroimaging — the institutional platform where raw images are ingested, annotated, quality-checked, and made accessible to researchers. OMERO is deployed at [[04_Governance/Euro-BioImaging\|Euro-BioImaging]] nodes, [[04_Governance/France BioImaging\|France BioImaging]] nodes (including [[01_Actors/Institut Pasteur\|Institut Pasteur]] and [[01_Actors/Institut Curie\|Institut Curie]] PICT-IBiSA), and core facilities worldwide.
 
 ## Key Features
 - Server-based management of terabyte-scale image collections
@@ -26,11 +21,9 @@ and [[01_Actors/Institut Curie\|Institut Curie]] PICT-IBiSA), and core facilitie
 ## Connections
 - Produced by: [[01_Actors/OME\|OME]]
 - Stores: [[02_Standards/OME File Formats\|OME File Formats]] data (native format)
-- Deployed at: [[04_Governance/Euro-BioImaging\|Euro-BioImaging]] (all nodes), [[04_Governance/France BioImaging\|France BioImaging]],
-  [[01_Actors/Institut Pasteur\|Institut Pasteur]], [[01_Actors/Institut Curie\|Institut Curie]]
+- Deployed at: [[04_Governance/Euro-BioImaging\|Euro-BioImaging]] (all nodes), [[04_Governance/France BioImaging\|France BioImaging]], [[01_Actors/Institut Pasteur\|Institut Pasteur]], [[01_Actors/Institut Curie\|Institut Curie]]
 - Metadata alignment: [[02_Standards/REMBI\|REMBI]], [[04_Governance/QUAREP-LiMi\|QUAREP-LiMi]]
-- Related platforms: [[03_Platforms/LORIS\|LORIS]] (neuroimaging equivalent),
-  [[03_Platforms/XNAT\|XNAT]] (neuroimaging equivalent)
+- Related platforms: [[03_Platforms/LORIS\|LORIS]] (neuroimaging equivalent), [[03_Platforms/XNAT\|XNAT]] (neuroimaging equivalent)
 - Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (microscopy data management)
 
 ## Resources

@@ -6,38 +6,21 @@
 # Institut de Myologie — Institute of Myology
 
 ## Overview
-The Institut de Myologie is an international reference centre for neuromuscular
-diseases, located at Pitié-Salpêtrière Hospital — the same campus as
-[[01_Actors/Paris Brain Institute\|Paris Brain Institute]]. Founded in 1996 by AFM-Téléthon and Généthon, it
-coordinates medical management, basic research, clinical research, and education
-in myology. It brings together 300+ experts covering the muscle, the neuromuscular
-junction, and the motor neuron, with 35,500+ patient records and 7,000+ annual
-consultations in the clinical neuro-myology department.
+The Institut de Myologie is an international reference centre for neuromuscular diseases, located at Pitié-Salpêtrière Hospital — the same campus as [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]. Founded in 1996 by AFM-Téléthon and Généthon, it coordinates medical management, basic research, clinical research, and education in myology. It brings together 300+ experts covering the muscle, the neuromuscular junction, and the motor neuron, with 35,500+ patient records and 7,000+ annual consultations in the clinical neuro-myology department.
 
-Its governance associates five public bodies: [[04_Governance/AP-HP\|AP-HP]], Inserm, CNRS, Sorbonne
-Université, and the CEA. It is directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
-through shared campus, overlapping clinical populations (ALS, Parkinson's with
-neuromuscular involvement), and joint participation in [[04_Governance/NeurATRIS\|NeurATRIS]].
+Its governance associates five public bodies: [[04_Governance/AP-HP\|AP-HP]], Inserm, CNRS, Sorbonne Université, and the CEA. It is directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] through shared campus, overlapping clinical populations (ALS, Parkinson's with neuromuscular involvement), and joint participation in [[04_Governance/NeurATRIS\|NeurATRIS]].
 
 ## Research Structure
 
 ### Centre of Research in Myology (CRM)
-Nine scientific teams covering fundamental research, neuromuscular disease mechanisms,
-and therapeutic applications. Main focus areas: extracellular matrix pathologies,
-centronuclear myopathy, muscle regeneration, myotonic dystrophy (REDs team).
+Nine scientific teams covering fundamental research, neuromuscular disease mechanisms, and therapeutic applications. Main focus areas: extracellular matrix pathologies, centronuclear myopathy, muscle regeneration, myotonic dystrophy (REDs team).
 
 ### Neuromuscular Investigation Center (NIC)
 Applied and clinical research infrastructure comprising:
-- **NeuPEL** — Neuromuscular Physiology and Evaluation Laboratory; develops
-  outcome measures and measurement tools for clinical trials (MyoWrist dynamometer,
-  ultrasound diaphragm assessment — RespiMyo project)
-- **NMR and Spectroscopy Laboratory** — in vivo muscle anatomy, physiology,
-  and biochemistry using MRI and spectroscopy
-- **Morphological Unit** — identification and characterisation of neuromuscular
-  diseases of genetic origin (neuropathology, muscle biopsy)
-- **Myobank-AFM** — IBiSA-labelled biobank of human muscle, nerve, and fluid
-  samples from neuromuscular and rare disease patients; aligned with
-  [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]] standards; uses [[02_Standards/HPO\|HPO]] and [[02_Standards/ORDO\|ORDO]] for phenotyping
+- **NeuPEL** — Neuromuscular Physiology and Evaluation Laboratory; develops outcome measures and measurement tools for clinical trials (MyoWrist dynamometer, ultrasound diaphragm assessment — RespiMyo project)
+- **NMR and Spectroscopy Laboratory** — in vivo muscle anatomy, physiology, and biochemistry using MRI and spectroscopy
+- **Morphological Unit** — identification and characterisation of neuromuscular diseases of genetic origin (neuropathology, muscle biopsy)
+- **Myobank-AFM** — IBiSA-labelled biobank of human muscle, nerve, and fluid samples from neuromuscular and rare disease patients; aligned with [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]] standards; uses [[02_Standards/HPO\|HPO]] and [[02_Standards/ORDO\|ORDO]] for phenotyping
 
 ### Clinical Centres
 - **I-Motion Pediatric** — paediatric clinical trial centre for neuromuscular diseases
@@ -47,8 +30,7 @@ Applied and clinical research infrastructure comprising:
 ## Key Open Science Resources
 - **Muscle Atlas** — open-access histological atlas of muscle pathology
 - **Myotools** — open-source tools for neuromuscular outcome measures
-- **Registers and Databases** — French and European neuromuscular disease registries
-  aligned with [[02_Standards/ERN Vocabularies\|ERN Vocabularies]] (ERN-NMD)
+- **Registers and Databases** — French and European neuromuscular disease registries aligned with [[02_Standards/ERN Vocabularies\|ERN Vocabularies]] (ERN-NMD)
 
 ## Connections
 - Campus partner: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (same Pitié-Salpêtrière site)

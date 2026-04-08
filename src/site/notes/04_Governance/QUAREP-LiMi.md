@@ -6,22 +6,10 @@
 # QUAREP-LiMi
 
 ## Overview
-QUAREP-LiMi (Quality Assessment and Reproducibility for Instruments & Images in
-Light Microscopy) is a global community-driven initiative founded in April 2020,
-comprising 590+ members from 41 countries across academia and industry. It works
-to establish common quality control (QC) standards, metadata models, guidelines,
-and tools for light microscopy, addressing the reproducibility crisis in imaging
-science. Its working groups produce Standard Operating Procedures (SOPs) for
-instrument calibration, acquisition metadata models, and publication guidelines.
-French participation is notable via Institut Curie/Inserm/CNRS (PICT-IBiSA
-imaging facility, Paris). QUAREP-LiMi collaborates closely with [[01_Actors/OME\|OME]],
-[[04_Governance/Euro-BioImaging\|Euro-BioImaging]], and ISO.
+QUAREP-LiMi (Quality Assessment and Reproducibility for Instruments & Images in Light Microscopy) is a global community-driven initiative founded in April 2020, comprising 590+ members from 41 countries across academia and industry. It works to establish common quality control (QC) standards, metadata models, guidelines, and tools for light microscopy, addressing the reproducibility crisis in imaging science. Its working groups produce Standard Operating Procedures (SOPs) for instrument calibration, acquisition metadata models, and publication guidelines. French participation is notable via Institut Curie/Inserm/CNRS (PICT-IBiSA imaging facility, Paris). QUAREP-LiMi collaborates closely with [[01_Actors/OME\|OME]], [[04_Governance/Euro-BioImaging\|Euro-BioImaging]], and ISO.
 
 ## Working Groups (15 active)
-Key areas include instrument QC, metadata standards, image quality metrics,
-fluorescent reference standards, publication guidelines, and AI-compatible
-data mining. Outputs are being formalised into ISO standards (ISO 172/SC 5
-Microscopes and Endoscopes).
+Key areas include instrument QC, metadata standards, image quality metrics, fluorescent reference standards, publication guidelines, and AI-compatible data mining. Outputs are being formalised into ISO standards (ISO 172/SC 5 Microscopes and Endoscopes).
 
 ## Key Outputs
 - Standard Operating Procedures for widefield and confocal QC
@@ -30,11 +18,9 @@ Microscopes and Endoscopes).
 - Community resources at forum.image.sc (open discussion platform)
 
 ## Connections
-- Collaborates with: [[01_Actors/OME\|OME]] (metadata model integration, OME-TIFF/NGFF),
-  [[04_Governance/Euro-BioImaging\|Euro-BioImaging]] (node QC implementation)
+- Collaborates with: [[01_Actors/OME\|OME]] (metadata model integration, OME-TIFF/NGFF), [[04_Governance/Euro-BioImaging\|Euro-BioImaging]] (node QC implementation)
 - Standards alignment: [[02_Standards/OME File Formats\|OME File Formats]], [[04_Governance/FAIR Principles\|FAIR Principles]]
-- French participation: Institut Curie/Inserm/CNRS (PICT-IBiSA),
-  relevant to [[04_Governance/France BioImaging\|France BioImaging]], [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
+- French participation: Institut Curie/Inserm/CNRS (PICT-IBiSA), relevant to [[04_Governance/France BioImaging\|France BioImaging]], [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
 - French counterpart: [[04_Governance/GT-GeDeM\|GT-GeDeM]] (RTmfm working group on microscopy data management)
 - Related: [[04_Governance/INCF Working Groups\|INCF Working Groups]] (analogous QC/standards body for neuroimaging)
 
