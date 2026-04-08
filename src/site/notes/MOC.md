@@ -4,7 +4,7 @@
 
 # Map of Content
 
-This map is a relational index of the **open science** ecosystem for neuroscience, including open science frameworks, data standards, platforms, infrastructure and working groups. The goal is the disambiguate the field by showing dependencies and convergences across actors, domains and research initiatives. While initially overwhelming, the graph can be explored with detailed descriptions in each node. The original focus has been on [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]'s operational context (explaining it's node centrality). However, the network can be extended beyond its direct environment and include standards, policies and partners who engage in open neuroscience. In open science the saying certainly goes:
+This map is a relational index of the **open science** ecosystem for neuroscience, including open science frameworks, data standards, platforms, infrastructure and working groups. The goal is to disambiguate the field by showing dependencies and convergences across actors, domains and research initiatives. While initially overwhelming, the graph can be explored with detailed descriptions in each node. The original focus has been on [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]'s operational context (explaining it's node centrality). However, the network can be extended beyond its direct environment and include standards, policies and partners who engage in open neuroscience. In open science the saying certainly goes:
 
 > *There are no strangers here, just friends you haven't met yet*. - W.B. Yeats
 
