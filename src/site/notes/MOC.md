@@ -8,7 +8,7 @@
 > 
 > The original focus is on [[00_Core/Paris Brain Institute\|Paris Brain Institute]]'s operational context, explaining it's node centrality. However, the network can be extended beyond its direct connections, as the main limitation in my understanding and memory.
 > 
-> The graph is made with Obsidian, with the website published to Vercel from a private github repository using the Digital Garden plugin. For now, to contribute please [email me][mailto:stephen.whitmarsh@icm-institute.org] directly rather than via pull-requests. The latter will be difficult to manage due to the interconnected nature of the graph. However, if you want to give it a shot, you can find the gitlab repository here. 
+> The graph is made with Obsidian, with the website published to Vercel from my public [github repository](https://github.com/stephenwhitmarsh/opensciencegraph)  using the Digital Garden plugin. For now, to contribute please [email me](mailto:stephen.whitmarsh@icm-institute.org) directly rather than via pull-requests. The latter will be difficult to manage due to the interconnected nature of the graph. However, if you want to give it a shot, you can find the gitlab repository here. 
 > 
 > Last updated: 2026-04-08
 
@@ -779,3 +779,66 @@ the relationship (e.g. [[03_Platforms/EBRAINS\|EBRAINS]], [[01_Actors/ENIGMA Con
 - [x] **ANS (Agence du Numérique en Santé)** — [[04_Governance/ANS\|ANS]] added to `04_Governance` ✅
 - [x] **OHDSI** — [[01_Actors/OHDSI\|OHDSI]] added to `01_Actors` ✅
 
+# Open Science Initiatives in Neuroscience in Japan
+
+## Major National Programs
+
+### Brain/MINDS (Brain Mapping by Integrated Neurotechnologies for Disease Studies)
+
+- Launched ~2014, funded by **AMED** (Japan Agency for Medical Research and Development)
+- Focuses on marmoset brain mapping using advanced neurotechnologies
+- Has an associated **data sharing portal** providing open access to marmoset neuroimaging and connectome data
+- Aims to bridge animal models and human neurological/psychiatric disease
+
+### Brain/MINDS Beyond
+
+- Extension toward **human brain imaging data**
+- Multi-site neuroimaging studies with data-sharing components
+- Connects Japanese data to international brain mapping efforts
+
+---
+
+## Open Datasets
+
+### SRPBS Multi-Disorder Neuroimaging Dataset
+
+- Multi-site resting-state fMRI dataset from Japanese institutions
+- Covers schizophrenia, depression, ASD, OCD, and healthy controls
+- Deposited on **OpenNeuro**, making it internationally accessible
+- A significant contribution to psychiatric neuroimaging open data
+
+---
+
+## Institutional Contributions
+
+|Institution|Notable Open Science Activity|
+|---|---|
+|**RIKEN Center for Brain Science (CBS)**|Data sharing, open tools, international collaborations|
+|**ATR (Advanced Telecommunications Research)**|Brain decoding datasets, open code|
+|**Kamitani Lab (Kyoto Univ./ATR)**|Shared data/code from visual imagery & dream decoding studies|
+|**NICT/CiNet**|Neural imaging data, open access outputs|
+
+---
+
+## Infrastructure & Policy
+
+- **INCF Japan Node** – Japanese participation in the International Neuroinformatics Coordinating Facility, supporting data standards and sharing
+- **MEXT & JST open science policies** – Government mandates pushing toward open access publishing and data sharing for publicly funded research (formalized around 2015–2017)
+- **BIDS adoption** – Japanese labs increasingly using Brain Imaging Data Structure for standardized data sharing
+
+---
+
+## International Connections
+
+- Japanese groups contributing to **OpenNeuro**, **OSF**, and **figshare**
+- Participation in global initiatives like **ABIDE**, **ADHD-200**
+- Collaborations with **Human Connectome Project** style efforts
+
+---
+
+## Caveats
+
+- This is a fast-moving area, and some initiatives may have evolved or ended since my knowledge cutoff (early 2025)
+- Specific data portal URLs and access conditions change — checking **AMED's website** or **OpenNeuro** directly is recommended for current status
+
+Would you like more detail on any specific initiative or institution?
