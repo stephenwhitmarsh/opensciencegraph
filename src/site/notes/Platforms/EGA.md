@@ -1,0 +1,40 @@
+---
+{"dg-publish":true,"permalink":"/platforms/ega/","tags":["icm/uses"],"dg-note-properties":{"name":"European Genome-phenome Archive","aliases":["EGA"],"website":"https://ega-archive.org","type":"repository","scope":"european","domain":["genomics","clinical"],"status":"active","founded":2008,"parent_org":"EMBL-EBI / Centre for Genomic Regulation (CRG)","tags":["icm/uses"]}}
+---
+
+
+# EGA — European Genome-phenome Archive
+
+## Overview
+The European Genome-phenome Archive (EGA) is the primary European controlled-access repository for human genomic and phenotypic data from biomedical research studies. Operated jointly by EMBL-EBI (Hinxton) and the Centre for Genomic Regulation (CRG, Barcelona), EGA stores data that cannot be publicly released due to patient privacy and consent restrictions — requiring researchers to apply for access through a Data Access Committee (DAC) established by the data submitter.
+
+EGA is directly relevant to [[Actors/Paris Brain Institute\|Paris Brain Institute]] for depositing and accessing genomic and multi-omics data from neurological disease studies involving human participants, where privacy constraints preclude open release in repositories like [[Platforms/NCBI GEO\|NCBI GEO]].
+
+## What EGA Stores
+- **Whole genome sequencing (WGS)** — germline and somatic variant data
+- **Whole exome sequencing (WES)** — targeted coding variant data
+- **SNP genotyping arrays** — GWAS data
+- **RNA-seq** — bulk and single-cell transcriptomics with phenotypic linkage
+- **Epigenomics** — methylation, ChIP-seq, ATAC-seq
+- **Phenotypic data** — clinical annotations, diagnoses, biomarkers linked to genomic data
+- **Multi-omics** — integrated datasets combining several data types
+
+## Access Model
+EGA uses a **two-tier access model**: (1) **Data submission** — researchers submit data and establish a DAC with defined access conditions (consent-based, IRB-linked); (2) **Data access** — external researchers apply to the DAC for access; approved applicants receive secure download credentials. This model complies with GDPR and enables sharing of sensitive health data under controlled conditions — aligned with [[Governance/EHDS\|EHDS]] secondary use frameworks.
+
+## Federated EGA (FEGA)
+The **Federated EGA** initiative extends the EGA model to national nodes, allowing countries to host sensitive genomic data locally while maintaining discoverability in the central EGA catalogue. French sensitive genomic data may eventually be hosted via a French FEGA node aligned with [[Governance/Health Data Hub\|Health Data Hub]] and [[Governance/EHDS\|EHDS]] requirements.
+
+## Connections
+- Operated by: EMBL-EBI + CRG (Barcelona)
+- Part of: [[Governance/ELIXIR\|ELIXIR]] data services, [[Governance/BBMRI-ERIC\|BBMRI-ERIC]] (biobank data)
+- Access governance: [[Actors/GA4GH\|GA4GH]] Data Use Ontology (DUO) for machine-readable consent terms; [[Standards/Phenopackets\|Phenopackets]] for phenotype linkage
+- Standards: [[Standards/VCF\|VCF]], [[Actors/GA4GH\|GA4GH]] standards (Beacon API, DRS)
+- Complementary open-access: [[Platforms/NCBI GEO\|NCBI GEO]], [[Platforms/DDBJ\|DDBJ]]
+- French alignment: [[Governance/Health Data Hub\|Health Data Hub]] (health data), [[Governance/IFB\|IFB]] (ELIXIR-FR node)
+- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (controlled-access genomics from neurological disease cohorts, GWAS data, multi-omics)
+
+## Resources
+- https://ega-archive.org
+- https://ega-archive.org/federated (Federated EGA)
+- https://www.ga4gh.org/product/data-use-ontology-duo/ (DUO for access conditions)
