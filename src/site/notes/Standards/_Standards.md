@@ -56,3 +56,43 @@ Return to [[MOC\|MOC]].
 - [[Standards/SPARC SDS\|SPARC SDS]] — SPARC Data Structure; NIH SPARC programme standard for peripheral nervous system data
 - [[Standards/UBERON\|UBERON]] — cross-species anatomy ontology; brain region annotation in EBRAINS, NWB, Allen Institute
 - [[Standards/VCF\|VCF]] — Variant Call Format; universal format for genomic variant data
+
+## Quick Reference: Ontologies and Terminologies
+
+### Which Ontology for Which Task
+
+| Task | Use |
+|---|---|
+| Code diagnosis from Health Data Hub | [[Standards/ICD-10\|ICD-10]] / [[Standards/SNOMED CT\|SNOMED CT]] |
+| Code AP-HP procedure | [[Standards/CCAM\|CCAM]] / [[Standards/SNOMED CT\|SNOMED CT]] |
+| Code lab result or biomarker | [[Standards/LOINC\|LOINC]] |
+| Annotate fMRI task events | [[Standards/HED\|HED]] + [[Standards/Cognitive Atlas\|Cognitive Atlas]] |
+| Describe brain regions cross-species | [[Standards/UBERON\|UBERON]] |
+| Code rare neurological disease | [[Standards/ORDO\|ORDO]] + [[Standards/HPO\|HPO]] |
+| Build OMOP CDM cohort | [[Standards/SNOMED CT\|SNOMED CT]] + [[Standards/LOINC\|LOINC]] + [[Standards/ICD-10\|ICD-10]] |
+| Deposit data on EBRAINS | [[Standards/openMINDS\|openMINDS]] |
+| Deposit data on Recherche Data Gouv | [[Standards/Dublin Core\|Dublin Core]] + [[Standards/DCAT\|DCAT]] |
+| Track analysis provenance | [[Standards/PROV-O\|PROV-O]] + [[Standards/NIDM\|NIDM]] |
+| Code clinical trial adverse events | [[Standards/MedDRA\|MedDRA]] |
+| Describe study protocol formally | [[Actors/OBI\|Actors/OBI]] |
+| Harmonise disease terms across databases | [[Standards/MONDO\|MONDO]] |
+| Harmonise rare disease codes | [[Standards/ORDO\|ORDO]] ↔ [[Standards/MONDO\|MONDO]] ↔ [[Standards/HPO\|HPO]] |
+| Annotate gene expression / transcriptomics | [[Standards/GO\|GO]] |
+| Annotate behavioural phenotypes | [[Standards/NBO\|NBO]] + [[Standards/Cognitive Atlas\|Cognitive Atlas]] |
+| Code drug / chemical compound | [[Standards/RxNorm\|RxNorm]] + [[Standards/ChEBI\|ChEBI]] |
+| Code cancer or clinical trial concept | [[Standards/NCIT\|NCIT]] + [[Standards/MedDRA\|MedDRA]] |
+| Code rare neurological disease (ERN registry) | [[Standards/ERN Vocabularies\|ERN Vocabularies]] + [[Standards/ORDO\|ORDO]] + [[Standards/HPO\|HPO]] |
+| Annotate PNS / peripheral nerve data | [[Standards/SPARC SDS\|SPARC SDS]] |
+| Annotate genomic variants | [[Standards/VCF\|VCF]] + [[Standards/OMIM\|OMIM]] + [[Standards/HPO\|HPO]] (via [[Standards/Phenopackets\|Phenopackets]]) |
+| Search clinical literature | [[Standards/MeSH\|MeSH]] (PubMed) |
+
+### Key Ontology Browsers
+
+- OBO Foundry: https://obofoundry.org
+- BioPortal: https://bioportal.bioontology.org
+- EMBL-EBI OLS: https://www.ebi.ac.uk/ols
+- SNOMED CT browser: https://browser.ihtsdotools.org
+- LOINC search: https://loinc.org/search/
+- Athena OMOP vocabularies: https://athena.ohdsi.org
+- Orphanet (ORDO): https://www.orpha.net
+- openMINDS docs: https://openminds.ebrains.eu

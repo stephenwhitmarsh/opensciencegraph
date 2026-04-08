@@ -4,6 +4,7 @@
 
 
 ---
+
 # Map of Content
 
 This map is a relational index of the **open science** ecosystem for neuroscience, including open science frameworks, data standards, platforms, infrastructure and working groups. The goal is to disambiguate the field by showing dependencies and convergences across actors, domains and research initiatives. While initially overwhelming, the graph can be explored with detailed descriptions in each node. The original focus has been on [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s operational context (explaining its node centrality). However, the network can be extended beyond its direct environment and include standards, policies and partners who engage in open neuroscience. In open science the saying certainly goes:
@@ -22,50 +23,6 @@ The graph is organised across four directories, each with a dedicated sub-MOC wi
 - [[Standards/_Standards\|_Standards]] — data format standards, terminologies, ontologies and metadata frameworks (47 nodes)
 - [[Platforms/_Platforms\|_Platforms]] — repositories, data platforms and clinical data capture systems (27 nodes)
 - [[Governance/_Governance\|_Governance]] — national and European infrastructures, policies, working groups and frameworks (55 nodes)
-
----
-
-## Quick Reference: Ontologies and Terminologies
-
-*All nodes are in Standards.` Full descriptions in [[Standards/_Standards\|_Standards]].*
-
-### Which Ontology for Which Task
-
-| Task | Use |
-|---|---|
-| Code diagnosis from Health Data Hub | [[Standards/ICD-10\|ICD-10]] / [[Standards/SNOMED CT\|SNOMED CT]] |
-| Code AP-HP procedure | [[Standards/CCAM\|CCAM]] / [[Standards/SNOMED CT\|SNOMED CT]] |
-| Code lab result or biomarker | [[Standards/LOINC\|LOINC]] |
-| Annotate fMRI task events | [[Standards/HED\|HED]] + [[Standards/Cognitive Atlas\|Cognitive Atlas]] |
-| Describe brain regions cross-species | [[Standards/UBERON\|UBERON]] |
-| Code rare neurological disease | [[Standards/ORDO\|ORDO]] + [[Standards/HPO\|HPO]] |
-| Build OMOP CDM cohort | [[Standards/SNOMED CT\|SNOMED CT]] + [[Standards/LOINC\|LOINC]] + [[Standards/ICD-10\|ICD-10]] |
-| Deposit data on EBRAINS | [[Standards/openMINDS\|openMINDS]] |
-| Deposit data on Recherche Data Gouv | [[Standards/Dublin Core\|Dublin Core]] + [[Standards/DCAT\|DCAT]] |
-| Track analysis provenance | [[Standards/PROV-O\|PROV-O]] + [[Standards/NIDM\|NIDM]] |
-| Code clinical trial adverse events | [[Standards/MedDRA\|MedDRA]] |
-| Describe study protocol formally | [[Actors/OBI\|Actors/OBI]] |
-| Harmonise disease terms across databases | [[Standards/MONDO\|MONDO]] |
-| Harmonise rare disease codes | [[Standards/ORDO\|ORDO]] ↔ [[Standards/MONDO\|MONDO]] ↔ [[Standards/HPO\|HPO]] |
-| Annotate gene expression / transcriptomics | [[Standards/GO\|GO]] |
-| Annotate behavioural phenotypes | [[Standards/NBO\|NBO]] + [[Standards/Cognitive Atlas\|Cognitive Atlas]] |
-| Code drug / chemical compound | [[Standards/RxNorm\|RxNorm]] + [[Standards/ChEBI\|ChEBI]] |
-| Code cancer or clinical trial concept | [[Standards/NCIT\|NCIT]] + [[Standards/MedDRA\|MedDRA]] |
-| Code rare neurological disease (ERN registry) | [[Standards/ERN Vocabularies\|ERN Vocabularies]] + [[Standards/ORDO\|ORDO]] + [[Standards/HPO\|HPO]] |
-| Annotate PNS / peripheral nerve data | [[Standards/SPARC SDS\|SPARC SDS]] |
-| Annotate genomic variants | [[Standards/VCF\|VCF]] + [[Standards/OMIM\|OMIM]] + [[Standards/HPO\|HPO]] (via [[Standards/Phenopackets\|Phenopackets]]) |
-| Search clinical literature | [[Standards/MeSH\|MeSH]] (PubMed) |
-
-### Key Ontology Browsers
-
-- OBO Foundry: https://obofoundry.org
-- BioPortal: https://bioportal.bioontology.org
-- EMBL-EBI OLS: https://www.ebi.ac.uk/ols
-- SNOMED CT browser: https://browser.ihtsdotools.org
-- LOINC search: https://loinc.org/search/
-- Athena OMOP vocabularies: https://athena.ohdsi.org
-- Orphanet (ORDO): https://www.orpha.net
-- openMINDS docs: https://openminds.ebrains.eu
 
 ---
 
