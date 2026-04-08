@@ -452,3 +452,6 @@ FROM "Open_Science_Neuroscience/04_Governance"
 WHERE type = "working-group" OR type = "framework" OR type = "initiative"
 SORT scope ASC
 ```
+
+## TODO
+Add link ICM - IFB (DAC as participating platform)
