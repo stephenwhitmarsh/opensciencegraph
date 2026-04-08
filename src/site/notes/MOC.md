@@ -67,12 +67,15 @@ Last updated: 2026-04-08 (session 3)
 
 *All in `02_Standards`. Filter by `type` in Dataview: `standard` | `terminology` | `framework`.*
 
-### Neuroimaging Formats
+### Neuroimaging
 - [[02_Standards/DICOM\|DICOM]] — universal clinical imaging format; source format converted to NIfTI/BIDS
 - [[02_Standards/NIfTI\|NIfTI]] — universal processed neuroimaging format (.nii/.nii.gz); pivot between DICOM and BIDS
 - [[02_Standards/CIFTI\|CIFTI]] — surface+volume (greyordinate) format for cortical data; developed by HCP; complements NIfTI
 - [[02_Standards/BIDS\|BIDS]] — Brain Imaging Data Structure; de facto community standard for neuroimaging datasets
-
+- [[02_Standards/NIDM\|NIDM]] — Neuroimaging Data Model; W3C PROV-based provenance for neuroimaging experiments
+- [[02_Standards/Cognitive Atlas\|Cognitive Atlas]] — ontology of cognitive processes and tasks; used by NeuroVault and BIDS
+- [[02_Standards/UBERON\|UBERON]] — cross-species anatomy ontology; brain region annotation in EBRAINS, NWB, Allen Institute
+- [[02_Standards/openMINDS\|openMINDS]] — EBRAINS metadata framework; required for EBRAINS data deposit
 ### Neurophysiology
 - [[02_Standards/NWB\|NWB]] — Neurodata Without Borders; community standard for electrophysiology and calcium imaging
 - [[02_Standards/HED\|HED]] — Hierarchical Event Descriptors; structured event annotation integrated into BIDS/NWB
@@ -84,12 +87,6 @@ Last updated: 2026-04-08 (session 3)
 
 ### Computational Neuroscience
 - [[02_Standards/NeuroML\|NeuroML]] — simulator-independent XML format for computational neuron/network models
-
-### Neuroimaging Annotation and Semantics
-- [[02_Standards/NIDM\|NIDM]] — Neuroimaging Data Model; W3C PROV-based provenance for neuroimaging experiments
-- [[02_Standards/Cognitive Atlas\|Cognitive Atlas]] — ontology of cognitive processes and tasks; used by NeuroVault and BIDS
-- [[02_Standards/UBERON\|UBERON]] — cross-species anatomy ontology; brain region annotation in EBRAINS, NWB, Allen Institute
-- [[02_Standards/openMINDS\|openMINDS]] — EBRAINS metadata framework; required for EBRAINS data deposit
 
 ### Clinical Health Standards
 - [[02_Standards/OMOP CDM\|OMOP CDM]] — OHDSI Common Data Model; federated observational health research
@@ -224,7 +221,7 @@ Last updated: 2026-04-08 (session 3)
 - [[04_Governance/OpenAIRE\|OpenAIRE]] — EU open science and open access infrastructure; hosts Zenodo
 - [[04_Governance/EC Open Science Policy\|EC Open Science Policy]] — Horizon Europe OA mandates, Plan S, EOSC policy; drives all EU open science requirements
 
-### International Frameworks and Principles (scope: international, type: framework/initiative/policy)
+### International Frameworks and Principles
 - [[04_Governance/ARDC\|ARDC]] — Australian Research Data Commons; national FAIR/RDM infrastructure; EOSC counterpart; RDA partner
 - [[04_Governance/HDR UK\|HDR UK]] — Health Data Research UK; UK national health data science institute; FAIR; OMOP CDM; HL7 FHIR; CURE-ND AI/ML workshop participant
 - [[04_Governance/FAIR Principles\|FAIR Principles]] — 15 Findable/Accessible/Interoperable/Reusable principles (Wilkinson et al. 2016)
@@ -233,12 +230,12 @@ Last updated: 2026-04-08 (session 3)
 - [[04_Governance/FORCE11\|FORCE11]] — co-authored FAIR Principles; scholarly communications reform
 - [[04_Governance/UNESCO Open Science Recommendation\|UNESCO Open Science Recommendation]] — 2021 global framework for open science policy
 
-### Clinical Research Infrastructure (domain: clinical)
+### Clinical Research Infrastructure
 - [[04_Governance/i2b2\|i2b2]] — clinical data warehousing platform; deployed at AP-HP alongside OMOP CDM
 - [[04_Governance/YODA Project\|YODA Project]] — Yale Open Data Access; independent third-party clinical trial data sharing (499 trials); influenced NIH data sharing policy; co-founders created medRxiv
 - [[04_Governance/TransCelerate\|TransCelerate]] — pharma industry consortium; CDISC standards; trial data sharing
 
-### Working Groups (type: working-group)
+### Working Groups
 - [[04_Governance/BIDS Steering Group\|BIDS Steering Group]] — governs BIDS specification and BEP extension process (under INCF)
 - [[04_Governance/NWB Working Group\|NWB Working Group]] — governs NWB specification and NDX extensions (under INCF)
 - [[04_Governance/INCF Working Groups\|INCF Working Groups]] — INCF task forces producing BIDS, NWB, HED, NIDM, NeuroML
