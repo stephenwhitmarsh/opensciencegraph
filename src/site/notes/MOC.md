@@ -7,57 +7,54 @@
 
 # Map of Content
 
-This map is a relational index of the **open science** ecosystem for neuroscience, including open science frameworks, data standards, platforms, infrastructure and working groups. The goal is to disambiguate the field by showing dependencies and convergences across actors, domains and research initiatives. While initially overwhelming, the graph can be explored with detailed descriptions in each node. The original focus has been on [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s operational context (explaining its node centrality). However, the network can be extended beyond its direct environment and include standards, policies and partners who engage in open neuroscience. In open science the saying certainly goes:
+This web page is a graph of the **open science** ecosystem for neuroscience, including open science frameworks, data standards, platforms, infrastructure and working groups. The goal is to disambiguate the field by showing dependencies and convergences across actors, domains and research initiatives. The main focus is on [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s operational context. However, the network will happily extend and include standards, policies and partners who engage in open neuroscience. What you see is an [Obsidian](https://obsidian.md/) vault, with the website published to Vercel via my public [github repository](https://github.com/stephenwhitmarsh/opensciencegraph) using the [Digital Garden community plugin](https://docs.forestry.md/). If you want to contribute or make a correction or suggestion, please [email me](mailto:stephen.whitmarsh@icm-institute.org). In open science perhaps more than anywhere else, this quote by W.B. Yeats rings true:
 
-> *There are no strangers here, just friends you haven't met yet*. - W.B. Yeats
+> *There are no strangers here, just friends you haven't met yet*
 
-What you see is an [Obsidian](https://obsidian.md/) vault, with the website published to Vercel via my public [github repository](https://github.com/stephenwhitmarsh/opensciencegraph) using the [Digital Garden community plugin](https://docs.forestry.md/). If you want to contribute or make a correction or suggestion, please [email me](mailto:stephen.whitmarsh@icm-institute.org).
 
 ---
 
 ## Index
 
-The graph is organised across four directories, each with a dedicated sub-MOC with a full alphabetical index of its nodes.
+The graph is organised across four directories, each with a dedicated sub-MOC (Map Of Connections) with a full alphabetical index of its nodes.
 
-- [[Actors/_Actors\|_Actors]] — consortia, institutes, initiatives, biobanks and ICM core facilities (33 nodes)
-- [[Standards/_Standards\|_Standards]] — data format standards, terminologies, ontologies and metadata frameworks (47 nodes)
-- [[Platforms/_Platforms\|_Platforms]] — repositories, data platforms and clinical data capture systems (27 nodes)
-- [[Governance/_Governance\|_Governance]] — national and European infrastructures, policies, working groups and frameworks (55 nodes)
+- [[Actors/_Actors\|_Actors]] — consortia, institutes, initiatives, biobanks and ICM core facilities
+- [[Standards/_Standards\|_Standards]] — data format standards, terminologies, ontologies and metadata frameworks
+- [[Platforms/_Platforms\|_Platforms]] — repositories, data platforms and clinical data capture systems
+- [[Governance/_Governance\|_Governance]] — national and European infrastructures, policies, working groups and frameworks
 
 ---
 ## Frontmatter Schema
 
 Every node uses a lean, non-redundant YAML schema. Only two semantic tags exist, marking ICM's operational relationship to a node:
 
-| Tag | Meaning |
-|---|---|
-| `icm/uses` | ICM operationally uses this standard, platform, or tool |
-| `icm/participates` | ICM is an active member or participant in this body |
+| Tag                | Meaning                                                 |
+| ------------------ | ------------------------------------------------------- |
+| `icm/uses`         | ICM operationally uses this standard, platform, or tool |
+| `icm/participates` | ICM is an active member or participant in this body     |
 
-**Controlled vocabularies:**
+The following **Controlled vocabularies** are used in the note headers:
 
 `type:` — `standard` \| `terminology` \| `framework` \| `platform` \| `repository` \| `infrastructure` \| `facility` \| `institute` \| `consortium` \| `initiative` \| `working-group` \| `policy` \| `biobank`
-
 `domain:` — `neuroimaging` \| `electrophysiology` \| `clinical` \| `genomics` \| `multimodal` \| `bioimaging` \| `computational` \| `behavior` \| `health`
-
 `scope:` — `french` \| `european` \| `international`
 
-**Graph view group queries** (Settings → Graph view → Groups → `+`):
+This allows you to highlight groups in the graph when in Obsidian (Settings → Graph view → Groups → `+`):
 
-| Group | Query |
-|---|---|
-| Institutes | `[type:institute]` |
-| Consortia & initiatives | `[type:consortium] OR [type:initiative]` |
-| Standards & terminologies | `[type:standard] OR [type:terminology]` |
-| Frameworks & principles | `[type:framework] OR [type:policy]` |
-| Repositories & platforms | `[type:repository] OR [type:platform]` |
-| Core facilities | `[type:facility]` |
-| Infrastructure & biobanks | `[type:infrastructure] OR [type:biobank]` |
-| Working groups | `[type:working-group]` |
-| ICM uses | `[tags:icm/uses]` |
-| ICM participates | `[tags:icm/participates]` |
-| French scope | `[scope:french]` |
-| European scope | `[scope:european]` |
+| Group                     | Query                                     |     |
+| ------------------------- | ----------------------------------------- | --- |
+| Institutes                | `[type:institute]`                        |     |
+| Consortia & initiatives   | `[type:consortium] OR [type:initiative]`  |     |
+| Standards & terminologies | `[type:standard] OR [type:terminology]`   |     |
+| Frameworks & principles   | `[type:framework] OR [type:policy]`       |     |
+| Repositories & platforms  | `[type:repository] OR [type:platform]`    |     |
+| Core facilities           | `[type:facility]`                         |     |
+| Infrastructure & biobanks | `[type:infrastructure] OR [type:biobank]` |     |
+| Working groups            | `[type:working-group]`                    |     |
+| ICM uses                  | `[tags:icm/uses]`                         |     |
+| ICM participates          | `[tags:icm/participates]`                 |     |
+| French scope              | `[scope:french]`                          |     |
+| European scope            | `[scope:european]`                        |     |
 
 ## Key Structural Relationships
 
@@ -118,7 +115,6 @@ FAIR Principles ──implemented via──► BIDS (neuroimaging), NWB (electro
 
 
 ---
-
 ## Dataview queries
 
 Copy the following dataview code blocks in Obsidian:
