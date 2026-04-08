@@ -462,24 +462,3 @@ SORT scope ASC
 
 ## Backlog — TODOs and Candidate Nodes
 
-#### 11. Candidate new nodes — session 3 ✅ COMPLETE
-- [x] **OSIRIS** — [[02_Standards/OSIRIS\|OSIRIS]] added to `02_Standards`; INCa French oncology minimum data set; FHIR-aligned ✅
-- [x] **CleanWEB** — [[03_Platforms/CleanWEB\|CleanWEB]] added to `03_Platforms`; AP-HP institutional eCRF; not used by ICM ✅
-- [x] **ATC** — [[02_Standards/ATC\|ATC]] added to `02_Standards`; WHO drug classification; OMOP CDM vocabulary ✅
-
-#### 12. Actor–standards link audit — session 3 ✅ COMPLETE
-
-All 32 actor nodes read and every wikilink to standards/platforms verified. Five corrections applied:
-
-| Node | Change | Reason |
-|---|---|---|
-| Banque ADN et Cellules | `[[OMOP CDM]]` removed (×2) | OMOP CDM operates at EHR/data warehouse level (AP-HP EDS, HDH); no evidence the biobank itself maps sample-linked clinical data to OMOP |
-| ADNI | `[[OpenNeuro]] (derivatives)` → scoped to clarify primary data on LONI IDA | OpenNeuro only holds community-produced BIDS derivatives, not official ADNI data |
-| DZNE | `[[BBMRI-ERIC]] (German node)` label corrected | German BBMRI-ERIC node is BBMRI.de/TMF, not DZNE directly |
-| DZNE | `[[openMINDS]]` removed from Standards | DZNE contributes to EBRAINS but is not a confirmed direct openMINDS adopter |
-| Mission Lucidity | `[[EBRAINS]]` removed | Incorrectly attributed from DZNE; Mission Lucidity has no confirmed EBRAINS relationship |
-| Mission Lucidity | `[[JPND]]` scoped | Relationship is indirect via CURE-ND partners, not a confirmed direct JPND membership |
-| INCF | `[[CNRS Open Science]]` as French node replaced | French INCF node is a broader consortium, not solely CNRS/ICM |
-| Brain-MINDS | `[[DANDI Archive]]` scoped | SRPBS on OpenNeuro confirmed; DANDI deposit not verified as active |
-
-All other links (32 actors, 150+ wikilinks) verified as accurate.
