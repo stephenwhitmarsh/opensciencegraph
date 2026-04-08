@@ -7,7 +7,7 @@
 
 # Map of Content
 
-This web page is a graph of the **open science** ecosystem for neuroscience, including open science frameworks, data standards, platforms, infrastructure and working groups. The goal is to disambiguate the field by showing dependencies and convergences across actors, domains and research initiatives. The main focus is on [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s operational context. However, the network will happily extend and include standards, policies and partners who engage in open neuroscience. What you see is an [Obsidian](https://obsidian.md/) vault, with the website published to Vercel via my public [github repository](https://github.com/stephenwhitmarsh/opensciencegraph) using the [Digital Garden community plugin](https://docs.forestry.md/). If you want to contribute or make a correction or suggestion, please [email me](mailto:stephen.whitmarsh@icm-institute.org). In open science perhaps more than anywhere else, this quote by W.B. Yeats rings true:
+This web page is a graph of the **open science** ecosystem for neuroscience, including open science frameworks, data standards, platforms, infrastructure and working groups. The goal is to disambiguate the field by showing dependencies and convergences across actors, domains and research initiatives. The main focus is on [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s operational context. However, the network will happily extend and include more standards, policies and partners who engage in open neuroscience. What you see is based on an [Obsidian](https://obsidian.md/) vault, with the website published to Vercel via my public [github repository](https://github.com/stephenwhitmarsh/opensciencegraph) using the [Digital Garden community plugin](https://docs.forestry.md/). If you want to contribute or make a correction or suggestion, please just [email me](mailto:stephen.whitmarsh@icm-institute.org). In open science perhaps more than anywhere else, this quote by W.B. Yeats rings true:
 
 > *There are no strangers here, just friends you haven't met yet*
 
@@ -41,20 +41,20 @@ The following **Controlled vocabularies** are used in the note headers:
 
 This allows you to highlight groups in the graph when in Obsidian (Settings → Graph view → Groups → `+`):
 
-| Group                     | Query                                     |     |
-| ------------------------- | ----------------------------------------- | --- |
-| Institutes                | `[type:institute]`                        |     |
-| Consortia & initiatives   | `[type:consortium] OR [type:initiative]`  |     |
-| Standards & terminologies | `[type:standard] OR [type:terminology]`   |     |
-| Frameworks & principles   | `[type:framework] OR [type:policy]`       |     |
-| Repositories & platforms  | `[type:repository] OR [type:platform]`    |     |
-| Core facilities           | `[type:facility]`                         |     |
-| Infrastructure & biobanks | `[type:infrastructure] OR [type:biobank]` |     |
-| Working groups            | `[type:working-group]`                    |     |
-| ICM uses                  | `[tags:icm/uses]`                         |     |
-| ICM participates          | `[tags:icm/participates]`                 |     |
-| French scope              | `[scope:french]`                          |     |
-| European scope            | `[scope:european]`                        |     |
+| Group                     | Query                                     |
+| ------------------------- | ----------------------------------------- |
+| Institutes                | `[type:institute]`                        |
+| Consortia & initiatives   | `[type:consortium] OR [type:initiative]`  |
+| Standards & terminologies | `[type:standard] OR [type:terminology]`   |
+| Frameworks & principles   | `[type:framework] OR [type:policy]`       |
+| Repositories & platforms  | `[type:repository] OR [type:platform]`    |
+| Core facilities           | `[type:facility]`                         |
+| Infrastructure & biobanks | `[type:infrastructure] OR [type:biobank]` |
+| Working groups            | `[type:working-group]`                    |
+| ICM uses                  | `[tags:icm/uses]`                         |
+| ICM participates          | `[tags:icm/participates]`                 |
+| French scope              | `[scope:french]`                          |
+| European scope            | `[scope:european]`                        |
 
 ## Key Structural Relationships
 
