@@ -14,12 +14,6 @@ Last updated: 2026-04-08 (session 3)
 
 ---
 
-## Core
-
-- [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
-
----
-
 ## Actors — Consortia, Institutes and Projects
 
 *All in `01_Actors` (including [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]). Filter by `type: consortium / institute / initiative / biobank` and `scope`.*
