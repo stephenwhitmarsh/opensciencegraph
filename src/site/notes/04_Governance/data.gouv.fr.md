@@ -18,7 +18,7 @@ open neuroscience operate: [[03_Platforms/Recherche Data Gouv\|Recherche Data Go
 
 ## What it is and is not
 data.gouv.fr is a **government open data portal**, not a disciplinary research
-repository. Researchers at [[00_Core/Paris Brain Institute\|Paris Brain Institute]] would not deposit
+repository. Researchers at [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] would not deposit
 neuroimaging or neuroscience datasets here directly. The correct deposit
 destinations within the ecosystem are:
 - **[[03_Platforms/Recherche Data Gouv\|Recherche Data Gouv]]** — for research outputs from publicly funded projects

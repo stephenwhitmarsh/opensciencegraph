@@ -48,7 +48,7 @@ for single-cell data alongside [[02_Standards/VCF\|VCF]] for associated variant 
 - Data standards: [[02_Standards/VCF\|VCF]], [[02_Standards/OMOP CDM\|OMOP CDM]], AnnData/h5ad (scRNA-seq)
 - Related: [[01_Actors/BICAN\|BICAN]] (US brain cell atlas — complementary single-cell effort)
 - Reference: Rajewsky et al. (2020) *Nature* doi:10.1038/s41586-020-2715-9
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (single-cell genomics at [[01_Actors/iGENSEQ\|iGENSEQ]];
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (single-cell genomics at [[01_Actors/iGENSEQ\|iGENSEQ]];
   neurological disease cell atlas reference data)
 
 ## Resources

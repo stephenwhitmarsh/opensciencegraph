@@ -11,7 +11,7 @@ neuroscience research products — datasets, models, software, and workflows —
 with rich, FAIR-compliant, machine-readable schemas. It is the metadata
 infrastructure that powers EBRAINS Data and Knowledge: every dataset, model,
 and software tool shared on the EBRAINS platform is described using openMINDS
-schemas. For [[00_Core/Paris Brain Institute\|Paris Brain Institute]] as an EBRAINS member institution,
+schemas. For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] as an EBRAINS member institution,
 openMINDS is the required metadata standard when depositing any data on
 the EBRAINS platform.
 
@@ -40,7 +40,7 @@ openMINDS schemas are designed to fulfil the FAIR principles:
 - Uses: [[02_Standards/UBERON\|UBERON]] (brain region annotation), [[02_Standards/BIDS\|BIDS]] (dataset organisation),
   [[02_Standards/NWB\|NWB]] (electrophysiology data format)
 - Complements: [[02_Standards/REMBI\|REMBI]] (microscopy metadata), [[02_Standards/BIDS\|BIDS]] (neuroimaging organisation)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (EBRAINS data deposit),
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (EBRAINS data deposit),
   [[01_Actors/Donders Institute\|Donders Institute]], [[04_Governance/Human Brain Project\|Human Brain Project]]
 
 ## Resources

@@ -61,7 +61,7 @@ MeSH, [[02_Standards/ICD-10\|ICD-10]], [[02_Standards/SNOMED CT\|SNOMED CT]], an
 - Used by: PubMed, [[03_Platforms/ClinicalTrials.gov\|ClinicalTrials.gov]], [[03_Platforms/dbGaP\|dbGaP]], [[02_Standards/OMOP CDM\|OMOP CDM]], [[04_Governance/NIF\|NIF]]
 - Maps to: [[02_Standards/SNOMED CT\|SNOMED CT]], [[02_Standards/ICD-10\|ICD-10]], [[02_Standards/MONDO\|MONDO]], [[02_Standards/HPO\|HPO]] (via cross-references)
 - Complements: [[02_Standards/RxNorm\|RxNorm]] (MeSH covers drug classes; RxNorm covers clinical formulations)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (PubMed literature search; ClinicalTrials.gov
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (PubMed literature search; ClinicalTrials.gov
   registration; OMOP CDM concept mapping)
 
 ## Resources

@@ -12,7 +12,7 @@ distributed repositories. Published as a W3C Recommendation (DCAT v1: 2014,
 DCAT v2: 2020, DCAT v3: 2024), it is the vocabulary that makes data catalogues
 interoperable: a dataset described with DCAT in [[03_Platforms/Recherche Data Gouv\|Recherche Data Gouv]] can be
 harvested and found through the [[04_Governance/EOSC\|EOSC]] portal, [[04_Governance/data.gouv.fr\|data.gouv.fr]], and other
-DCAT-compliant catalogues without any manual re-entry. For [[00_Core/Paris Brain Institute\|Paris Brain Institute]],
+DCAT-compliant catalogues without any manual re-entry. For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]],
 DCAT is the "invisible" standard that powers discoverability of ICM datasets
 in the French and European open science ecosystem.
 

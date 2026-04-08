@@ -21,7 +21,7 @@ France's [[04_Governance/Health Data Hub\|Health Data Hub]] within the broader [
 framework.
 
 HDR UK participated in the 2026 CURE-ND AI/ML workshop alongside directors of
-[[00_Core/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/UK DRI\|UK DRI]], [[01_Actors/DZNE\|DZNE]], and [[01_Actors/Mission Lucidity\|Mission Lucidity]], underscoring
+[[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/UK DRI\|UK DRI]], [[01_Actors/DZNE\|DZNE]], and [[01_Actors/Mission Lucidity\|Mission Lucidity]], underscoring
 its role at the intersection of health data science and neurodegenerative disease research.
 
 ## Key Programmes and Infrastructure

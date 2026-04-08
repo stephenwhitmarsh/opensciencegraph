@@ -14,7 +14,7 @@ support, and a network of national partner organisations that facilitate the
 practical aspects of running clinical studies across multiple European countries —
 from regulatory submissions and ethics approvals to data collection and monitoring.
 
-For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], ECRIN is directly relevant through [[04_Governance/AP-HP\|AP-HP]]
+For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], ECRIN is directly relevant through [[04_Governance/AP-HP\|AP-HP]]
 as the French national partner, and through ICM's participation in multinational
 neurological disease trials that require pan-European site coordination.
 
@@ -69,7 +69,7 @@ ECRIN is part of the ESFRI Health Research Infrastructure cluster with [[04_Gove
 - Registry: [[03_Platforms/ClinicalTrials.gov\|ClinicalTrials.gov]], EudraCT / CTIS
 - Data capture: REDCap (ECRIN network instance)
 - Partners: [[03_Platforms/EBRAINS\|EBRAINS]] (neuroscience trial coordination), [[04_Governance/NeurATRIS\|NeurATRIS]]
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (multinational neurological disease trials;
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (multinational neurological disease trials;
   AP-HP CIC Neurosciences as French ECRIN partner)
 
 ## Resources

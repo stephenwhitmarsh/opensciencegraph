@@ -35,7 +35,7 @@ ecosystem:
 - EVA and dbSNP exchange data via the INSDC framework
 
 ## Relevance to Neuroscience
-For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], EVA is relevant as:
+For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], EVA is relevant as:
 - A **deposition target** for variant data from neurogenomics studies at
   [[01_Actors/iGENSEQ\|iGENSEQ]] — required for journal publication compliance
 - An **access point** for variant data from European neurological disease
@@ -50,7 +50,7 @@ For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], EVA is relevant as
 - Format: [[02_Standards/VCF\|VCF]] (primary submission format)
 - Standards: [[01_Actors/GA4GH\|GA4GH]] (Beacon API for variant discovery)
 - Controlled-access complement: [[03_Platforms/EGA\|EGA]] (individual-level data)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (variant deposition from
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (variant deposition from
   neurological disease genomics studies)
 
 ## Resources

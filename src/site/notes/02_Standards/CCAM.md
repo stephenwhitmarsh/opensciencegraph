@@ -47,7 +47,7 @@ terminology for any study using French hospital procedure data from the
 - Used in: [[04_Governance/Health Data Hub\|Health Data Hub]] (SNDS/DCIR), [[04_Governance/AP-HP\|AP-HP]] (PMSI billing)
 - Maps to: [[02_Standards/SNOMED CT\|SNOMED CT]], [[02_Standards/OMOP CDM\|OMOP CDM]] (via Athena CCAM vocabulary)
 - Complements: [[02_Standards/ICD-10\|ICD-10]] (diagnoses), [[02_Standards/LOINC\|LOINC]] (lab results)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (any study using AP-HP procedure data)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (any study using AP-HP procedure data)
 
 ## Resources
 - https://www.atih.sante.fr/les-nomenclatures-de-facturation/ccam

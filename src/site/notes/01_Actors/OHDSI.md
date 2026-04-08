@@ -66,7 +66,7 @@ validated phenotype algorithms for disease cohorts.
 - Vocabularies (via Athena): [[02_Standards/SNOMED CT\|SNOMED CT]], [[02_Standards/LOINC\|LOINC]], [[02_Standards/ICD-10\|ICD-10]], [[02_Standards/MedDRA\|MedDRA]],
   [[02_Standards/RxNorm\|RxNorm]], [[02_Standards/CCAM\|CCAM]], [[02_Standards/HPO\|HPO]], [[02_Standards/MONDO\|MONDO]]
 - Mandated by: [[04_Governance/EHDS\|EHDS]] (OMOP CDM for secondary use)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (AP-HP EDS access via ATLAS; Health Data
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (AP-HP EDS access via ATLAS; Health Data
   Hub neurological disease cohort studies; OMOP CDM phenotyping for research)
 
 ## Resources

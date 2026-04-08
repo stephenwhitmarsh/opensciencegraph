@@ -7,7 +7,7 @@
 
 ## Overview
 AP-HP is the largest hospital system in Europe (39 hospitals, 100,000+ staff) and
-a founding partner of [[00_Core/Paris Brain Institute\|Paris Brain Institute]] via Pitie-Salpetriere Hospital.
+a founding partner of [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] via Pitie-Salpetriere Hospital.
 It operates the EDS AP-HP clinical data warehouse ([[02_Standards/OMOP CDM\|OMOP CDM]]) and is a major
 contributor to [[04_Governance/Health Data Hub\|Health Data Hub]].
 
@@ -16,7 +16,7 @@ contributor to [[04_Governance/Health Data Hub\|Health Data Hub]].
 - CDW-AP-HP - [[04_Governance/i2b2\|i2b2]]-based clinical data warehouse
 - Biological resource centres (biobanks)
 - REDCap network for clinical trial data collection
-- CIC Neurosciences (at [[00_Core/Paris Brain Institute\|Paris Brain Institute]])
+- CIC Neurosciences (at [[01_Actors/Paris Brain Institute\|Paris Brain Institute]])
 
 ## Standards Used
 - [[02_Standards/OMOP CDM\|OMOP CDM]], [[02_Standards/HL7 FHIR\|HL7 FHIR]], [[02_Standards/DICOM\|DICOM]], [[02_Standards/SNOMED CT\|SNOMED CT]], [[04_Governance/i2b2\|i2b2]], [[02_Standards/CDISC\|CDISC]]
@@ -26,7 +26,7 @@ contributor to [[04_Governance/Health Data Hub\|Health Data Hub]].
 - Adverse events: [[02_Standards/MedDRA\|MedDRA]] (clinical trials)
 
 ## Connections
-- French: [[04_Governance/Health Data Hub\|Health Data Hub]], [[00_Core/Paris Brain Institute\|Paris Brain Institute]], [[04_Governance/CATI\|CATI]],
+- French: [[04_Governance/Health Data Hub\|Health Data Hub]], [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[04_Governance/CATI\|CATI]],
   [[04_Governance/Inserm Open Science\|Inserm Open Science]], [[04_Governance/data.gouv.fr\|data.gouv.fr]]
 - European: [[04_Governance/ECRIN\|ECRIN]], [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]]
 

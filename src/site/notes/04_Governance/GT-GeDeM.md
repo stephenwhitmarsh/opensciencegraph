@@ -13,7 +13,7 @@ is funded by CNRS MITI and brings together microscopy platform personnel,
 researchers, and engineers across France involved in the development and
 use of optical microscopy. GT-GeDeM's specific mandate is to facilitate
 the transition towards FAIR-compliant microscopy data management in French
-imaging platforms. **[[00_Core/Paris Brain Institute\|Paris Brain Institute]] participates in this
+imaging platforms. **[[01_Actors/Paris Brain Institute\|Paris Brain Institute]] participates in this
 working group.**
 
 ## Mandate and Objectives
@@ -43,7 +43,7 @@ RTmfm partners with [[04_Governance/France BioImaging\|France BioImaging]] and G
 
 ## Connections
 - Parent network: RTmfm / CNRS MITI
-- Member: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (ICM participates in this group)
+- Member: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (ICM participates in this group)
 - Related working group: [[04_Governance/QUAREP-LiMi\|QUAREP-LiMi]] (RTmfm GT-3M is active in QUAREP-LiMi)
 - Standards alignment: [[02_Standards/OME File Formats\|OME File Formats]], [[04_Governance/FAIR Principles\|FAIR Principles]] (F and R pillars)
 - Tools: [[01_Actors/OME\|OME]] (OMERO recommended for platform data management)

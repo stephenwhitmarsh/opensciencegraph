@@ -31,7 +31,7 @@ and provides the INCF TrainingSpace open neuroscience training catalog.
 
 ## Connections
 - Standards governed: [[02_Standards/BIDS\|BIDS]], [[02_Standards/NWB\|NWB]], [[02_Standards/HED\|HED]], [[02_Standards/NIDM\|NIDM]]
-- French national node: [[04_Governance/CNRS Open Science\|CNRS Open Science]] -> [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+- French national node: coordinated via the French INCF node consortium (includes CNRS and affiliated institutions including [[01_Actors/Paris Brain Institute\|Paris Brain Institute]])
 - Partners: [[04_Governance/OHBM Open Science SIG\|OHBM Open Science SIG]], [[04_Governance/RDA\|RDA]], [[04_Governance/GO FAIR\|GO FAIR]], [[03_Platforms/EBRAINS\|EBRAINS]], [[01_Actors/ReproNim\|ReproNim]], [[01_Actors/GA4GH\|GA4GH]]
 
 ## Resources

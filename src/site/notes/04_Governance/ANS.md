@@ -13,7 +13,7 @@ merger of the former ASIP Santé and the digital health mission of the DGOS
 (Direction Générale de l'Offre de Soins), ANS operates under the French Ministry
 of Health and is the French national competent body for health IT standardisation.
 
-ANS is directly relevant to [[00_Core/Paris Brain Institute\|Paris Brain Institute]] and the broader French
+ANS is directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] and the broader French
 neuroscience research community because it:
 - Manages the French national release of [[02_Standards/SNOMED CT\|SNOMED CT]]
 - Publishes French national [[02_Standards/HL7 FHIR\|HL7 FHIR]] Implementation Guides (IGs) and profiles
@@ -67,7 +67,7 @@ alongside [[04_Governance/Health Data Hub\|Health Data Hub]] which currently han
 - European: [[04_Governance/EHDS\|EHDS]] national HDAB candidate; European eHealth Network
 - Standards managed: [[02_Standards/SNOMED CT\|SNOMED CT]] (French NRC), [[02_Standards/HL7 FHIR\|HL7 FHIR]] (French profiles),
   [[02_Standards/LOINC\|LOINC]], [[02_Standards/ICD-10\|ICD-10]] (CIM-10 French version)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (French FHIR profiles for clinical data;
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (French FHIR profiles for clinical data;
   SNOMED CT French terms for AP-HP EDS; EHDS secondary use framework)
 
 ## Resources

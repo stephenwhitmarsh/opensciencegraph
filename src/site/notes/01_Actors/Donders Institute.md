@@ -35,7 +35,7 @@ in [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]] working groups.
 - Standards adopted: [[02_Standards/BIDS\|BIDS]], [[02_Standards/NWB\|NWB]], Radboud Data Repository (FAIR-compliant DOI deposit)
 - Collaborates with: [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]], [[01_Actors/Human Connectome Project\|Human Connectome Project]]
 - European peers: [[04_Governance/Human Brain Project\|Human Brain Project]] / [[03_Platforms/EBRAINS\|EBRAINS]], [[04_Governance/ELIXIR\|ELIXIR]]
-- Related: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (peer European neuroscience institute)
+- Related: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (peer European neuroscience institute)
 - Tools produced: FieldTrip (MEG/EEG), Automatic Analysis (fMRI pipelines)
 
 ## Resources

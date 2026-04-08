@@ -13,7 +13,7 @@ Its mission was to build a collaborative European research infrastructure for
 neuroscience, medicine, and computing, using neuroinformatics, simulation, and
 high-performance computing to advance understanding of the human brain.
 
-[[00_Core/Paris Brain Institute\|Paris Brain Institute]] was a participating institution throughout the HBP,
+[[01_Actors/Paris Brain Institute\|Paris Brain Institute]] was a participating institution throughout the HBP,
 contributing neuroimaging, clinical, and computational neuroscience expertise.
 
 The HBP's most significant legacy is [[03_Platforms/EBRAINS\|EBRAINS]] — the open neuroscience research
@@ -71,7 +71,7 @@ standards governance.
 - Created: [[03_Platforms/EBRAINS\|EBRAINS]] (primary legacy infrastructure)
 - Developed: [[02_Standards/openMINDS\|openMINDS]] (metadata framework, required for EBRAINS)
 - Contributed to: [[02_Standards/UBERON\|UBERON]] (brain region annotation), Julich Brain Atlas
-- Partners included: [[00_Core/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/INCF\|INCF]], [[04_Governance/ELIXIR\|ELIXIR]], Forschungszentrum
+- Partners included: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/INCF\|INCF]], [[04_Governance/ELIXIR\|ELIXIR]], Forschungszentrum
   Jülich, EPFL, University of Amsterdam, KTH Stockholm, and 130+ others
 - Funded by: EU Horizon 2020 FET Flagship programme
 

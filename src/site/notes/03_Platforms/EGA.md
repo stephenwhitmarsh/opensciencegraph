@@ -13,7 +13,7 @@ Barcelona), EGA stores data that cannot be publicly released due to patient priv
 and consent restrictions — requiring researchers to apply for access through a
 Data Access Committee (DAC) established by the data submitter.
 
-EGA is directly relevant to [[00_Core/Paris Brain Institute\|Paris Brain Institute]] for depositing and accessing
+EGA is directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] for depositing and accessing
 genomic and multi-omics data from neurological disease studies involving human
 participants, where privacy constraints preclude open release in repositories
 like [[03_Platforms/NCBI GEO\|NCBI GEO]].
@@ -53,7 +53,7 @@ and [[04_Governance/EHDS\|EHDS]] requirements.
 - Standards: [[02_Standards/VCF\|VCF]], [[01_Actors/GA4GH\|GA4GH]] standards (Beacon API, DRS)
 - Complementary open-access: [[03_Platforms/NCBI GEO\|NCBI GEO]], [[03_Platforms/DDBJ\|DDBJ]]
 - French alignment: [[04_Governance/Health Data Hub\|Health Data Hub]] (health data), [[04_Governance/IFB\|IFB]] (ELIXIR-FR node)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (controlled-access genomics from
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (controlled-access genomics from
   neurological disease cohorts, GWAS data, multi-omics)
 
 ## Resources

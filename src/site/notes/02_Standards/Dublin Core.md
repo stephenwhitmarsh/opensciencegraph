@@ -12,7 +12,7 @@ date, type, format, identifier, source, language, relation, coverage, rights)
 for describing any resource. Originating from a 1995 workshop in Dublin, Ohio,
 it became an ISO standard (ISO 15836) and is now ubiquitous as the base metadata
 layer in virtually every research data repository, publication archive, and
-digital library. For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], Dublin Core is the lowest
+digital library. For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], Dublin Core is the lowest
 common denominator: any dataset deposited in [[03_Platforms/Zenodo\|Zenodo]], [[03_Platforms/Recherche Data Gouv\|Recherche Data Gouv]],
 or [[03_Platforms/OpenNeuro\|OpenNeuro]], and any publication deposited in HAL, will carry Dublin Core
 metadata, often enriched with more specific standards on top.
@@ -41,7 +41,7 @@ Dublin Core is the **lingua franca of metadata** — it is:
 - Used by: [[03_Platforms/Zenodo\|Zenodo]], [[03_Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[04_Governance/OpenAIRE\|OpenAIRE]], HAL
 - Enriched by: [[02_Standards/DCAT\|DCAT]] (adds dataset-specific concepts), DataCite (adds citation metadata)
 - Implements: [[04_Governance/FAIR Principles\|FAIR Principles]] F1, F2, F4 (at a basic level)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (all data deposits and publications)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (all data deposits and publications)
 
 ## Resources
 - https://dublincore.org

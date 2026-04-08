@@ -35,7 +35,7 @@ Alzheimer's Disease and Parkinson's Disease provide domain-specific extensions.
 - Maps to: [[02_Standards/OMOP CDM\|OMOP CDM]], [[02_Standards/HL7 FHIR\|HL7 FHIR]], [[02_Standards/SNOMED CT\|SNOMED CT]]
 - Adopted by: [[04_Governance/ECRIN\|ECRIN]], [[03_Platforms/VIVLI\|VIVLI]], [[04_Governance/YODA Project\|YODA Project]], [[04_Governance/TransCelerate\|TransCelerate]], [[04_Governance/AP-HP\|AP-HP]]
 - Regulatory context: FDA, EMA submission requirements
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (clinical trial data standardisation)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (clinical trial data standardisation)
 
 ## Resources
 - https://www.cdisc.org

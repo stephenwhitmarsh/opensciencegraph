@@ -11,7 +11,7 @@ data sharing, analogous to [[01_Actors/INCF\|INCF]] for neuroscience. Founded in
 consortium of research and clinical institutions, it develops a coordinated suite
 of technical standards and policy frameworks to enable responsible, federated
 sharing of genomic and clinical data at scale. Its standards are directly relevant
-to [[00_Core/Paris Brain Institute\|Paris Brain Institute]] through neurogenomics research, rare neurological
+to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] through neurogenomics research, rare neurological
 disease diagnostics, and compliance with [[04_Governance/EHDS\|EHDS]] secondary use requirements.
 
 ## Standards Governed
@@ -40,7 +40,7 @@ applying GA4GH genomic data standards to neuroscience research. It works on:
 - Connecting brain disease genomics with clinical phenotype data ([[02_Standards/HPO\|HPO]], [[02_Standards/ORDO\|ORDO]])
 - Interoperability between genomics repositories ([[03_Platforms/EGA\|EGA]], [[03_Platforms/dbGaP\|dbGaP]]) and
   neuroscience data archives ([[03_Platforms/DANDI Archive\|DANDI Archive]], [[03_Platforms/OpenNeuro\|OpenNeuro]])
-- Relevant to [[00_Core/Paris Brain Institute\|Paris Brain Institute]] through neurogenomics programmes
+- Relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] through neurogenomics programmes
   and [[01_Actors/iGENSEQ\|iGENSEQ]] data deposition
 
 ## Connections

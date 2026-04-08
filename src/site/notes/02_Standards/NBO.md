@@ -15,7 +15,7 @@ conjunction with [[02_Standards/HPO\|HPO]] (human phenotypic abnormalities) and 
 Phenotype Ontology (MP) for model organism phenotypes, and integrates with
 [[02_Standards/UBERON\|UBERON]] for anatomical localisation of behavioural functions.
 
-For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], NBO is relevant to the behavioural phenotyping
+For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], NBO is relevant to the behavioural phenotyping
 work conducted at the **PRISME** platform and to the annotation of cognitive
 and behavioural assessments in clinical cohorts such as MEMENTO and INSIGHT-preAD.
 
@@ -41,10 +41,10 @@ and behavioural assessments in clinical cohorts such as MEMENTO and INSIGHT-preA
 - Part of: OBO Foundry (https://obofoundry.org)
 - Complements: [[02_Standards/HPO\|HPO]] (human phenotypic abnormalities), [[02_Standards/UBERON\|UBERON]] (anatomy),
   [[02_Standards/Cognitive Atlas\|Cognitive Atlas]] (cognitive processes and tasks)
-- Used for: behavioural phenotyping annotation at [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+- Used for: behavioural phenotyping annotation at [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
   PRISME platform
 - Integrates with: Mammalian Phenotype Ontology (MP), Mouse Genome Informatics (MGI)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (PRISME platform, clinical cohorts)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (PRISME platform, clinical cohorts)
 
 ## Resources
 - https://obofoundry.org/ontology/nbo.html

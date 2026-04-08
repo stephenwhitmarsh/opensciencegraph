@@ -64,7 +64,7 @@ Recherche Data Gouv is tightly integrated with [[04_Governance/OPIDoR\|OPIDoR]]:
 - Deposits with DOIs are indexed in DataCite, enabling citation tracking
 
 ## Depositing from Paris Brain Institute
-For [[00_Core/Paris Brain Institute\|Paris Brain Institute]] researchers, Recherche Data Gouv is the appropriate
+For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] researchers, Recherche Data Gouv is the appropriate
 repository for:
 - **Non-sensitive research data** not covered by domain-specific repositories
   (e.g. behavioural data, quantitative microscopy, electrophysiology where

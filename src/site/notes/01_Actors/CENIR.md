@@ -6,7 +6,7 @@
 # CENIR — Centre de NeuroImagerie de Recherche
 
 ## Overview
-CENIR (Centre de NeuroImagerie de Recherche) is [[00_Core/Paris Brain Institute\|Paris Brain Institute]]'s
+CENIR (Centre de NeuroImagerie de Recherche) is [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]'s
 human neuroimaging research centre, one of ICM's 10 core technological platforms.
 Located at Pitié-Salpêtrière Hospital, it provides state-of-the-art multimodal
 human neuroimaging for research and translational studies, serving ICM research
@@ -36,7 +36,7 @@ All CENIR data is processed through [[04_Governance/CATI\|CATI]] pipelines:
   for controlled-access cohorts
 
 ## Connections
-- Hosted at: [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+- Hosted at: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
 - Data management: [[04_Governance/CATI\|CATI]] (all data flows through CATI pipelines; DICOM → NIfTI → BIDS)
 - Part of: [[04_Governance/France Life Imaging\|France Life Imaging]] (FLI primary neuroimaging node at ICM)
 - External access: [[04_Governance/NeurATRIS\|NeurATRIS]] (clinical neuroimaging for Phase I/II trial endpoints)

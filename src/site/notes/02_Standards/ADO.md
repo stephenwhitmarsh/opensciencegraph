@@ -12,7 +12,7 @@ genetic risk factors, therapeutic interventions, and cognitive assessments. It
 provides a semantic framework that links the biological and clinical dimensions
 of Alzheimer's disease — connecting amyloid and tau biomarker measurements
 to NIA-AA clinical staging criteria to genetic risk (APOE, PSEN1/2) to imaging
-findings. For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], which hosts the MEMENTO and
+findings. For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], which hosts the MEMENTO and
 INSIGHT-preAD cohorts via [[04_Governance/CATI\|CATI]], ADO provides the vocabulary for semantically
 annotating Alzheimer's cohort data in a way that enables cross-study comparison.
 
@@ -40,7 +40,7 @@ annotating Alzheimer's cohort data in a way that enables cross-study comparison.
   [[02_Standards/LOINC\|LOINC]] (biomarker measurements), [[02_Standards/SNOMED CT\|SNOMED CT]] (clinical findings)
 - Relevant platforms: [[04_Governance/CATI\|CATI]], [[03_Platforms/EBRAINS\|EBRAINS]], [[04_Governance/Health Data Hub\|Health Data Hub]]
 - Related cohorts: [[01_Actors/ADNI\|ADNI]] (North American Alzheimer's neuroimaging cohort)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (MEMENTO, INSIGHT-preAD, clinical programmes)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (MEMENTO, INSIGHT-preAD, clinical programmes)
 
 ## Resources
 - https://bioportal.bioontology.org/ontologies/ADO

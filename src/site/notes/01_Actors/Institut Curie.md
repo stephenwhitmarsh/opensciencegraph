@@ -42,7 +42,7 @@ advanced imaging platforms in France:
 - Tools: [[01_Actors/OME\|OME]] (OMERO, CID), BioImageIT
 - Working groups: [[04_Governance/QUAREP-LiMi\|QUAREP-LiMi]], [[04_Governance/GT-GeDeM\|GT-GeDeM]] (French data management)
 - Policy: [[04_Governance/Ouvrir la Science\|Ouvrir la Science]], [[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[04_Governance/CNRS Open Science\|CNRS Open Science]]
-- Related: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (Paris peer institution,
+- Related: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (Paris peer institution,
   overlapping France BioImaging and CNRS networks), [[01_Actors/Institut Pasteur\|Institut Pasteur]]
 
 ## Resources

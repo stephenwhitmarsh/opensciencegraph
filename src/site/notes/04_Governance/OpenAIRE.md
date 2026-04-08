@@ -73,7 +73,7 @@ All Horizon Europe projects are required to:
 - Standards: [[02_Standards/DCAT\|DCAT]] (dataset metadata), [[02_Standards/Dublin Core\|Dublin Core]] (base metadata),
   [[04_Governance/FAIR Principles\|FAIR Principles]] (R1.1 licence, F1 PID)
 - French alignment: [[04_Governance/Ouvrir la Science\|Ouvrir la Science]], [[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[04_Governance/HAL\|HAL]]
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (Horizon Europe compliance, Zenodo deposit,
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (Horizon Europe compliance, Zenodo deposit,
   ORCID linking, publication open access monitoring)
 
 ## Resources

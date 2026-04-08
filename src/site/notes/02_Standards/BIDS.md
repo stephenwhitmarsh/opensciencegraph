@@ -16,7 +16,7 @@ strongly recommended by all major neuroscience data repositories and is the
 primary format for open neuroimaging data worldwide.
 
 BIDS is governed by [[01_Actors/INCF\|INCF]] and the [[04_Governance/BIDS Steering Group\|BIDS Steering Group]] via an open,
-community-driven extension process. [[04_Governance/CATI\|CATI]] at [[00_Core/Paris Brain Institute\|Paris Brain Institute]] uses
+community-driven extension process. [[04_Governance/CATI\|CATI]] at [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] uses
 BIDS for all its multi-site cohort data management.
 
 ## What BIDS Defines
@@ -75,7 +75,7 @@ BIDS distinguishes two dataset layers:
 - Compatible with: [[02_Standards/NIDM\|NIDM]] (provenance layer), [[02_Standards/HED\|HED]] (event annotation)
 - Required by: [[03_Platforms/OpenNeuro\|OpenNeuro]], [[03_Platforms/EBRAINS\|EBRAINS]], [[03_Platforms/DANDI Archive\|DANDI Archive]], [[01_Actors/CONP\|CONP]], [[03_Platforms/BrainLife.io\|BrainLife.io]]
 - Adopted by: [[01_Actors/ReproNim\|ReproNim]], [[03_Platforms/NeuroVault\|NeuroVault]], [[03_Platforms/LORIS\|LORIS]], [[04_Governance/CATI\|CATI]], [[03_Platforms/Neurobagel\|Neurobagel]],
-  [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+  [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
 - Used with: [[02_Standards/DICOM\|DICOM]] (source format, converted via dcm2niix/heudiconv)
 - Reference publication: Gorgolewski et al. (2016) *Nature Scientific Data*
   doi:10.1038/sdata.2016.44

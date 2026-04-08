@@ -37,7 +37,7 @@ The ontology has two main branches:
 - Used with: [[02_Standards/BIDS\|BIDS]] (task annotation), [[03_Platforms/NeuroVault\|NeuroVault]] (required annotation),
   [[03_Platforms/OpenNeuro\|OpenNeuro]] (fMRI datasets)
 - Complements: [[02_Standards/HED\|HED]] (event-level annotation), [[02_Standards/UBERON\|UBERON]] (brain region annotation)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (fMRI studies, cognitive neuroscience)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (fMRI studies, cognitive neuroscience)
 
 ## Resources
 - https://www.cognitiveatlas.org

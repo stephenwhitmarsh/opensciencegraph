@@ -12,7 +12,7 @@ documents. Developed by the Regenstrief Institute (Indiana University), LOINC
 provides a common language for exchanging clinical results between systems —
 meaning a serum amyloid-beta measurement at Pitié-Salpêtrière can be
 unambiguously identified and compared with one from any other institution
-worldwide. For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], LOINC is the key standard for
+worldwide. For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], LOINC is the key standard for
 coding biomarker data (CSF amyloid, tau, NfL), imaging reports, and clinical
 assessment scales.
 
@@ -47,7 +47,7 @@ assessment scales.
 - Complements: [[02_Standards/SNOMED CT\|SNOMED CT]] (procedures and findings), [[02_Standards/ICD-10\|ICD-10]] (diagnoses),
   [[02_Standards/CCAM\|CCAM]] (French procedures)
 - Used with: [[02_Standards/openEHR\|openEHR]] (archetypes reference LOINC codes)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (biomarker studies, clinical cohorts)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (biomarker studies, clinical cohorts)
 
 ## Resources
 - https://loinc.org

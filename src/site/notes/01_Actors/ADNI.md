@@ -17,7 +17,7 @@ open clinical neuroimaging datasets, accessible via the LONI Image and Data Arch
 - Harmonised imaging protocols across North America
 
 ## Connections
-- Platforms: LONI IDA, [[03_Platforms/LORIS\|LORIS]], [[03_Platforms/OpenNeuro\|OpenNeuro]] (derivatives)
+- Platforms: LONI IDA, [[03_Platforms/LORIS\|LORIS]], [[03_Platforms/OpenNeuro\|OpenNeuro]] (some BIDS-derived derivatives only; primary data on LONI IDA)
 - Standards: [[02_Standards/DICOM\|DICOM]], [[02_Standards/BIDS\|BIDS]], [[02_Standards/CDISC\|CDISC]], [[02_Standards/OMOP CDM\|OMOP CDM]]
 - Related: [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]], [[04_Governance/CATI\|CATI]]
 

@@ -11,7 +11,7 @@ infrastructure and the French node of [[04_Governance/ELIXIR\|ELIXIR]] (ELIXIR-F
 under the Investissements d'Avenir programme, IFB federates 20+ bioinformatics
 platforms across France, providing computing resources, data management tools,
 training, and FAIR data support to the life sciences research community. For
-[[00_Core/Paris Brain Institute\|Paris Brain Institute]], IFB is the primary French infrastructure for
+[[01_Actors/Paris Brain Institute\|Paris Brain Institute]], IFB is the primary French infrastructure for
 genomics and bioinformatics pipelines, DMP tools, and FAIR compliance support
 — particularly relevant for neurogenomics research, multi-omics integration,
 and compliance with [[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]] and [[04_Governance/EHDS\|EHDS]] data mandates.
@@ -69,7 +69,7 @@ compute infrastructure. It is a Disciplinary Competence Center within the
   (genomics standards adoption)
 - Develops FAIR tools: FAIR-Checker (automated [[04_Governance/FAIR Principles\|FAIR Principles]] assessment),
   [[04_Governance/OPIDoR\|OPIDoR]] DMP tooling, usegalaxy.fr reproducible workflows
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (bioinformatics, genomics,
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (bioinformatics, genomics,
   DMP support, FAIR compliance)
 
 ## Resources

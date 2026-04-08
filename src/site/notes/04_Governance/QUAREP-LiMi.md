@@ -34,7 +34,7 @@ Microscopes and Endoscopes).
   [[04_Governance/Euro-BioImaging\|Euro-BioImaging]] (node QC implementation)
 - Standards alignment: [[02_Standards/OME File Formats\|OME File Formats]], [[04_Governance/FAIR Principles\|FAIR Principles]]
 - French participation: Institut Curie/Inserm/CNRS (PICT-IBiSA),
-  relevant to [[04_Governance/France BioImaging\|France BioImaging]], [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+  relevant to [[04_Governance/France BioImaging\|France BioImaging]], [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
 - French counterpart: [[04_Governance/GT-GeDeM\|GT-GeDeM]] (RTmfm working group on microscopy data management)
 - Related: [[04_Governance/INCF Working Groups\|INCF Working Groups]] (analogous QC/standards body for neuroimaging)
 

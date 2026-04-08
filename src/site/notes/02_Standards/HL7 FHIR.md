@@ -70,7 +70,7 @@ FHIR and [[02_Standards/OMOP CDM\|OMOP CDM]] serve complementary roles:
 - Adopted by: [[04_Governance/Health Data Hub\|Health Data Hub]], [[04_Governance/AP-HP\|AP-HP]], [[04_Governance/ECRIN\|ECRIN]], [[04_Governance/i2b2\|i2b2]]
 - Mandated by: [[04_Governance/EHDS\|EHDS]] (primary EHR interoperability standard across EU)
 - French coordination: ANS (national FHIR IGs and profiles)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (AP-HP EDS FHIR access, EHDS compliance,
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (AP-HP EDS FHIR access, EHDS compliance,
   clinical trial data integration)
 
 ## Resources

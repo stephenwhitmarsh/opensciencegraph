@@ -85,7 +85,7 @@ OMOP CDM's key innovation is enabling **federated distributed network studies**:
 - Vocabularies: [[02_Standards/SNOMED CT\|SNOMED CT]], [[02_Standards/LOINC\|LOINC]], [[02_Standards/ICD-10\|ICD-10]], [[02_Standards/ICD-11\|ICD-11]], [[02_Standards/MedDRA\|MedDRA]],
   [[02_Standards/CCAM\|CCAM]], [[02_Standards/RxNorm\|RxNorm]], [[02_Standards/MeSH\|MeSH]], [[02_Standards/HPO\|HPO]], [[02_Standards/MONDO\|MONDO]], [[02_Standards/ORDO\|ORDO]]
 - Mandated by: [[04_Governance/EHDS\|EHDS]] (secondary use standardisation for European health data)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (AP-HP EDS clinical data access for
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (AP-HP EDS clinical data access for
   neurological disease research; Health Data Hub population neurology studies)
 
 ## Resources

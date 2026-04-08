@@ -15,7 +15,7 @@ digital tools, services, and expertise for managing, preserving, and sharing
 research data in the humanities and social sciences.
 
 While primarily serving humanities disciplines, Huma-Num is relevant to
-[[00_Core/Paris Brain Institute\|Paris Brain Institute]] through its overlap with cognitive and social
+[[01_Actors/Paris Brain Institute\|Paris Brain Institute]] through its overlap with cognitive and social
 neuroscience, its connection to the broader French open science infrastructure,
 and its role as a French node of the European **DARIAH** (Digital Research
 Infrastructure for the Arts and Humanities) and **CLARIN** (Common Language

@@ -59,7 +59,7 @@ is explicitly aligned with EC open science requirements:
 - Legislates: [[04_Governance/EHDS\|EHDS]] (health data), Data Governance Act, Data Act
 - Promotes: [[04_Governance/FAIR Principles\|FAIR Principles]], Research Data Alliance ([[04_Governance/RDA\|RDA]])
 - Partners: [[04_Governance/OpenAIRE\|OpenAIRE]], [[04_Governance/ELIXIR\|ELIXIR]], [[03_Platforms/EBRAINS\|EBRAINS]], [[04_Governance/Euro-BioImaging\|Euro-BioImaging]]
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (Horizon Europe grant conditions,
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (Horizon Europe grant conditions,
   EOSC data deposit requirements, Plan S OA mandate)
 
 ## Resources

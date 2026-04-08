@@ -20,7 +20,7 @@ open source software publication.
 - Implements: [[04_Governance/Ouvrir la Science\|Ouvrir la Science]], [[04_Governance/FAIR Principles\|FAIR Principles]]
 - Recommended infrastructure: [[03_Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[03_Platforms/Zenodo\|Zenodo]], [[04_Governance/OPIDoR\|OPIDoR]] (mandatory DMP tool)
 - European alignment: EU Horizon Europe, [[04_Governance/EOSC\|EOSC]], [[04_Governance/OpenAIRE\|OpenAIRE]]
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (all ANR-funded projects must comply)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (all ANR-funded projects must comply)
 
 ## Resources
 - https://anr.fr/fr/lanr-et-la-recherche/engagements-et-valeurs/la-science-ouverte/

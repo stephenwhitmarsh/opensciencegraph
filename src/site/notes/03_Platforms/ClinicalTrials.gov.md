@@ -14,7 +14,7 @@ by the FDA Amendments Act (FDAAA 2007) for US-regulated trials, and is required
 by the International Committee of Medical Journal Editors (ICMJE) as a condition
 of publication in most major medical journals worldwide.
 
-For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], ClinicalTrials.gov registration is mandatory for
+For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], ClinicalTrials.gov registration is mandatory for
 all interventional clinical trials involving ICM researchers or [[04_Governance/AP-HP\|AP-HP]] as
 sponsor, and is the primary registry for trials conducted through [[04_Governance/NeurATRIS\|NeurATRIS]]
 and [[01_Actors/Institut de Myologie\|Institut de Myologie]] clinical platforms.
@@ -58,7 +58,7 @@ vocabularies for:
   [[02_Standards/ICD-10\|ICD-10]] (condition coding), [[02_Standards/RxNorm\|RxNorm]] / [[02_Standards/ChEBI\|ChEBI]] (drug coding)
 - French trials: registered here + EudraCT/CTIS; sponsored by [[04_Governance/AP-HP\|AP-HP]],
   [[04_Governance/ECRIN\|ECRIN]] for multinational trials
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (trial registration requirement;
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (trial registration requirement;
   [[04_Governance/NeurATRIS\|NeurATRIS]] and [[01_Actors/Institut de Myologie\|Institut de Myologie]] clinical programmes)
 
 ## Resources

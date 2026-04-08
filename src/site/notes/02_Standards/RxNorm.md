@@ -54,7 +54,7 @@ These are mapped to RxNorm within [[02_Standards/OMOP CDM\|OMOP CDM]] deployment
 - Complements: [[02_Standards/ChEBI\|ChEBI]] (chemical layer), [[02_Standards/SNOMED CT\|SNOMED CT]] (clinical findings),
   [[02_Standards/LOINC\|LOINC]] (lab tests), ATC (drug class grouping)
 - French mapping: UCD/CIS → RxNorm via OMOP vocabulary
-- Relevant to: [[04_Governance/AP-HP\|AP-HP]], [[04_Governance/Health Data Hub\|Health Data Hub]], [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+- Relevant to: [[04_Governance/AP-HP\|AP-HP]], [[04_Governance/Health Data Hub\|Health Data Hub]], [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
   (clinical trial drug coding, OMOP CDM medication records)
 
 ## Resources

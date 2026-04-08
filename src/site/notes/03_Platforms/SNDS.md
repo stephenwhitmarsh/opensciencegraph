@@ -53,7 +53,7 @@ governed and made accessible via the [[04_Governance/Health Data Hub\|Health Dat
 - Standards: [[02_Standards/ICD-10\|ICD-10]], [[02_Standards/CCAM\|CCAM]], [[02_Standards/OMOP CDM\|OMOP CDM]], [[02_Standards/HL7 FHIR\|HL7 FHIR]], [[02_Standards/LOINC\|LOINC]], [[02_Standards/ORDO\|ORDO]]
 - European context: [[04_Governance/EHDS\|EHDS]], [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[04_Governance/EOSC\|EOSC]]
 - French governance: [[04_Governance/ANS\|ANS]], [[04_Governance/Ouvrir la Science\|Ouvrir la Science]], [[04_Governance/Code de la Sante Publique\|Code de la Sante Publique]]
-- Relevant to [[00_Core/Paris Brain Institute\|Paris Brain Institute]]: population-scale neurology and psychiatry
+- Relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]: population-scale neurology and psychiatry
   cohorts, linkage with CENIR neuroimaging, AP-HP clinical data, pharmacoepidemiology
 
 ## Resources

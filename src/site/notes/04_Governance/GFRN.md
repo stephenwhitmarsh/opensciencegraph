@@ -15,7 +15,7 @@ and research culture change.
 
 The French national network — the **Réseau Français de la Recherche Reproductible
 (RFRR)** (https://www.recherche-reproductible.fr) — is the GFRN member most
-directly relevant to [[00_Core/Paris Brain Institute\|Paris Brain Institute]] and French neuroscience.
+directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] and French neuroscience.
 
 ## Member Networks
 GFRN currently includes national networks from:
@@ -48,7 +48,7 @@ The French network (https://www.recherche-reproductible.fr) focuses on:
 - Policy alignment: [[04_Governance/Ouvrir la Science\|Ouvrir la Science]], [[04_Governance/FAIR Principles\|FAIR Principles]]
 - Tool ecosystem: [[03_Platforms/OSF\|OSF]] (preregistration), [[01_Actors/ReproNim\|ReproNim]] (neuroimaging reproducibility)
 - Related: [[04_Governance/OHBM Open Science SIG\|OHBM Open Science SIG]] (neuroscience-specific open science community)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (reproducibility training,
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (reproducibility training,
   pre-registration culture, open code practices)
 
 ## Resources

@@ -57,13 +57,13 @@ platform providing access to 2M+ individuals across 40+ longitudinal cohort stud
 with substantial overlap with [[01_Actors/UK Biobank\|UK Biobank]] data.
 
 ## Connections
-- Alliance: [[04_Governance/CURE-ND\|CURE-ND]] (founding member alongside [[00_Core/Paris Brain Institute\|Paris Brain Institute]])
+- Alliance: [[04_Governance/CURE-ND\|CURE-ND]] (founding member alongside [[01_Actors/Paris Brain Institute\|Paris Brain Institute]])
 - European framework: [[04_Governance/JPND\|JPND]], [[04_Governance/EATRIS\|EATRIS]] (translational)
 - Health data: [[04_Governance/HDR UK\|HDR UK]] (UK Health Data Research Alliance)
 - Cohort data: [[01_Actors/UK Biobank\|UK Biobank]], [[01_Actors/ADNI\|ADNI]], DPUK
 - Consortia: [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]] (neurodegeneration working groups)
 - Open data: [[03_Platforms/EGA\|EGA]], [[03_Platforms/dbGaP\|dbGaP]], [[03_Platforms/NCBI GEO\|NCBI GEO]] (data deposition)
-- Peer institutes: [[01_Actors/DZNE\|DZNE]], [[01_Actors/Mission Lucidity\|Mission Lucidity]], [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (CURE-ND)
+- Peer institutes: [[01_Actors/DZNE\|DZNE]], [[01_Actors/Mission Lucidity\|Mission Lucidity]], [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (CURE-ND)
 
 ## Resources
 - https://www.ukdri.ac.uk

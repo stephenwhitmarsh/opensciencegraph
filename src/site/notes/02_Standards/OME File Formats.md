@@ -58,7 +58,7 @@ Microscope → Proprietary format (.czi, .lif, .nd2, ...)
 - Metadata standards: [[02_Standards/REMBI\|REMBI]] (Recommended Metadata for Biological Images), [[04_Governance/QUAREP-LiMi\|QUAREP-LiMi]] (QC metadata)
 - Related formats: [[02_Standards/NIfTI\|NIfTI]] (MRI equivalent), [[02_Standards/DICOM\|DICOM]] (clinical imaging),
   [[02_Standards/VCF\|VCF]] (genomics equivalent)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (cellular and subcellular
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (cellular and subcellular
   microscopy, histology, optogenetics imaging)
 
 ## Resources

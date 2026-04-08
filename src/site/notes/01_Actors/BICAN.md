@@ -47,7 +47,7 @@ BICAN spans several complementary projects:
 
 ## Relevance to Paris Brain Institute
 BICAN provides foundational reference data for:
-- Neurological disease research at [[00_Core/Paris Brain Institute\|Paris Brain Institute]] — cell type
+- Neurological disease research at [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] — cell type
   context for patient genomics and transcriptomics from [[01_Actors/iGENSEQ\|iGENSEQ]]
 - Comparative analysis with human brain cell type atlases in Alzheimer's,
   Parkinson's, and ALS research programmes
@@ -61,7 +61,7 @@ BICAN provides foundational reference data for:
 - Annotation: [[02_Standards/GO\|GO]] (gene function), [[02_Standards/HPO\|HPO]] (human disease variants)
 - Related: Allen Institute for Brain Science ([[01_Actors/Allen Institute for Brain Science\|Allen Institute for Brain Science]])
   (predecessor atlases), Human Cell Atlas
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (reference cell atlas for disease studies)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (reference cell atlas for disease studies)
 
 ## Resources
 - https://braininitiative.nih.gov/brain-programs/cell-atlas

@@ -33,7 +33,7 @@ OSF integrates with [[03_Platforms/Zenodo\|Zenodo]], GitHub, [[03_Platforms/LORI
 - Produced by: Center for Open Science (COS) — https://www.cos.io
 - Integrates with: [[03_Platforms/Zenodo\|Zenodo]], [[01_Actors/ReproNim\|ReproNim]], GitHub, Figshare, Dataverse
 - Related: [[03_Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[04_Governance/OpenAIRE\|OpenAIRE]] (preprint indexing)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]](pre-registration of clinical
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]](pre-registration of clinical
   trials and neuroimaging studies, open materials sharing)
 
 ## Resources

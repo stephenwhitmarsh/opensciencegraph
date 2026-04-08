@@ -8,14 +8,14 @@
 ## Overview
 The Institut de Myologie is an international reference centre for neuromuscular
 diseases, located at Pitié-Salpêtrière Hospital — the same campus as
-[[00_Core/Paris Brain Institute\|Paris Brain Institute]]. Founded in 1996 by AFM-Téléthon and Généthon, it
+[[01_Actors/Paris Brain Institute\|Paris Brain Institute]]. Founded in 1996 by AFM-Téléthon and Généthon, it
 coordinates medical management, basic research, clinical research, and education
 in myology. It brings together 300+ experts covering the muscle, the neuromuscular
 junction, and the motor neuron, with 35,500+ patient records and 7,000+ annual
 consultations in the clinical neuro-myology department.
 
 Its governance associates five public bodies: [[04_Governance/AP-HP\|AP-HP]], Inserm, CNRS, Sorbonne
-Université, and the CEA. It is directly relevant to [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+Université, and the CEA. It is directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
 through shared campus, overlapping clinical populations (ALS, Parkinson's with
 neuromuscular involvement), and joint participation in [[04_Governance/NeurATRIS\|NeurATRIS]].
 
@@ -51,7 +51,7 @@ Applied and clinical research infrastructure comprising:
   aligned with [[02_Standards/ERN Vocabularies\|ERN Vocabularies]] (ERN-NMD)
 
 ## Connections
-- Campus partner: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (same Pitié-Salpêtrière site)
+- Campus partner: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (same Pitié-Salpêtrière site)
 - Translational infrastructure: [[04_Governance/NeurATRIS\|NeurATRIS]] (IHU-A-ICM is a core NeurATRIS node)
 - Clinical partner: [[04_Governance/AP-HP\|AP-HP]] (Pitié-Salpêtrière neurology/neuro-myology)
 - Biobank: Myobank-AFM → [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]]

@@ -15,7 +15,7 @@ related conditions. As of 2024, JPND involves 30+ participating countries, each
 contributing national funding matched by European co-funding.
 
 JPND connects the key institutes that are also [[04_Governance/CURE-ND\|CURE-ND]] alliance members:
-[[01_Actors/DZNE\|DZNE]] (Germany), [[01_Actors/UK DRI\|UK DRI]] (UK), and [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (France, via
+[[01_Actors/DZNE\|DZNE]] (Germany), [[01_Actors/UK DRI\|UK DRI]] (UK), and [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (France, via
 [[04_Governance/CNRS Open Science\|CNRS Open Science]] and [[04_Governance/Inserm Open Science\|Inserm Open Science]] as participating funders).
 
 ## Structure and Funding Mechanism

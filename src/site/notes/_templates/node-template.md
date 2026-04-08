@@ -35,7 +35,7 @@ This section is **mandatory**. Use wikilinks throughout. Structure as:
 - French context: [[Node\|Node]], [[Node\|Node]]
 - European context: [[Node\|Node]], [[Node\|Node]]
 - International context: [[Node\|Node]], [[Node\|Node]]
-- Relevant to [[00_Core/Paris Brain Institute\|Paris Brain Institute]]: one sentence explaining the ICM connection
+- Relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]: one sentence explaining the ICM connection
 
 ## Resources
 - <Primary website URL>

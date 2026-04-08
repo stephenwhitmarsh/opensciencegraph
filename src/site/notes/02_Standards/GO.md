@@ -15,7 +15,7 @@ three independent ontologies: **Biological Process** (BP), **Molecular Function*
 in databases worldwide, enabling systematic, cross-species functional analysis
 of genomic and transcriptomic data.
 
-For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], GO is directly relevant to neurogenomics and
+For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], GO is directly relevant to neurogenomics and
 transcriptomics analyses — RNA-seq and single-cell RNA-seq pipelines at [[01_Actors/iGENSEQ\|iGENSEQ]]
 produce gene expression data that is interpreted using GO term enrichment analysis.
 
@@ -57,7 +57,7 @@ nucleus, plasma membrane, extracellular space.
 - Used by: [[04_Governance/IFB\|IFB]] (bioinformatics pipelines), [[01_Actors/iGENSEQ\|iGENSEQ]] (RNA-seq analysis)
 - Complements: [[02_Standards/HPO\|HPO]] (phenotype), [[02_Standards/MONDO\|MONDO]] (disease), [[02_Standards/ChEBI\|ChEBI]] (chemical entities)
 - Part of: OBO Foundry (https://obofoundry.org)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (neurogenomics, transcriptomics)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (neurogenomics, transcriptomics)
 
 ## Resources
 - https://geneontology.org

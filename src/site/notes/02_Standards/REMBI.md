@@ -39,7 +39,7 @@ provides for neuroimaging.
 - Aligned with: [[04_Governance/QUAREP-LiMi\|QUAREP-LiMi]] (QC metadata), [[04_Governance/GT-GeDeM\|GT-GeDeM]] (DMP guidelines)
 - Complements: [[02_Standards/BIDS\|BIDS]] (BIDS has a microscopy BEP building on REMBI concepts)
 - Relevant to: [[04_Governance/France BioImaging\|France BioImaging]], [[01_Actors/Institut Pasteur\|Institut Pasteur]], [[01_Actors/Institut Curie\|Institut Curie]],
-  [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (microscopy data management)
+  [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (microscopy data management)
 
 ## Resources
 - https://www.nature.com/articles/s41592-021-01166-8 (Sarkans et al. 2021)

@@ -9,7 +9,7 @@
 ENIGMA conducts coordinated neuroimaging and genetics studies across 45+ working
 groups and hundreds of sites using federated meta-analysis: sites share derived
 statistics rather than raw data, enabling population-scale power while preserving
-privacy. [[00_Core/Paris Brain Institute\|Paris Brain Institute]] participates in multiple working groups.
+privacy. [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] participates in multiple working groups.
 
 ## Key Outputs
 - 200+ publications on brain structure in psychiatric and neurological disorders
@@ -20,7 +20,7 @@ privacy. [[00_Core/Paris Brain Institute\|Paris Brain Institute]] participates i
 - Standards used: [[02_Standards/BIDS\|BIDS]], [[02_Standards/DICOM\|DICOM]]
 - Platforms: [[03_Platforms/OpenNeuro\|OpenNeuro]]
 - Related cohorts: [[01_Actors/Human Connectome Project\|Human Connectome Project]], [[01_Actors/ADNI\|ADNI]], [[01_Actors/UK Biobank\|UK Biobank]]
-- [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (working group participation)
+- [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (working group participation)
 - [[01_Actors/Donders Institute\|Donders Institute]] (working group participation)
 
 ## Resources

@@ -7,7 +7,7 @@
 
 ## Overview
 CATI is the French national neuroimaging data centre, hosted at
-[[00_Core/Paris Brain Institute\|Paris Brain Institute]]. It provides multi-site MRI harmonisation,
+[[01_Actors/Paris Brain Institute\|Paris Brain Institute]]. It provides multi-site MRI harmonisation,
 automated quality control, [[02_Standards/BIDS\|BIDS]] conversion (CATIconv pipeline), and data
 management for multicenter longitudinal studies including MEMENTO, INSIGHT-preAD,
 and iShare.
@@ -19,7 +19,7 @@ and iShare.
 - Training and support for neuroimaging teams across France
 
 ## Connections
-- Hosted at: [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+- Hosted at: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
 - Part of: [[04_Governance/France Life Imaging\|France Life Imaging]]
 - Standards: [[02_Standards/BIDS\|BIDS]], [[02_Standards/DICOM\|DICOM]], [[02_Standards/NIfTI\|NIfTI]]
 - Clinical annotation: [[02_Standards/ICD-10\|ICD-10]] (diagnostic coding), [[02_Standards/LOINC\|LOINC]] (biomarker results)

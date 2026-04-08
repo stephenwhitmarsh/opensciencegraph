@@ -13,7 +13,7 @@ multimodal preclinical imaging. Founded in 2012 under the Investissements
 d'Avenir programme (PIA), it provides open access to state-of-the-art in vivo
 imaging platforms for academic and industrial researchers. Its neuroimaging data
 management is coordinated through [[04_Governance/CATI\|CATI]] (Centre d'Acquisition et de Traitement
-des Images), hosted at [[00_Core/Paris Brain Institute\|Paris Brain Institute]], which serves as the
+des Images), hosted at [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], which serves as the
 data management and harmonisation node for FLI's multisite neuroimaging studies.
 FLI is the in vivo whole-body imaging counterpart to [[04_Governance/France BioImaging\|France BioImaging]]
 (cellular/subcellular scale imaging).
@@ -29,19 +29,19 @@ FLI is the in vivo whole-body imaging counterpart to [[04_Governance/France BioI
 
 ## Relevance to Paris Brain Institute
 FLI's neuroimaging infrastructure and [[04_Governance/CATI\|CATI]] data management node are both
-hosted at [[00_Core/Paris Brain Institute\|Paris Brain Institute]], making FLI a core operational partner
+hosted at [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], making FLI a core operational partner
 for ICM's multisite imaging research. ICM coordinates French neuroimaging
 harmonisation efforts through this FLI/CATI hub.
 
 ## Connections
-- Data management node: [[04_Governance/CATI\|CATI]] (hosted at [[00_Core/Paris Brain Institute\|Paris Brain Institute]])
+- Data management node: [[04_Governance/CATI\|CATI]] (hosted at [[01_Actors/Paris Brain Institute\|Paris Brain Institute]])
 - National counterpart: [[04_Governance/France BioImaging\|France BioImaging]] (cellular imaging)
 - European: [[04_Governance/Euro-BioImaging\|Euro-BioImaging]] (Med-Hub covers in vivo modalities),
   [[03_Platforms/EBRAINS\|EBRAINS]]
 - Standards: [[02_Standards/BIDS\|BIDS]], [[02_Standards/NIfTI\|NIfTI]], [[02_Standards/DICOM\|DICOM]]
 - Policy: [[04_Governance/Ouvrir la Science\|Ouvrir la Science]], [[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]],
   [[04_Governance/CNRS Open Science\|CNRS Open Science]]
-- Related: [[00_Core/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/ADNI\|ADNI]], [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]]
+- Related: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/ADNI\|ADNI]], [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]]
 
 ## Resources
 - https://www.francelifeimaging.fr

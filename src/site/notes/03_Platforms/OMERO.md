@@ -31,7 +31,7 @@ and [[01_Actors/Institut Curie\|Institut Curie]] PICT-IBiSA), and core facilitie
 - Metadata alignment: [[02_Standards/REMBI\|REMBI]], [[04_Governance/QUAREP-LiMi\|QUAREP-LiMi]]
 - Related platforms: [[03_Platforms/LORIS\|LORIS]] (neuroimaging equivalent),
   [[03_Platforms/XNAT\|XNAT]] (neuroimaging equivalent)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (microscopy data management)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (microscopy data management)
 
 ## Resources
 - https://www.openmicroscopy.org/omero/

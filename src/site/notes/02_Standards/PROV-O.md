@@ -41,7 +41,7 @@ Key relationships: `wasGeneratedBy`, `used`, `wasAttributedTo`, `wasDerivedFrom`
 - Used by: [[01_Actors/ReproNim\|ReproNim]], DataLad, [[03_Platforms/OpenNeuro\|OpenNeuro]], [[04_Governance/EOSC\|EOSC]]
 - Complements: [[02_Standards/DCAT\|DCAT]] (dataset description), [[02_Standards/Dublin Core\|Dublin Core]] (basic metadata)
 - Part of: W3C Semantic Web standards stack (alongside RDF, OWL, SPARQL)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (reproducible neuroimaging pipelines)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (reproducible neuroimaging pipelines)
 
 ## Resources
 - https://www.w3.org/TR/prov-o/

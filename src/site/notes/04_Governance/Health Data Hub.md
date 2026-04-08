@@ -29,7 +29,7 @@ for data standardisation and connects to [[04_Governance/AP-HP\|AP-HP]] hospital
 - Part of: [[04_Governance/data.gouv.fr\|data.gouv.fr]] ecosystem (alongside [[03_Platforms/Recherche Data Gouv\|Recherche Data Gouv]])
 - French: [[04_Governance/Ouvrir la Science\|Ouvrir la Science]], [[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[04_Governance/AP-HP\|AP-HP]], [[04_Governance/Inserm Open Science\|Inserm Open Science]]
 - European: [[04_Governance/ECRIN\|ECRIN]], [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[04_Governance/EOSC\|EOSC]], [[04_Governance/ELIXIR\|ELIXIR]], [[04_Governance/EHDS\|EHDS]] (national HDAB candidate)
-- Relevant to [[00_Core/Paris Brain Institute\|Paris Brain Institute]]: population-scale neurology data, AP-HP linkage
+- Relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]: population-scale neurology data, AP-HP linkage
 
 ## Resources
 - https://www.health-data-hub.fr

@@ -10,7 +10,7 @@ ICD-11 is the WHO's updated disease classification, officially endorsed in 2019
 and in effect from 1 January 2022. It replaces [[02_Standards/ICD-10\|ICD-10]] with a fully digital,
 ontology-aligned structure featuring a foundation layer (all concepts) and
 linearisations (context-specific views including morbidity and mortality). France
-is in transition toward ICD-11 adoption. For [[00_Core/Paris Brain Institute\|Paris Brain Institute]],
+is in transition toward ICD-11 adoption. For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]],
 ICD-11 brings significant improvements for neuroscience: richer coverage of
 neurodegenerative diseases, movement disorders, and rare neurological conditions.
 
@@ -40,7 +40,7 @@ the transition period.
 - Official mapping: [[02_Standards/SNOMED CT\|SNOMED CT]] ↔ ICD-11 (WHO-maintained cross-map)
 - Harmonised by: [[02_Standards/MONDO\|MONDO]] (integrates ICD-11 into unified disease ontology)
 - Used in: [[02_Standards/OMOP CDM\|OMOP CDM]] (ICD-11 vocabulary being integrated in Athena)
-- Relevant to: [[04_Governance/Health Data Hub\|Health Data Hub]], [[04_Governance/AP-HP\|AP-HP]], [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+- Relevant to: [[04_Governance/Health Data Hub\|Health Data Hub]], [[04_Governance/AP-HP\|AP-HP]], [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
 
 ## Resources
 - https://icd.who.int/en (WHO ICD-11 browser)

@@ -71,7 +71,7 @@ NWB and [[02_Standards/BIDS\|BIDS]] serve complementary roles and are designed t
 - Compatible with: [[02_Standards/BIDS\|BIDS]] (BEP032), [[02_Standards/HED\|HED]] (event annotation)
 - Governed by: [[04_Governance/NWB Working Group\|NWB Working Group]]
 - Adopted by: [[03_Platforms/EBRAINS\|EBRAINS]], [[01_Actors/IBL\|IBL]], [[01_Actors/Allen Institute for Brain Science\|Allen Institute for Brain Science]], [[01_Actors/BICAN\|BICAN]]
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (ePHYS platform electrophysiology data;
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (ePHYS platform electrophysiology data;
   DANDI deposit for open neurophysiology datasets)
 
 ## Resources

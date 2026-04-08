@@ -13,7 +13,7 @@ features (using [[02_Standards/HPO\|HPO]] terms), diagnoses, biosample data, gen
 [[02_Standards/VCF\|VCF]] / VRS), medical actions, and pedigree information in a single coherent
 package. Adopted as an ISO standard (ISO/TS 5435:2022), it is the key bridge
 between the clinical phenotype world and the genomics world, and is directly
-relevant to rare neurological disease work at [[00_Core/Paris Brain Institute\|Paris Brain Institute]].
+relevant to rare neurological disease work at [[01_Actors/Paris Brain Institute\|Paris Brain Institute]].
 
 ## Created / Governed By
 - [[01_Actors/GA4GH\|GA4GH]] — Clinical & Phenotypic Data Capture Work Stream
@@ -39,7 +39,7 @@ relevant to rare neurological disease work at [[00_Core/Paris Brain Institute\|P
 - Variant format: [[02_Standards/VCF\|VCF]], GA4GH VRS
 - Interoperates with: [[02_Standards/HL7 FHIR\|HL7 FHIR]], [[02_Standards/OMOP CDM\|OMOP CDM]], [[02_Standards/SNOMED CT\|SNOMED CT]]
 - Adopted by: [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[04_Governance/ELIXIR\|ELIXIR]], [[04_Governance/EHDS\|EHDS]] (genomic secondary use)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (rare neurological disease genomics)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (rare neurological disease genomics)
 
 ## Resources
 - https://www.ga4gh.org/product/phenopackets/

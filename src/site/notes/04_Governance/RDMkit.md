@@ -51,7 +51,7 @@ sciences RDM stack from data production to archive.
 - Tool integration: [[04_Governance/OPIDoR\|OPIDoR]] (DMP), [[03_Platforms/Recherche Data Gouv\|Recherche Data Gouv]] (deposit),
   [[03_Platforms/EGA\|EGA]] (sensitive human data), [[03_Platforms/NCBI GEO\|NCBI GEO]] (expression data)
 - Complements: [[04_Governance/OPIDoR\|OPIDoR]] DORANum (French training), ELIXIR TeSS (training catalogue)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (FAIR data management guidance
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (FAIR data management guidance
   for genomics at [[01_Actors/iGENSEQ\|iGENSEQ]], bioimaging at ICM Quant, clinical data)
 
 ## Resources

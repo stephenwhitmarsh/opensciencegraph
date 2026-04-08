@@ -51,7 +51,7 @@ electrophysiology, genomics, and clinical neuroscience data.
 - Integrates with: [[02_Standards/SPARC SDS\|SPARC SDS]] (SPARC Portal uses NIF resource registry)
 - Data repository guide: https://neuinfo.org/rin/suggested-data-repositories
 - Related: [[01_Actors/INCF\|INCF]] (complementary international neuroinformatics body)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (RRID use in publications for
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (RRID use in publications for
   antibodies, cell lines, and software tools; repository selection guidance)
 
 ## Resources

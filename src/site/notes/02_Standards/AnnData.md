@@ -13,7 +13,7 @@ file format (HDF5-based) is the serialisation of AnnData objects, and has become
 the universal exchange format for single-cell RNA-seq, single-cell ATAC-seq,
 spatial transcriptomics, and multi-omics data.
 
-For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], AnnData/h5ad is the primary output format of
+For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], AnnData/h5ad is the primary output format of
 [[01_Actors/iGENSEQ\|iGENSEQ]]'s single-cell RNA-seq workflows (10x Genomics, Visium spatial
 transcriptomics) and is directly relevant to neurological disease cell atlas
 studies using [[01_Actors/BICAN\|BICAN]] reference data.
@@ -64,7 +64,7 @@ MERFISH, Xenium):
   [[02_Standards/HPO\|HPO]] / [[02_Standards/MONDO\|MONDO]] (disease context)
 - Related format: [[02_Standards/NWB\|NWB]] (analogous role for electrophysiology)
 - Spatial integration: [[02_Standards/BIDS\|BIDS]] Microscopy BEP031 (emerging alignment)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (scRNA-seq and spatial transcriptomics
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (scRNA-seq and spatial transcriptomics
   outputs from [[01_Actors/iGENSEQ\|iGENSEQ]]; [[01_Actors/BICAN\|BICAN]] reference data access)
 
 ## Resources

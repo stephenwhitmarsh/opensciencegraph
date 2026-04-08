@@ -51,7 +51,7 @@ Five case studies demonstrating the framework across different communities:
 5. **IS5** — agriculture
 
 ## Relevance to Paris Brain Institute
-For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], MUDIS4LS is relevant through:
+For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], MUDIS4LS is relevant through:
 - **IS1 (multi-omics + imaging integration)** — directly addresses the challenge
   of combining neuroimaging data ([[02_Standards/BIDS\|BIDS]] / [[04_Governance/CATI\|CATI]]) with genomics
   ([[01_Actors/iGENSEQ\|iGENSEQ]]) and clinical data ([[02_Standards/OMOP CDM\|OMOP CDM]]) in a FAIR-compliant framework
@@ -70,7 +70,7 @@ For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], MUDIS4LS is releva
 - Standards: [[04_Governance/FAIR Principles\|FAIR Principles]], [[02_Standards/BIDS\|BIDS]], [[02_Standards/VCF\|VCF]], [[02_Standards/OME File Formats\|OME File Formats]]
 - Policy: [[04_Governance/Ouvrir la Science\|Ouvrir la Science]], [[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]]
 - Funded by: ANR Equipex+ PIA3 (France 2030 programme)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (multi-omics integration, computing)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (multi-omics integration, computing)
 
 ## Resources
 - https://www.france-bioinformatique.fr/en/mudis4ls/

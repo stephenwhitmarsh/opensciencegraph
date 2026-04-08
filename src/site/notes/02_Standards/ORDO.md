@@ -12,7 +12,7 @@ descriptions, genetic causes, epidemiological data, and relationships. Maintaine
 by the **Orphanet** consortium (coordinated by INSERM in France), ORDO is the
 mandatory coding system for rare diseases in European Reference Networks (ERNs)
 and is deeply integrated into French rare disease research infrastructure. For
-[[00_Core/Paris Brain Institute\|Paris Brain Institute]], which conducts extensive research on rare
+[[01_Actors/Paris Brain Institute\|Paris Brain Institute]], which conducts extensive research on rare
 neurological diseases (rare epilepsies, rare ataxias, rare dementias, rare
 movement disorders), ORDO is the primary coding system.
 
@@ -49,7 +49,7 @@ disease, ORPHA:282 for Huntington's disease) at five levels of classification:
 - Integrated in: [[04_Governance/Health Data Hub\|Health Data Hub]] (rare disease), [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]] (biobank coding)
 - French parent: INSERM (→ [[04_Governance/Inserm Open Science\|Inserm Open Science]])
 - Part of: OBO Foundry ecosystem
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (rare neurological disease research, CRMR)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (rare neurological disease research, CRMR)
 
 ## Resources
 - https://www.orpha.net

@@ -16,7 +16,7 @@ genotype-phenotype relationships.
 OMIM is the primary reference database linking specific genetic variants to
 human disease phenotypes, and is central to rare disease genomics, variant
 interpretation, and neurogenomics workflows at institutions like
-[[00_Core/Paris Brain Institute\|Paris Brain Institute]].
+[[01_Actors/Paris Brain Institute\|Paris Brain Institute]].
 
 ## MIM Number System
 OMIM assigns unique 6-digit identifiers:
@@ -57,7 +57,7 @@ OMIM is the primary lookup for:
 - Used by: [[02_Standards/ERN Vocabularies\|ERN Vocabularies]] (ERN-RND, ERN-EpiCARE rare disease registries),
   clinical genetics labs, [[01_Actors/iGENSEQ\|iGENSEQ]] (variant interpretation)
 - Related: ClinVar (NCBI — clinical variant classifications referencing OMIM)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (rare neurological disease
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (rare neurological disease
   genomics, variant interpretation, HPO/ORDO phenotyping)
 
 ## Resources

@@ -14,7 +14,7 @@ Established as an ERIC in 2013 under ESFRI coordination, BBMRI-ERIC provides the
 governance, standards, and IT infrastructure that allow researchers to discover,
 access, and use biological samples and associated data from biobanks across Europe.
 
-For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], BBMRI-ERIC is directly relevant through the
+For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], BBMRI-ERIC is directly relevant through the
 [[01_Actors/Banque ADN et Cellules\|Banque ADN et Cellules]] — ICM's biobank which operates within the French
 BIOBANQUES node of BBMRI-ERIC — and through [[01_Actors/Institut de Myologie\|Institut de Myologie]]'s
 Myobank-AFM, which also participates in the BBMRI-ERIC network.
@@ -64,7 +64,7 @@ translational medicine.
 - Standards: [[02_Standards/OMOP CDM\|OMOP CDM]], [[02_Standards/HL7 FHIR\|HL7 FHIR]], [[02_Standards/VCF\|VCF]], [[02_Standards/Phenopackets\|Phenopackets]], MIABIS
 - Access governance: [[01_Actors/GA4GH\|GA4GH]] DUO (Data Use Ontology) for consent term machine-reading
 - Partners: [[04_Governance/Health Data Hub\|Health Data Hub]], [[01_Actors/UK Biobank\|UK Biobank]], [[04_Governance/EOSC\|EOSC]], [[01_Actors/GA4GH\|GA4GH]]
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (Banque ADN et Cellules BBMRI integration;
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (Banque ADN et Cellules BBMRI integration;
   sample discovery for neurological disease research)
 
 ## Resources

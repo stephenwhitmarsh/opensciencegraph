@@ -49,7 +49,7 @@ Convergence efforts are underway to harmonise BIDS and SDS metadata schemas
 for studies that span central and peripheral nervous systems.
 
 ## Relevance to Paris Brain Institute
-SDS/SPARC is relevant to [[00_Core/Paris Brain Institute\|Paris Brain Institute]] through:
+SDS/SPARC is relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] through:
 - Peripheral nervous system research programmes (autonomic neurology,
   enteric nervous system)
 - Electrophysiology data from ePHYS platform that includes peripheral nerve recordings
@@ -63,7 +63,7 @@ SDS/SPARC is relevant to [[00_Core/Paris Brain Institute\|Paris Brain Institute]
 - Standards used within SDS: [[02_Standards/NWB\|NWB]] (electrophysiology data files),
   community anatomy ontologies
 - Harmonisation effort: BIDS-SPARC convergence working group
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (peripheral neuroscience, ePHYS platform)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (peripheral neuroscience, ePHYS platform)
 
 ## Resources
 - https://sparc.science (SPARC Portal — dataset repository)

@@ -78,7 +78,7 @@ NIDM-Experiment is in active development and community adoption:
 - Vocabularies: [[02_Standards/Cognitive Atlas\|Cognitive Atlas]] (task terms), [[02_Standards/SNOMED CT\|SNOMED CT]] / [[02_Standards/HPO\|HPO]] (subject terms),
   [[02_Standards/UBERON\|UBERON]] (anatomy), [[02_Standards/DICOM\|DICOM]] (acquisition metadata)
 - Tools: PyNIDM, ReproIn, NIDM Query Tool
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (reproducibility, statistical result sharing
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (reproducibility, statistical result sharing
   via [[03_Platforms/NeuroVault\|NeuroVault]], multi-site cohort annotation)
 
 ## Resources

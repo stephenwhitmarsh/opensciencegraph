@@ -52,10 +52,10 @@ HAL is the publication layer of the French open science stack:
 - Operated by: CCSD / CNRS
 - Implements: [[04_Governance/Ouvrir la Science\|Ouvrir la Science]], [[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]]
 - Institutional users: [[04_Governance/CNRS Open Science\|CNRS Open Science]], [[04_Governance/Inserm Open Science\|Inserm Open Science]],
-  [[00_Core/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/Institut Pasteur\|Institut Pasteur]], [[04_Governance/AP-HP\|AP-HP]]
+  [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/Institut Pasteur\|Institut Pasteur]], [[04_Governance/AP-HP\|AP-HP]]
 - European integration: [[04_Governance/OpenAIRE\|OpenAIRE]] (HAL metadata harvested for EU OA compliance)
 - Part of: [[04_Governance/data.gouv.fr\|data.gouv.fr]] ecosystem (publications layer)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (mandatory deposit for all ANR and
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (mandatory deposit for all ANR and
   CNRS-funded publications; HAL-ICM portal)
 
 ## Resources

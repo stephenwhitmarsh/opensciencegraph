@@ -11,7 +11,7 @@ McGill University), established in 2016 with a $20M gift from the Larry and Judy
 family. It was the first institute in the world to formally adopt Open Science as a core
 institutional value. TOSI's mission is to establish open science best practices within
 The Neuro and to build a growing alliance of Canadian neuroscience research institutes
-committed to open science principles. It is directly relevant to [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+committed to open science principles. It is directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
 as a peer institution and model for open science implementation.
 
 ## Key Activities
@@ -42,7 +42,7 @@ Institutes that have adopted TOSI-approved Open Science Principles:
 - Partners: [[01_Actors/CONP\|CONP]] (Canadian Open Neuroscience Platform — overlapping community)
 - Standards adopted: [[02_Standards/BIDS\|BIDS]], [[03_Platforms/LORIS\|LORIS]] (C-BIG Repository)
 - Open science: institutional mandate — all data and code released per TOSI Open Science Principles
-- Related: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (peer open science institute)
+- Related: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (peer open science institute)
 - Scope: north-american, with growing international reach
 
 ## Resources

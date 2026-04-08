@@ -49,7 +49,7 @@ dbGaP is the NIH-primary controlled-access repository, complementing:
 - Standards: [[02_Standards/VCF\|VCF]], [[01_Actors/GA4GH\|GA4GH]] (Beacon, DRS), [[02_Standards/Phenopackets\|Phenopackets]]
 - Uses: [[02_Standards/SNOMED CT\|SNOMED CT]], [[02_Standards/HPO\|HPO]] for phenotype annotation
 - Part of: INSDC data sharing ecosystem (with [[03_Platforms/DDBJ\|DDBJ]], ENA)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (access to ADSP, ENIGMA GWAS;
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (access to ADSP, ENIGMA GWAS;
   deposition of neurogenomics data from international collaborations)
 
 ## Resources

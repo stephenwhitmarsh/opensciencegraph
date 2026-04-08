@@ -50,7 +50,7 @@ in international data commons alignment.
 - Open science network: [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]] (ENIGMA-Epilepsy working group)
 - National infrastructure: [[04_Governance/ARDC\|ARDC]] (Australian Research Data Commons)
 - Neuroimaging standards: [[02_Standards/BIDS\|BIDS]], [[03_Platforms/OpenNeuro\|OpenNeuro]] (compatible data structures)
-- CURE-ND peers: [[00_Core/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/DZNE\|DZNE]], [[01_Actors/UK DRI\|UK DRI]] (shared neurodegeneration
+- CURE-ND peers: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/DZNE\|DZNE]], [[01_Actors/UK DRI\|UK DRI]] (shared neurodegeneration
   research domains; Alzheimer's / Parkinson's / epilepsy overlap)
 - Australian context: Melbourne Biomedical Precinct, University of Melbourne,
   Austin Health, Royal Melbourne Hospital

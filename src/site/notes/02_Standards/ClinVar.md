@@ -14,7 +14,7 @@ classification** based on submitted evidence. ClinVar is the primary reference
 for variant interpretation in clinical genetics and is directly referenced by
 [[02_Standards/OMIM\|OMIM]], [[02_Standards/VCF\|VCF]] annotation pipelines, and [[02_Standards/Phenopackets\|Phenopackets]].
 
-For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], ClinVar is the key resource for interpreting
+For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], ClinVar is the key resource for interpreting
 genetic variants identified in neurological disease patients through [[01_Actors/iGENSEQ\|iGENSEQ]]
 sequencing, linking variants to established pathogenicity evidence for Alzheimer's,
 Parkinson's, ALS, and rare neurological diseases.
@@ -57,7 +57,7 @@ ClinVar sits at the intersection of variant databases and disease databases:
 - Used in: variant annotation pipelines (Ensembl VEP, ANNOVAR, Franklin)
 - Related: [[03_Platforms/EVA\|EVA]] (EMBL-EBI open variant archive), ClinGen (expert curation)
 - Standards: [[02_Standards/VCF\|VCF]] (variant format), [[02_Standards/Phenopackets\|Phenopackets]] (variant-phenotype linking)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (variant interpretation for neurological
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (variant interpretation for neurological
   disease genomics from [[01_Actors/iGENSEQ\|iGENSEQ]]; rare disease diagnosis)
 
 ## Resources

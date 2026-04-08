@@ -9,7 +9,7 @@
 The European Reference Networks (ERNs) are virtual networks connecting healthcare
 providers across Europe for rare and complex diseases. Established in 2017 under
 the Cross-Border Healthcare Directive (2011/24/EU), there are 24 ERNs covering
-different disease domains. Two are directly relevant to [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+different disease domains. Two are directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
 and the neurological rare disease ecosystem:
 
 - **ERN-RND** — European Reference Network for Rare Neurological Diseases
@@ -40,7 +40,7 @@ ERN-EpiCARE coordinates the **EpiCARE registry** covering rare epilepsy syndrome
 - EEG and imaging data models aligned with [[02_Standards/BIDS\|BIDS]] (EEG-BIDS)
 
 ## Relevance to Paris Brain Institute
-[[00_Core/Paris Brain Institute\|Paris Brain Institute]] is a member of multiple ERNs through its clinical
+[[01_Actors/Paris Brain Institute\|Paris Brain Institute]] is a member of multiple ERNs through its clinical
 partnership with [[04_Governance/AP-HP\|AP-HP]] (Pitié-Salpêtrière Hospital):
 - Movement disorders and neurodegenerative disease programmes → ERN-RND
 - Epilepsy programmes (with AP-HP neurology) → ERN-EpiCARE
@@ -57,7 +57,7 @@ partnership with [[04_Governance/AP-HP\|AP-HP]] (Pitié-Salpêtrière Hospital):
 - Policy context: [[04_Governance/EHDS\|EHDS]] (ERN registries are primary use health data sources
   under EHDS), [[04_Governance/EOSC\|EOSC]]
 - Related standards: [[02_Standards/ORDO\|ORDO]], [[02_Standards/HPO\|HPO]], [[02_Standards/MONDO\|MONDO]], [[02_Standards/OMOP CDM\|OMOP CDM]]
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (rare neurological disease clinical
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (rare neurological disease clinical
   programmes via AP-HP ERN membership)
 
 ## Resources

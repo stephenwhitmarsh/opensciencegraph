@@ -58,7 +58,7 @@ Large-scale multi-ethnic genomic studies using population biobanks:
 - Data formats: [[02_Standards/AnnData\|AnnData]], [[02_Standards/VCF\|VCF]], [[03_Platforms/NCBI GEO\|NCBI GEO]] formats
 - Relevant to ICM: [[01_Actors/iGENSEQ\|iGENSEQ]] (RNA-seq / scRNA-seq data); [[01_Actors/DAC\|DAC]] (analysis pipelines)
 - Cohorts: [[01_Actors/UK Biobank\|UK Biobank]], [[01_Actors/ADNI\|ADNI]] (shared access)
-- CURE-ND peers: [[00_Core/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/DZNE\|DZNE]], [[01_Actors/UK DRI\|UK DRI]] (neurodegeneration overlap)
+- CURE-ND peers: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/DZNE\|DZNE]], [[01_Actors/UK DRI\|UK DRI]] (neurodegeneration overlap)
 
 ## Resources
 - https://icahn.mssm.edu/research/friedman

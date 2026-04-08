@@ -12,7 +12,7 @@ disease classification systems — [[02_Standards/ICD-10\|ICD-10]], ICD-11, OMIM
 single coherent hierarchy. Developed by the Monarch Initiative, MONDO is the
 single best ontology for **cross-database disease queries** because it provides
 a unified identifier (e.g. MONDO:0004975 for Alzheimer's disease) that maps to
-the corresponding codes in every major system. For [[00_Core/Paris Brain Institute\|Paris Brain Institute]],
+the corresponding codes in every major system. For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]],
 MONDO is the key bridge between the [[02_Standards/ICD-10\|ICD-10]] / CIM-10 coding used in French
 health data ([[04_Governance/Health Data Hub\|Health Data Hub]], [[04_Governance/AP-HP\|AP-HP]]) and the research disease databases
 (OMIM, [[02_Standards/ORDO\|ORDO]]) used in genomics and rare disease research.
@@ -38,7 +38,7 @@ MONDO is part of the OBO Foundry ecosystem and is maintained in close alignment 
 - Used in: [[02_Standards/OMOP CDM\|OMOP CDM]] (disease concepts), [[03_Platforms/EBRAINS\|EBRAINS]], [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]]
 - Complements: [[02_Standards/HPO\|HPO]] (phenotypes), [[02_Standards/ORDO\|ORDO]] (rare disease specifics)
 - Part of: OBO Foundry
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (harmonising clinical and genomic disease coding)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (harmonising clinical and genomic disease coding)
 
 ## Resources
 - https://monarchinitiative.org/disease

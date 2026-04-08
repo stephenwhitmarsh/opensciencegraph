@@ -72,7 +72,7 @@ Key concept hierarchies relevant to neuroscience:
 - Harmonised by: [[02_Standards/MONDO\|MONDO]] (SNOMED disease concepts integrated into unified ontology)
 - Related: [[02_Standards/HPO\|HPO]] (phenotype layer — more granular for rare disease genomics)
 - French coordination: ANS (Agence du Numérique en Santé) — NRC France
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (OMOP CDM clinical data standardisation,
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (OMOP CDM clinical data standardisation,
   AP-HP EDS linkage, EHDS compliance)
 
 ## Resources

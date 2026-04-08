@@ -13,7 +13,7 @@ terms covering all organ systems including the nervous system, HPO is the primar
 phenotype language for rare disease genomics globally. It is directly integrated
 into [[02_Standards/Phenopackets\|Phenopackets]] and is used by virtually every rare disease gene discovery
 programme, including neurological disease cohorts relevant to
-[[00_Core/Paris Brain Institute\|Paris Brain Institute]].
+[[01_Actors/Paris Brain Institute\|Paris Brain Institute]].
 
 ## Created / Governed By
 - The Jackson Laboratory (JAX) and the Monarch Initiative — primary development
@@ -41,7 +41,7 @@ stratification in rare neurology.
 - Governed by: [[01_Actors/GA4GH\|GA4GH]] (via Phenopackets Work Stream)
 - Maps to: [[02_Standards/SNOMED CT\|SNOMED CT]], [[02_Standards/OMOP CDM\|OMOP CDM]] (via concept mapping)
 - Complements: [[02_Standards/MONDO\|MONDO]] (disease-level), [[02_Standards/ORDO\|ORDO]] (rare disease specifics)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (rare neurological disease research)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (rare neurological disease research)
 - Related terminologies: MONDO (disease ontology), [[02_Standards/UBERON\|UBERON]] (anatomy ontology)
 
 ## Resources

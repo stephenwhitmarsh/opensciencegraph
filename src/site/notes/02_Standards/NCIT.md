@@ -15,7 +15,7 @@ cancer registries, and regulatory submissions. NCIt is used in [[02_Standards/CD
 trial standards, is mapped in [[02_Standards/OMOP CDM\|OMOP CDM]] vocabularies, and underpins the
 NCI Enterprise Vocabulary Services (EVS).
 
-For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], NCIt is relevant through clinical trial data
+For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], NCIt is relevant through clinical trial data
 management ([[02_Standards/CDISC\|CDISC]] SDTM uses NCIt as a controlled terminology source),
 neuro-oncology research, and its broad coverage of clinical research concepts
 that bridge oncology and neurology (brain tumours, neuroendocrine tumours,
@@ -49,7 +49,7 @@ paraneoplastic syndromes).
 - Complements: [[02_Standards/SNOMED CT\|SNOMED CT]] (broader clinical), [[02_Standards/ICD-10\|ICD-10]] / [[02_Standards/ICD-11\|ICD-11]]
   (disease classification), [[02_Standards/MedDRA\|MedDRA]] (adverse events), [[02_Standards/ChEBI\|ChEBI]] / [[02_Standards/RxNorm\|RxNorm]]
   (drugs)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (clinical trials, neuro-oncology,
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (clinical trials, neuro-oncology,
   CDISC submissions via [[04_Governance/ECRIN\|ECRIN]])
 
 ## Resources

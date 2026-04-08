@@ -82,7 +82,7 @@ The ELIXIR Authentication and Authorisation Infrastructure (ELIXIR AAI) provides
 - Standards: [[04_Governance/FAIR Principles\|FAIR Principles]], [[01_Actors/GA4GH\|GA4GH]] (Beacon, DRS, DUO), [[02_Standards/Phenopackets\|Phenopackets]]
 - Tools: [[04_Governance/RDMkit\|RDMkit]], TeSS, bio.tools, OpenEBench
 - French infrastructure: [[04_Governance/IFB\|IFB]], [[04_Governance/MUDIS4LS\|MUDIS4LS]]
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (IFB/ELIXIR-FR services for genomics,
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (IFB/ELIXIR-FR services for genomics,
   compute, DMP, FAIR compliance)
 
 ## Resources

@@ -77,7 +77,7 @@ in the DICOM object alongside images. Used for:
 - Used by: [[04_Governance/CATI\|CATI]] (CATIconv pipeline), [[03_Platforms/XNAT\|XNAT]], [[03_Platforms/LORIS\|LORIS]], [[04_Governance/AP-HP\|AP-HP]]
 - Compatible with: [[02_Standards/HL7 FHIR\|HL7 FHIR]] (ImagingStudy and DiagnosticReport resources)
 - Tools: dcm2niix, heudiconv, Orthanc, [[03_Platforms/XNAT\|XNAT]]
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (all CENIR acquisitions; primary source
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (all CENIR acquisitions; primary source
   format for all MRI, PET-MRI, and MEG-linked MRI data)
 
 ## Resources

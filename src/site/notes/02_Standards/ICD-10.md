@@ -41,7 +41,7 @@ built from French health data will use CIM-10 codes.
 - Used in: [[04_Governance/Health Data Hub\|Health Data Hub]] (SNDS), [[04_Governance/AP-HP\|AP-HP]] (PMSI billing), [[02_Standards/OMOP CDM\|OMOP CDM]] (source vocabulary)
 - Maps to: [[02_Standards/SNOMED CT\|SNOMED CT]], [[02_Standards/MONDO\|MONDO]], [[02_Standards/ORDO\|ORDO]] (for rare diseases), [[02_Standards/ICD-11\|ICD-11]] (successor)
 - Related terminologies: [[02_Standards/CCAM\|CCAM]] (procedures), [[02_Standards/LOINC\|LOINC]] (labs), [[02_Standards/MedDRA\|MedDRA]] (adverse events)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (any study using French health data)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (any study using French health data)
 
 ## Resources
 - https://www.who.int/classifications/icd

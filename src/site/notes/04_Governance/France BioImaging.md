@@ -31,7 +31,7 @@ French national node of [[04_Governance/Euro-BioImaging\|Euro-BioImaging]] ERIC 
 France BioImaging nodes cover brain-relevant imaging modalities including
 super-resolution microscopy of synaptic structures, expansion microscopy,
 light-sheet imaging of cleared brain tissue, and correlative
-light-electron microscopy — all directly relevant to [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+light-electron microscopy — all directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
 research programmes in cellular and circuit neuroscience.
 
 ## Connections
@@ -43,7 +43,7 @@ research programmes in cellular and circuit neuroscience.
 - QC standards: [[04_Governance/QUAREP-LiMi\|QUAREP-LiMi]]
 - Policy: [[04_Governance/Ouvrir la Science\|Ouvrir la Science]], [[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]],
   [[04_Governance/CNRS Open Science\|CNRS Open Science]]
-- Related: [[00_Core/Paris Brain Institute\|Paris Brain Institute]], [[03_Platforms/EBRAINS\|EBRAINS]],
+- Related: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[03_Platforms/EBRAINS\|EBRAINS]],
   [[01_Actors/Institut Pasteur\|Institut Pasteur]] (founding node, Icy software),
   [[01_Actors/Institut Curie\|Institut Curie]] (PICT-IBiSA founding node)
 

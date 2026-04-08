@@ -14,7 +14,7 @@ standard electronic data capture (EDC) tool for academic clinical research and
 clinical trials worldwide. It is used for eCRF (electronic Case Report Form) design,
 longitudinal study management, survey distribution, and clinical data warehousing.
 
-At [[00_Core/Paris Brain Institute\|Paris Brain Institute]], REDCap is used for clinical data management and is
+At [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], REDCap is used for clinical data management and is
 supported by the [[01_Actors/DAC\|DAC]] (Data Analysis Core), which provides REDCap training and
 helpdesk support to ICM researchers and clinicians.
 
@@ -57,7 +57,7 @@ In France:
 - [[04_Governance/AP-HP\|AP-HP]] operates REDCap instances for clinical data collection across its hospitals
 - [[04_Governance/ECRIN\|ECRIN]] operates a GDPR-compliant REDCap instance available to
   ECRIN-supported multinational clinical studies
-- [[00_Core/Paris Brain Institute\|Paris Brain Institute]] / [[01_Actors/DAC\|DAC]] runs an institutional REDCap instance
+- [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] / [[01_Actors/DAC\|DAC]] runs an institutional REDCap instance
   supporting ICM research teams
 
 ## Standards Alignment
@@ -72,9 +72,9 @@ In France:
 - Standards: [[02_Standards/CDISC\|CDISC]] (ODM XML export), [[02_Standards/HL7 FHIR\|HL7 FHIR]] (CDIS module)
 - Complements: [[02_Standards/OMOP CDM\|OMOP CDM]] (downstream ETL from REDCap to OMOP)
 - Related platforms: [[03_Platforms/LORIS\|LORIS]] (neuroimaging-specific equivalent),
-  [[03_Platforms/XNAT\|XNAT]] (imaging data management)
+  [[03_Platforms/XNAT\|XNAT]] (imaging data management), [[03_Platforms/CleanWEB\|CleanWEB]] (regulatory-grade French eClinical alternative used at AP-HP)
 - Used in training: [[01_Actors/DAC\|DAC]] training programme (REDCap sessions Jan–Mar 2026)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (clinical study data collection,
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (clinical study data collection,
   eCRF management, longitudinal cohort tracking)
 
 ## Resources

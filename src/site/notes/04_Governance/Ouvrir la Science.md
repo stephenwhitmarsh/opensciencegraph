@@ -29,7 +29,7 @@ journals, open software, and open science training.
 - Implemented by: [[04_Governance/CoSO\|CoSO]], [[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[04_Governance/CNRS Open Science\|CNRS Open Science]], [[04_Governance/Inserm Open Science\|Inserm Open Science]]
 - Infrastructure: [[03_Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[04_Governance/HAL\|HAL]], Software Heritage, [[04_Governance/OPIDoR\|OPIDoR]]
 - European alignment: [[04_Governance/EOSC\|EOSC]], [[04_Governance/OpenAIRE\|OpenAIRE]], [[04_Governance/GO FAIR\|GO FAIR]], [[04_Governance/UNESCO Open Science Recommendation\|UNESCO Open Science Recommendation]]
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (DMP mandates, open data requirements)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (DMP mandates, open data requirements)
 
 ## Resources
 - https://www.ouvrirlascience.fr

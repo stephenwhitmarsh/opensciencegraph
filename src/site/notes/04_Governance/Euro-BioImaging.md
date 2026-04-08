@@ -42,7 +42,7 @@ Euro-BioImaging operates through a distributed Hub model:
 - Working groups: [[04_Governance/QUAREP-LiMi\|QUAREP-LiMi]] (QC standards collaboration)
 - Tools: [[01_Actors/OME\|OME]] (OMERO deployed at nodes), Bio-Formats
 - Related: [[04_Governance/France Life Imaging\|France Life Imaging]] (in vivo imaging counterpart),
-  [[03_Platforms/EBRAINS\|EBRAINS]] (neuroscience imaging), [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+  [[03_Platforms/EBRAINS\|EBRAINS]] (neuroscience imaging), [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
 
 ## Resources
 - https://www.eurobioimaging.eu

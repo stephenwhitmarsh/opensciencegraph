@@ -14,7 +14,7 @@ and environmental chemicals — with precise chemical structure, role, and relat
 information. It is an OBO Foundry ontology and a core reference vocabulary for
 pharmacological, metabolomic, and biochemical research.
 
-For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], ChEBI is relevant to pharmacological research
+For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], ChEBI is relevant to pharmacological research
 (drug mechanisms, neurotransmitter chemistry), metabolomics studies, and the
 semantic annotation of chemical compounds in [[02_Standards/OMOP CDM\|OMOP CDM]] drug records and
 clinical trial data.
@@ -46,7 +46,7 @@ ChEBI serves as the chemical entity reference in several interconnected standard
 - Complements: [[02_Standards/RxNorm\|RxNorm]] (clinical drug formulations), [[02_Standards/LOINC\|LOINC]] (lab tests),
   [[02_Standards/OMOP CDM\|OMOP CDM]] (drug concepts), [[02_Standards/GO\|GO]] (molecular function of chemical agents)
 - Used in: metabolomics, pharmacology, clinical data standardisation
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (pharmacological research, OMOP CDM
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (pharmacological research, OMOP CDM
   drug mapping, PET radiotracer annotation)
 
 ## Resources

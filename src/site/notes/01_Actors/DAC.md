@@ -6,7 +6,7 @@
 # DAC — Data Analysis Core
 
 ## Overview
-The Data Analysis Core (DAC) is [[00_Core/Paris Brain Institute\|Paris Brain Institute]]'s bioinformatics
+The Data Analysis Core (DAC) is [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]'s bioinformatics
 and statistical analysis support platform, one of ICM's 10 core technological
 platforms. It provides computational expertise, analysis pipelines, training,
 and consultation to ICM research teams and external collaborators, bridging
@@ -84,7 +84,7 @@ infrastructure:
   training covers Git and open-source tools
 
 ## Connections
-- Hosted at: [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+- Hosted at: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
 - Member of: [[04_Governance/IFB\|IFB]] (participates in IFB missions and executive committee)
 - Participates in: [[04_Governance/MUDIS4LS\|MUDIS4LS]] initiative (managed by [[04_Governance/IFB\|IFB]])
 - REDCap support: [[03_Platforms/REDCap\|REDCap]] (instance management, training, helpdesk for clinical data collection)

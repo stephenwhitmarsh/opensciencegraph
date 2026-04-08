@@ -50,7 +50,7 @@ required image format for MRI and PET data.
 - Analysis ecosystems: FSL, FreeSurfer, SPM, ANTs, nilearn, MRtrix3, AFNI
 - Related formats: DICOM (source), [[02_Standards/CIFTI\|CIFTI]] (surface+volume HCP format),
   MGH/MGZ (FreeSurfer native), MINC (Canadian neuroimaging format)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]], [[04_Governance/CATI\|CATI]], [[01_Actors/Human Connectome Project\|Human Connectome Project]],
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[04_Governance/CATI\|CATI]], [[01_Actors/Human Connectome Project\|Human Connectome Project]],
   [[01_Actors/ADNI\|ADNI]], [[01_Actors/UK Biobank\|UK Biobank]], [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]]
 
 ## Resources

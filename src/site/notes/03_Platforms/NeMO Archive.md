@@ -41,7 +41,7 @@ NeMO is the primary repository for [[01_Actors/BICAN\|BICAN]] data:
 - **Mouse brain atlas** — continuation and expansion of BICCN mouse data
 - **Spatial transcriptomics** — MERFISH brain maps with cell type spatial distributions
 - These datasets provide the reference cell type framework for neurological
-  disease research at [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+  disease research at [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
 
 ## Data Standards
 - Primary format: [[02_Standards/AnnData\|AnnData]] / h5ad (processed data)
@@ -57,7 +57,7 @@ NeMO is the primary repository for [[01_Actors/BICAN\|BICAN]] data:
 - Annotations use: [[02_Standards/Cell Ontology\|Cell Ontology]], [[02_Standards/UBERON\|UBERON]]
 - Related: [[03_Platforms/DANDI Archive\|DANDI Archive]] (electrophysiology), Brain Image Library (microscopy),
   [[03_Platforms/dbGaP\|dbGaP]] (controlled-access human genomics)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (reference cell atlas data for
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (reference cell atlas data for
   neurological disease single-cell studies; [[01_Actors/BICAN\|BICAN]] data access)
 
 ## Resources

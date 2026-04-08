@@ -36,7 +36,7 @@ natural; DDBJ is the equivalent entry point for Japanese/Asian data producers.
 - **D-way** — unified submission portal for all DDBJ services
 
 ## Relevance to Open Neuroscience
-For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], DDBJ is relevant as:
+For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], DDBJ is relevant as:
 - Part of the **global sequence data infrastructure** — BIDS datasets on
   [[03_Platforms/OpenNeuro\|OpenNeuro]] linking to associated genomics data will ultimately have that
   sequence data mirrored in DDBJ via INSDC
@@ -52,7 +52,7 @@ For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], DDBJ is relevant a
 - Controlled-access equivalent: JGA (Japanese Genotype-phenotype Archive)
 - Open-access expression data: GEA (mirrors [[03_Platforms/NCBI GEO\|NCBI GEO]] / ArrayExpress)
 - Standards: [[02_Standards/VCF\|VCF]], [[01_Actors/GA4GH\|GA4GH]] (Beacon API)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (global sequence data access;
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (global sequence data access;
   international genomics collaborations)
 
 ## Resources

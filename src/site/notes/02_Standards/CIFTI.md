@@ -43,7 +43,7 @@ fMRI/dMRI acquisition → DICOM → NIfTI (volumetric)
 - Used with: [[02_Standards/BIDS\|BIDS]] (BIDS has a CIFTI derivatives BEP)
 - Related formats: [[02_Standards/NIfTI\|NIfTI]] (volumetric), GIfTI (surface geometry),
   [[02_Standards/OME File Formats\|OME File Formats]] (microscopy equivalent)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]], [[04_Governance/CATI\|CATI]],
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[04_Governance/CATI\|CATI]],
   [[01_Actors/Donders Institute\|Donders Institute]], [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]]
 
 ## Resources

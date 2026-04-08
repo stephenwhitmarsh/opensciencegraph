@@ -20,7 +20,7 @@ diseases. It operates a 10-year initiative with technology roadmaps and clear re
 horizons aimed at curing or preventing neurodegeneration.
 
 Mission Lucidity is a **founding member** of the [[04_Governance/CURE-ND\|CURE-ND]] alliance alongside
-[[00_Core/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/DZNE\|DZNE]], and [[01_Actors/UK DRI\|UK DRI]].
+[[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/DZNE\|DZNE]], and [[01_Actors/UK DRI\|UK DRI]].
 
 ## Research Approach
 Mission Lucidity takes a three-sided innovation platform:
@@ -41,11 +41,11 @@ one of Mission Lucidity's founding partners — has a strong open science tradit
 including open-access publishing mandates and contribution to international consortia.
 
 ## Connections
-- Alliance: [[04_Governance/CURE-ND\|CURE-ND]] (founding member alongside [[00_Core/Paris Brain Institute\|Paris Brain Institute]])
+- Alliance: [[04_Governance/CURE-ND\|CURE-ND]] (founding member alongside [[01_Actors/Paris Brain Institute\|Paris Brain Institute]])
 - Founding partners: imec, KU Leuven, VIB, UZ Leuven
-- European framework: [[04_Governance/JPND\|JPND]], [[03_Platforms/EBRAINS\|EBRAINS]] (DZNE is EBRAINS contributor)
+- European framework: [[04_Governance/JPND\|JPND]] (via CURE-ND partner DZNE's participation; Mission Lucidity itself is not a confirmed direct JPND member)
 - Consortia: [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]] (via KU Leuven / VIB researchers)
-- Peer institutes: [[01_Actors/DZNE\|DZNE]], [[01_Actors/UK DRI\|UK DRI]], [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (CURE-ND)
+- Peer institutes: [[01_Actors/DZNE\|DZNE]], [[01_Actors/UK DRI\|UK DRI]], [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (CURE-ND)
 
 ## Resources
 - https://www.missionlucidity.com

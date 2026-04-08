@@ -6,7 +6,7 @@
 # iGENSEQ — ICM Genomics and Sequencing Platform
 
 ## Overview
-iGENSEQ is [[00_Core/Paris Brain Institute\|Paris Brain Institute]]'s next-generation sequencing (NGS) platform,
+iGENSEQ is [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]'s next-generation sequencing (NGS) platform,
 one of ICM's 10 core technological platforms. It provides a full suite of genomic
 sequencing services to ICM research teams and external academic and industrial
 collaborators, covering bulk transcriptomics, single-cell and spatial genomics,
@@ -36,7 +36,7 @@ whole-genome and whole-exome sequencing, and targeted panels.
   (MUDIS4LS/NNCR); [[01_Actors/DAC\|DAC]] provides bioinformatics support
 
 ## Connections
-- Hosted at: [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+- Hosted at: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
 - Upstream biobank: [[01_Actors/Banque ADN et Cellules\|Banque ADN et Cellules]]
 - Bioinformatics support: DAC (Data Analysis Core)
 - Computing: [[04_Governance/IFB\|IFB]] (NNCR / [[04_Governance/MUDIS4LS\|MUDIS4LS]])

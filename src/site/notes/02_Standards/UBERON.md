@@ -42,7 +42,7 @@ with a common anatomical vocabulary.
   [[01_Actors/Allen Institute for Brain Science\|Allen Institute for Brain Science]] (Atlas alignment)
 - Complements: [[02_Standards/Cognitive Atlas\|Cognitive Atlas]] (cognitive processes), [[02_Standards/HED\|HED]] (events)
 - Part of: OBO Foundry (alongside [[02_Standards/HPO\|HPO]], [[02_Standards/MONDO\|MONDO]], [[02_Standards/ORDO\|ORDO]])
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/IBL\|IBL]], [[01_Actors/Human Connectome Project\|Human Connectome Project]]
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/IBL\|IBL]], [[01_Actors/Human Connectome Project\|Human Connectome Project]]
 
 ## Resources
 - https://uberon.org

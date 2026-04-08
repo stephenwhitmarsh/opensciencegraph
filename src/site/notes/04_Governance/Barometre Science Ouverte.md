@@ -61,7 +61,7 @@ local open science monitors:
 - Implements: [[04_Governance/FAIR Principles\|FAIR Principles]] (methodology is open and reproducible)
 - Policy context: [[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[04_Governance/CoSO\|CoSO]]
 - Related: [[04_Governance/OpenAIRE\|OpenAIRE]] (European equivalent monitoring — Open Science Monitor EU)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (ICM open access rate tracked;
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (ICM open access rate tracked;
   Sorbonne Université BSO3 covers ICM publications)
 
 ## Resources

@@ -9,7 +9,7 @@
 Sorbonne Université is one of France's leading research-intensive universities,
 formed in 2018 through the merger of Paris-Sorbonne (Paris IV) and Pierre et
 Marie Curie University (UPMC / Paris VI). It is a founding and governing member
-of [[00_Core/Paris Brain Institute\|Paris Brain Institute]], alongside [[04_Governance/CNRS Open Science\|CNRS Open Science]], [[04_Governance/Inserm Open Science\|Inserm Open Science]],
+of [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], alongside [[04_Governance/CNRS Open Science\|CNRS Open Science]], [[04_Governance/Inserm Open Science\|Inserm Open Science]],
 and [[04_Governance/AP-HP\|AP-HP]]. Sorbonne Université hosts the Faculty of Medicine (Pitié-Salpêtrière)
 and the Faculty of Science and Engineering, making it central to the clinical
 and scientific ecosystem within which ICM operates.
@@ -40,14 +40,14 @@ Sorbonne Université is one of ICM's five founding and supervising institutions:
   ICM's next generation of researchers
 
 ## Key Research Structures
-- **Institut du Cerveau (ICM)** — [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (brain and spine)
+- **Institut du Cerveau (ICM)** — [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (brain and spine)
 - **Institut de Myologie** — [[01_Actors/Institut de Myologie\|Institut de Myologie]] (neuromuscular diseases)
 - **APHP.Sorbonne Université** — clinical research partnership with [[04_Governance/AP-HP\|AP-HP]]
 - **Multiple UMR units** — joint CNRS/Inserm research units (UMR) hosted at
   Sorbonne Université campuses
 
 ## Connections
-- Governing body: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (co-supervisor)
+- Governing body: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (co-supervisor)
 - Partners: [[04_Governance/CNRS Open Science\|CNRS Open Science]], [[04_Governance/Inserm Open Science\|Inserm Open Science]], [[04_Governance/AP-HP\|AP-HP]]
 - Open access: HAL-Sorbonne → [[04_Governance/HAL\|HAL]] ecosystem
 - Data management: [[04_Governance/OPIDoR\|OPIDoR]], [[03_Platforms/Recherche Data Gouv\|Recherche Data Gouv]]

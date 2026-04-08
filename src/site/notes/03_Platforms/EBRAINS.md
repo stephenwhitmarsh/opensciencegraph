@@ -10,7 +10,7 @@ EBRAINS is the open neuroscience research infrastructure created by the
 [[04_Governance/Human Brain Project\|Human Brain Project]] (HBP) and launched as an independent infrastructure
 in 2020. It is the central European hub for brain data sharing, brain atlas
 services, simulation, and HPC for neuroscience, integrated into [[04_Governance/EOSC\|EOSC]] as
-a key service provider. [[00_Core/Paris Brain Institute\|Paris Brain Institute]] is a participating institution,
+a key service provider. [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] is a participating institution,
 contributing data and using EBRAINS services for data sharing and computational
 neuroscience.
 
@@ -60,11 +60,11 @@ EBRAINS is one of the flagship neuroscience services within [[04_Governance/EOSC
 - Created by: [[04_Governance/Human Brain Project\|Human Brain Project]]
 - Part of: [[04_Governance/EOSC\|EOSC]] (key service provider)
 - Standards: [[02_Standards/BIDS\|BIDS]], [[02_Standards/NWB\|NWB]], [[02_Standards/openMINDS\|openMINDS]] (required metadata), [[02_Standards/UBERON\|UBERON]]
-- Partners: [[01_Actors/INCF\|INCF]], [[04_Governance/ELIXIR\|ELIXIR]], [[04_Governance/ECRIN\|ECRIN]], [[00_Core/Paris Brain Institute\|Paris Brain Institute]],
+- Partners: [[01_Actors/INCF\|INCF]], [[04_Governance/ELIXIR\|ELIXIR]], [[04_Governance/ECRIN\|ECRIN]], [[01_Actors/Paris Brain Institute\|Paris Brain Institute]],
   [[01_Actors/Donders Institute\|Donders Institute]], [[01_Actors/GA4GH\|GA4GH]]
 - Atlases: Julich Brain Atlas, Allen CCF ([[02_Standards/UBERON\|UBERON]] annotation)
 - Simulation: SpiNNaker, BrainScaleS, NEST, NEURON
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (ICM participates; data sharing;
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (ICM participates; data sharing;
   atlas-linked research; [[02_Standards/openMINDS\|openMINDS]] metadata for BIDS/NWB datasets)
 
 ## Resources

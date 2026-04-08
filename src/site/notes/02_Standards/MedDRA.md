@@ -11,7 +11,7 @@ the International Council for Harmonisation of Technical Requirements for
 Pharmaceuticals for Human Use (ICH). It is the required standard for adverse
 event coding in clinical trial regulatory submissions to the EMA, FDA, and
 national agencies including the French **ANSM** (Agence Nationale de Sécurité
-du Médicament). Any clinical trial conducted at [[00_Core/Paris Brain Institute\|Paris Brain Institute]]
+du Médicament). Any clinical trial conducted at [[01_Actors/Paris Brain Institute\|Paris Brain Institute]]
 or through [[04_Governance/AP-HP\|AP-HP]] that submits to the EU Clinical Trials Regulation (CTR)
 requires MedDRA coding for adverse events.
 
@@ -36,7 +36,7 @@ The **Nervous System Disorders** SOC contains terms for:
 - Complements: [[02_Standards/CDISC\|CDISC]] (SDTM format for AE data uses MedDRA coding)
 - Related: [[02_Standards/ICD-10\|ICD-10]] (diagnostic coding vs AE coding — different purposes)
 - Implemented in: [[02_Standards/OMOP CDM\|OMOP CDM]] (MedDRA vocabulary available in Athena)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (all clinical trials under EU CTR)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (all clinical trials under EU CTR)
 
 ## Resources
 - https://www.meddra.org

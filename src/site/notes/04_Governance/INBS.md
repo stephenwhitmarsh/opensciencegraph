@@ -17,7 +17,7 @@ framework aligned with [[04_Governance/Ouvrir la Science\|Ouvrir la Science]] an
 
 ## Member Infrastructures Relevant to Neuroscience
 The full INBS network includes 9 national infrastructures. Those most directly
-relevant to [[00_Core/Paris Brain Institute\|Paris Brain Institute]] and open neuroscience are:
+relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] and open neuroscience are:
 
 - **[[04_Governance/France BioImaging\|France BioImaging]]** (FBI) — biological and biomedical imaging at the
   cellular/subcellular scale; microscopy; French node of [[04_Governance/Euro-BioImaging\|Euro-BioImaging]]
@@ -47,7 +47,7 @@ across all member infrastructures.
 - European integration: [[04_Governance/ELIXIR\|ELIXIR]], [[04_Governance/Euro-BioImaging\|Euro-BioImaging]], [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]],
   [[04_Governance/EATRIS\|EATRIS]], [[04_Governance/ECRIN\|ECRIN]], [[04_Governance/EOSC\|EOSC]]
 - Policy alignment: [[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[04_Governance/Ouvrir la Science\|Ouvrir la Science]]
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (FBI, FLI, IFB are all ICM-adjacent)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (FBI, FLI, IFB are all ICM-adjacent)
 
 ## Resources
 - https://www.insb.cnrs.fr/fr/infrastructures-nationales

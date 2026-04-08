@@ -14,7 +14,7 @@ Access to Publications** and a **Policy for the Management and Sharing of Resear
 Data and Software Code** — making it one of the most advanced French research
 institutions on open science. As of 2024, 90% of Pasteurian publications are open
 access, compared to 67% nationally. It is directly relevant to
-[[00_Core/Paris Brain Institute\|Paris Brain Institute]] as a Paris-based peer institution within the
+[[01_Actors/Paris Brain Institute\|Paris Brain Institute]] as a Paris-based peer institution within the
 same [[04_Governance/France BioImaging\|France BioImaging]] and [[04_Governance/CNRS Open Science\|CNRS Open Science]] ecosystem.
 
 ## Open Science Commitment
@@ -44,7 +44,7 @@ The Institut Pasteur is a founding node of [[04_Governance/France BioImaging\|Fr
 - Tools: Icy (bioimage analysis, interoperates with [[01_Actors/OME\|OME]])
 - Standards: [[02_Standards/OME File Formats\|OME File Formats]], [[02_Standards/BIDS\|BIDS]] (neuroimaging data sharing)
 - DMP: [[04_Governance/OPIDoR\|OPIDoR]]
-- Related: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (Paris peer institution,
+- Related: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (Paris peer institution,
   overlapping networks), [[01_Actors/Institut Curie\|Institut Curie]]
 
 ## Resources

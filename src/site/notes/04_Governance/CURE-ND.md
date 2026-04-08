@@ -11,7 +11,7 @@ research institutes, launched in 2020 to accelerate scientific discovery and adv
 for long-term European investment in brain research. The four founding members are:
 
 - **[[01_Actors/DZNE\|DZNE]]** — German Centre for Neurodegenerative Diseases (Germany)
-- **[[00_Core/Paris Brain Institute\|Paris Brain Institute]]** — Institut du Cerveau / ICM (France)
+- **[[01_Actors/Paris Brain Institute\|Paris Brain Institute]]** — Institut du Cerveau / ICM (France)
 - **[[01_Actors/Mission Lucidity\|Mission Lucidity]]** — imec / KU Leuven / VIB / UZ Leuven (Belgium)
 - **[[01_Actors/UK DRI\|UK DRI]]** — UK Dementia Research Institute (UK)
 
@@ -56,7 +56,7 @@ The 2026 CURE-ND AI/ML workshop explicitly engaged [[04_Governance/HDR UK\|HDR U
 science and FAIR data practices for neurodegeneration research.
 
 ## Connections
-- Founding members: [[01_Actors/DZNE\|DZNE]], [[00_Core/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/Mission Lucidity\|Mission Lucidity]], [[01_Actors/UK DRI\|UK DRI]]
+- Founding members: [[01_Actors/DZNE\|DZNE]], [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[01_Actors/Mission Lucidity\|Mission Lucidity]], [[01_Actors/UK DRI\|UK DRI]]
 - Related framework: [[04_Governance/JPND\|JPND]] (Joint Programme Neurodegenerative Disease Research;
   overlapping participant institutions)
 - Health data: [[04_Governance/HDR UK\|HDR UK]] (participant in CURE-ND AI/ML workshop 2026)

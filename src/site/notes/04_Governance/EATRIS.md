@@ -12,7 +12,7 @@ translational medicine — the process of taking discoveries from bench to bedsi
 It bridges basic research and clinical applications by offering services in
 biomarker development, imaging, drug delivery, advanced therapies, and omics.
 Part of the ESFRI RI cluster with [[04_Governance/ELIXIR\|ELIXIR]], [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]], and [[04_Governance/ECRIN\|ECRIN]], it
-is directly relevant to [[00_Core/Paris Brain Institute\|Paris Brain Institute]] through its focus on
+is directly relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] through its focus on
 neurological disease biomarkers, imaging endpoints for clinical trials, and
 its collaboration with [[04_Governance/ECRIN\|ECRIN]] for multinational clinical study infrastructure.
 
@@ -29,7 +29,7 @@ its collaboration with [[04_Governance/ECRIN\|ECRIN]] for multinational clinical
 - Partners: [[03_Platforms/EBRAINS\|EBRAINS]], [[04_Governance/EOSC\|EOSC]]
 - Standards: [[02_Standards/CDISC\|CDISC]] (clinical trial data), [[02_Standards/OMOP CDM\|OMOP CDM]] (observational)
 - French nodes: connected to Inserm and CNRS-affiliated platforms
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (translational neurology,
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (translational neurology,
   biomarker validation, imaging trial endpoints)
 
 ## Resources

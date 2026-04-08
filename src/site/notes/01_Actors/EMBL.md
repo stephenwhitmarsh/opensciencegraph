@@ -43,7 +43,7 @@ including repositories directly referenced in this vault:
 - **PDBe** — Protein Data Bank in Europe (macromolecular structures)
 
 ## Relevance to Neuroscience
-EMBL's direct relevance to [[00_Core/Paris Brain Institute\|Paris Brain Institute]] includes:
+EMBL's direct relevance to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] includes:
 - **EMBL Grenoble** — structural biology resources at ESRF (French synchrotron),
   relevant to structural neuroscience and drug target characterisation
 - **EMBL-EBI databases** — EGA (genomics data deposition/access), EVA (variant
@@ -59,7 +59,7 @@ EMBL's direct relevance to [[00_Core/Paris Brain Institute\|Paris Brain Institut
 - Partners: [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[04_Governance/EATRIS\|EATRIS]], [[04_Governance/ECRIN\|ECRIN]] (ESFRI cluster)
 - French node: EMBL Grenoble (ESRF beamlines); IFB = [[04_Governance/IFB\|IFB]] (French ELIXIR node)
 - Standards: [[01_Actors/GA4GH\|GA4GH]] (EMBL-EBI co-leads several GA4GH workstreams)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (data deposition in EGA/EVA/IDR;
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (data deposition in EGA/EVA/IDR;
   ELIXIR hub services via IFB)
 
 ## Resources

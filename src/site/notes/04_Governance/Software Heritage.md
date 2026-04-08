@@ -57,7 +57,7 @@ Software Heritage enables the **FORCE11 Software Citation Principles** and
 - Implements: [[04_Governance/Ouvrir la Science\|Ouvrir la Science]] software pillar, FORCE11 Software Citation Principles
 - Standards: SWHID (persistent identifier), CITATION.cff, CodeMeta (metadata)
 - Referenced by: [[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[04_Governance/CNRS Open Science\|CNRS Open Science]], [[04_Governance/Inserm Open Science\|Inserm Open Science]]
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (archiving [[01_Actors/DAC\|DAC]] analysis pipelines,
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (archiving [[01_Actors/DAC\|DAC]] analysis pipelines,
   [[04_Governance/CATI\|CATI]] software, ICM research code under open science mandates)
 
 ## Resources

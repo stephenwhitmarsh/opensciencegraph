@@ -13,7 +13,7 @@ It creates a unified legal, technical, and governance framework for accessing,
 sharing, and reusing electronic health data (EHD) across all EU Member States,
 covering both primary use (direct patient care) and secondary use (research,
 innovation, policy, public health). For neuroscience research institutions such
-as [[00_Core/Paris Brain Institute\|Paris Brain Institute]], the EHDS is the single most consequential EU
+as [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], the EHDS is the single most consequential EU
 regulatory development for health data access since GDPR.
 
 ## Two Pillars
@@ -62,7 +62,7 @@ genomic data, clinical trial data, registries, and claims data.
 - Standards required: [[02_Standards/HL7 FHIR\|HL7 FHIR]], [[02_Standards/OMOP CDM\|OMOP CDM]], [[02_Standards/SNOMED CT\|SNOMED CT]]
 - Relevant infrastructure: [[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]] (biobank data), [[04_Governance/ECRIN\|ECRIN]] (clinical
   trial data), [[04_Governance/ELIXIR\|ELIXIR]] (life science data)
-- Direct relevance: [[00_Core/Paris Brain Institute\|Paris Brain Institute]], [[04_Governance/AP-HP\|AP-HP]] (as data holders
+- Direct relevance: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], [[04_Governance/AP-HP\|AP-HP]] (as data holders
   and potential data users under the EHDS secondary use framework)
 - French alignment: [[04_Governance/Health Data Hub\|Health Data Hub]] (national HDAB candidate),
   [[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[04_Governance/Ouvrir la Science\|Ouvrir la Science]]

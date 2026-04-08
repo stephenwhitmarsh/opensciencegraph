@@ -53,7 +53,7 @@ CL is part of the OBO Foundry and integrates with other OBO ontologies:
 - Integrates with: [[02_Standards/UBERON\|UBERON]] (anatomy), [[02_Standards/GO\|GO]] (function), [[02_Standards/HPO\|HPO]] (phenotypes)
 - Format: OWL and OBO; terms identified as `CL:XXXXXXX`
 - Used in: AnnData/h5ad single-cell data, EBRAINS data deposits
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (single-cell RNA-seq annotation at
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (single-cell RNA-seq annotation at
   [[01_Actors/iGENSEQ\|iGENSEQ]]; neurological disease cell type characterisation)
 
 ## Resources

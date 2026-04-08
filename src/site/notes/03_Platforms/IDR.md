@@ -54,7 +54,7 @@ are complementary EMBL-EBI services:
 - Part of: [[04_Governance/Euro-BioImaging\|Euro-BioImaging]] data services ecosystem
 - Complements: BioImage Archive (broader image submission), [[03_Platforms/OpenNeuro\|OpenNeuro]] (neuroimaging)
 - Used by: [[04_Governance/France BioImaging\|France BioImaging]] nodes (data deposition pathway)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (ICM Quant microscopy data deposition)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (ICM Quant microscopy data deposition)
 
 ## Resources
 - https://idr.openmicroscopy.org

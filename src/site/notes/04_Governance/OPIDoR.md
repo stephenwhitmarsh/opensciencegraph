@@ -11,7 +11,7 @@ research data management tools and services operated by **INIST-CNRS** on behalf
 of the French Ministry of Higher Education and Research. It is the primary DMP
 infrastructure for French publicly funded research, directly implementing the
 [[04_Governance/ANR Open Science Policy\|ANR Open Science Policy]] and [[04_Governance/Ouvrir la Science\|Ouvrir la Science]] mandates for Data
-Management Plans. For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], OPIDoR's DMP OPIDoR tool
+Management Plans. For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], OPIDoR's DMP OPIDoR tool
 is the recommended platform for meeting ANR DMP requirements on funded projects.
 
 ## Components
@@ -50,7 +50,7 @@ A legal resources centre for research data management operated within the
 [[03_Platforms/Recherche Data Gouv\|Recherche Data Gouv]] ecosystem. Covers GDPR compliance for research data,
 intellectual property, consent frameworks, and data sharing agreements —
 directly relevant to neuroimaging and genomics research at
-[[00_Core/Paris Brain Institute\|Paris Brain Institute]] given sensitivity of health data under [[04_Governance/EHDS\|EHDS]].
+[[01_Actors/Paris Brain Institute\|Paris Brain Institute]] given sensitivity of health data under [[04_Governance/EHDS\|EHDS]].
 
 ## Connections
 - Operated exclusively by: INIST-CNRS (not hosted or operated by IFB)
@@ -63,7 +63,7 @@ directly relevant to neuroimaging and genomics research at
   and F1 (persistent identifiers) through PID OPIDoR
 - European alignment: [[04_Governance/EOSC\|EOSC]] (DMPs linked to EOSC infrastructure),
   [[04_Governance/OpenAIRE\|OpenAIRE]] (DMP interoperability)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (ANR DMP compliance),
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (ANR DMP compliance),
   [[04_Governance/CNRS Open Science\|CNRS Open Science]], [[04_Governance/Inserm Open Science\|Inserm Open Science]]
 
 ## Resources

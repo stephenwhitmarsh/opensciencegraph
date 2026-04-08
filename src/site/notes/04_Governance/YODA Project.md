@@ -48,7 +48,7 @@ YODA has had direct influence on US and international data sharing policy:
   [[03_Platforms/Preprint Servers\|Preprint Servers]]), extending their open science mission to preprints
 
 ## Relevance to ICM
-YODA is relevant to [[00_Core/Paris Brain Institute\|Paris Brain Institute]] clinical research in two ways:
+YODA is relevant to [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] clinical research in two ways:
 - **Data access**: ICM clinical investigators may apply for access to YODA-held
   trial data for secondary analyses in neurological or psychiatric conditions
 - **Model**: YODA's governance model (independent third-party DAC, public

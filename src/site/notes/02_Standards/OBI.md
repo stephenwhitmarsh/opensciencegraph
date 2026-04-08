@@ -16,7 +16,7 @@ ecosystem alongside [[02_Standards/HPO\|HPO]], [[02_Standards/UBERON\|UBERON]], 
 [[02_Standards/BIDS\|BIDS]] via its extensions for study-level metadata.
 
 ## Neuroscience Relevance
-For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], OBI is relevant for:
+For [[01_Actors/Paris Brain Institute\|Paris Brain Institute]], OBI is relevant for:
 - **Formally describing MRI acquisition protocols** — scanner model, field strength,
   sequence parameters — in a machine-readable way for data sharing
 - **Cognitive task descriptions** — linking to [[02_Standards/Cognitive Atlas\|Cognitive Atlas]] terms via OBI
@@ -38,7 +38,7 @@ For [[00_Core/Paris Brain Institute\|Paris Brain Institute]], OBI is relevant fo
 - Integrates with: [[02_Standards/BIDS\|BIDS]] (protocol metadata extensions)
 - Complements: [[02_Standards/Cognitive Atlas\|Cognitive Atlas]] (cognitive tasks), [[02_Standards/UBERON\|UBERON]] (anatomy)
 - Used in: biobank metadata ([[04_Governance/BBMRI-ERIC\|BBMRI-ERIC]]), [[04_Governance/FAIR Principles\|FAIR Principles]] R1.3 compliance
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (study protocol description)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (study protocol description)
 
 ## Resources
 - https://obi-ontology.org

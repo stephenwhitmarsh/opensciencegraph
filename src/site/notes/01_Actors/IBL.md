@@ -38,7 +38,7 @@ task, fully released on [[03_Platforms/DANDI Archive\|DANDI Archive]] in [[02_St
 - Coordinated by: Flatiron Institute (Center for Computational Neuroscience)
 - Funders: Simons Foundation, Wellcome Trust
 - Related: [[01_Actors/Allen Institute for Brain Science\|Allen Institute for Brain Science]] (complementary large-scale atlas)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (model for multi-lab open collaboration)
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (model for multi-lab open collaboration)
 
 ## Resources
 - https://www.internationalbrainlab.com

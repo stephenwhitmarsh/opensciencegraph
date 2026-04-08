@@ -70,7 +70,7 @@ CoSO includes representatives from:
 - RENATER — national research network
 - [[04_Governance/IFB\|IFB]], CCSD (HAL operator — Centre pour la Communication Scientifique Directe) — infrastructure operators
 
-[[00_Core/Paris Brain Institute\|Paris Brain Institute]] participates in CoSO activities through its parent
+[[01_Actors/Paris Brain Institute\|Paris Brain Institute]] participates in CoSO activities through its parent
 organisations CNRS and Inserm.
 
 ## Connections
@@ -80,7 +80,7 @@ organisations CNRS and Inserm.
 - Infrastructure managed/coordinated: [[04_Governance/HAL\|HAL]], [[03_Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[04_Governance/OPIDoR\|OPIDoR]]
 - European: [[04_Governance/EOSC\|EOSC]], [[04_Governance/OpenAIRE\|OpenAIRE]], cOAlition S / Plan S
 - Monitoring: [[04_Governance/Barometre Science Ouverte\|Barometre Science Ouverte]]
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (open science policy compliance;
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (open science policy compliance;
   CNRS/Inserm parent org participation)
 
 ## Resources

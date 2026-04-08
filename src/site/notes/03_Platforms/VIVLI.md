@@ -53,7 +53,7 @@ VIVLI hosts datasets relevant to neurological disease research including:
 - Related platforms: [[04_Governance/YODA Project\|YODA Project]] (Yale-based IPD sharing), [[04_Governance/TransCelerate\|TransCelerate]]
   (pharma industry data standardisation)
 - Trial registry: [[03_Platforms/ClinicalTrials.gov\|ClinicalTrials.gov]] (linked trial registration)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (access to neurological disease trial IPD
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (access to neurological disease trial IPD
   for meta-analysis and replication)
 
 ## Resources

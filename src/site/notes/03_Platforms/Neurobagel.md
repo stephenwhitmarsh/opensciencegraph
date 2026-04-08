@@ -54,7 +54,7 @@ raw data curation to federated discovery.
 - Complements: [[03_Platforms/OpenNeuro\|OpenNeuro]] (centralised open data), [[03_Platforms/LORIS\|LORIS]] (site-level data management)
 - Developed by: McGill / [[01_Actors/CONP\|CONP]] / [[01_Actors/ReproNim\|ReproNim]]
 - Deployed at: [[01_Actors/ENIGMA Consortium\|ENIGMA Consortium]] Parkinson's WG, Ontario Brain Institute, others
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (multi-site BIDS cohort discovery,
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (multi-site BIDS cohort discovery,
   CATI-managed datasets)
 
 ## Resources

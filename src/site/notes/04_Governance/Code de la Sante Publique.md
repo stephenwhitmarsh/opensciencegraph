@@ -45,7 +45,7 @@ human subjects, distinguishing three categories:
 - **Catégorie 1** — interventional research with risk > minimal (full RCP approval)
 - **Catégorie 2** — interventional research minimal risk (simplified approval)
 - **Catégorie 3** — non-interventional / observational research (CNIL/IRB declaration)
-Directly governs all clinical research at [[00_Core/Paris Brain Institute\|Paris Brain Institute]] and
+Directly governs all clinical research at [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] and
 clinical platforms at [[04_Governance/NeurATRIS\|NeurATRIS]] and [[01_Actors/Institut de Myologie\|Institut de Myologie]].
 
 ### Patient Consent and Data Sharing
@@ -71,7 +71,7 @@ infrastructure operates:
   CPP (ethics committees / Comités de Protection des Personnes)
 - Legal resources: [[04_Governance/OPIDoR\|OPIDoR]] JurisDoR
 - Complemented by: [[04_Governance/EHDS\|EHDS]] (EU layer from 2025/2029)
-- Relevant to: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (all clinical research, biobank
+- Relevant to: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (all clinical research, biobank
   operations, health data reuse)
 
 ## Resources

@@ -21,7 +21,7 @@ and public research institutes in the Paris region, providing seamless access to
 the full continuum of translational research from in vitro models to Phase II
 clinical trials.
 
-[[00_Core/Paris Brain Institute\|Paris Brain Institute]] (Hôpital Pitié-Salpêtrière) is one of NeurATRIS's
+[[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (Hôpital Pitié-Salpêtrière) is one of NeurATRIS's
 core member nodes, alongside CEA Paris-Saclay (MIRCen and SHFJ), making ICM
 a direct participant in the NeurATRIS offer.
 
@@ -60,7 +60,7 @@ NeurATRIS provides a one-stop access model for academic and industrial researche
 
 ## Connections
 - European parent: [[04_Governance/EATRIS\|EATRIS]] (French neuroscience node)
-- Core member: [[00_Core/Paris Brain Institute\|Paris Brain Institute]] (Pitié-Salpêtrière / CENIR / CATI)
+- Core member: [[01_Actors/Paris Brain Institute\|Paris Brain Institute]] (Pitié-Salpêtrière / CENIR / CATI)
 - Core member: [[01_Actors/Institut de Myologie\|Institut de Myologie]] (IHU-A-ICM)
 - French infrastructure partners: [[04_Governance/France Life Imaging\|France Life Imaging]] (co-organises
   Translational Neuroscience Days with NeurATRIS), [[04_Governance/France BioImaging\|France BioImaging]]
