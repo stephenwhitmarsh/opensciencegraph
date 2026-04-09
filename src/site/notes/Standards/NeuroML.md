@@ -6,7 +6,12 @@
 # NeuroML - Neural Open Markup Language
 
 ## Overview
-NeuroML is a community standard for describing biologically detailed computational models of neurons and neural networks in an XML-based, simulator-independent format. It covers neuronal morphology, ion channel dynamics, synaptic mechanisms, and full network connectivity. Endorsed by [[Actors/INCF\|INCF]] and now in its mature NeuroML2 version, it underpins a broad ecosystem of interoperable tools for model construction, validation, and simulation across NEURON, NEST, MOOSE, and other simulators.
+NeuroML is a community standard for describing biologically detailed computational
+models of neurons and neural networks in an XML-based, simulator-independent format.
+It covers neuronal morphology, ion channel dynamics, synaptic mechanisms, and full
+network connectivity. Endorsed by [[Actors/INCF\|INCF]] and now in its mature NeuroML2 version,
+it underpins a broad ecosystem of interoperable tools for model construction,
+validation, and simulation across NEURON, NEST, MOOSE, and other simulators.
 
 ## Created / Governed By
 - [[Actors/INCF\|INCF]] — endorsing organisation; NeuroML developed through INCF multiscale modeling program

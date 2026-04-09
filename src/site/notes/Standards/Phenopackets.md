@@ -6,7 +6,14 @@
 # Phenopackets - GA4GH Phenopacket Schema
 
 ## Overview
-The GA4GH Phenopacket Schema is a community standard for the computable exchange of clinical and phenotypic data linked to genomic information. It provides a human- and machine-readable structure that captures a patient's phenotypic features (using [[Standards/HPO\|HPO]] terms), diagnoses, biosample data, genomic variants (via [[Standards/VCF\|VCF]] / VRS), medical actions, and pedigree information in a single coherent package. Adopted as an ISO standard (ISO/TS 5435:2022), it is the key bridge between the clinical phenotype world and the genomics world, and is directly relevant to rare neurological disease work at [[Actors/Paris Brain Institute\|Paris Brain Institute]].
+The GA4GH Phenopacket Schema is a community standard for the computable exchange
+of clinical and phenotypic data linked to genomic information. It provides a
+human- and machine-readable structure that captures a patient's phenotypic
+features (using [[Standards/HPO\|HPO]] terms), diagnoses, biosample data, genomic variants (via
+[[Standards/VCF\|VCF]] / VRS), medical actions, and pedigree information in a single coherent
+package. Adopted as an ISO standard (ISO/TS 5435:2022), it is the key bridge
+between the clinical phenotype world and the genomics world, and is directly
+relevant to rare neurological disease work at [[Actors/Paris Brain Institute\|Paris Brain Institute]].
 
 ## Created / Governed By
 - [[Actors/GA4GH\|GA4GH]] — Clinical & Phenotypic Data Capture Work Stream
