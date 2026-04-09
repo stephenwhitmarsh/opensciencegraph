@@ -36,6 +36,10 @@ This index covers all governance bodies, national and European research infrastr
 - [[Governance/Code de la Sante Publique\|Code de la Sante Publique]] — French public health law; governs health data access, biobanking, clinical research
 - [[Governance/Health Data Hub\|Health Data Hub]] — French national health data platform; [[Platforms/SNDS\|SNDS]]; [[Standards/OMOP CDM\|OMOP CDM]]; [[Governance/EHDS\|EHDS]] national HDAB candidate
 
+## Healthcare Interoperability
+
+- [[IHE\|IHE]] — Integrating the Healthcare Enterprise; international initiative producing implementation profiles on top of [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/DICOM\|DICOM]] and [[Standards/SNOMED CT\|SNOMED CT]]; IHE France coordinated via [[Governance/ANS\|ANS]]; foundational to [[Governance/EHDS\|EHDS]] technical compliance and [[Governance/AP-HP\|AP-HP]] clinical IT architecture
+
 ## French Research Data and Publication Infrastructure
 
 - [[Governance/data.gouv.fr\|data.gouv.fr]] — general French government open data portal; umbrella for [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]] and [[Governance/Health Data Hub\|Health Data Hub]]
@@ -43,7 +47,11 @@ This index covers all governance bodies, national and European research infrastr
 - [[Governance/Huma-Num\|Huma-Num]] — French national digital humanities infrastructure; DARIAH and CLARIN French node
 - [[Governance/OPIDoR\|OPIDoR]] — DMP OPIDoR, Cat OPIDoR, DORANum, JurisDoR; national RDM tools suite
 - [[Governance/Software Heritage\|Software Heritage]] — universal software source code archive; French open science mandate for code deposit
+## Research Identifiers and Open Publishing
 
+- [[cOAlition S\|cOAlition S]] — international funder consortium behind Plan S; mandates immediate open access for publicly funded research; ANR and ERC are members; Rights Retention Strategy; [[Platforms/Zenodo\|Zenodo]], [[Governance/HAL\|HAL]] and [[Governance/OpenAIRE\|OpenAIRE]] are compliant routes
+- [[DataCite\|DataCite]] — international DOI registration agency for research data and software; persistent identifier infrastructure underlying [[Platforms/Zenodo\|Zenodo]], [[Platforms/DANDI Archive\|DANDI Archive]], [[Platforms/OpenNeuro\|OpenNeuro]] and [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]]; aligned with [[Standards/DCAT\|DCAT]] and [[Standards/Dublin Core\|Dublin Core]]; [[ORCID\|ORCID]] integration
+- [[ORCID\|ORCID]] — persistent digital identifier for researchers; embedded across all repositories, funders and publishers in the graph; Rights Retention Strategy and [[Governance/ANR Open Science Policy\|ANR Open Science Policy]] mandates require ORCID; French coordination via INIST-CNRS
 ## European Research Infrastructures
 
 - [[Governance/BBMRI-ERIC\|BBMRI-ERIC]] — European biobanking infrastructure; [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/VCF\|VCF]], [[Standards/Phenopackets\|Phenopackets]]
@@ -51,6 +59,7 @@ This index covers all governance bodies, national and European research infrastr
 - [[Governance/ECRIN\|ECRIN]] — European Clinical Research Infrastructure Network; multinational trials; [[Standards/CDISC\|CDISC]]/[[Standards/OMOP CDM\|OMOP CDM]]/[[Standards/HL7 FHIR\|HL7 FHIR]]
 - [[Governance/ELIXIR\|ELIXIR]] — European life science data infrastructure; 23 national nodes; French node = [[Governance/IFB\|IFB]]
 - [[Governance/EOSC\|EOSC]] — European Open Science Cloud; mandates [[Governance/FAIR Principles\|FAIR]] for EU-funded research
+- [[EOSC-Life\|EOSC-Life]] — Horizon 2020 consortium of 13 ESFRI life science infrastructures; produced WorkflowHub, LS Login and [[Governance/RDMkit\|RDMkit]]; key participants include [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/EATRIS\|EATRIS]], [[Governance/ECRIN\|ECRIN]], [[Governance/ELIXIR\|ELIXIR]], [[Actors/EMBL\|EMBL]], [[Governance/Euro-BioImaging\|Euro-BioImaging]]
 - [[Governance/Euro-BioImaging\|Euro-BioImaging]] — European bioimaging infrastructure; French node = [[Governance/France BioImaging\|France BioImaging]]
 - [[Governance/Human Brain Project\|Human Brain Project]] — EU Horizon Flagship (2013-2023); created [[Platforms/EBRAINS\|EBRAINS]]
 - [[Governance/OpenAIRE\|OpenAIRE]] — EU open science and open access infrastructure; hosts [[Platforms/Zenodo\|Zenodo]]
@@ -85,14 +94,15 @@ This index covers all governance bodies, national and European research infrastr
 ## Working Groups
 
 - [[Governance/BIDS Steering Group\|BIDS Steering Group]] — governs [[Standards/BIDS\|BIDS]] specification and BEP extension process (under [[Actors/INCF\|INCF]])
-- [[Governance/GT-GeDeM\|GT-GeDeM]] — RTmfm/CNRS working group on microscopy data management; ICM participates
+- [[Governance/GT-GeDeM\|GT-GeDeM]] — [[RTmfm\|RTmfm]]/CNRS working group on microscopy data management; ICM participates
 - [[Governance/INCF Working Groups\|INCF Working Groups]] — [[Actors/INCF\|INCF]] task forces producing [[Standards/BIDS\|BIDS]], [[Standards/NWB\|NWB]], [[Standards/HED\|HED]], [[Standards/NIDM\|NIDM]], [[Standards/NeuroML\|NeuroML]]
 - [[Governance/NIF\|NIF]] — Neuroscience Information Framework; RRID identifiers for research resources; repository registry
 - [[Governance/NWB Working Group\|NWB Working Group]] — governs [[Standards/NWB\|NWB]] specification and NDX extensions (under [[Actors/INCF\|INCF]])
 - [[Governance/OHBM Open Science SIG\|OHBM Open Science SIG]] — promotes open science within OHBM; organises Brainhack
 - [[Governance/QUAREP-LiMi\|QUAREP-LiMi]] — Quality Assessment and Reproducibility for light microscopy; 590+ members; ISO standards
 - [[Governance/RDA Neuroscience IG\|RDA Neuroscience IG]] — bridges [[Governance/RDA\|RDA]] data management community with neuroscience standards
-- [[Governance/RDMkit\|RDMkit]] — [[Governance/ELIXIR\|ELIXIR]] research data management toolkit; life sciences FAIR guidance; French resources via [[Governance/IFB\|IFB]]
+- [[Governance/RDMkit\|RDMkit]] — [[Governance/ELIXIR\|ELIXIR]] research data management toolkit; produced by [[EOSC-Life\|EOSC-Life]]; life sciences FAIR guidance; French resources via [[Governance/IFB\|IFB]]
+- [[RTmfm\|RTmfm]] — CNRS thematic network for functional multi-scale microscopy; parent body of [[Governance/GT-GeDeM\|GT-GeDeM]]; coordinates with [[Governance/France BioImaging\|France BioImaging]] and [[Governance/QUAREP-LiMi\|QUAREP-LiMi]]
 
 ---
 
