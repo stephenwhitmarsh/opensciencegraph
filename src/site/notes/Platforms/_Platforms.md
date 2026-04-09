@@ -47,6 +47,7 @@ This index covers all data platforms, repositories, and data capture systems in 
 
 - [[Platforms/CleanWEB\|CleanWEB]] — Telemedicine Technologies eClinical suite; [[Governance/AP-HP\|AP-HP]] institutional eCRF platform since 2003; regulatory-grade clinical trials
 - [[Platforms/ClinicalTrials.gov\|ClinicalTrials.gov]] — world's largest clinical trial registry and results database (NLM/NIH)
+- [[Platforms/i2b2\|i2b2]] — clinical data warehousing platform; deployed at [[Governance/AP-HP\|AP-HP]] alongside [[Standards/OMOP CDM\|OMOP CDM]]
 - [[Platforms/REDCap\|REDCap]] — secure web-based eCRF and clinical data capture platform; supported at ICM by [[Actors/DAC\|DAC]]
 - [[Platforms/SNDS\|SNDS]] — Systeme National des Donnees de Sante; French national health data system; managed by [[Governance/Health Data Hub\|Health Data Hub]]; core resource for epidemiological and health economics research
 - [[Platforms/VIVLI\|VIVLI]] — global clinical trial individual patient data sharing platform; controlled access enclave

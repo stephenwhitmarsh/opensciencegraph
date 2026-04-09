@@ -79,7 +79,6 @@ This index covers all governance bodies, national and European research infrastr
 
 ## Clinical Research Infrastructure
 
-- [[Governance/i2b2\|i2b2]] — clinical data warehousing platform; deployed at [[Governance/AP-HP\|AP-HP]] alongside [[Standards/OMOP CDM\|OMOP CDM]]
 - [[Governance/TransCelerate\|TransCelerate]] — pharma industry consortium; [[Standards/CDISC\|CDISC]] standards; trial data sharing
 - [[Governance/YODA Project\|YODA Project]] — Yale Open Data Access; independent third-party clinical trial data sharing (499 trials); influenced [[Actors/NIH BRAIN Initiative\|NIH]] data sharing policy; co-founders created medRxiv
 

@@ -191,3 +191,5 @@ SORT scope ASC
 
 - Add link ICM - IFB (DAC as participating platform)
 - Resolve OBI name collision: `Actors/OBI.md` (Ontario Brain Institute) and `Standards/OBI.md` (Ontology for Biomedical Investigations) will produce ambiguous links in Obsidian; consider renaming one
+- Add CNIL?
+- Remove links that could be relevant, to only those that actually exist - use new tag instead to indicate priority/interest

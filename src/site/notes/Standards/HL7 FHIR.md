@@ -48,7 +48,7 @@ FHIR and [[Standards/OMOP CDM\|OMOP CDM]] serve complementary roles:
 ## Connections
 - Maps to: [[Standards/OMOP CDM\|OMOP CDM]] (ETL pathway), [[Standards/openEHR\|openEHR]] (bidirectional mapping), [[Standards/DICOM\|DICOM]] (ImagingStudy resource), [[Standards/CDISC\|CDISC]] (ResearchStudy / clinical trial data)
 - Coded values use: [[Standards/SNOMED CT\|SNOMED CT]], [[Standards/LOINC\|LOINC]], [[Standards/ICD-10\|ICD-10]], [[Standards/ICD-11\|ICD-11]], [[Standards/MedDRA\|MedDRA]]
-- Adopted by: [[Governance/Health Data Hub\|Health Data Hub]], [[Governance/AP-HP\|AP-HP]], [[Governance/ECRIN\|ECRIN]], [[Governance/i2b2\|i2b2]]
+- Adopted by: [[Governance/Health Data Hub\|Health Data Hub]], [[Governance/AP-HP\|AP-HP]], [[Governance/ECRIN\|ECRIN]], [[Platforms/i2b2\|i2b2]]
 - Mandated by: [[Governance/EHDS\|EHDS]] (primary EHR interoperability standard across EU)
 - French coordination: ANS (national FHIR IGs and profiles)
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (AP-HP EDS FHIR access, EHDS compliance, clinical trial data integration)

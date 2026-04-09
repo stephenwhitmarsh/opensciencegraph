@@ -24,7 +24,7 @@ OSIRIS relies on international standards throughout:
 - Adverse events: [[Standards/MedDRA\|MedDRA]]
 - Clinical data exchange: [[Standards/HL7 FHIR\|HL7 FHIR]] R4
 - Genomics: [[Standards/VCF\|VCF]], [[Standards/OMOP CDM\|OMOP CDM]] (ETL mapping underway)
-- Interoperability: [[Governance/i2b2\|i2b2]] CDM (ETL demonstrated in proof-of-concept)
+- Interoperability: [[Platforms/i2b2\|i2b2]] CDM (ETL demonstrated in proof-of-concept)
 
 ## Key Features
 - Modular and extensible — core oncology model can be extended to specific cancer types
@@ -37,7 +37,7 @@ OSIRIS relies on international standards throughout:
 - Funded by: INCa (Institut National du Cancer)
 - Core contributors: [[Actors/Institut Curie\|Institut Curie]], Institut Bergonié, Centre Léon Bérard; AP-HP HEGP
 - French governance: [[Governance/Code de la Sante Publique\|Code de la Sante Publique]], CNIL, [[Governance/ANS\|ANS]]
-- Standards: [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/ICD-10\|ICD-10]], [[Standards/MedDRA\|MedDRA]], [[Standards/RxNorm\|RxNorm]], [[Standards/ATC\|ATC]], [[Standards/OMOP CDM\|OMOP CDM]], [[Governance/i2b2\|i2b2]]
+- Standards: [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/ICD-10\|ICD-10]], [[Standards/MedDRA\|MedDRA]], [[Standards/RxNorm\|RxNorm]], [[Standards/ATC\|ATC]], [[Standards/OMOP CDM\|OMOP CDM]], [[Platforms/i2b2\|i2b2]]
 - Related French oncology infrastructure: SIRICs, Unicancer, [[Governance/Health Data Hub\|Health Data Hub]]
 - Relevant to [[Actors/Paris Brain Institute\|Paris Brain Institute]]: neuro-oncology data sharing; ICM's Institut Curie peer relationship; OSIRIS is the standard for multi-centre French cancer genomics trials
 

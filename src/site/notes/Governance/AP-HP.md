@@ -10,13 +10,13 @@ AP-HP is the largest hospital system in Europe (39 hospitals, 100,000+ staff) an
 
 ## Key Infrastructure
 - EDS AP-HP — Entrepôt de Données de Santé (OMOP CDM-based clinical data warehouse)
-- CDW-AP-HP — [[Governance/i2b2\|i2b2]]-based clinical data warehouse
+- CDW-AP-HP — [[Platforms/i2b2\|i2b2]]-based clinical data warehouse
 - Biological resource centres (biobanks)
 - REDCap network for clinical trial data collection
 - CIC Neurosciences (at [[Actors/Paris Brain Institute\|Paris Brain Institute]])
 
 ## Standards Used
-- [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/DICOM\|DICOM]], [[Standards/SNOMED CT\|SNOMED CT]], [[Governance/i2b2\|i2b2]], [[Standards/CDISC\|CDISC]]
+- [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/DICOM\|DICOM]], [[Standards/SNOMED CT\|SNOMED CT]], [[Platforms/i2b2\|i2b2]], [[Standards/CDISC\|CDISC]]
 - Diagnostic coding: [[Standards/ICD-10\|ICD-10]] / CIM-10 (PMSI billing, SNDS)
 - Procedure coding: [[Standards/CCAM\|CCAM]] (PMSI billing)
 - Lab results: [[Standards/LOINC\|LOINC]]

@@ -49,12 +49,12 @@ OMOP CDM's key innovation is enabling **federated distributed network studies**:
 ## OMOP CDM in France
 - **[[Governance/Health Data Hub\|Health Data Hub]]** — all SNDS data accessible via HDH Datalab is in OMOP CDM v5.4
 - **[[Governance/AP-HP\|AP-HP]] EDS** — AP-HP's Entrepôt de Données de Santé is OMOP CDM-based; covers 8M+ patients from 39 AP-HP hospitals
-- **i2b2 → OMOP migration** — many French hospitals are migrating from [[Governance/i2b2\|i2b2]] to OMOP CDM for better international interoperability
+- **i2b2 → OMOP migration** — many French hospitals are migrating from [[Platforms/i2b2\|i2b2]] to OMOP CDM for better international interoperability
 - **[[Governance/ECRIN\|ECRIN]]** — uses OMOP CDM for observational study data standardisation
 - **[[Governance/BBMRI-ERIC\|BBMRI-ERIC]]** — promotes OMOP CDM for biobank-linked clinical data
 
 ## Connections
-- Adopted by: [[Governance/Health Data Hub\|Health Data Hub]], [[Governance/AP-HP\|AP-HP]], [[Governance/ECRIN\|ECRIN]], [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/i2b2\|i2b2]]
+- Adopted by: [[Governance/Health Data Hub\|Health Data Hub]], [[Governance/AP-HP\|AP-HP]], [[Governance/ECRIN\|ECRIN]], [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Platforms/i2b2\|i2b2]]
 - Maps to: [[Standards/HL7 FHIR\|HL7 FHIR]] (bidirectional ETL; OMOP-on-FHIR mapping), [[Standards/CDISC\|CDISC]] (OMOP↔SDTM mapping for trial data)
 - Vocabularies: [[Standards/SNOMED CT\|SNOMED CT]], [[Standards/LOINC\|LOINC]], [[Standards/ICD-10\|ICD-10]], [[Standards/ICD-11\|ICD-11]], [[Standards/MedDRA\|MedDRA]], [[Standards/CCAM\|CCAM]], [[Standards/RxNorm\|RxNorm]], [[Standards/MeSH\|MeSH]], [[Standards/HPO\|HPO]], [[Standards/MONDO\|MONDO]], [[Standards/ORDO\|ORDO]]
 - Mandated by: [[Governance/EHDS\|EHDS]] (secondary use standardisation for European health data)
