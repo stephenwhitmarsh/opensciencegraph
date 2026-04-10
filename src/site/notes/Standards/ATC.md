@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/standards/atc/","dg-note-properties":{"name":"ATC","aliases":["Anatomical Therapeutic Chemical Classification","ATC/DDD","Defined Daily Dose"],"website":"https://www.who.int/tools/atc-ddd-toolkit/atc-classification","type":"terminology","scope":"international","domain":["clinical","health"],"status":"active","founded":1976,"parent_org":"WHO Collaborating Centre for Drug Statistics Methodology (Norwegian Institute of Public Health)"}}
+{"dg-publish":true,"permalink":"/standards/atc/","tags":["icm/uses"],"dg-note-properties":{"name":"ATC","aliases":["Anatomical Therapeutic Chemical Classification","ATC/DDD","Defined Daily Dose"],"website":"https://www.who.int/tools/atc-ddd-toolkit/atc-classification","type":"terminology","scope":"international","domain":["clinical","health"],"status":"active","founded":1976,"parent_org":"WHO Collaborating Centre for Drug Statistics Methodology (Norwegian Institute of Public Health)","tags":["icm/uses"]}}
 ---
 
 

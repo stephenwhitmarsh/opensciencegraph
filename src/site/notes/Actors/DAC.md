@@ -12,7 +12,7 @@ The DAC is staffed by bioinformaticians, statisticians, and data scientists who 
 
 ## Divisions and Services
 
-The DAC is organised into four divisions serving both internal ICM teams and external biomedical research projects, on a collaborative basis (co-authorship model) or fee-for-service for standardised analyses.
+The DAC is organised into four divisions serving both internal ICM teams and external biomedical research projects, on a fee-for-service.
 
 ### Omics Analysis
 Processing and visualisation of high-throughput sequencing (NGS) data from [[Actors/iGENSEQ\|iGENSEQ]]:
@@ -21,9 +21,9 @@ Processing and visualisation of high-throughput sequencing (NGS) data from [[Act
 - **Single-cell RNA-seq** and spatial transcriptomics
 - **Epigenomics** — DNA methylation, ATAC-seq (chromatin accessibility), ChIP-seq
 - **Long-read sequencing** — Oxford Nanopore (ONT)
-- Pipelines built with Snakemake, Conda, Docker for reproducibility and portability
+- Pipelines built with Snakemake and Conda for reproducibility and portability
 - **DEJAVU** — ICM-internal tool aggregating exome/genome short variants from ~3,000 ICM project samples
-- **QUBY** — web interface for researchers to self-explore RNA-seq, scRNA-seq, and WES data analysed by DAC
+- **QUBY** — [web interface](https://quby.icm-institute.org/) for researchers to self-explore RNA-seq, scRNA-seq, and WES data analysed by DAC
 
 ### Biostatistics
 - Expert statistical support from study design through to data interpretation
@@ -33,14 +33,12 @@ Processing and visualisation of high-throughput sequencing (NGS) data from [[Act
 ### Data Management
 - FAIR data management: databases and secure web interfaces aligned with shared data models
 - Develops and implements ICM's data management policy
-- Data Management Plans in collaboration with legal, data protection, and integrity officers, and the innovation office
-- Provides databases and data warehouse infrastructure to exploit transversal potential of ICM data
+- Data Management Plans in collaboration with CDO, legal, data protection, and integrity officers, and the innovation office
 
 ### Training and Outreach
 - Regular training programme spanning bioinformatics, biostatistics, and RDM
 - Tools covered: Git, OMERO+, [[Platforms/REDCap\|REDCap]], Tumorotek, [[Governance/OPIDoR\|OPIDoR]]
 - DMP writing sessions (mandatory for ANR/Horizon Europe projects)
-- Image analysis courses (ImageJ, MATLAB; available on-demand online)
 - Statistics helpdesk every 1st and 3rd Friday
 - Custom sessions for research teams available on request
 - Recent catalogue (Jan–Mar 2026): survival analysis, MRI segmentation, single-cell workshops, REDCap training, spatial transcriptomics focus groups
@@ -54,10 +52,11 @@ DAC activities run on ICM IT-managed high-performance computing equipment:
 
 ## Open Science Role
 The DAC is ICM's primary interface with the French and European open science infrastructure:
-- **[[Governance/IFB\|IFB]]** — DAC is a member of IFB and participates in the coordination of several of its missions and its executive committee; uses IFB NNCR computing resources; participates in the [[Governance/MUDIS4LS\|MUDIS4LS]] initiative (managed by IFB)
-- **[[Governance/OPIDoR\|OPIDoR]]** — DAC provides DMP training and support using OPIDoR tools; DMP writing is part of the regular training programme
+- **[[Governance/IFB\|IFB]]** — DAC is a member of [[Governance/IFB\|IFB]] and participates in the [[Governance/MUDIS4LS\|MUDIS4LS]] initiative (managed by IFB)
+- Working groups — DAC participates in workgroups including [[Governance/GT-GeDeM\|GT-GeDeM]],  [[Governance/INCF Working Groups\|INCF Working Groups]] and [[Governance/GFRN\|GFRN]]
+- **[[Governance/OPIDoR\|OPIDoR]]** — DAC provides DMP training and support using [[Governance/OPIDoR\|OPIDoR]] tools
 - **[[Governance/FAIR Principles\|FAIR Principles]]** — the Data Management division implements FAIR data management across ICM through databases, data models, and policy development
-- **Reproducibility** — omics pipelines use Snakemake, Conda, Docker; training covers Git and open-source tools
+- **Reproducibility** — omics pipelines use Snakemake, Conda and open-source tools
 
 ## Connections
 - Hosted at: [[Actors/Paris Brain Institute\|Paris Brain Institute]]
