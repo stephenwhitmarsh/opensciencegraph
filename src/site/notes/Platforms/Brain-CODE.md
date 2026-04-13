@@ -6,7 +6,7 @@
 # Brain-CODE
 
 ## Overview
-Brain-CODE is the large-scale neuroinformatics platform of the **[[Actors/OBI\|Actors/OBI]]** (Ontario Brain Institute), developed since 2012 for the collection, curation, federation, sharing, and analysis of multimodal neuroscience data across brain disorders. It serves 240+ researchers at 40+ institutions across Canada, storing data from OBI's five Integrated Discovery Programs (IDPs) alongside data from other research teams.
+Brain-CODE is the large-scale neuroinformatics platform of the **[[Actors/Ontario Brain Institute\|Ontario Brain Institute]]** (OBI), developed since 2012 for the collection, curation, federation, sharing, and analysis of multimodal neuroscience data across brain disorders. It serves 240+ researchers at 40+ institutions across Canada, storing data from OBI's five Integrated Discovery Programs (IDPs) alongside data from other research teams.
 
 Brain-CODE is one of the three primary data platforms integrated into the **[[Actors/CONP\|CONP]]** (Canadian Open Neuroscience Platform) portal — alongside [[Platforms/LORIS\|LORIS]] and [[Platforms/XNAT\|XNAT]] — and has been a pioneer of **[[Governance/FAIR Principles\|FAIR Principles]]** implementation in clinical neuroscience since its inception.
 
@@ -44,7 +44,7 @@ Datasets are described using a customised DATS (Data Tags Suite) metadata model 
 - Brain-CODE Governance Policy publicly available
 
 ## Connections
-- Operated by: [[Actors/OBI\|Actors/OBI]] (Ontario Brain Institute)
+- Operated by: [[Actors/Ontario Brain Institute\|Ontario Brain Institute]] (OBI)
 - Canadian federation: [[Actors/CONP\|CONP]] (all data releases registered; OBI/Rotman is CONP sponsor)
 - Platform interoperability: [[Platforms/LORIS\|LORIS]] (McGill; federated neuroimaging exchange), [[Platforms/XNAT\|XNAT]] (imaging integration), [[Platforms/OSF\|OSF]], [[Platforms/Zenodo\|Zenodo]] (CONP data sources)
 - International: [[Platforms/EBRAINS\|EBRAINS]], [[Platforms/OpenNeuro\|OpenNeuro]] (CONP developing interoperability)

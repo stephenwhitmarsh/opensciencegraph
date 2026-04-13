@@ -39,13 +39,9 @@ Every node uses a lean, non-redundant YAML frontmatter schema. The following fie
 ---
 ## Contributing
 
-The graph is built as an [Obsidian](https://obsidian.md/) vault and published here via the [Digital Garden community plugin](https://github.com/oleeskild/obsidian-digital-garden). The source is openly available in the [git repository](https://gitlab.com/icm-institute/dac/opensciencegraph). Contributions, corrections and suggestions are welcome — open an issue or pull request there, or [email me](mailto:stephen.whitmarsh@icm-institute.org) directly.
+The graph is built as an [Obsidian](https://obsidian.md/) vault and openly available in the [git repository](https://gitlab.com/icm-institute/dac/opensciencegraph). Contributions, corrections and suggestions are welcome — open an issue or pull request there, or [email me](mailto:stephen.whitmarsh@icm-institute.org) directly.
 
 In open science perhaps more than anywhere else, this quote by W.B. Yeats rings true:
 
 > *There are no strangers here, just friends you haven't met yet*
 
----
-## TODO
-
-- Resolve OBI name collision: `Actors/OBI.md` (Ontario Brain Institute) and `Standards/OBI.md` (Ontology for Biomedical Investigations) will produce ambiguous links in Obsidian; consider renaming one

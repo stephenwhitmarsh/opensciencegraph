@@ -53,7 +53,7 @@ BIDS distinguishes two dataset layers:
 ## Connections
 - Governed by: [[Actors/INCF\|INCF]], [[Governance/BIDS Steering Group\|BIDS Steering Group]]
 - Requires: [[Standards/NIfTI\|NIfTI]] (mandatory MRI/PET image format within BIDS)
-- Compatible with: [[Standards/NIDM\|NIDM]] (provenance layer), [[Standards/HED\|HED]] (event annotation)
+- Compatible with: [[Standards/NIDM\|NIDM]] (provenance layer), [[Standards/HED\|HED]] (event annotation), [[Standards/EDF\|EDF]] (accepted EEG/iEEG format alongside BrainVision and FIF)
 - Required by: [[Platforms/OpenNeuro\|OpenNeuro]], [[Platforms/EBRAINS\|EBRAINS]], [[Platforms/DANDI Archive\|DANDI Archive]], [[Actors/CONP\|CONP]], [[Platforms/BrainLife.io\|BrainLife.io]]
 - Adopted by: [[Actors/ReproNim\|ReproNim]], [[Platforms/NeuroVault\|NeuroVault]], [[Platforms/LORIS\|LORIS]], [[Governance/CATI\|CATI]], [[Platforms/Neurobagel\|Neurobagel]], [[Actors/Paris Brain Institute\|Paris Brain Institute]]
 - Used with: [[Standards/DICOM\|DICOM]] (source format, converted via dcm2niix/heudiconv)

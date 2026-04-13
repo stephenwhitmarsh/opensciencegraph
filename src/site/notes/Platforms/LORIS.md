@@ -10,7 +10,7 @@ LORIS is an open-source web-based data management system for neuroimaging and cl
 
 ## Connections
 - Standards: [[Standards/BIDS\|BIDS]], [[Standards/DICOM\|DICOM]], [[Standards/CDISC\|CDISC]]
-- Used by: [[Actors/ADNI\|ADNI]], [[Actors/CONP\|CONP]], [[Governance/CATI\|CATI]], [[Platforms/EBRAINS\|EBRAINS]], [[Actors/TOSI\|TOSI]]
+- Used by: [[Actors/ADNI\|ADNI]], [[Actors/CONP\|CONP]], [[Platforms/EBRAINS\|EBRAINS]], [[Actors/TOSI\|TOSI]]
 - Related: [[Platforms/XNAT\|XNAT]], [[Platforms/OpenNeuro\|OpenNeuro]]
 
 ## Resources

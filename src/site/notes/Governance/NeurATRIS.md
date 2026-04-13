@@ -6,7 +6,7 @@
 # NeurATRIS
 
 ## Overview
-NeurATRIS (Infrastructure de Recherche Translationnelle pour les Biothérapies en Neurosciences) is the French national translational research infrastructure for neuroscience, coordinated by the CEA. Founded in 2012 under the Investissements d'Avenir programme (€31.3M over 2012–2024), it is designed to accelerate the translation of basic neuroscience discoveries into medical innovations for neurological and neurodevelopmental diseases — covering Alzheimer's, Parkinson's, Huntington's, multiple sclerosis, and neurodevelopmental disorders.
+NeurATRIS (Infrastructure de Recherche Translationnelle pour les Biothérapies en Neurosciences) is the French national translational research infrastructure for neuroscience, coordinated by the [[Actors/CEA\|CEA]]. Founded in 2012 under the Investissements d'Avenir programme (€31.3M over 2012–2024), it is designed to accelerate the translation of basic neuroscience discoveries into medical innovations for neurological and neurodevelopmental diseases — covering Alzheimer's, Parkinson's, Huntington's, multiple sclerosis, and neurodevelopmental disorders.
 
 NeurATRIS is the **French component of [[Governance/EATRIS\|EATRIS]]-ERIC** and uniquely the only EATRIS infrastructure offering a structured, specialised offer in neuroscience and neurology. It is organised as a distributed one-stop network of 7 hospitals and public research institutes in the Paris region, providing seamless access to
 the full continuum of translational research from in vitro models to Phase II clinical trials.
@@ -51,7 +51,7 @@ NeurATRIS provides a one-stop access model for academic and industrial researche
 - Standards: [[Standards/CDISC\|CDISC]] (clinical trials), [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/BIDS\|BIDS]] (neuroimaging)
 - Part of: [[Governance/INBS\|INBS]] (French national biology/health infrastructure network)
 - Policy: [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]]
-- Funded by: Investissements d'Avenir (CEA coordination)
+- Funded by: Investissements d'Avenir ([[Actors/CEA\|CEA]] coordination)
 
 ## Resources
 - https://www.neuratris.com

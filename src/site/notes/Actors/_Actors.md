@@ -8,8 +8,6 @@
 
 This index covers all organisational nodes in the graph: research institutes, international consortia, funding bodies, genomics organisations, bioimaging bodies, and ICM's own internal platforms and core facilities. The central node of the entire graph is [[Actors/Paris Brain Institute\|Paris Brain Institute]] (ICM), whose platforms and affiliations drive much of the network's topology.
 
-> Note: `OBI.md` exists in both this directory (Ontario Brain Institute) and in `Standards` (Ontology for Biomedical Investigations). Obsidian will flag ambiguous links; consider renaming one.
-
 ---
 
 ## ICM — Paris Brain Institute and Core Facilities
@@ -22,6 +20,7 @@ This index covers all organisational nodes in the graph: research institutes, in
 
 ## Paris and French Peer Institutions
 
+- [[Actors/CEA\|CEA]] — French national research organisation; coordinates [[Governance/NeurATRIS\|NeurATRIS]]; operates MIRCen (preclinical NHP/gene therapy), SHFJ (PET tracers), and NeuroSpin (ultra-high-field MRI)
 - [[Actors/Institut Curie\|Institut Curie]] — PICT-IBiSA imaging platform; [[Governance/France BioImaging\|France BioImaging]] node; [[Governance/QUAREP-LiMi\|QUAREP-LiMi]] participation
 - [[Actors/Institut de Myologie\|Institut de Myologie]] — international reference centre for neuromuscular diseases; co-located at Pitie-Salpetriere; founding [[Governance/NeurATRIS\|NeurATRIS]] node
 - [[Actors/Institut Pasteur\|Institut Pasteur]] — founding [[Governance/France BioImaging\|France BioImaging]] node; Icy software; strong open science policy (90% OA)
@@ -47,7 +46,7 @@ This index covers all organisational nodes in the graph: research institutes, in
 - [[Actors/INCF\|INCF]] — International Neuroinformatics Coordinating Facility; governs [[Standards/BIDS\|BIDS]], endorses [[Standards/NWB\|NWB]]/[[Standards/HED\|HED]]/[[Standards/NIDM\|NIDM]]
 - [[Actors/Mount Sinai Neuroscience\|Mount Sinai Neuroscience]] — Friedman Brain Institute / Nash Family Dept; CommonMind + PsychENCODE lead site; [[Actors/ENIGMA Consortium\|ENIGMA Consortium]]
 - [[Actors/NIH BRAIN Initiative\|NIH BRAIN Initiative]] — primary US funder of open neuroscience data infrastructure ([[Platforms/DANDI Archive\|DANDI Archive]], [[Standards/NWB\|NWB]] mandate)
-- [[Actors/OBI\|OBI]] — Ontario Brain Institute; FAIR neuroinformatics platform [[Platforms/Brain-CODE\|Brain-CODE]]; [[Actors/CONP\|CONP]] founding sponsor
+- [[Actors/Ontario Brain Institute\|Ontario Brain Institute]] — FAIR neuroinformatics platform [[Platforms/Brain-CODE\|Brain-CODE]]; [[Actors/CONP\|CONP]] founding sponsor
 - [[Actors/ReproNim\|ReproNim]] — reproducibility tools ([[Standards/NIDM\|NIDM]], ReproIn, DataLad); NIH-funded
 - [[Actors/The Florey\|The Florey]] — largest brain research institute in southern hemisphere (Melbourne); [[Actors/ENIGMA Consortium\|ENIGMA Consortium]]-Epilepsy; [[Governance/ARDC\|ARDC]] ecosystem
 - [[Actors/TOSI\|TOSI]] — Tanenbaum Open Science Institute (Montreal); first institute to adopt open science as core value

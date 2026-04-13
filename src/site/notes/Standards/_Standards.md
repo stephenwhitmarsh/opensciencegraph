@@ -8,8 +8,6 @@
 
 This index covers all data format standards, metadata frameworks, terminologies, and ontologies in the graph. Sections follow the data lifecycle from acquisition format through to research data management.
 
-> Note: `OBI.md` exists in both `Actors` (Ontario Brain Institute) and this directory (Ontology for Biomedical Investigations). Obsidian will flag ambiguous links; consider renaming one.
-
 ---
 
 ## Neuroimaging
@@ -25,6 +23,7 @@ This index covers all data format standards, metadata frameworks, terminologies,
 
 ## Neurophysiology
 
+- [[Standards/EDF\|EDF]] — European Data Format; universal clinical EEG, iEEG, and polysomnography format; EDF+ adds annotations
 - [[Standards/HED\|HED]] — Hierarchical Event Descriptors; structured event annotation integrated into [[Standards/BIDS\|BIDS]]/[[Standards/NWB\|NWB]]
 - [[Standards/NWB\|NWB]] — Neurodata Without Borders; community standard for electrophysiology and calcium imaging
 - [[Standards/SPARC SDS\|SPARC SDS]] — SPARC Data Structure; NIH SPARC programme standard for peripheral nervous system data
@@ -45,6 +44,7 @@ This index covers all data format standards, metadata frameworks, terminologies,
 - [[Standards/ClinVar\|ClinVar]] — NCBI authoritative database of clinical variant interpretations; pathogenicity classifications
 - [[Standards/GO\|GO]] — Gene Ontology; biological process, molecular function, cellular component; used in transcriptomics
 - [[Standards/Phenopackets\|Phenopackets]] — [[Actors/GA4GH\|GA4GH]] standard linking clinical phenotypes ([[Standards/HPO\|HPO]]) to genomic data (ISO/TS 5435)
+- [[Standards/SAM-BAM-CRAM\|SAM-BAM-CRAM]] — universal aligned sequencing read formats; pipeline backbone between FASTQ and [[Standards/VCF\|VCF]]/[[Standards/AnnData\|AnnData]]
 - [[Standards/VCF\|VCF]] — Variant Call Format; universal format for genomic variant data
 
 ## Clinical Data Models and Interoperability

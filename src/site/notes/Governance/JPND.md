@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/governance/jpnd/","dg-note-properties":{"name":"JPND","aliases":["Joint Programme Neurodegenerative Disease Research","EU Joint Programme for Neurodegenerative Disease Research"],"website":"https://www.jpnd.eu","type":"initiative","scope":"european","domain":["clinical","multimodal"],"status":"active","founded":2009,"parent_org":"EU Member States / European Commission"}}
+{"dg-publish":true,"permalink":"/governance/jpnd/","dg-note-properties":{"name":"JPND","aliases":["Joint Programme Neurodegenerative Disease Research","EU Joint Programme for Neurodegenerative Disease Research"],"website":"https://neurodegenerationresearch.eu","type":"initiative","scope":"european","domain":["clinical","multimodal"],"status":"active","founded":2009,"parent_org":"EU Member States / European Commission"}}
 ---
 
 
@@ -40,6 +40,6 @@ JPND is also one of the members of the **EBRA (European Brain Research Area)** p
 - French participation: [[Governance/ANR Open Science Policy\|ANR Open Science Policy]] (ANR is France's JPND funder)
 
 ## Resources
-- https://www.jpnd.eu
-- https://www.jpnd.eu/research/funded-projects/ (JTC funded projects)
+- https://neurodegenerationresearch.eu
+- https://neurodegenerationresearch.eu/initiatives/annual-calls-for-proposals/ (JTC funded projects)
 - https://www.ebrains.eu (EBRAINS — key JPND infrastructure partner)

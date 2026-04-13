@@ -21,7 +21,7 @@ CATI is the French national neuroimaging data centre, hosted at [[Actors/Paris B
 - Clinical annotation: [[Standards/ICD-10\|ICD-10]] (diagnostic coding), [[Standards/LOINC\|LOINC]] (biomarker results)
 - Cognitive annotation: [[Standards/Cognitive Atlas\|Cognitive Atlas]] (task metadata in BIDS datasets)
 - Tools: [[Actors/OME\|OME]] (OMERO for image management)
-- Collaborates: [[Actors/INCF\|INCF]], [[Platforms/EBRAINS\|EBRAINS]], [[Platforms/OpenNeuro\|OpenNeuro]], [[Platforms/LORIS\|LORIS]], [[Governance/AP-HP\|AP-HP]], [[Actors/ENIGMA Consortium\|ENIGMA Consortium]], [[Actors/ADNI\|ADNI]]
+- Collaborates: [[Actors/INCF\|INCF]], [[Platforms/EBRAINS\|EBRAINS]], [[Platforms/OpenNeuro\|OpenNeuro]], [[Governance/AP-HP\|AP-HP]], [[Actors/ENIGMA Consortium\|ENIGMA Consortium]], [[Actors/ADNI\|ADNI]]
 
 ## Resources
 - https://cati-neuroimaging.com

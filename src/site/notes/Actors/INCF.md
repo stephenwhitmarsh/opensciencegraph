@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/actors/incf/","tags":["icm/participates"],"dg-note-properties":{"name":"International Neuroinformatics Coordinating Facility","aliases":["INCF"],"website":"https://incf.org","type":"consortium","scope":"international","domain":["neuroimaging","multimodal"],"status":"active","founded":2005,"tags":["icm/participates"],"icon":"https://summerofcode.withgoogle.com/media/org/incf/gnryoa8kunjogh9a-360.png"}}
+{"dg-publish":true,"permalink":"/actors/incf/","dg-note-properties":{"name":"International Neuroinformatics Coordinating Facility","aliases":["INCF"],"website":"https://incf.org","type":"consortium","scope":"international","domain":["neuroimaging","multimodal"],"status":"active","founded":2005,"tags":null,"icon":"https://summerofcode.withgoogle.com/media/org/incf/gnryoa8kunjogh9a-360.png"}}
 ---
 
 
@@ -28,7 +28,7 @@ INCF coordinates neuroscience data standards and neuroinformatics infrastructure
 
 ## Connections
 - Standards governed: [[Standards/BIDS\|BIDS]], [[Standards/NWB\|NWB]], [[Standards/HED\|HED]], [[Standards/NIDM\|NIDM]]
-- French national node: coordinated via the French INCF node consortium (includes CNRS and affiliated institutions including [[Actors/Paris Brain Institute\|Paris Brain Institute]])
+- French national node: coordinated via the French INCF node consortium (includes CNRS and affiliated institutions)
 - Partners: [[Governance/OHBM Open Science SIG\|OHBM Open Science SIG]], [[Governance/RDA\|RDA]], [[Governance/GO FAIR\|GO FAIR]], [[Platforms/EBRAINS\|EBRAINS]], [[Actors/ReproNim\|ReproNim]], [[Actors/GA4GH\|GA4GH]]
 
 ## Resources

@@ -38,8 +38,7 @@ HDR UK implements [[Governance/FAIR Principles\|FAIR Principles]] across its pro
 - UK counterpart to: [[Governance/Health Data Hub\|Health Data Hub]] (France), [[Governance/EHDS\|EHDS]] (EU framework)
 - Key datasets: [[Actors/UK Biobank\|UK Biobank]], NHS Digital, SAIL Databank
 - Standards: [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/DCAT\|DCAT]], [[Governance/FAIR Principles\|FAIR Principles]]
-- Consortia: [[Actors/UK DRI\|UK DRI]] (UK Health Data Research Alliance member)
-- CURE-ND: participant in 2026 CURE-ND AI/ML workshop on health data + neurodegeneration
+- Consortia: [[Actors/UK DRI\|UK DRI]] (UK Health Data Research Alliance member); [[Governance/CURE-ND\|CURE-ND]] (invited participant in 2026 AI/ML workshop on health data and neurodegeneration)
 - International: [[Governance/EOSC\|EOSC]], [[Actors/GA4GH\|GA4GH]], [[Governance/RDA\|RDA]]
 - French parallel: [[Governance/Health Data Hub\|Health Data Hub]] (equivalent national health data institute)
 

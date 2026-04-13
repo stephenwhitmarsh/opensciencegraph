@@ -21,7 +21,7 @@ VCF is the universal file format for storing genomic variant data — single nuc
 
 ## Connections
 - Governed by: [[Actors/GA4GH\|GA4GH]]
-- Companion formats: SAM/BAM/CRAM (sequence alignments, also GA4GH-maintained)
+- Companion formats: [[Standards/SAM-BAM-CRAM\|SAM-BAM-CRAM]] (aligned reads that VCF is derived from; also GA4GH-maintained)
 - Used in conjunction with: [[Standards/Phenopackets\|Phenopackets]] (links variants to phenotype)
 - Relevant data resources: [[Actors/UK Biobank\|UK Biobank]] (whole-exome/genome data), [[Governance/BBMRI-ERIC\|BBMRI-ERIC]] (biobank genomics), [[Actors/ADNI\|ADNI]] (genetics)
 - Mandated for: [[Governance/EHDS\|EHDS]] secondary use of genomic data (from March 2031)

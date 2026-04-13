@@ -11,7 +11,7 @@ GA4GH is the international standards-setting body for genomics and health-relate
 ## Standards Governed
 - [[Standards/VCF\|VCF]] — Variant Call Format; the universal standard for genomic variant data
 - [[Standards/Phenopackets\|Phenopackets]] — computable phenotype + genomic data exchange standard (ISO approved)
-- SAM/BAM/CRAM — sequence alignment formats for raw and aligned sequencing reads
+- [[Standards/SAM-BAM-CRAM\|SAM-BAM-CRAM]] — sequence alignment formats for raw and aligned sequencing reads
 - Data Use Ontology (DUO) — machine-readable consent and data access conditions
 - Beacon API — protocol for querying variant presence across federated datasets
 - Variation Representation Specification (VRS) — unambiguous computational representation of genomic variants
@@ -29,7 +29,7 @@ The **GA4GH Neuroscience Community** (https://www.ga4gh.org/community/neuroscien
 - Relevant to [[Actors/Paris Brain Institute\|Paris Brain Institute]] through neurogenomics programmes and [[Actors/iGENSEQ\|iGENSEQ]] data deposition
 
 ## Connections
-- Standards produced: [[Standards/VCF\|VCF]], [[Standards/Phenopackets\|Phenopackets]]
+- Standards produced: [[Standards/VCF\|VCF]], [[Standards/Phenopackets\|Phenopackets]], [[Standards/SAM-BAM-CRAM\|SAM-BAM-CRAM]]
 - Ontologies used: [[Standards/HPO\|HPO]] (Human Phenotype Ontology, integrated in Phenopackets)
 - Interoperates with: [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/SNOMED CT\|SNOMED CT]]
 - Adopted by: [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/ELIXIR\|ELIXIR]], [[Actors/UK Biobank\|UK Biobank]], [[Governance/Health Data Hub\|Health Data Hub]]
