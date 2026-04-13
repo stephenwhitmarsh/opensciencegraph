@@ -34,7 +34,7 @@ All CENIR data is processed through [[Governance/CATI\|CATI]] pipelines:
 - Data management: [[Governance/CATI\|CATI]] (all data flows through CATI pipelines; DICOM → NIfTI → BIDS)
 - Part of: [[Governance/France Life Imaging\|France Life Imaging]] (FLI primary neuroimaging node at ICM)
 - External access: [[Governance/NeurATRIS\|NeurATRIS]] (clinical neuroimaging for Phase I/II trial endpoints)
-- Standards: [[Standards/BIDS\|BIDS]], [[Standards/NIfTI\|NIfTI]], [[Standards/DICOM\|DICOM]], [[Standards/EDF\|EDF]] (clinical EEG and SEEG recordings)
+- Standards: [[Standards/BIDS\|BIDS]], [[Standards/NIfTI\|NIfTI]], [[Standards/DICOM\|DICOM]], [[Standards/EDF\|EDF]] (clinical EEG and SEEG recordings), [[Standards/BrainVision\|BrainVision]] (research EEG)
 - Cohorts: MEMENTO, INSIGHT-preAD, iShare (multisite longitudinal via CATI)
 - Molecular imaging: PET tracers for amyloid, tau, dopamine (Alzheimer's, Parkinson's)
 

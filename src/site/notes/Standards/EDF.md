@@ -46,7 +46,7 @@ EDF+ adds:
 
 ## Related / Successor Formats
 - **MEF3** (Millisecond Extreme Format) — compressed, encrypted iEEG format from Mayo Clinic / MNI; used for long-term implanted device recordings; not widely adopted outside epilepsy monitoring centres
-- **BrainVision format** (.vhdr/.vmrk/.eeg) — widely used in research EEG (Brain Products hardware); also accepted by BIDS
+- **[[Standards/BrainVision\|BrainVision]] format** (.vhdr/.vmrk/.eeg) — widely used in research EEG (Brain Products hardware); also accepted by BIDS
 - **FIF** (Functional Imaging File) — native format of Elekta/MEGIN MEG systems and MNE-Python; used at [[Actors/CENIR\|CENIR]] for MEG data
 
 ## Connections

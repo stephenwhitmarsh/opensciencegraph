@@ -23,6 +23,7 @@ This index covers all data format standards, metadata frameworks, terminologies,
 
 ## Neurophysiology
 
+- [[Standards/BrainVision\|BrainVision]] — Brain Products three-file EEG format (.vhdr/.vmrk/.eeg); dominant research EEG format; BIDS-accepted
 - [[Standards/EDF\|EDF]] — European Data Format; universal clinical EEG, iEEG, and polysomnography format; EDF+ adds annotations
 - [[Standards/HED\|HED]] — Hierarchical Event Descriptors; structured event annotation integrated into [[Standards/BIDS\|BIDS]]/[[Standards/NWB\|NWB]]
 - [[Standards/NWB\|NWB]] — Neurodata Without Borders; community standard for electrophysiology and calcium imaging
