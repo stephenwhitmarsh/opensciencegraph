@@ -30,7 +30,7 @@ NIF maintains a curated list of recommended data repositories for neuroscience (
 
 ## Connections
 - Funded by: NIH Blueprint for Neuroscience Research
-- Produces: RRID system (widely adopted by journals)
+- Produces: [[Standards/RRID\|RRID]] system (widely adopted by journals)
 - Maintains: neuroscience resource registry (SciCrunch)
 - Integrates with: [[Standards/SPARC SDS\|SPARC SDS]] (SPARC Portal uses NIF resource registry)
 - Data repository guide: https://neuinfo.org/rin/suggested-data-repositories

@@ -33,14 +33,13 @@ LORIS is primarily a Canadian platform but has an international user community s
 
 ### International
 - **[[Actors/ADNI\|ADNI]]** — Alzheimer's Disease Neuroimaging Initiative; one of LORIS's earliest large-scale multisite deployments
-- **EBRAINS** — [[Platforms/EBRAINS\|EBRAINS]] member sites use LORIS for neuroimaging data management
 - **GUSTO** — birth cohort study, Singapore
 - **Indian Dementia Network / National Brain Research Centre** — India
 - **European Alzheimer's Network** — multisite European deployment
 
 ## Connections
 - Developed by: McGill MCIN (Montreal Neurological Institute / McGill University)
-- Used by: [[Actors/ADNI\|ADNI]], [[Actors/CONP\|CONP]], [[Actors/TOSI\|TOSI]], [[Actors/Ontario Brain Institute\|Ontario Brain Institute]] / [[Platforms/Brain-CODE\|Brain-CODE]], [[Platforms/EBRAINS\|EBRAINS]]
+- Used by: [[Actors/ADNI\|ADNI]], [[Actors/CONP\|CONP]], [[Actors/TOSI\|TOSI]], [[Actors/Ontario Brain Institute\|Ontario Brain Institute]] / [[Platforms/Brain-CODE\|Brain-CODE]]
 - Interoperates with: [[Platforms/XNAT\|XNAT]] (imaging data), [[Platforms/Neurobagel\|Neurobagel]] (federated cohort search), [[Platforms/OpenNeuro\|OpenNeuro]] (public data release)
 - Standards: [[Standards/BIDS\|BIDS]], [[Standards/DICOM\|DICOM]], [[Standards/CDISC\|CDISC]]
 - Related platforms: [[Platforms/XNAT\|XNAT]] (comparable imaging management platform)

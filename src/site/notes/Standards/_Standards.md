@@ -89,6 +89,8 @@ This index covers all data format standards, metadata frameworks, terminologies,
 - [[Standards/Dublin Core\|Dublin Core]] — 15-element base metadata standard; present in all repositories ([[Platforms/Zenodo\|Zenodo]], [[Governance/HAL\|HAL]])
 - [[Standards/OBI\|OBI]] — Ontology for Biomedical Investigations; formal study protocol description
 - [[Standards/PROV-O\|PROV-O]] — W3C Provenance Ontology; foundation for [[Standards/NIDM\|NIDM]] and DataLad provenance tracking
+- [[Standards/RRID\|RRID]] — Research Resource Identifiers; persistent IDs for reagents, software, and core facilities; governed by [[Governance/NIF\|NIF]]
+- [[Standards/ROR\|ROR]] — Research Organization Registry; persistent identifiers for research institutions
 
 ---
 

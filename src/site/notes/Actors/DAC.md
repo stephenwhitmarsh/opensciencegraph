@@ -74,3 +74,4 @@ The DAC is ICM's primary interface with the French and European open science inf
 - https://dac.institutducerveau.org/services/ (full services catalogue)
 - https://dac.institutducerveau.org/service/omics/ (omics analysis division)
 - https://dac.institutducerveau.org/service/training/ (training programme)
+- https://scicrunch.org/resolver/SCR_026138 (RRID:SCR_026138)
