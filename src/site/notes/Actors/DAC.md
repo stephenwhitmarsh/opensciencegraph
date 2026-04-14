@@ -52,7 +52,7 @@ DAC activities run on ICM IT-managed high-performance computing equipment:
 
 ## Open Science Role
 The DAC is ICM's primary interface with the French and European open science infrastructure:
-- **[[Governance/IFB\|IFB]]** — DAC is a member of [[Governance/IFB\|IFB]] and participates in the [[Governance/MUDIS4LS\|MUDIS4LS]] initiative (managed by IFB)
+- **[[Governance/IFB\|IFB]]** — DAC is a member of [[Governance/IFB\|IFB]] and participates in the [[Governance/MUDIS4LS\|MUDIS4LS]] initiative (managed by IFB); IFB computing resources are planned for future use
 - Working groups — DAC participates in workgroups including [[Governance/GT-GeDeM\|GT-GeDeM]],  [[Governance/INCF Working Groups\|INCF Working Groups]] and [[Governance/GFRN\|GFRN]]
 - **[[Governance/OPIDoR\|OPIDoR]]** — DAC provides DMP training and support using [[Governance/OPIDoR\|OPIDoR]] tools
 - **[[Governance/FAIR Principles\|FAIR Principles]]** — the Data Management division implements FAIR data management across ICM through databases, data models, and policy development

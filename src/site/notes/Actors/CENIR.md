@@ -24,14 +24,16 @@ CENIR is the primary neuroimaging node for:
 - Cognitive neuroscience (fMRI, MEG, EEG combined protocols)
 
 ## Data Management
-All CENIR data is processed through [[Governance/CATI\|CATI]] pipelines:
+For multisite cohort studies, CENIR data is processed through [[Governance/CATI\|CATI]] pipelines:
 - Raw DICOM → [[Standards/NIfTI\|NIfTI]] conversion and [[Standards/BIDS\|BIDS]] organisation via CATIconv
 - Multi-site MRI harmonisation and automated QC
 - Data deposited on [[Platforms/OpenNeuro\|OpenNeuro]] (open datasets) or secure platforms for controlled-access cohorts
 
+For individual research projects outside the CATI framework, data management is handled directly by the research teams.
+
 ## Connections
 - Hosted at: [[Actors/Paris Brain Institute\|Paris Brain Institute]]
-- Data management: [[Governance/CATI\|CATI]] (all data flows through CATI pipelines; DICOM → NIfTI → BIDS)
+- Data management: [[Governance/CATI\|CATI]] (multisite cohort data; DICOM → NIfTI → BIDS); individual research projects managed independently
 - Part of: [[Governance/France Life Imaging\|France Life Imaging]] (FLI primary neuroimaging node at ICM)
 - External access: [[Governance/NeurATRIS\|NeurATRIS]] (clinical neuroimaging for Phase I/II trial endpoints)
 - Standards: [[Standards/BIDS\|BIDS]], [[Standards/NIfTI\|NIfTI]], [[Standards/DICOM\|DICOM]], [[Standards/EDF\|EDF]] (clinical EEG and SEEG recordings), [[Standards/BrainVision\|BrainVision]] (research EEG)

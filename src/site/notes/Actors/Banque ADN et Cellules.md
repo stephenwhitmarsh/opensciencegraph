@@ -23,7 +23,6 @@ The Banque ADN et Cellules is [[Actors/Paris Brain Institute\|Paris Brain Instit
 
 ## Connections to Open Science Ecosystem
 - **[[Governance/BBMRI-ERIC\|BBMRI-ERIC]]** — French biobanks are integrated into the BBMRI-ERIC federated biobank catalogue; Banque ADN samples are discoverable via BBMRI
-- **[[Standards/HPO\|HPO]]** and **[[Standards/ORDO\|ORDO]]** — phenotypic annotation of donors uses Human Phenotype Ontology and Orphanet disease codes for rare neurological diseases
 - **[[Actors/iGENSEQ\|iGENSEQ]]** — primary downstream user for genomic sequencing of banked DNA
 - **[[Governance/CATI\|CATI]]** — imaging-biobank linkage for multimodal cohorts (MEMENTO, INSIGHT-preAD)
 - **[[Actors/Institut de Myologie\|Institut de Myologie]]** — Myobank-AFM is the analogous neuromuscular biobank at the same Pitié-Salpêtrière campus
@@ -32,7 +31,6 @@ The Banque ADN et Cellules is [[Actors/Paris Brain Institute\|Paris Brain Instit
 - Hosted at: [[Actors/Paris Brain Institute\|Paris Brain Institute]]
 - Regulatory framework: [[Governance/Code de la Sante Publique\|Code de la Sante Publique]], CNIL
 - Biobank network: [[Governance/BBMRI-ERIC\|BBMRI-ERIC]] (federated European biobank catalogue)
-- Phenotyping: [[Standards/HPO\|HPO]], [[Standards/ORDO\|ORDO]], [[Standards/MONDO\|MONDO]]
 - Downstream platforms: [[Actors/iGENSEQ\|iGENSEQ]], [[Governance/CATI\|CATI]]
 - Analogous resource: Myobank-AFM at [[Actors/Institut de Myologie\|Institut de Myologie]]
 - Policy: [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]]

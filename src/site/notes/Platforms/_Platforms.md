@@ -20,7 +20,7 @@ This index covers all data platforms, repositories, and data capture systems in 
 ## Neuroimaging Data Management
 
 - [[Platforms/BrainLife.io\|BrainLife.io]] — cloud platform for [[Standards/BIDS\|BIDS]]/[[Standards/NWB\|NWB]] analysis with provenance tracking
-- [[Platforms/LORIS\|LORIS]] — open-source data management for multisite neuroimaging studies ([[Actors/ADNI\|ADNI]], [[Actors/CONP\|CONP]], [[Governance/CATI\|CATI]])
+- [[Platforms/LORIS\|LORIS]] — open-source multisite neuroimaging data management; developed at McGill/MNI; used by [[Actors/ADNI\|ADNI]], [[Actors/CONP\|CONP]], [[Actors/TOSI\|TOSI]], [[Actors/Ontario Brain Institute\|Ontario Brain Institute]]
 - [[Platforms/Neurobagel\|Neurobagel]] — federated participant-level cohort search across [[Standards/BIDS\|BIDS]] datasets; DataLad backend
 - [[Platforms/XNAT\|XNAT]] — [[Standards/DICOM\|DICOM]] management and pipeline platform; used at [[Platforms/EBRAINS\|EBRAINS]] member sites
 

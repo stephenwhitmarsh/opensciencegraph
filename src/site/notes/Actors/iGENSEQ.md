@@ -6,12 +6,11 @@
 # iGENSEQ — Genomics and Sequencing Platform
 
 ## Overview
-iGENSEQ is [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s next-generation sequencing (NGS) platform, one of ICM's 10 core technological platforms. It provides a full suite of genomic sequencing services to ICM research teams and external academic and industrial collaborators, covering bulk transcriptomics, single-cell and spatial genomics, whole-genome and whole-exome sequencing, and targeted panels.
+iGENSEQ is [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s next-generation sequencing (NGS) platform, one of ICM's 10 core technological platforms. It provides a full suite of genomic sequencing services to ICM research teams and external academic and industrial collaborators, covering bulk transcriptomics, single-cell genomics, whole-genome and whole-exome sequencing, and targeted panels.
 
 ## Services
 - **RNA-seq** — bulk, stranded, total or polyA-selected
 - **Single-cell RNA-seq (scRNA-seq)** — droplet-based (10x Genomics)
-- **Spatial transcriptomics** — 10x Visium, Slide-seq
 - **Whole-genome sequencing (WGS)** — germline and somatic
 - **Whole-exome sequencing (WES)** — targeted coding variant capture
 - **Targeted panels** — custom and commercial gene panels
@@ -29,7 +28,7 @@ iGENSEQ is [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s next-genera
 - Hosted at: [[Actors/Paris Brain Institute\|Paris Brain Institute]]
 - Upstream biobank: [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]]
 - Bioinformatics support: DAC (Data Analysis Core)
-- Computing: [[Governance/IFB\|IFB]] (NNCR / [[Governance/MUDIS4LS\|MUDIS4LS]])
+- Computing: [[Governance/IFB\|IFB]] (NNCR / [[Governance/MUDIS4LS\|MUDIS4LS]] — planned for future use)
 - Data deposit (open): [[Platforms/NCBI GEO\|NCBI GEO]], [[Platforms/EVA\|EVA]]
 - Data deposit (controlled): [[Platforms/EGA\|EGA]], [[Platforms/dbGaP\|dbGaP]]
 - Standards: [[Standards/VCF\|VCF]], [[Standards/SAM-BAM-CRAM\|SAM-BAM-CRAM]], [[Actors/GA4GH\|GA4GH]], [[Standards/GO\|GO]], [[Standards/HPO\|HPO]]
