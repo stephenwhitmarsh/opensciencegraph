@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/standards/ado/","tags":["icm/uses"],"dg-note-properties":{"name":"Alzheimer's Disease Ontology","aliases":["ADO"],"website":"https://bioportal.bioontology.org/ontologies/ADO","type":"terminology","scope":"international","domain":["clinical","neuroimaging"],"status":"active","founded":2016,"parent_org":"University of Michigan / BioPortal community","tags":["icm/uses"]}}
+{"dg-publish":true,"permalink":"/standards/ado/","dg-note-properties":{"name":"Alzheimer's Disease Ontology","aliases":["ADO"],"website":"https://bioportal.bioontology.org/ontologies/ADO","type":"terminology","scope":"international","domain":["clinical","neuroimaging"],"status":"active","founded":2016,"parent_org":"University of Michigan / BioPortal community","tags":null}}
 ---
 
 

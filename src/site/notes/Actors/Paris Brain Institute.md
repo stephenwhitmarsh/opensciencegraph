@@ -54,15 +54,14 @@ https://rndunit.institutducerveau.org — Custom scientific instrumentation desi
 - [[Actors/Sorbonne Universite\|Sorbonne Universite]]
 
 ## Standards Used
-- Neuroimaging: [[Standards/BIDS\|BIDS]], [[Standards/NIfTI\|NIfTI]], [[Standards/CIFTI\|CIFTI]], [[Standards/DICOM\|DICOM]]
-- Clinical: [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/ICD-10\|ICD-10]], [[Standards/LOINC\|LOINC]], [[Standards/CCAM\|CCAM]]
-- Genomics / rare disease: [[Standards/HPO\|HPO]], [[Standards/ORDO\|ORDO]], [[Standards/MONDO\|MONDO]], [[Standards/ADO\|ADO]] (Alzheimer's)
+- Neuroimaging: [[Standards/BIDS\|BIDS]], [[Standards/NIfTI\|NIfTI]], [[Standards/DICOM\|DICOM]]
+- Clinical (via [[Governance/AP-HP\|AP-HP]] EDS): [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/ICD-10\|ICD-10]], [[Standards/LOINC\|LOINC]], [[Standards/CCAM\|CCAM]]
+- Genomics / rare disease: [[Standards/HPO\|HPO]], [[Standards/ORDO\|ORDO]], [[Standards/MONDO\|MONDO]]
 
 ## Platforms Used
 - [[Platforms/OpenNeuro\|OpenNeuro]]
 - [[Platforms/EBRAINS\|EBRAINS]]
 - [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]]
-- [[Governance/Health Data Hub\|Health Data Hub]]
 - [[Governance/OPIDoR\|OPIDoR]]
 - [[Platforms/OMERO\|OMERO]]
 
@@ -71,10 +70,12 @@ https://rndunit.institutducerveau.org — Custom scientific instrumentation desi
 - [[Actors/ENIGMA Consortium\|ENIGMA Consortium]]
 - [[Governance/France Life Imaging\|France Life Imaging]] - via [[Governance/CATI\|CATI]]
 - [[Platforms/EBRAINS\|EBRAINS]]
-- [[Governance/ECRIN\|ECRIN]] - via [[Governance/AP-HP\|AP-HP]]
+- [[Governance/ECRIN\|ECRIN]] - via [[Governance/AP-HP\|AP-HP]] / [[Governance/CIC Neurosciences\|CIC Neurosciences]]
 - [[Governance/GT-GeDeM\|GT-GeDeM]] - RTmfm working group on microscopy data management (DAC participates)
 - [[Governance/IFB\|IFB]] - via DAC
 - [[Governance/France BioImaging\|France BioImaging]] — via ICM Quant microscopy platform
+- [[Governance/CIC Neurosciences\|CIC Neurosciences]] — Inserm/AP-HP clinical investigation centre hosted at ICM; Phase I–III neurological trials
+- [[Governance/iCRIN\|iCRIN]] — ICM translational clinical research programme; 13 disease-area projects bridging AP-HP clinical services and ICM research teams
 
 ## French Policy Context
 - [[Governance/Ouvrir la Science\|Ouvrir la Science]]
@@ -83,7 +84,7 @@ https://rndunit.institutducerveau.org — Custom scientific instrumentation desi
 
 ## Paris Open Science Peers
 See the MOC Paris Peer Institutions section for a full list. Key co-located partners:
-- [[Actors/Institut Pasteur\|Institut Pasteur]], [[Actors/Institut Curie\|Institut Curie]], [[Actors/Institut de Myologie\|Institut de Myologie]], [[Actors/Sorbonne Universite\|Sorbonne Universite]], [[Actors/EMBL\|EMBL]]
+- [[Actors/Institut Pasteur\|Institut Pasteur]], [[Actors/Institut Curie\|Institut Curie]], [[Actors/Institut de Myologie\|Institut de Myologie]], [[Actors/Sorbonne Universite\|Sorbonne Universite]]
 
 ## Resources
 - https://institutducerveau-icm.org

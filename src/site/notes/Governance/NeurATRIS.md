@@ -17,7 +17,7 @@ the full continuum of translational research from in vitro models to Phase II cl
 NeurATRIS federates 7 hospitals and public research institutes:
 - **CEA Paris-Saclay — MIRCen** (Fontenay-aux-Roses) — preclinical primate models, AAV gene therapy, PET imaging
 - **CEA Paris-Saclay — SHFJ** (Orsay) — radiopharmaceuticals, PET tracers, pharmacokinetics
-- **Hôpital Pitié-Salpêtrière — ICM** — [[Actors/CENIR\|CENIR]] neuroimaging (3T MRI, PET-MRI, MEG), clinical neurology, [[Governance/CATI\|CATI]] data management
+- **Hôpital Pitié-Salpêtrière — ICM** — [[Actors/CENIR\|CENIR]] neuroimaging (3T MRI, PET-MRI, MEG), clinical neurology, [[Governance/CATI\|CATI]] data management, [[Governance/CIC Neurosciences\|CIC Neurosciences]] (Phase I/II trials)
 - **Institut de Myologie / IHU-A-ICM** — neuromuscular disease, biotherapy
 - **Hôpital Henri Mondor** — psychiatry, neurodevelopmental disorders
 - **Hôpital Bicêtre** — gene therapy, rare neurological diseases

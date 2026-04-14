@@ -31,7 +31,7 @@ The French national partner is **F-CRIN** (French Clinical Research Infrastructu
 ECRIN is part of the ESFRI Health Research Infrastructure cluster with [[Governance/ELIXIR\|ELIXIR]], [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/EATRIS\|EATRIS]], and [[Governance/Euro-BioImaging\|Euro-BioImaging]].
 
 ## Connections
-- French partner: F-CRIN / [[Governance/AP-HP\|AP-HP]] CIC Neurosciences (Pitié-Salpêtrière)
+- French partner: F-CRIN / [[Governance/AP-HP\|AP-HP]] / [[Governance/CIC Neurosciences\|CIC Neurosciences]] (Pitié-Salpêtrière)
 - ESFRI cluster: [[Governance/ELIXIR\|ELIXIR]], [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/EATRIS\|EATRIS]], [[Governance/Euro-BioImaging\|Euro-BioImaging]]
 - Standards: [[Standards/CDISC\|CDISC]] (trial data), [[Standards/OMOP CDM\|OMOP CDM]] (observational), [[Standards/HL7 FHIR\|HL7 FHIR]]
 - Registry: [[Platforms/ClinicalTrials.gov\|ClinicalTrials.gov]], EudraCT / CTIS
