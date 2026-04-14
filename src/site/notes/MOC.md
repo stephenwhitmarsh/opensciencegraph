@@ -45,3 +45,6 @@ In open science perhaps more than anywhere else, this quote by W.B. Yeats rings 
 
 > *There are no strangers here, just friends you haven't met yet*
 
+## TODO
+add https://dbgap.ncbi.nlm.nih.gov/home/ and clarify its requirement for human data (controlled access) 
+Groupement d'Intérêt Scientifique IFB (It's a kind of structure like UMR, UAR, GDR...)

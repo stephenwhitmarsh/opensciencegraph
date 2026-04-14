@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/platforms/recherche-data-gouv/","tags":["icm/uses"],"dg-note-properties":{"name":"Recherche Data Gouv","aliases":["Entrepot national de donnees de recherche","RDG"],"website":"https://recherche.data.gouv.fr","type":"repository","scope":"french","domain":["multimodal"],"status":"active","founded":2021,"parent_org":"Ministere de l'Enseignement Superieur et de la Recherche (MESR)","tags":["icm/uses"],"icon":"https://www.recherche.data.gouv.fr/favicon.ico"}}
+{"dg-publish":true,"permalink":"/platforms/recherche-data-gouv/","dg-note-properties":{"name":"Recherche Data Gouv","aliases":["Entrepot national de donnees de recherche","RDG"],"website":"https://recherche.data.gouv.fr","type":"repository","scope":"french","domain":["multimodal"],"status":"active","founded":2021,"parent_org":"Ministere de l'Enseignement Superieur et de la Recherche (MESR)","tags":null,"icon":"https://www.recherche.data.gouv.fr/favicon.ico"}}
 ---
 
 
@@ -14,11 +14,11 @@ Recherche Data Gouv fills a gap in the French research data landscape: distinct 
 
 ### Repository Features
 - **DOI assignment** — every deposited dataset receives a persistent DOI
-- **FAIR-compliant metadata** — structured metadata schema based on [[Standards/DCAT\|DCAT]] / DCAT-AP (EU profile) and [[Standards/Dublin Core\|Dublin Core]] (base layer)
+- **FAIR-compliant metadata** — structured metadata schema based on [[Standards/DCAT\|DCAT]] / DCAT-AP (EU profile) and [[Standards/Dublin Core\|Dublin Core]] (base layer) _to be confirmed_
 - **Version management** — datasets can be updated with new versions while preserving access to previous versions
 - **Embargo** — datasets can be deposited with an embargo period (data accessible only after a specified date)
 - **Restricted access** — datasets can require access request approval (relevant for sensitive but non-health research data)
-- **Large file support** — up to several TB per dataset
+- **Large file support** — up to several TB per dataset _to be confirmed_
 - **Open licences** — CC0, CC-BY, Etalab Licence Ouverte
 
 ### Disciplinary Nodes
@@ -35,7 +35,7 @@ Recherche Data Gouv is tightly integrated with [[Governance/OPIDoR\|OPIDoR]]: **
 ## Depositing from Paris Brain Institute
 For [[Actors/Paris Brain Institute\|Paris Brain Institute]] researchers, Recherche Data Gouv is the appropriate repository for non-sensitive research data not covered by domain-specific repositories (e.g. behavioural data, quantitative microscopy, electrophysiology where [[Platforms/DANDI Archive\|DANDI Archive]] or [[Platforms/OpenNeuro\|OpenNeuro]] are not appropriate), software and analysis code (alongside or instead of [[Governance/Software Heritage\|Software Heritage]]), supplementary data associated with publications in [[Governance/HAL\|HAL]], and data that must satisfy ANR or Horizon Europe deposit mandates but lacks a domain-specific FAIR repository.
 
-Neuroimaging data should prefer [[Platforms/OpenNeuro\|OpenNeuro]] ([[Standards/BIDS\|BIDS]]-organised); genomics data should prefer [[Platforms/NCBI GEO\|NCBI GEO]] (open) or [[Platforms/EGA\|EGA]] (controlled access); electrophysiology data should prefer [[Platforms/DANDI Archive\|DANDI Archive]] ([[Standards/NWB\|NWB]]-formatted).
+Neuroimaging data should prefer [[Platforms/OpenNeuro\|OpenNeuro]] ([[Standards/BIDS\|BIDS]]-organised); genomics data should prefer [[Platforms/NCBI GEO\|NCBI GEO]] (open but US based) or [[Platforms/EGA\|EGA]] (controlled access, EU); electrophysiology data should prefer [[Platforms/DANDI Archive\|DANDI Archive]] ([[Standards/NWB\|NWB]]-formatted).
 
 ## Connections
 - Part of: [[Governance/data.gouv.fr\|data.gouv.fr]] ecosystem, [[Governance/Ouvrir la Science\|Ouvrir la Science]]
