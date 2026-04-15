@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/standards/osiris/","tags":["icm/uses"],"dg-note-properties":{"name":"OSIRIS","aliases":["Interoperability and data sharing of clinical and biological data in Oncology"],"website":"https://ig-osiris.cancer.fr/ig/osiris/","type":"standard","scope":"french","domain":["clinical","genomics"],"status":"active","founded":2015,"parent_org":"INCa (Institut National du Cancer)","tags":["icm/uses"]}}
+{"dg-publish":true,"permalink":"/standards/osiris/","dg-note-properties":{"name":"OSIRIS","aliases":["Interoperability and data sharing of clinical and biological data in Oncology"],"website":"https://ig-osiris.cancer.fr/ig/osiris/","type":"standard","scope":"french","domain":["clinical","genomics"],"status":"active","founded":2015,"parent_org":"INCa (Institut National du Cancer)","tags":null}}
 ---
 
 
@@ -39,7 +39,7 @@ OSIRIS relies on international standards throughout:
 - French governance: [[Governance/Code de la Sante Publique\|Code de la Sante Publique]], CNIL, [[Governance/ANS\|ANS]]
 - Standards: [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/ICD-10\|ICD-10]], [[Standards/MedDRA\|MedDRA]], [[Standards/RxNorm\|RxNorm]], [[Standards/ATC\|ATC]], [[Standards/OMOP CDM\|OMOP CDM]], [[Platforms/i2b2\|i2b2]]
 - Related French oncology infrastructure: SIRICs, Unicancer, [[Governance/Health Data Hub\|Health Data Hub]]
-- Relevant to [[Actors/Paris Brain Institute\|Paris Brain Institute]]: neuro-oncology data sharing; ICM's Institut Curie peer relationship; OSIRIS is the standard for multi-centre French cancer genomics trials
+- Relevant to [[Actors/Paris Brain Institute\|Paris Brain Institute]]: neuro-oncology data sharing context; OSIRIS is the French standard for multi-centre cancer genomics trials
 
 ## Resources
 - FHIR IG: https://ig-osiris.cancer.fr/ig/osiris/

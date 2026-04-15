@@ -31,6 +31,8 @@ All ICM platforms are registered in the SciCrunch Registry and should be cited u
 | ICM Quant — Quantitative Imaging | `RRID:SCR_026393` | https://scicrunch.org/resolver/SCR_026393 |
 | ePHYS — Electrophysiology | `RRID:SCR_026412` | https://scicrunch.org/resolver/SCR_026412 |
 | PRISME — Behavioural Phenotyping | `RRID:SCR_026394` | https://scicrunch.org/resolver/SCR_026394 |
+| HISTOMICS — Histology and Neuropathology | `RRID:SCR_028275` | https://scicrunch.org/resolver/SCR_028275 |
+| ICV — Cellular Engineering and Vectorology | `RRID:SCR_028048` | https://scicrunch.org/resolver/SCR_028048 |
 
 ## How to Cite
 The standard citation format is the resource name followed by the RRID in parentheses, e.g.:

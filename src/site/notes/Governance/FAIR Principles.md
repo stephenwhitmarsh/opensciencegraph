@@ -59,7 +59,7 @@ and infrastructures. This distinction matters for the vault:
 | European infrastructure | [[Governance/EOSC\|EOSC]], [[Governance/ELIXIR\|ELIXIR]], [[Governance/OpenAIRE\|OpenAIRE]] |
 
 ## Created By
-- [[Governance/FORCE11\|FORCE11]] — co-authored the original 2016 Wilkinson et al. paper
+- [[FORCE11\|FORCE11]] — co-authored the original 2016 Wilkinson et al. paper
 - [[Governance/GO FAIR\|GO FAIR]] — developed the Three-Point FAIRification Framework
 - [[Governance/RDA\|RDA]] — produced the FAIR Data Maturity Model (RDA WG output, 2020)
 

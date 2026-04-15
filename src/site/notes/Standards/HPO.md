@@ -30,7 +30,7 @@ HPO's neurological and psychiatric sub-ontologies are among the most detailed, c
 - Maps to: [[Standards/SNOMED CT\|SNOMED CT]], [[Standards/OMOP CDM\|OMOP CDM]] (via concept mapping)
 - Complements: [[Standards/MONDO\|MONDO]] (disease-level), [[Standards/ORDO\|ORDO]] (rare disease specifics)
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (rare neurological disease research)
-- Related terminologies: MONDO (disease ontology), [[Standards/UBERON\|UBERON]] (anatomy ontology)
+- Part of: [[Governance/OBO Foundry\|OBO Foundry]] (https://obofoundry.org/ontology/hp.html)
 
 ## Resources
 - https://hpo.jax.org

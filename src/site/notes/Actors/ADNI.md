@@ -15,7 +15,7 @@ ADNI is a longitudinal multicenter study tracking MRI, PET, biomarkers, clinical
 
 ## Connections
 - Platforms: LONI IDA, [[Platforms/LORIS\|LORIS]], [[Platforms/OpenNeuro\|OpenNeuro]] (some BIDS-derived derivatives only; primary data on LONI IDA)
-- Standards: [[Standards/DICOM\|DICOM]], [[Standards/BIDS\|BIDS]], [[Standards/CDISC\|CDISC]], [[Standards/OMOP CDM\|OMOP CDM]]
+- Standards: [[Standards/DICOM\|DICOM]], [[Standards/BIDS\|BIDS]], [[Standards/CDISC\|CDISC]]
 - Related: [[Actors/ENIGMA Consortium\|ENIGMA Consortium]], [[Governance/CATI\|CATI]]
 
 ## Resources

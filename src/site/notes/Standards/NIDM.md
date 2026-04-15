@@ -49,7 +49,7 @@ NIDM-Results is production-ready and actively used: [[Platforms/NeuroVault\|Neur
 - Used in: [[Actors/ReproNim\|ReproNim]], [[Platforms/NeuroVault\|NeuroVault]] (NIDM-Results), [[Actors/CONP\|CONP]] (NIDM-Experiment)
 - Vocabularies: [[Standards/Cognitive Atlas\|Cognitive Atlas]] (task terms), [[Standards/SNOMED CT\|SNOMED CT]] / [[Standards/HPO\|HPO]] (subject terms), [[Standards/UBERON\|UBERON]] (anatomy), [[Standards/DICOM\|DICOM]] (acquisition metadata)
 - Tools: PyNIDM, ReproIn, NIDM Query Tool
-- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (reproducibility, statistical result sharing via [[Platforms/NeuroVault\|NeuroVault]], multi-site cohort annotation)
+- Relevant to: [[Actors/ReproNim\|ReproNim]], [[Platforms/NeuroVault\|NeuroVault]] (NIDM-Results), [[Actors/CONP\|CONP]] (NIDM-Experiment)
 
 ## Resources
 - http://nidm.nidash.org

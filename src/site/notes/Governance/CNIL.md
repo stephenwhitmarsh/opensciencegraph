@@ -2,23 +2,6 @@
 {"dg-publish":true,"permalink":"/governance/cnil/","dg-note-properties":{"name":"Commission Nationale de l'Informatique et des Libertés","aliases":["CNIL"],"website":"https://www.cnil.fr","type":"policy","scope":"french","domain":["clinical","health","genomics"],"status":"active","founded":1978,"parent_org":"French State (independent administrative authority)","tags":null}}
 ---
 
----
-name: Commission Nationale de l'Informatique et des Libertés
-aliases:
-  - CNIL
-website: https://www.cnil.fr
-type: policy
-scope: french
-domain:
-  - clinical
-  - health
-  - genomics
-status: active
-founded: 1978
-parent_org: French State (independent administrative authority)
-tags:
-dg-publish: true
----
 
 # CNIL — Commission Nationale de l'Informatique et des Libertés
 

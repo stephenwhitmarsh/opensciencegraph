@@ -28,7 +28,7 @@ UBERON is a cross-species integrated anatomy ontology covering body parts, organ
 ## Connections
 - Used in: [[Platforms/EBRAINS\|EBRAINS]] (openMINDS schemas), [[Standards/NWB\|NWB]] (brain region annotation), [[Actors/Allen Institute for Brain Science\|Allen Institute for Brain Science]] (Atlas alignment)
 - Complements: [[Standards/Cognitive Atlas\|Cognitive Atlas]] (cognitive processes), [[Standards/HED\|HED]] (events)
-- Part of: OBO Foundry (alongside [[Standards/HPO\|HPO]], [[Standards/MONDO\|MONDO]], [[Standards/ORDO\|ORDO]])
+- Part of: [[Governance/OBO Foundry\|OBO Foundry]] (alongside [[Standards/HPO\|HPO]], [[Standards/MONDO\|MONDO]], [[Standards/ORDO\|ORDO]])
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]], [[Actors/IBL\|IBL]], [[Actors/Human Connectome Project\|Human Connectome Project]]
 
 ## Resources

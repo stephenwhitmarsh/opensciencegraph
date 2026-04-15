@@ -40,7 +40,7 @@ DataCite is a key infrastructure component of [[Governance/EOSC\|EOSC]], providi
 - Metadata schema aligns with: [[Standards/Dublin Core\|Dublin Core]], [[Standards/DCAT\|DCAT]]
 - Supports: [[Governance/ORCID\|ORCID]] (creator identifiers), ROR (institution identifiers)
 - Integrated into: [[Governance/EOSC\|EOSC]], [[Governance/OpenAIRE\|OpenAIRE]]
-- Participates in: [[Governance/RDA\|RDA]], [[Governance/FORCE11\|FORCE11]]
+- Participates in: [[Governance/RDA\|RDA]], [[FORCE11\|FORCE11]]
 - French node: INIST-CNRS (via [[Governance/CNRS Open Science\|CNRS Open Science]])
 
 ## Resources

@@ -28,7 +28,7 @@ MONDO is part of the OBO Foundry ecosystem and is maintained in close alignment 
 - Integrates: [[Standards/ICD-10\|ICD-10]], [[Standards/ICD-11\|ICD-11]], [[Standards/ORDO\|ORDO]], [[Standards/HPO\|HPO]], OMIM, DOID
 - Used in: [[Standards/OMOP CDM\|OMOP CDM]] (disease concepts), [[Platforms/EBRAINS\|EBRAINS]], [[Governance/BBMRI-ERIC\|BBMRI-ERIC]]
 - Complements: [[Standards/HPO\|HPO]] (phenotypes), [[Standards/ORDO\|ORDO]] (rare disease specifics)
-- Part of: OBO Foundry
+- Part of: [[Governance/OBO Foundry\|OBO Foundry]]
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (harmonising clinical and genomic disease coding)
 
 ## Resources

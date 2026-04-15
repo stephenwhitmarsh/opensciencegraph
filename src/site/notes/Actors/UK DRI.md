@@ -27,7 +27,6 @@ Active GitHub organisation (https://github.com/UKDRI) with open-source pipelines
 - Fine-mapping pipelines
 - Single-cell transcriptomics analysis for Parkinson's disease
 - Digital health data ingestion tools (IoT, behavioural, physiological)
-- Materials for 2026 EMBL course on data-driven approaches to understanding dementia (spatial transcriptomics practicals)
 
 ### JPND Participation
 UK DRI actively participates in [[Governance/JPND\|JPND]] (Joint Programme Neurodegenerative Disease Research), the primary European transnational funding framework for neurodegeneration. UK DRI also participates in the **COEN** (Centres of Excellence in Neurodegeneration) network, aligned with the JPND framework.

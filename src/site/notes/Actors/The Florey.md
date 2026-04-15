@@ -30,7 +30,7 @@ The Florey and AEP operate within Australia's national research data infrastruct
 - Open science network: [[Actors/ENIGMA Consortium\|ENIGMA Consortium]] (ENIGMA-Epilepsy working group)
 - National infrastructure: [[Governance/ARDC\|ARDC]] (Australian Research Data Commons)
 - Neuroimaging standards: [[Standards/BIDS\|BIDS]], [[Platforms/OpenNeuro\|OpenNeuro]] (compatible data structures)
-- CURE-ND peers: [[Actors/Paris Brain Institute\|Paris Brain Institute]], [[Actors/DZNE\|DZNE]], [[Actors/UK DRI\|UK DRI]] (shared neurodegeneration research domains; Alzheimer's / Parkinson's / epilepsy overlap)
+- Peer institutes: [[Actors/Paris Brain Institute\|Paris Brain Institute]], [[Actors/DZNE\|DZNE]], [[Actors/UK DRI\|UK DRI]] (overlapping neurodegeneration research domains: Alzheimer's, Parkinson's, epilepsy)
 - Australian context: Melbourne Biomedical Precinct, University of Melbourne, Austin Health, Royal Melbourne Hospital
 
 ## Resources

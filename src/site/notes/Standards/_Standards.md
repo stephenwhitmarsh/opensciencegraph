@@ -43,6 +43,7 @@ This index covers all data format standards, metadata frameworks, terminologies,
 - [[Standards/AnnData\|AnnData]] — de facto standard format (h5ad) for single-cell genomics data; Scanpy/scverse ecosystem
 - [[Standards/Cell Ontology\|Cell Ontology]] — OBO Foundry ontology for cell types; required for single-cell data annotation (CELLxGENE, [[Actors/BICAN\|BICAN]])
 - [[Standards/ClinVar\|ClinVar]] — NCBI authoritative database of clinical variant interpretations; pathogenicity classifications
+- [[Standards/FASTQ\|FASTQ]] — universal raw sequencing read format; primary output of all NGS instruments
 - [[Standards/GO\|GO]] — Gene Ontology; biological process, molecular function, cellular component; used in transcriptomics
 - [[Standards/Phenopackets\|Phenopackets]] — [[Actors/GA4GH\|GA4GH]] standard linking clinical phenotypes ([[Standards/HPO\|HPO]]) to genomic data (ISO/TS 5435)
 - [[Standards/SAM-BAM-CRAM\|SAM-BAM-CRAM]] — universal aligned sequencing read formats; pipeline backbone between FASTQ and [[Standards/VCF\|VCF]]/[[Standards/AnnData\|AnnData]]

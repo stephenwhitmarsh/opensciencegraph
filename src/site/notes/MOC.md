@@ -28,13 +28,13 @@ The graph is organised across four directories, each with a dedicated sub-MOC wi
 
 Every node uses a lean, non-redundant YAML frontmatter schema. The following fields and values are used:
 
-| Field | Values |
-|---|---|
-| `type` | `standard` `terminology` `framework` `platform` `repository` `infrastructure` `facility` `institute` `consortium` `initiative` `working-group` `policy` `biobank` |
-| `domain` | `neuroimaging` `electrophysiology` `clinical` `genomics` `multimodal` `bioimaging` `computational` `behavior` `health` |
-| `scope` | `french` `european` `international` |
-| `tags: icm/uses` | ICM operationally uses this standard, platform or tool |
-| `tags: icm/participates` | ICM is an active member or participant in this body |
+| Field                    | Values                                                                                                                                                            |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `type`                   | `standard` `terminology` `framework` `platform` `repository` `infrastructure` `facility` `institute` `consortium` `initiative` `working-group` `policy` `biobank` |
+| `domain`                 | `neuroimaging` `electrophysiology` `clinical` `genomics` `multimodal` `bioimaging` `computational` `behavior` `health`                                            |
+| `scope`                  | `french` `european` `international`                                                                                                                               |
+| `tags: icm/uses`         | ICM operationally uses this standard, platform or tool                                                                                                            |
+| `tags: icm/participates` | ICM is an active member or participant in this body                                                                                                               |
 
 ---
 ## Contributing
@@ -47,4 +47,5 @@ In open science perhaps more than anywhere else, this quote by W.B. Yeats rings 
 
 ## TODO
 add https://dbgap.ncbi.nlm.nih.gov/home/ and clarify its requirement for human data (controlled access) 
+add link in IFB: https://www.ifb-elixir.fr/ifb-elixir-fr/nos-plateformes/dac/
 Groupement d'Intérêt Scientifique IFB (It's a kind of structure like UMR, UAR, GDR...)

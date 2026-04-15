@@ -67,7 +67,7 @@ https://rndunit.institutducerveau.org — Custom scientific instrumentation desi
 
 ## Networks and Consortia
 - [[Actors/INCF\|INCF]] - via [[Governance/CNRS Open Science\|CNRS Open Science]] French national node
-- [[Actors/ENIGMA Consortium\|ENIGMA Consortium]]
+- [[Actors/ENIGMA Consortium\|ENIGMA Consortium]] — ENIGMA-MDD, ENIGMA-STB, ENIGMA-TS working group participation (Baptiste Couvy-Duchesne; Worbe / Hartmann group)
 - [[Governance/France Life Imaging\|France Life Imaging]] - via [[Governance/CATI\|CATI]]
 - [[Platforms/EBRAINS\|EBRAINS]]
 - [[Governance/ECRIN\|ECRIN]] - via [[Governance/AP-HP\|AP-HP]] / [[Governance/CIC Neurosciences\|CIC Neurosciences]]
@@ -98,3 +98,5 @@ See the MOC Paris Peer Institutions section for a full list. Key co-located part
 - https://scicrunch.org/resolver/SCR_026393 (RRID:SCR_026393 — ICM Quant)
 - https://scicrunch.org/resolver/SCR_026412 (RRID:SCR_026412 — ePHYS)
 - https://scicrunch.org/resolver/SCR_026394 (RRID:SCR_026394 — PRISME)
+- https://scicrunch.org/resolver/SCR_028275 (RRID:SCR_028275 — HISTOMICS)
+- https://scicrunch.org/resolver/SCR_028048 (RRID:SCR_028048 — ICV)

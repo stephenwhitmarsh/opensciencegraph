@@ -42,7 +42,7 @@ BICAN provides foundational reference data for:
 - Parent programme: [[Actors/NIH BRAIN Initiative\|NIH BRAIN Initiative]]
 - Data archives: NeMO Archive, DANDI ([[Standards/NWB\|NWB]]), BIL, AWS Open Data
 - Standards: [[Standards/NWB\|NWB]], [[Standards/BIDS\|BIDS]], [[Standards/UBERON\|UBERON]], Cell Ontology, [[Actors/GA4GH\|GA4GH]]
-- Annotation: [[Standards/GO\|GO]] (gene function), [[Standards/HPO\|HPO]] (human disease variants)
+- Annotation: [[Standards/GO\|GO]] (gene function)
 - Related: Allen Institute for Brain Science ([[Actors/Allen Institute for Brain Science\|Allen Institute for Brain Science]]) (predecessor atlases), Human Cell Atlas
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (reference cell atlas for disease studies)
 

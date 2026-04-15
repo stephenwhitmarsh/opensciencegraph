@@ -41,7 +41,7 @@ ORCID France is coordinated by INIST-CNRS (under [[Governance/CNRS Open Science\
 - Metadata standard alignment: [[Governance/DataCite\|DataCite]], [[Standards/DCAT\|DCAT]], [[Standards/Dublin Core\|Dublin Core]]
 - Complements: ROR (institution identifiers), [[Governance/DataCite\|DataCite]] DOI (output identifiers)
 - French coordination: INIST-CNRS / Couperin (under [[Governance/CNRS Open Science\|CNRS Open Science]])
-- Participates in: [[Governance/RDA\|RDA]], [[Governance/FORCE11\|FORCE11]], [[Governance/EOSC\|EOSC]]
+- Participates in: [[Governance/RDA\|RDA]], [[FORCE11\|FORCE11]], [[Governance/EOSC\|EOSC]]
 
 ## Resources
 

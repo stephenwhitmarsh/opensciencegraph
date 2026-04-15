@@ -79,7 +79,6 @@ This index covers all governance bodies, national and European research infrastr
 
 - [[Governance/ARDC\|ARDC]] — Australian Research Data Commons; national FAIR/RDM infrastructure; [[Governance/EOSC\|EOSC]] counterpart; [[Governance/RDA\|RDA]] partner
 - [[Governance/FAIR Principles\|FAIR Principles]] — 15 Findable/Accessible/Interoperable/Reusable principles (Wilkinson et al. 2016)
-- [[Governance/FORCE11\|FORCE11]] — co-authored [[Governance/FAIR Principles\|FAIR Principles]]; scholarly communications reform
 - [[Governance/GFRN\|GFRN]] — Global Federation of Reproducibility Networks; includes French RFRR network
 - [[Governance/GO FAIR\|GO FAIR]] — international initiative for [[Governance/FAIR Principles\|FAIR]] implementation; Three-Point FAIRification Framework
 - [[Governance/HDR UK\|HDR UK]] — Health Data Research UK; UK national health data science institute; [[Governance/FAIR Principles\|FAIR]]; [[Standards/OMOP CDM\|OMOP CDM]]; [[Standards/HL7 FHIR\|HL7 FHIR]]; [[Governance/CURE-ND\|CURE-ND]] AI/ML workshop participant
@@ -98,6 +97,7 @@ This index covers all governance bodies, national and European research infrastr
 - [[Governance/INCF Working Groups\|INCF Working Groups]] — [[Actors/INCF\|INCF]] task forces producing [[Standards/BIDS\|BIDS]], [[Standards/NWB\|NWB]], [[Standards/HED\|HED]], [[Standards/NIDM\|NIDM]], [[Standards/NeuroML\|NeuroML]]
 - [[Governance/NIF\|NIF]] — Neuroscience Information Framework; RRID identifiers for research resources; repository registry
 - [[Governance/NWB Working Group\|NWB Working Group]] — governs [[Standards/NWB\|NWB]] specification and NDX extensions (under [[Actors/INCF\|INCF]])
+- [[Governance/OBO Foundry\|OBO Foundry]] — Open Biological and Biomedical Ontology Foundry; governing consortium for interoperable biomedical ontologies ([[Standards/GO\|GO]], [[Standards/HPO\|HPO]], [[Standards/UBERON\|UBERON]], [[Standards/MONDO\|MONDO]], [[Standards/ORDO\|ORDO]], [[Actors/OBI\|OBI]], [[Standards/Cell Ontology\|Cell Ontology]])
 - [[Governance/OHBM Open Science SIG\|OHBM Open Science SIG]] — promotes open science within OHBM; organises Brainhack
 - [[Governance/QUAREP-LiMi\|QUAREP-LiMi]] — Quality Assessment and Reproducibility for light microscopy; 590+ members; ISO standards
 - [[Governance/RDA Neuroscience IG\|RDA Neuroscience IG]] — bridges [[Governance/RDA\|RDA]] data management community with neuroscience standards

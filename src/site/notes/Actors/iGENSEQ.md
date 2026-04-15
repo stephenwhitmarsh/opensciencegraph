@@ -31,7 +31,7 @@ iGENSEQ is [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s next-genera
 - Computing: [[Governance/IFB\|IFB]] (NNCR / [[Governance/MUDIS4LS\|MUDIS4LS]] — planned for future use)
 - Data deposit (open): [[Platforms/NCBI GEO\|NCBI GEO]], [[Platforms/EVA\|EVA]]
 - Data deposit (controlled): [[Platforms/EGA\|EGA]], [[Platforms/dbGaP\|dbGaP]]
-- Standards: [[Standards/VCF\|VCF]], [[Standards/SAM-BAM-CRAM\|SAM-BAM-CRAM]], [[Actors/GA4GH\|GA4GH]], [[Standards/GO\|GO]], [[Standards/HPO\|HPO]]
+- Standards: [[Standards/VCF\|VCF]], [[Standards/FASTQ\|FASTQ]], [[Standards/SAM-BAM-CRAM\|SAM-BAM-CRAM]], [[Actors/GA4GH\|GA4GH]], [[Standards/GO\|GO]], [[Standards/HPO\|HPO]]
 - French policy: [[Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[Governance/Ouvrir la Science\|Ouvrir la Science]]
 
 ## Resources

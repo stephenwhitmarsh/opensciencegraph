@@ -19,7 +19,7 @@ RDA builds social and technical infrastructure for open data sharing through com
 
 ## Connections
 - Implements: [[Governance/FAIR Principles\|FAIR Principles]]
-- Partners: [[Governance/GO FAIR\|GO FAIR]], [[Governance/FORCE11\|FORCE11]], [[Governance/EOSC\|EOSC]], [[Governance/OpenAIRE\|OpenAIRE]], [[Actors/INCF\|INCF]]
+- Partners: [[Governance/GO FAIR\|GO FAIR]], [[FORCE11\|FORCE11]], [[Governance/EOSC\|EOSC]], [[Governance/OpenAIRE\|OpenAIRE]], [[Actors/INCF\|INCF]]
 - French node: [[Governance/CNRS Open Science\|CNRS Open Science]]
 
 ## Resources

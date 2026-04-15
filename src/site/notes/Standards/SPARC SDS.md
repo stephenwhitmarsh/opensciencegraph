@@ -37,7 +37,7 @@ SDS and [[Standards/BIDS\|BIDS]] are complementary standards addressing differen
 Convergence efforts are underway to harmonise BIDS and SDS metadata schemas for studies that span central and peripheral nervous systems.
 
 ## Relevance to Paris Brain Institute
-SDS/SPARC is relevant to [[Actors/Paris Brain Institute\|Paris Brain Institute]] through peripheral nervous system research programmes (autonomic neurology, enteric nervous system), electrophysiology data from ePHYS platform that includes peripheral nerve recordings, and cross-domain studies combining CNS ([[Standards/BIDS\|BIDS]]) and PNS (SDS) data.
+SDS/SPARC is relevant to [[Actors/Paris Brain Institute\|Paris Brain Institute]] through peripheral nervous system research programmes (autonomic neurology, enteric nervous system) and cross-domain studies combining CNS ([[Standards/BIDS\|BIDS]]) and PNS (SDS) data. The ePHYS platform primarily covers CNS electrophysiology; peripheral nerve recording applications would be a potential future use case.
 
 ## Connections
 - Analogous to: [[Standards/BIDS\|BIDS]] (CNS equivalent)

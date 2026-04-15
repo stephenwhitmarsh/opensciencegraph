@@ -79,7 +79,7 @@ BAM/CRAM files are the primary submission format for controlled-access human gen
 
 ## Connections
 - Governed by: [[Actors/GA4GH\|GA4GH]] (hts-specs)
-- Upstream format: FASTQ (raw reads from sequencer)
+- Upstream format: [[Standards/FASTQ\|FASTQ]] (raw reads from sequencer)
 - Downstream formats: [[Standards/VCF\|VCF]] (variant calling), [[Standards/AnnData\|AnnData]] (expression quantification)
 - Deposited in: [[Platforms/EGA\|EGA]], [[Platforms/dbGaP\|dbGaP]], [[Platforms/NCBI GEO\|NCBI GEO]] / SRA, [[Platforms/EVA\|EVA]] (via ENA)
 - Encryption: Crypt4GH ([[Actors/GA4GH\|GA4GH]] standard for controlled-access submissions)

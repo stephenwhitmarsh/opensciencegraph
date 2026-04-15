@@ -19,7 +19,7 @@ For [[Actors/Paris Brain Institute\|Paris Brain Institute]], OBI is relevant for
 - `OBI:0000299` — datum (a piece of data)
 
 ## Connections
-- Part of: OBO Foundry (with [[Standards/HPO\|HPO]], [[Standards/UBERON\|UBERON]], [[Standards/MONDO\|MONDO]], [[Standards/ORDO\|ORDO]])
+- Part of: [[Governance/OBO Foundry\|OBO Foundry]] (with [[Standards/HPO\|HPO]], [[Standards/UBERON\|UBERON]], [[Standards/MONDO\|MONDO]], [[Standards/ORDO\|ORDO]])
 - Integrates with: [[Standards/BIDS\|BIDS]] (protocol metadata extensions)
 - Complements: [[Standards/Cognitive Atlas\|Cognitive Atlas]] (cognitive tasks), [[Standards/UBERON\|UBERON]] (anatomy)
 - Used in: biobank metadata ([[Governance/BBMRI-ERIC\|BBMRI-ERIC]]), [[Governance/FAIR Principles\|FAIR Principles]] R1.3 compliance

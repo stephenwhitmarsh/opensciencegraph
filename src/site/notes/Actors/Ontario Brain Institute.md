@@ -42,7 +42,7 @@ Brain-CODE was designed with Privacy-by-Design principles, including advanced Pr
 - Canadian federation: [[Actors/CONP\|CONP]] (founding sponsor; all data releases registered)
 - Platform integration: [[Platforms/LORIS\|LORIS]] (federated data exchange), [[Platforms/XNAT\|XNAT]] (integrated)
 - Open science: [[Governance/FAIR Principles\|FAIR Principles]], [[Standards/BIDS\|BIDS]] (neuroimaging data)
-- International: [[Platforms/EBRAINS\|EBRAINS]] (CONP developing interoperability), [[Platforms/OpenNeuro\|OpenNeuro]]
+- International: [[Platforms/OpenNeuro\|OpenNeuro]] (CONP developing interoperability)
 - Canadian context: Brain Canada (funder of CONP), Rotman Research Institute
 
 ## Resources

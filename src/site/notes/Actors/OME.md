@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/actors/ome/","dg-note-properties":{"name":"Open Microscopy Environment","aliases":["OME","OME Consortium"],"website":"https://www.openmicroscopy.org","type":"consortium","scope":"international","domain":["bioimaging"],"status":"active","founded":2001,"parent_org":"University of Dundee / German BioImaging (coordinating)"}}
+{"dg-publish":true,"permalink":"/actors/ome/","dg-note-properties":{"name":"Open Microscopy Environment","aliases":["OME","OME Consortium"],"website":"https://www.openmicroscopy.org","type":"consortium","scope":"international","domain":["bioimaging"],"status":"active","founded":2001,"parent_org":"University of Dundee (core development team)"}}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/standards/cognitive-atlas/","tags":["icm/uses"],"dg-note-properties":{"name":"Cognitive Atlas","aliases":["Cognitive Atlas ontology"],"website":"https://www.cognitiveatlas.org","type":"terminology","scope":"international","domain":["neuroimaging","behavior"],"status":"active","founded":2011,"parent_org":"Poldrack Lab / Stanford University","tags":["icm/uses"]}}
+{"dg-publish":true,"permalink":"/standards/cognitive-atlas/","dg-note-properties":{"name":"Cognitive Atlas","aliases":["Cognitive Atlas ontology"],"website":"https://www.cognitiveatlas.org","type":"terminology","scope":"international","domain":["neuroimaging","behavior"],"status":"active","founded":2011,"parent_org":"Poldrack Lab / Stanford University","tags":null}}
 ---
 
 
@@ -22,7 +22,7 @@ The ontology has two main branches:
 ## Connections
 - Used with: [[Standards/BIDS\|BIDS]] (task annotation), [[Platforms/NeuroVault\|NeuroVault]] (required annotation), [[Platforms/OpenNeuro\|OpenNeuro]] (fMRI datasets)
 - Complements: [[Standards/HED\|HED]] (event-level annotation), [[Standards/UBERON\|UBERON]] (brain region annotation)
-- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (fMRI studies, cognitive neuroscience)
+- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (fMRI studies and BIDS dataset annotation where Cognitive Atlas task terms are used)
 
 ## Resources
 - https://www.cognitiveatlas.org

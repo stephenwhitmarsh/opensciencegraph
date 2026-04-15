@@ -32,7 +32,7 @@ The programme explicitly adopts **open data principles**: all datasets are publi
 
 ## Connections
 - Funded by: AMED (Japan Agency for Medical Research and Development)
-- Standards: [[Standards/BIDS\|BIDS]], [[Standards/NWB\|NWB]], [[Actors/INCF\|INCF]] (Japan node)
+- Standards: [[Standards/BIDS\|BIDS]], [[Actors/INCF\|INCF]] (Japan node)
 - Data sharing: [[Platforms/OpenNeuro\|OpenNeuro]] (SRPBS dataset confirmed); [[Platforms/DANDI Archive\|DANDI Archive]] (potential future electrophysiology; not yet confirmed as active Brain/MINDS deposit point)
 - Lead institutions: RIKEN Center for Brain Science, Kyoto University, ATR, University of Tokyo
 - International alignment: [[Actors/Human Connectome Project\|Human Connectome Project]] (comparable human imaging goals), [[Platforms/EBRAINS\|EBRAINS]] (European brain atlas counterpart), [[Actors/NIH BRAIN Initiative\|NIH BRAIN Initiative]] (US counterpart)

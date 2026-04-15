@@ -37,7 +37,7 @@ The locations where a gene product is active. Examples: synapse, mitochondrion, 
 - Hosted at: EBI (QuickGO browser), Gene Ontology Consortium (AmiGO browser)
 - Used by: [[Governance/IFB\|IFB]] (bioinformatics pipelines), [[Actors/iGENSEQ\|iGENSEQ]] (RNA-seq analysis)
 - Complements: [[Standards/HPO\|HPO]] (phenotype), [[Standards/MONDO\|MONDO]] (disease), [[Standards/ChEBI\|ChEBI]] (chemical entities)
-- Part of: OBO Foundry (https://obofoundry.org)
+- Part of: [[Governance/OBO Foundry\|OBO Foundry]] (https://obofoundry.org)
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (neurogenomics, transcriptomics)
 
 ## Resources

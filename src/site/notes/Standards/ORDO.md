@@ -37,7 +37,7 @@ ORDO organises rare diseases using ORPHA codes (e.g. ORPHA:411 for Parkinson's d
 - Complements: [[Standards/HPO\|HPO]] (phenotype description alongside ORPHA disease codes)
 - Integrated in: [[Governance/Health Data Hub\|Health Data Hub]] (rare disease), [[Governance/BBMRI-ERIC\|BBMRI-ERIC]] (biobank coding)
 - French parent: INSERM (→ [[Governance/Inserm Open Science\|Inserm Open Science]])
-- Part of: OBO Foundry ecosystem
+- Part of: [[Governance/OBO Foundry\|OBO Foundry]] ecosystem
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (rare neurological disease research, CRMR)
 
 ## Resources

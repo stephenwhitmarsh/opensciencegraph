@@ -15,7 +15,7 @@ CONP is the Canadian infrastructure for open neuroscience data sharing, providin
 
 ## Connections
 - Standards: [[Standards/BIDS\|BIDS]], DataLad
-- Platforms: [[Platforms/OpenNeuro\|OpenNeuro]], [[Platforms/LORIS\|LORIS]], [[Platforms/OSF\|OSF]]
+- Platforms: [[Platforms/OpenNeuro\|OpenNeuro]], [[Platforms/LORIS\|LORIS]]
 - Partners: [[Actors/INCF\|INCF]], [[Actors/ReproNim\|ReproNim]], [[Actors/TOSI\|TOSI]]
 
 ## Resources

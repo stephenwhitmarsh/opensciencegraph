@@ -66,7 +66,7 @@ The DAC is ICM's primary interface with the French and European open science inf
 - DMP tools: [[Governance/OPIDoR\|OPIDoR]]
 - Affiliated to: Sorbonne Université Omics network (Réseau Omique)
 - Upstream platforms: [[Actors/iGENSEQ\|iGENSEQ]] (omics data production), [[Actors/CENIR\|CENIR]] (neuroimaging)
-- Standards: [[Standards/VCF\|VCF]], [[Governance/FAIR Principles\|FAIR Principles]], [[Standards/BIDS\|BIDS]]
+- Standards: [[Standards/VCF\|VCF]], [[Governance/FAIR Principles\|FAIR Principles]], [[Standards/BIDS\|BIDS]], [[Standards/FASTQ\|FASTQ]]
 - Policy: [[Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[Governance/Ouvrir la Science\|Ouvrir la Science]]
 
 ## Resources

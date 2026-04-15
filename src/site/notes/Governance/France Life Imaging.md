@@ -1,31 +1,37 @@
 ---
-{"dg-publish":true,"permalink":"/governance/france-life-imaging/","tags":["icm/participates"],"dg-note-properties":{"name":"France Life Imaging","aliases":["FLI"],"website":"https://www.francelifeimaging.fr","type":"infrastructure","scope":"french","domain":["neuroimaging","multimodal"],"status":"active","founded":2012,"parent_org":"Investissements d'Avenir PIA / ANR","tags":["icm/participates"]}}
+{"dg-publish":true,"permalink":"/governance/france-life-imaging/","tags":["icm/participates"],"dg-note-properties":{"name":"France Life Imaging","aliases":["FLI"],"website":"https://www.francelifeimaging.fr","type":"infrastructure","scope":"french","domain":["neuroimaging","multimodal"],"status":"active","founded":2012,"parent_org":"Investissements d'Avenir PIA / ANR (coordinated by CEA)","tags":["icm/participates"]}}
 ---
 
 
 # France Life Imaging (FLI)
 
 ## Overview
-France Life Imaging is the French national research infrastructure for in vivo biomedical imaging, federating 15+ imaging platforms across France covering MRI (preclinical and clinical), PET, optical imaging, ultrasound, and multimodal preclinical imaging. Founded in 2012 under the Investissements d'Avenir programme (PIA), it provides open access to state-of-the-art in vivo imaging platforms for academic and industrial researchers. Its neuroimaging data management is coordinated through [[Governance/CATI\|CATI]] (Centre d'Acquisition et de Traitement
-des Images), hosted at [[Actors/Paris Brain Institute\|Paris Brain Institute]], which serves as the data management and harmonisation node for FLI's multisite neuroimaging studies. FLI is the in vivo whole-body imaging counterpart to [[Governance/France BioImaging\|France BioImaging]] (cellular/subcellular scale imaging).
+France Life Imaging is the French national research infrastructure for in vivo biomedical imaging, federating regional imaging hubs across France covering MRI (preclinical and clinical), PET, optical imaging, ultrasound, and multimodal preclinical imaging. Founded in 2012 under the Investissements d'Avenir programme (PIA) and coordinated nationally by the **CEA** (Paris-Sud node), FLI provides open access to in vivo imaging platforms for academic and industrial researchers. It is the in vivo whole-body imaging counterpart to [[Governance/France BioImaging\|France BioImaging]] (cellular/subcellular scale imaging).
 
-## Key Platforms and Activities
-- 15+ imaging platforms covering preclinical and clinical MRI, PET, optical, ultrasound, and multimodal imaging
-- Harmonised MRI acquisition protocols across sites via [[Governance/CATI\|CATI]]
-- [[Standards/BIDS\|BIDS]] data organisation and [[Standards/NIfTI\|NIfTI]] conversion pipelines via CATI
-- Open access to infrastructure for multisite longitudinal studies (MEMENTO, INSIGHT-preAD, iShare cohorts managed through CATI/FLI)
-- Training in quantitative imaging methods and data management
+## Structure
+FLI is organised into **10 regional hubs** and **one transverse hub**:
+
+### Regional hubs
+- **Paris Centre** — platforms at Pitié-Salpêtrière, HEGP, Sainte-Anne, Cochin, Bichat-Beaujon; includes **[[Actors/CENIR\|CENIR]] (ICM)** and Institut de Myologie NMR lab
+- **Paris-Sud** — CEA NeuroSpin, SHFJ (Orsay/Saclay); CEA coordinates FLI nationally from this hub; includes [[Governance/CATI\|CATI]] (listed under CEA/Paris-Sud)
+- **Bordeaux, Grenoble, Lyon, Marseille, Rennes/Grand Ouest, Montpellier, Toulouse, Lorraine/Grand Est, Nord-Ouest** — regional imaging platforms
+
+### Transverse hub: IAM (Information Analysis and Management)
+The IAM hub is FLI's data management infrastructure, coordinated by **INRIA** (Rennes). It integrates four pre-existing national data management solutions: **CATI** (CEA/Paris-Sud), SHANOIR (INRIA/Rennes), MediBase (CNRS/Strasbourg), and Archimed (INSERM/Nancy), alongside image processing tools VIP, MedInria, and BrainVisa.
 
 ## Relevance to Paris Brain Institute
-FLI's neuroimaging infrastructure and [[Governance/CATI\|CATI]] data management node are both hosted at [[Actors/Paris Brain Institute\|Paris Brain Institute]], making FLI a core operational partner for ICM's multisite imaging research. ICM coordinates French neuroimaging harmonisation efforts through this FLI/CATI hub.
+[[Actors/CENIR\|CENIR]] (ICM's human neuroimaging centre) is a confirmed platform member of FLI's **Paris Centre hub**, listed on the FLI website under the Paris Centre node. [[Governance/CATI\|CATI]], while closely associated with ICM, is attributed within FLI to the **CEA/Paris-Sud** node rather than to Paris Brain Institute.
 
 ## Connections
-- Data management node: [[Governance/CATI\|CATI]] (hosted at [[Actors/Paris Brain Institute\|Paris Brain Institute]])
+- ICM platform member: [[Actors/CENIR\|CENIR]] (Paris Centre hub)
+- CATI within FLI: [[Governance/CATI\|CATI]] (listed under CEA/Paris-Sud node; IAM transverse hub)
+- Coordinated by: [[Actors/CEA\|CEA]] (national coordination from Paris-Sud node)
 - National counterpart: [[Governance/France BioImaging\|France BioImaging]] (cellular imaging)
-- European: [[Governance/Euro-BioImaging\|Euro-BioImaging]] (Med-Hub covers in vivo modalities), [[Platforms/EBRAINS\|EBRAINS]]
+- European: [[Governance/Euro-BioImaging\|Euro-BioImaging]] (Med-Hub covers in vivo modalities)
 - Standards: [[Standards/BIDS\|BIDS]], [[Standards/NIfTI\|NIfTI]], [[Standards/DICOM\|DICOM]]
 - Policy: [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[Governance/CNRS Open Science\|CNRS Open Science]]
-- Related: [[Actors/Paris Brain Institute\|Paris Brain Institute]], [[Actors/ADNI\|ADNI]], [[Actors/ENIGMA Consortium\|ENIGMA Consortium]]
 
 ## Resources
 - https://www.francelifeimaging.fr
+- https://www.francelifeimaging.fr/about/hubs/paris-centre/?lang=en (Paris Centre hub — includes CENIR/ICM)
+- https://www.francelifeimaging.fr/about/hubs/iam/?lang=en (IAM transverse data management hub)

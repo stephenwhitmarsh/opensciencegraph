@@ -20,7 +20,7 @@ The Allen Institute produces large-scale open-access neuroscience datasets and t
 ## Connections
 - Co-founded: [[Standards/NWB\|NWB]]
 - Data archived on: [[Platforms/DANDI Archive\|DANDI Archive]]
-- Partners: [[Actors/INCF\|INCF]], [[Platforms/EBRAINS\|EBRAINS]]
+- Partners: [[Actors/INCF\|INCF]]
 
 ## Resources
 - https://alleninstitute.org/division/brain-science/

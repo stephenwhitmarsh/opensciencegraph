@@ -1,12 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/standards/open-minds/","tags":["icm/uses"],"dg-note-properties":{"name":"Open Metadata Initiative for Neuroscience Data Structures","aliases":["openMINDS"],"website":"https://openminds.ebrains.eu","type":"framework","scope":"european","domain":["neuroimaging","multimodal"],"status":"active","founded":2020,"parent_org":"EBRAINS / Human Brain Project","tags":["icm/uses"],"icon":"https://openminds.ebrains.eu/favicon.ico"}}
+{"dg-publish":true,"permalink":"/standards/open-minds/","dg-note-properties":{"name":"Open Metadata Initiative for Neuroscience Data Structures","aliases":["openMINDS"],"website":"https://openminds.ebrains.eu","type":"framework","scope":"european","domain":["neuroimaging","multimodal"],"status":"active","founded":2020,"parent_org":"EBRAINS / Human Brain Project","tags":null,"icon":"https://openminds.ebrains.eu/favicon.ico"}}
 ---
 
 
 # openMINDS — Open Metadata Initiative for Neuroscience Data Structures
 
 ## Overview
-openMINDS is the metadata framework developed by [[Platforms/EBRAINS\|EBRAINS]] for describing neuroscience research products — datasets, models, software, and workflows — with rich, FAIR-compliant, machine-readable schemas. It is the metadata infrastructure that powers EBRAINS Data and Knowledge: every dataset, model, and software tool shared on the EBRAINS platform is described using openMINDS schemas. For [[Actors/Paris Brain Institute\|Paris Brain Institute]] as an EBRAINS member institution, openMINDS is the required metadata standard when depositing any data on the EBRAINS platform.
+openMINDS is the metadata framework developed by [[Platforms/EBRAINS\|EBRAINS]] for describing neuroscience research products — datasets, models, software, and workflows — with rich, FAIR-compliant, machine-readable schemas. It is the metadata infrastructure that powers EBRAINS Data and Knowledge: every dataset, model, and software tool shared on the EBRAINS platform is described using openMINDS schemas. Institutions depositing data on EBRAINS use openMINDS schemas as part of the curation process.
 
 ## Schema Collections
 openMINDS is organised into domain-specific schema collections:
@@ -27,7 +27,7 @@ openMINDS schemas are designed to fulfil the FAIR principles:
 - Required for: [[Platforms/EBRAINS\|EBRAINS]] data and model sharing
 - Uses: [[Standards/UBERON\|UBERON]] (brain region annotation), [[Standards/BIDS\|BIDS]] (dataset organisation), [[Standards/NWB\|NWB]] (electrophysiology data format)
 - Complements: [[Standards/REMBI\|REMBI]] (microscopy metadata), [[Standards/BIDS\|BIDS]] (neuroimaging organisation)
-- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (EBRAINS data deposit), [[Actors/Donders Institute\|Donders Institute]], [[Governance/Human Brain Project\|Human Brain Project]]
+- Relevant to: [[Platforms/EBRAINS\|EBRAINS]] member institutions, [[Actors/Donders Institute\|Donders Institute]], [[Governance/Human Brain Project\|Human Brain Project]]
 
 ## Resources
 - https://openminds.ebrains.eu

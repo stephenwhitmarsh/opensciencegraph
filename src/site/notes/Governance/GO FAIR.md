@@ -15,7 +15,7 @@ GO FAIR is a bottom-up stakeholder-driven initiative providing the Three-Point F
 
 ## Connections
 - Implements: [[Governance/FAIR Principles\|FAIR Principles]]
-- Partners: [[Governance/RDA\|RDA]], [[Governance/FORCE11\|FORCE11]], [[Governance/EOSC\|EOSC]], [[Governance/OpenAIRE\|OpenAIRE]], [[Governance/ELIXIR\|ELIXIR]], [[Actors/INCF\|INCF]]
+- Partners: [[Governance/RDA\|RDA]], [[FORCE11\|FORCE11]], [[Governance/EOSC\|EOSC]], [[Governance/OpenAIRE\|OpenAIRE]], [[Governance/ELIXIR\|ELIXIR]], [[Actors/INCF\|INCF]]
 - French node: [[Governance/CNRS Open Science\|CNRS Open Science]]
 
 ## Resources

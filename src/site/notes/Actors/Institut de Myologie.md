@@ -40,7 +40,6 @@ Applied and clinical research infrastructure comprising:
 - ERN: ERN-NMD (European Reference Network for Neuromuscular Diseases)
 - Phenotyping: [[Standards/HPO\|HPO]], [[Standards/ORDO\|ORDO]], [[Standards/MONDO\|MONDO]]
 - Clinical data: [[Standards/CDISC\|CDISC]], [[Standards/OMOP CDM\|OMOP CDM]] (clinical trial and registry data)
-- Standards: [[Standards/BIDS\|BIDS]] (neuroimaging at NMR lab), [[Standards/NWB\|NWB]] (electrophysiology)
 - French policy: [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]]
 
 ## Resources
