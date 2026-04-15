@@ -8,7 +8,7 @@
 ## Overview
 The German Centre for Neurodegenerative Diseases (DZNE) is Germany's national research centre for neurodegenerative diseases, member of the Helmholtz Association of German Research Centres. With sites across nine German cities (Bonn HQ, Berlin, Göttingen, Hamburg, Magdeburg, Munich, Rostock/Greifswald, Tübingen, Witten), DZNE investigates all aspects of neurodegeneration — from molecular mechanisms to epidemiology and clinical care. It is one of the most powerful European counterparts to [[Actors/Paris Brain Institute\|Paris Brain Institute]] in Alzheimer's, Parkinson's, and ALS research.
 
-DZNE is a **founding member** of the [[Governance/CURE-ND\|CURE-ND]] alliance alongside ICM.
+DZNE is a **founding member** of the [[Governance/CURE-ND\|CURE-ND]] alliance alongside [[Actors/Paris Brain Institute\|Paris Brain Institute]].
 
 ## Open Science Initiatives
 
