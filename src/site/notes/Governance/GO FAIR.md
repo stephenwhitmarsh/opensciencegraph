@@ -21,3 +21,4 @@ GO FAIR is a bottom-up stakeholder-driven initiative providing the Three-Point F
 ## Resources
 - https://www.go-fair.org
 
+*Consider removing as it seems inactive*

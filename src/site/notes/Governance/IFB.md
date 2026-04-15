@@ -6,7 +6,7 @@
 # IFB - Institut Français de Bioinformatique (ELIXIR-FR)
 
 ## Overview
-The Institut Français de Bioinformatique is the French national bioinformatics infrastructure and the French node of [[Governance/ELIXIR\|ELIXIR]] (ELIXIR-FR). Founded in 2012 under the Investissements d'Avenir programme, IFB federates 20+ bioinformatics platforms across France, providing computing resources, data management tools, training, and FAIR data support to the life sciences research community. For [[Actors/Paris Brain Institute\|Paris Brain Institute]], IFB is the primary French infrastructure for genomics and bioinformatics pipelines, DMP tools, and FAIR compliance support  particularly relevant for neurogenomics research, multi-omics integration, and compliance with [[Governance/ANR Open Science Policy\|ANR Open Science Policy]] and [[Governance/EHDS\|EHDS]] data mandates.
+The Institut Français de Bioinformatique is the French national bioinformatics infrastructure and the French node of [[Governance/ELIXIR\|ELIXIR]] (ELIXIR-FR). Founded in 2012 under the Investissements d'Avenir programme, IFB federates 20+ bioinformatics platforms across France, providing computing resources, data management tools, training, and FAIR data support to the life sciences research community. For [[Actors/Paris Brain Institute\|Paris Brain Institute]], IFB is the primary French infrastructure for genomics and bioinformatics pipelines, DMP tools, and FAIR compliance support  particularly relevant for neurogenomics research, multi-omics integration, and compliance with [[Governance/ANR Open Science Policy\|ANR Open Science Policy]] and [[Governance/EHDS\|EHDS]] data mandates. [[Actors/DAC\|DAC]] is member platform (https://www.ifb-elixir.fr/ifb-elixir-fr/nos-plateformes/dac/)
 
 ## Key Services and Tools
 
@@ -38,6 +38,7 @@ IFB is the operational life sciences bioinformatics node sitting between the pol
 - Partners: [[Governance/France BioImaging\|France BioImaging]], [[Governance/France Life Imaging\|France Life Imaging]], [[Actors/GA4GH\|GA4GH]] (genomics standards adoption)
 - Develops FAIR tools: FAIR-Checker (automated [[Governance/FAIR Principles\|FAIR Principles]] assessment), [[Governance/OPIDoR\|OPIDoR]] DMP tooling, usegalaxy.fr reproducible workflows
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (bioinformatics, genomics, DMP support, FAIR compliance)
+
 
 ## Resources
 - https://www.france-bioinformatique.fr

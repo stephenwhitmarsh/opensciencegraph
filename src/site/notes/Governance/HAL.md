@@ -12,12 +12,11 @@ HAL accepts preprints, postprints (author accepted manuscripts), and full-text p
 
 ## Institutional Portals
 HAL operates institutional portals for major French research organisations, each with their own branding and collection, while sharing the same underlying infrastructure:
+- **HAL-ICM** — https://hal.science/ICM (Paris Brain Institute ICM portal)
 - **HAL-CNRS** — https://hal.science/CNRS (CNRS institutional portal)
 - **HAL-Inserm** — https://hal.inserm.fr (Inserm institutional portal)
 - **HAL-Sorbonne Université** — https://hal.sorbonne-universite.fr
-- **HAL-ICM** — https://hal.science/ICM (Paris Brain Institute ICM portal)
 - **HAL-Pasteur** — https://hal.pasteur.fr (Institut Pasteur)
-- **HAL-AP-HP** — Assistance Publique Hôpitaux de Paris portal
 
 ## Open Access Mandates Driving HAL Deposits
 - **[[Governance/Ouvrir la Science\|Ouvrir la Science]]** — mandates open access to publications via HAL for all French publicly funded research (2018, updated 2021)
@@ -36,12 +35,10 @@ HAL is the publication layer of the French open science stack:
 ## Connections
 - Operated by: CCSD / CNRS
 - Implements: [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]]
-- Institutional users: [[Governance/CNRS Open Science\|CNRS Open Science]], [[Governance/Inserm Open Science\|Inserm Open Science]],
-  [[Actors/Paris Brain Institute\|Paris Brain Institute]], [[Actors/Institut Pasteur\|Institut Pasteur]], [[Governance/AP-HP\|AP-HP]]
+- Institutional users: [[Governance/CNRS Open Science\|CNRS Open Science]], [[Governance/Inserm Open Science\|Inserm Open Science]], [[Actors/Paris Brain Institute\|Paris Brain Institute]], [[Actors/Institut Pasteur\|Institut Pasteur]]
 - European integration: [[Governance/OpenAIRE\|OpenAIRE]] (HAL metadata harvested for EU OA compliance)
 - Part of: [[Governance/data.gouv.fr\|data.gouv.fr]] ecosystem (publications layer)
-- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (mandatory deposit for all ANR and
-  CNRS-funded publications; HAL-ICM portal)
+- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (mandatory deposit for all ANR and CNRS-funded publications; HAL-ICM portal)
 
 ## Resources
 - https://hal.science

@@ -46,6 +46,6 @@ In open science perhaps more than anywhere else, this quote by W.B. Yeats rings 
 > *There are no strangers here, just friends you haven't met yet*
 
 ## TODO
-add https://dbgap.ncbi.nlm.nih.gov/home/ and clarify its requirement for human data (controlled access) 
-add link in IFB: https://www.ifb-elixir.fr/ifb-elixir-fr/nos-plateformes/dac/
-Groupement d'Intérêt Scientifique IFB (It's a kind of structure like UMR, UAR, GDR...)
+add node for https://dbgap.ncbi.nlm.nih.gov/home/ and clarify its requirement for human data (controlled access) in [[Platforms/NCBI GEO\|NCBI GEO]]
+Remove [[Governance/GO FAIR\|GO FAIR]] - inactive
+Look for Groupement d'Intérêt Scientifique of IFB (It's a kind of structure like UMR, UAR, GDR...)
