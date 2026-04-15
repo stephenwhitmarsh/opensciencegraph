@@ -6,9 +6,9 @@
 
 # Map of Content
 
-This page maps the **open science** ecosystem for neuroscience: the frameworks, data standards, platforms, infrastructure and working groups that together make up the field. The aim is to make the landscape navigable by making explicit the dependencies and convergences between its many actors. The graph is anchored at the [Paris Brain Institute](https://icm-institute.org/) (ICM) and its French and European research infrastructure context, but extends outward to cover the broader international open neuroscience ecosystem and is open to further expansion.
+This page maps the **open science** ecosystem for neuroscience: the frameworks, data standards, platforms, infrastructure and working groups that together make up the field. The aim is to make the landscape navigable by making explicit the dependencies and convergences between its many actors. The graph is anchored at the [[Actors/Paris Brain Institute\|Paris Brain Institute]] and its French and European research infrastructure context, but extends outward to cover the broader international open neuroscience ecosystem and is open to further expansion.
 
-A few structural axes orient the graph: ICM sits within a set of French national infrastructures ([[Governance/France Life Imaging\|France Life Imaging]], [[Governance/France BioImaging\|France BioImaging]], [[Governance/IFB\|IFB]], [[Governance/NeurATRIS\|NeurATRIS]]) that connect upward to their European counterparts ([[Governance/Euro-BioImaging\|Euro-BioImaging]], [[Governance/ELIXIR\|ELIXIR]], [[Governance/EATRIS\|EATRIS]], [[Governance/EOSC\|EOSC]]). On the standards side, [[Standards/BIDS\|BIDS]] and [[Standards/NWB\|NWB]] form the spine of open neuroimaging and neurophysiology data, implemented across repositories such as [[Platforms/OpenNeuro\|OpenNeuro]], [[Platforms/DANDI Archive\|DANDI Archive]] and [[Platforms/EBRAINS\|EBRAINS]]. In the clinical domain, [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/HL7 FHIR\|HL7 FHIR]] and [[Standards/SNOMED CT\|SNOMED CT]] are the interoperability standards connecting [[Governance/AP-HP\|AP-HP]], the [[Governance/Health Data Hub\|Health Data Hub]] and the [[Governance/EHDS\|EHDS]].
+A few structural axes orient the graph: [[Actors/Paris Brain Institute\|Paris Brain Institute]] sits within a set of French national infrastructures ([[Governance/France Life Imaging\|France Life Imaging]], [[Governance/France BioImaging\|France BioImaging]], [[Governance/IFB\|IFB]], [[Governance/NeurATRIS\|NeurATRIS]]) that connect upward to their European counterparts ([[Governance/Euro-BioImaging\|Euro-BioImaging]], [[Governance/ELIXIR\|ELIXIR]], [[Governance/EATRIS\|EATRIS]], [[Governance/EOSC\|EOSC]]). On the standards side, [[Standards/BIDS\|BIDS]] and [[Standards/NWB\|NWB]] form the spine of open neuroimaging and neurophysiology data, implemented across repositories such as [[Platforms/OpenNeuro\|OpenNeuro]], [[Platforms/DANDI Archive\|DANDI Archive]] and [[Platforms/EBRAINS\|EBRAINS]]. In the clinical domain, [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/HL7 FHIR\|HL7 FHIR]] and [[Standards/SNOMED CT\|SNOMED CT]] are the interoperability standards connecting [[Governance/AP-HP\|AP-HP]], the [[Governance/Health Data Hub\|Health Data Hub]] and the [[Governance/EHDS\|EHDS]].
 
 
 ---
@@ -39,13 +39,7 @@ Every node uses a lean, non-redundant YAML frontmatter schema. The following fie
 ---
 ## Contributing
 
-The graph is built as an [Obsidian](https://obsidian.md/) vault and openly available in the [git repository](https://gitlab.com/icm-institute/dac/opensciencegraph). Contributions, corrections and suggestions are welcome — open an issue or pull request there, or [email me](mailto:stephen.whitmarsh@icm-institute.org) directly.
-
-In open science perhaps more than anywhere else, this quote by W.B. Yeats rings true:
+The graph is built as an [Obsidian](https://obsidian.md/) vault and openly available in the [git repository](https://gitlab.com/icm-institute/dac/opensciencegraph). Contributions, corrections and suggestions are welcome — open an issue or pull request there, or [email me](mailto:stephen.whitmarsh@icm-institute.org) directly. In open science perhaps more than anywhere else, this quote by W.B. Yeats rings true:
 
 > *There are no strangers here, just friends you haven't met yet*
 
-## TODO
-add node for https://dbgap.ncbi.nlm.nih.gov/home/ and clarify its requirement for human data (controlled access) in [[Platforms/NCBI GEO\|NCBI GEO]]
-Remove [[Governance/GO FAIR\|GO FAIR]] - inactive
-Look for Groupement d'Intérêt Scientifique of IFB (It's a kind of structure like UMR, UAR, GDR...)
