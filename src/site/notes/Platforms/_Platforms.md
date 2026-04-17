@@ -57,6 +57,7 @@ This index covers all data platforms, repositories, and data capture systems in 
 - [[Platforms/OSF\|OSF]] — Open Science Framework / Center for Open Science; pre-registration, data/code sharing, preprints
 - [[Platforms/Preprint Servers\|Preprint Servers]] — bioRxiv (life sciences) and medRxiv (clinical research); open access by default; DOI; ORCID
 - [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]] — national multidisciplinary research data repository; recommended by [[Governance/ANR Open Science Policy\|ANR]], [[Governance/CNRS Open Science\|CNRS]], [[Governance/Inserm Open Science\|Inserm]]
+- [[Platforms/Software Heritage\|Software Heritage]] — universal software source code archive; SWHIDs; French open science mandate for code deposit; [[Governance/HAL\|HAL]] integration
 - [[Platforms/Zenodo\|Zenodo]] — CERN/[[Governance/OpenAIRE\|OpenAIRE]] general-purpose repository; DOIs; recommended for EU-funded projects
 
 ---

@@ -53,7 +53,7 @@ This index covers all governance bodies, national and European research infrastr
 - [[Governance/HAL\|HAL]] — French national open access publication archive; mandatory deposit under [[Governance/ANR Open Science Policy\|ANR]], [[Governance/CNRS Open Science\|CNRS]], [[Governance/Inserm Open Science\|Inserm]] mandates
 - [[Governance/Huma-Num\|Huma-Num]] — French national digital humanities infrastructure; DARIAH and CLARIN French node
 - [[Governance/OPIDoR\|OPIDoR]] — DMP OPIDoR, Cat OPIDoR, DORANum, JurisDoR; national RDM tools suite
-- [[Governance/Software Heritage\|Software Heritage]] — universal software source code archive; French open science mandate for code deposit
+
 ## Research Identifiers and Open Publishing
 
 - [[Governance/cOAlition S\|cOAlition S]] — international funder consortium behind Plan S; mandates immediate open access for publicly funded research; ANR and ERC are members; Rights Retention Strategy; [[Platforms/Zenodo\|Zenodo]], [[Governance/HAL\|HAL]] and [[Governance/OpenAIRE\|OpenAIRE]] are compliant routes

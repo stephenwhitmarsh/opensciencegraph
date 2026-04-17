@@ -12,9 +12,9 @@ BICAN is the successor to the BRAIN Initiative Cell Census Network (BICCN), whic
 
 ## Key Outputs and Data
 BICAN data is deposited in multiple specialised archives:
-- **NeMO Archive** (https://nemoarchive.org) — primary BICAN multi-omics repository; single-cell and spatial genomics data
+- **[[Platforms/NeMO Archive\|NeMO Archive]]** (https://nemoarchive.org) — primary BICAN multi-omics repository; single-cell and spatial genomics data
 - **Brain Image Library (BIL)** — large-scale volumetric microscopy (cleared tissue, EM)
-- **DANDI Archive** — electrophysiology data in [[Standards/NWB\|NWB]] format
+- **[[Platforms/DANDI Archive\|DANDI Archive]]** — electrophysiology data in [[Standards/NWB\|NWB]] format
 - **AWS Open Data** — large-scale BICAN datasets via cloud access
 
 ## Scientific Scope
@@ -26,10 +26,10 @@ BICAN spans several complementary projects:
 - **Connectomics** — electron microscopy volumetric reconstructions at synaptic resolution
 
 ## Data Standards and Integration
-- Single-cell data: [[Standards/NWB\|NWB]] (electrophysiology), AnnData/h5ad (scRNA-seq)
+- Single-cell data: [[Standards/NWB\|NWB]] (electrophysiology), [[Standards/AnnData\|AnnData]]/h5ad (scRNA-seq)
 - Spatial data: [[Standards/BIDS\|BIDS]] Microscopy extension
-- Anatomical reference: Allen Brain Atlas / [[Standards/UBERON\|UBERON]] for brain region annotation
-- Cell type taxonomy: Cell Ontology (CL) — OBO Foundry
+- Anatomical reference: [[Actors/Allen Institute for Brain Science\|Allen Brain Atlas]] / [[Standards/UBERON\|UBERON]] for brain region annotation
+- Cell type taxonomy: [[Standards/Cell Ontology\|Cell Ontology]] (CL) — OBO Foundry
 - Multi-omics integration aligned with [[Actors/GA4GH\|GA4GH]] standards
 
 ## Relevance to Paris Brain Institute
@@ -40,10 +40,10 @@ BICAN provides foundational reference data for:
 
 ## Connections
 - Parent programme: [[Actors/NIH BRAIN Initiative\|NIH BRAIN Initiative]]
-- Data archives: NeMO Archive, DANDI ([[Standards/NWB\|NWB]]), BIL, AWS Open Data
-- Standards: [[Standards/NWB\|NWB]], [[Standards/BIDS\|BIDS]], [[Standards/UBERON\|UBERON]], Cell Ontology, [[Actors/GA4GH\|GA4GH]]
+- Data archives: [[Platforms/NeMO Archive\|NeMO Archive]], [[Platforms/DANDI Archive\|DANDI Archive]] ([[Standards/NWB\|NWB]]), BIL, AWS Open Data
+- Standards: [[Standards/NWB\|NWB]], [[Standards/BIDS\|BIDS]], [[Standards/UBERON\|UBERON]], [[Standards/Cell Ontology\|Cell Ontology]], [[Actors/GA4GH\|GA4GH]], [[Standards/AnnData\|AnnData]]
 - Annotation: [[Standards/GO\|GO]] (gene function)
-- Related: Allen Institute for Brain Science ([[Actors/Allen Institute for Brain Science\|Allen Institute for Brain Science]]) (predecessor atlases), Human Cell Atlas
+- Related: [[Actors/Allen Institute for Brain Science\|Allen Institute for Brain Science]] (predecessor atlases), Human Cell Atlas
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (reference cell atlas for disease studies)
 
 ## Resources
