@@ -20,7 +20,7 @@ The **SWHID** (Software Heritage persistent Identifier) is a content-addressed, 
 SWHIDs are computed from the content itself (like a cryptographic hash), meaning they are **independent of the hosting location** — the identifier stays valid even if the original repository is moved, deleted, or renamed. They can be cited in publications to permanently identify the exact version of software used.
 
 ## HAL-Software Heritage Integration
-Software Heritage is deeply integrated with [[Governance/HAL\|HAL]], France's national open access archive:
+Software Heritage is deeply integrated with [[Platforms/HAL\|HAL]], France's national open access archive:
 - HAL automatically archives source code referenced in software deposits
 - Researchers can deposit software via HAL and receive a HAL identifier + a SWHID for the archived code
 - This integration implements the **software citation** pillar of [[Governance/Ouvrir la Science\|Ouvrir la Science]]
@@ -33,7 +33,7 @@ Software Heritage enables the **FORCE11 Software Citation Principles** and
 
 ## Connections
 - Founded by: Inria + UNESCO
-- Integrated with: [[Governance/HAL\|HAL]] (French national software archive pathway)
+- Integrated with: [[Platforms/HAL\|HAL]] (French national software archive pathway)
 - Related deposit option: [[Platforms/Zenodo\|Zenodo]] (also accepts software with DOIs, but not as comprehensive in crawling as Software Heritage)
 - Implements: [[Governance/Ouvrir la Science\|Ouvrir la Science]] software pillar, FORCE11 Software Citation Principles
 - Standards: SWHID (persistent identifier), CITATION.cff, CodeMeta (metadata)

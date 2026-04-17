@@ -6,7 +6,7 @@
 # RRID — Research Resource Identifiers
 
 ## Overview
-RRIDs (Research Resource Identifiers) are persistent, unique identifiers for the reagents, tools, model organisms, software, and core facilities used in biomedical research. Developed by the **[[Governance/NIF\|NIF]]** (Neuroscience Information Framework) at UCSD and now coordinated through the SciCrunch Registry, RRIDs provide unambiguous citation of research resources in Methods sections — addressing the reproducibility crisis caused by ambiguous reagent descriptions in publications.
+RRIDs (Research Resource Identifiers) are persistent, unique identifiers for the reagents, tools, model organisms, software, and core facilities used in biomedical research. Developed by the **[[Platforms/NIF\|NIF]]** (Neuroscience Information Framework) at UCSD and now coordinated through the SciCrunch Registry, RRIDs provide unambiguous citation of research resources in Methods sections — addressing the reproducibility crisis caused by ambiguous reagent descriptions in publications.
 
 RRIDs are mandated by hundreds of journals including Nature, Science, Cell, eLife, and the major neuroscience journals. They resolve to curated records in the SciCrunch Registry (https://scicrunch.org).
 
@@ -21,8 +21,8 @@ Each resource type is managed by a dedicated authority database:
 | Software / tools / databases | `RRID:SCR_` | SciCrunch Registry |
 | Core facilities | `RRID:SCR_` | SciCrunch Registry / CoreMarketplace |
 
-## RRIDs for ICM Core Facilities
-All ICM platforms are registered in the SciCrunch Registry and should be cited using their RRID in publications that use their services:
+## RRIDs for [[Actors/Paris Brain Institute\|ICM]] Core Facilities
+All [[Actors/Paris Brain Institute\|ICM]] platforms are registered in the SciCrunch Registry and should be cited using their RRID in publications that use their services:
 
 | Platform | RRID | SciCrunch record |
 |---|---|---|
@@ -39,9 +39,9 @@ The standard citation format is the resource name followed by the RRID in parent
 > *"Data analysis was performed by the Paris Brain Institute Data Analysis Core Facility (RRID:SCR_026138)."*
 
 ## Connections
-- Produced by: [[Governance/NIF\|NIF]] (Neuroscience Information Framework / SciCrunch)
+- Produced by: [[Platforms/NIF\|NIF]] (Neuroscience Information Framework / SciCrunch)
 - Resolves via: SciCrunch Registry (https://scicrunch.org)
-- Complements: [[Governance/ORCID\|ORCID]] (researcher IDs), [[Standards/ROR\|ROR]] (organisation IDs), [[Governance/DataCite\|DataCite]] (output DOIs)
+- Complements: [[Platforms/ORCID\|ORCID]] (researcher IDs), [[Standards/ROR\|ROR]] (organisation IDs), [[Platforms/DataCite\|DataCite]] (output DOIs)
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]], [[Actors/DAC\|DAC]], [[Actors/CENIR\|CENIR]], [[Actors/iGENSEQ\|iGENSEQ]] (antibody/reagent citations in publications)
 
 ## Resources

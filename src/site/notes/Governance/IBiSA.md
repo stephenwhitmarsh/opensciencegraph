@@ -29,7 +29,7 @@ IBiSA carries out four main types of activity:
 ## Relationship to INBS
 All platforms within the [[Governance/INBS\|INBS]] ecosystem are typically IBiSA-labelled. IBiSA thus operates one level below the INBS tier: where INBS are the federated national infrastructures (e.g. [[Governance/France BioImaging\|France BioImaging]], [[Governance/France Life Imaging\|France Life Imaging]], [[Governance/IFB\|IFB]]), IBiSA is the body that individually labels and funds the constituent platforms that make up those infrastructures. This layered relationship means IBiSA's label is effectively the entry point into the national infrastructure system.
 
-## ICM-Labelled Platforms
+## [[Actors/Paris Brain Institute\|ICM]]-Labelled Platforms
 Two [[Actors/Paris Brain Institute\|Paris Brain Institute]] core platforms hold the IBiSA label:
 - **[[Actors/CENIR\|CENIR]]** — multimodal human neuroimaging (MRI, PET-MRI, MEG, EEG, TMS); IBiSA-labelled platform within [[Governance/France Life Imaging\|France Life Imaging]]
 - **[[Actors/iGENSEQ\|iGENSEQ]]** — next-generation sequencing; IBiSA-labelled platform for genomics
@@ -38,7 +38,7 @@ Two [[Actors/Paris Brain Institute\|Paris Brain Institute]] core platforms hold 
 - Type: GIS (Groupement d'Intérêt Scientifique)
 - Member institutions: CNRS, INSERM, INRAE, CEA, INRIA, INCa, France Universités, MESR
 - Umbrella: [[Governance/INBS\|INBS]] (coordinates between IBiSA-labelled platforms and the INBS tier)
-- Labelled ICM platforms: [[Actors/CENIR\|CENIR]], [[Actors/iGENSEQ\|iGENSEQ]]
+- Labelled [[Actors/Paris Brain Institute\|ICM]] platforms: [[Actors/CENIR\|CENIR]], [[Actors/iGENSEQ\|iGENSEQ]]
 - Related infrastructures: [[Governance/France BioImaging\|France BioImaging]], [[Governance/France Life Imaging\|France Life Imaging]], [[Governance/IFB\|IFB]]
 - Policy alignment: [[Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/CNRS Open Science\|CNRS Open Science]]
 

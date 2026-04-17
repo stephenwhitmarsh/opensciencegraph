@@ -20,9 +20,9 @@ DICOM defines **Service-Object Pair (SOP) Classes** for each imaging modality an
 
 | SOP Class | Description | ICM relevance |
 |---|---|---|
-| MR Image Storage | Structural/functional MRI | CENIR 3T MRI ×2 |
-| Enhanced MR Image | Multi-frame MRI (fMRI, diffusion) | CENIR fMRI/dMRI |
-| PET Image Storage | PET molecular imaging | CENIR PET-MRI |
+| MR Image Storage | Structural/functional MRI | [[Actors/Paris Brain Institute\|ICM]] CENIR 3T MRI ×2 |
+| Enhanced MR Image | Multi-frame MRI (fMRI, diffusion) | [[Actors/Paris Brain Institute\|ICM]] CENIR fMRI/dMRI |
+| PET Image Storage | PET molecular imaging | [[Actors/Paris Brain Institute\|ICM]] CENIR PET-MRI |
 | Secondary Capture | Screenshots, processed images | QC images |
 | CT Image Storage | Computed tomography | AP-HP clinical scans |
 | Digital X-Ray | Radiography | AP-HP |
@@ -40,7 +40,7 @@ Beyond file storage, DICOM defines network services for clinical workflow:
 - **WADO-RS** (Web Access to DICOM Objects) — modern RESTful image retrieval; used by [[Standards/HL7 FHIR\|HL7 FHIR]] ImagingStudy resource
 
 ## DICOM to Research Pipeline
-At [[Actors/CENIR\|CENIR]] and research sites managed by [[Governance/CATI\|CATI]], DICOM files are converted to research formats via standardised pipelines:
+At [[Actors/CENIR\|CENIR]] and research sites managed by [[Actors/CATI\|CATI]], DICOM files are converted to research formats via standardised pipelines:
 
 ```
 Scanner → DICOM (raw) → dcm2niix → NIfTI + JSON sidecar → BIDS
@@ -48,7 +48,7 @@ Scanner → DICOM (raw) → dcm2niix → NIfTI + JSON sidecar → BIDS
 ```
 
 Key tools:
-- **dcm2niix** — primary DICOM-to-NIfTI converter; produced by Chris Rorden (MRIcroGL); used by [[Governance/CATI\|CATI]] CATIconv pipeline and most BIDS converters
+- **dcm2niix** — primary DICOM-to-NIfTI converter; produced by Chris Rorden (MRIcroGL); used by [[Actors/CATI\|CATI]] CATIconv pipeline and most BIDS converters
 - **heudiconv** — flexible DICOM organiser for automated [[Standards/BIDS\|BIDS]] conversion; used in [[Actors/ReproNim\|ReproNim]] workflows
 - **Orthanc** — open-source DICOM server for local PACS and research DICOM management
 - **XNAT** ([[Platforms/XNAT\|XNAT]]) — imaging data management platform built on DICOM
@@ -58,7 +58,7 @@ DICOM SR allows machine-readable, coded clinical findings to be embedded directl
 
 ## Connections
 - Converted to: [[Standards/NIfTI\|NIfTI]] (via dcm2niix, heudiconv), then organised into [[Standards/BIDS\|BIDS]]
-- Used by: [[Governance/CATI\|CATI]] (CATIconv pipeline), [[Platforms/XNAT\|XNAT]], [[Platforms/LORIS\|LORIS]], [[Governance/AP-HP\|AP-HP]]
+- Used by: [[Actors/CATI\|CATI]] (CATIconv pipeline), [[Platforms/XNAT\|XNAT]], [[Platforms/LORIS\|LORIS]], [[Governance/AP-HP\|AP-HP]]
 - Compatible with: [[Standards/HL7 FHIR\|HL7 FHIR]] (ImagingStudy and DiagnosticReport resources)
 - Tools: dcm2niix, heudiconv, Orthanc, [[Platforms/XNAT\|XNAT]]
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (all CENIR acquisitions; primary source format for all MRI, PET-MRI, and MEG-linked MRI data)

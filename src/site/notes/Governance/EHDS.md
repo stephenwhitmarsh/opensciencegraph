@@ -39,11 +39,11 @@ Enables researchers, innovators, and policymakers to apply for access to anonymi
 
 ## Connections
 - Part of: [[Governance/EOSC\|EOSC]] ecosystem; EU Data Strategy (alongside Data Governance Act, Data Act)
-- Complements: [[Governance/Health Data Hub\|Health Data Hub]] (French national implementation node)
+- Complements: [[Platforms/Health Data Hub\|Health Data Hub]] (French national implementation node)
 - Standards required: [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/SNOMED CT\|SNOMED CT]]
 - Relevant infrastructure: [[Governance/BBMRI-ERIC\|BBMRI-ERIC]] (biobank data), [[Governance/ECRIN\|ECRIN]] (clinical trial data), [[Governance/ELIXIR\|ELIXIR]] (life science data)
 - Direct relevance: [[Actors/Paris Brain Institute\|Paris Brain Institute]], [[Governance/AP-HP\|AP-HP]] (as data holders and potential data users under the EHDS secondary use framework)
-- French alignment: [[Governance/Health Data Hub\|Health Data Hub]] (national HDAB candidate), [[Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[Governance/Ouvrir la Science\|Ouvrir la Science]]
+- French alignment: [[Platforms/Health Data Hub\|Health Data Hub]] (national HDAB candidate), [[Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[Governance/Ouvrir la Science\|Ouvrir la Science]]
 
 ## Resources
 - https://health.ec.europa.eu/ehealth-digital-health-and-care/european-health-data-space-regulation-ehds_en

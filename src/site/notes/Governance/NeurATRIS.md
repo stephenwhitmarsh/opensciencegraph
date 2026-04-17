@@ -11,13 +11,13 @@ NeurATRIS (Infrastructure de Recherche Translationnelle pour les Biothérapies e
 NeurATRIS is the **French component of [[Governance/EATRIS\|EATRIS]]-ERIC** and uniquely the only EATRIS infrastructure offering a structured, specialised offer in neuroscience and neurology. It is organised as a distributed one-stop network of 7 hospitals and public research institutes in the Paris region, providing seamless access to
 the full continuum of translational research from in vitro models to Phase II clinical trials.
 
-[[Actors/Paris Brain Institute\|Paris Brain Institute]] (Hôpital Pitié-Salpêtrière) is one of NeurATRIS's core member nodes, alongside CEA Paris-Saclay (MIRCen and SHFJ), making ICM a direct participant in the NeurATRIS offer.
+[[Actors/Paris Brain Institute\|Paris Brain Institute]] (Hôpital Pitié-Salpêtrière) is one of NeurATRIS's core member nodes, alongside CEA Paris-Saclay (MIRCen and SHFJ), making [[Actors/Paris Brain Institute\|ICM]] a direct participant in the NeurATRIS offer.
 
 ## Member Nodes
 NeurATRIS federates 7 hospitals and public research institutes:
 - **CEA Paris-Saclay — MIRCen** (Fontenay-aux-Roses) — preclinical primate models, AAV gene therapy, PET imaging
 - **CEA Paris-Saclay — SHFJ** (Orsay) — radiopharmaceuticals, PET tracers, pharmacokinetics
-- **Hôpital Pitié-Salpêtrière — ICM** — [[Actors/CENIR\|CENIR]] neuroimaging (3T MRI, PET-MRI, MEG), clinical neurology, [[Governance/CATI\|CATI]] data management, [[Governance/CIC Neurosciences\|CIC Neurosciences]] (Phase I/II trials)
+- **Hôpital Pitié-Salpêtrière — [[Actors/Paris Brain Institute\|ICM]]** — [[Actors/CENIR\|CENIR]] neuroimaging (3T MRI, PET-MRI, MEG), clinical neurology, [[Actors/CATI\|CATI]] data management, [[Actors/CIC Neurosciences\|CIC Neurosciences]] (Phase I/II trials)
 - **Institut de Myologie / IHU-A-ICM** — neuromuscular disease, biotherapy
 - **Hôpital Henri Mondor** — psychiatry, neurodevelopmental disorders
 - **Hôpital Bicêtre** — gene therapy, rare neurological diseases
@@ -34,7 +34,7 @@ NeurATRIS provides a one-stop access model for academic and industrial researche
 
 ### Clinical Services
 - Phase I/II clinical trials in neurological diseases
-- Clinical neuroimaging (3T MRI, PET-MRI, MEG) at CENIR/ICM
+- Clinical neuroimaging (3T MRI, PET-MRI, MEG) at CENIR/[[Actors/Paris Brain Institute\|ICM]]
 - Pharmacokinetics and pharmacodynamics studies
 - Outcome measure development (NeuPEL, Institut de Myologie)
 

@@ -12,19 +12,19 @@ France Life Imaging is the French national research infrastructure for in vivo b
 FLI is organised into **10 regional hubs** and **one transverse hub**:
 
 ### Regional hubs
-- **Paris Centre** — platforms at Pitié-Salpêtrière, HEGP, Sainte-Anne, Cochin, Bichat-Beaujon; includes **[[Actors/CENIR\|CENIR]] (ICM)** and Institut de Myologie NMR lab
-- **Paris-Sud** — CEA NeuroSpin, SHFJ (Orsay/Saclay); CEA coordinates FLI nationally from this hub; includes [[Governance/CATI\|CATI]] (listed under CEA/Paris-Sud)
+- **Paris Centre** — platforms at Pitié-Salpêtrière, HEGP, Sainte-Anne, Cochin, Bichat-Beaujon; includes **[[Actors/CENIR\|CENIR]] ([[Actors/Paris Brain Institute\|ICM]])** and Institut de Myologie NMR lab
+- **Paris-Sud** — CEA NeuroSpin, SHFJ (Orsay/Saclay); CEA coordinates FLI nationally from this hub; includes [[Actors/CATI\|CATI]] (listed under CEA/Paris-Sud)
 - **Bordeaux, Grenoble, Lyon, Marseille, Rennes/Grand Ouest, Montpellier, Toulouse, Lorraine/Grand Est, Nord-Ouest** — regional imaging platforms
 
 ### Transverse hub: IAM (Information Analysis and Management)
 The IAM hub is FLI's data management infrastructure, coordinated by **INRIA** (Rennes). It integrates four pre-existing national data management solutions: **CATI** (CEA/Paris-Sud), SHANOIR (INRIA/Rennes), MediBase (CNRS/Strasbourg), and Archimed (INSERM/Nancy), alongside image processing tools VIP, MedInria, and BrainVisa.
 
 ## Relevance to Paris Brain Institute
-[[Actors/CENIR\|CENIR]] (ICM's human neuroimaging centre) is a confirmed platform member of FLI's **Paris Centre hub**, listed on the FLI website under the Paris Centre node. [[Governance/CATI\|CATI]], while closely associated with ICM, is attributed within FLI to the **CEA/Paris-Sud** node rather than to Paris Brain Institute.
+[[Actors/CENIR\|CENIR]] ([[Actors/Paris Brain Institute\|ICM]]'s human neuroimaging centre) is a confirmed platform member of FLI's **Paris Centre hub**, listed on the FLI website under the Paris Centre node. [[Actors/CATI\|CATI]], while closely associated with [[Actors/Paris Brain Institute\|ICM]], is attributed within FLI to the **CEA/Paris-Sud** node rather than to Paris Brain Institute.
 
 ## Connections
 - ICM platform member: [[Actors/CENIR\|CENIR]] (Paris Centre hub)
-- CATI within FLI: [[Governance/CATI\|CATI]] (listed under CEA/Paris-Sud node; IAM transverse hub)
+- CATI within FLI: [[Actors/CATI\|CATI]] (listed under CEA/Paris-Sud node; IAM transverse hub)
 - Coordinated by: [[Actors/CEA\|CEA]] (national coordination from Paris-Sud node)
 - National counterpart: [[Governance/France BioImaging\|France BioImaging]] (cellular imaging)
 - European: [[Governance/Euro-BioImaging\|Euro-BioImaging]] (Med-Hub covers in vivo modalities)

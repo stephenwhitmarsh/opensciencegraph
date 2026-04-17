@@ -8,7 +8,7 @@
 ## Overview
 Neurobagel is an open-source ecosystem of tools for federated neuroscience cohort discovery across decentralised BIDS datasets. Developed at McGill University in collaboration with [[Actors/CONP\|CONP]] and [[Actors/ReproNim\|ReproNim]], it enables participant-level cohort search across multiple institutions simultaneously — without centralising data or requiring data transfer. Each participating institution deploys a local Neurobagel node; the federation API aggregates query results across all nodes while data files remain under local custody and governance.
 
-Neurobagel complements [[Platforms/OpenNeuro\|OpenNeuro]] (which centralises open datasets) by providing federated search across both open and restricted datasets, including controlled-access clinical cohorts that cannot be centralised. It is particularly relevant for multi-site clinical neuroimaging studies like those coordinated by [[Governance/CATI\|CATI]].
+Neurobagel complements [[Platforms/OpenNeuro\|OpenNeuro]] (which centralises open datasets) by providing federated search across both open and restricted datasets, including controlled-access clinical cohorts that cannot be centralised. It is particularly relevant for multi-site clinical neuroimaging studies like those coordinated by [[Actors/CATI\|CATI]].
 
 ## Architecture
 Neurobagel uses a **hub-and-spoke federated model**: each institution deploys a **Neurobagel node** (containerised, self-hosted) containing a knowledge graph of harmonised participant-level metadata; the **federation API** (federate.neurobagel.org) aggregates queries across all public nodes simultaneously; the **query tool** (query.neurobagel.org) provides a web interface for defining cohort criteria and retrieving matching participant lists.

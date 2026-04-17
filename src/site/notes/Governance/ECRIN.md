@@ -8,7 +8,7 @@
 ## Overview
 ECRIN (European Clinical Research Infrastructure Network) is a European research infrastructure that supports the conduct of multinational, non-commercial clinical trials and other clinical research studies across Europe. Established in 2004 and becoming an ERIC in 2013, ECRIN provides regulatory expertise, data management support, and a network of national partner organisations that facilitate the practical aspects of running clinical studies across multiple European countries — from regulatory submissions and ethics approvals to data collection and monitoring.
 
-For [[Actors/Paris Brain Institute\|Paris Brain Institute]], ECRIN is directly relevant through [[Governance/AP-HP\|AP-HP]] as the French national partner, and through ICM's participation in multinational neurological disease trials that require pan-European site coordination.
+For [[Actors/Paris Brain Institute\|Paris Brain Institute]], ECRIN is directly relevant through [[Governance/AP-HP\|AP-HP]] as the French national partner, and through [[Actors/Paris Brain Institute\|ICM]]'s participation in multinational neurological disease trials that require pan-European site coordination.
 
 ## What ECRIN Does
 
@@ -31,7 +31,7 @@ The French national partner is **F-CRIN** (French Clinical Research Infrastructu
 ECRIN is part of the ESFRI Health Research Infrastructure cluster with [[Governance/ELIXIR\|ELIXIR]], [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/EATRIS\|EATRIS]], and [[Governance/Euro-BioImaging\|Euro-BioImaging]].
 
 ## Connections
-- French partner: F-CRIN / [[Governance/AP-HP\|AP-HP]] / [[Governance/CIC Neurosciences\|CIC Neurosciences]] (Pitié-Salpêtrière)
+- French partner: F-CRIN / [[Governance/AP-HP\|AP-HP]] / [[Actors/CIC Neurosciences\|CIC Neurosciences]] (Pitié-Salpêtrière)
 - ESFRI cluster: [[Governance/ELIXIR\|ELIXIR]], [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/EATRIS\|EATRIS]], [[Governance/Euro-BioImaging\|Euro-BioImaging]]
 - Standards: [[Standards/CDISC\|CDISC]] (trial data), [[Standards/OMOP CDM\|OMOP CDM]] (observational), [[Standards/HL7 FHIR\|HL7 FHIR]]
 - Registry: [[Platforms/ClinicalTrials.gov\|ClinicalTrials.gov]], EudraCT / CTIS

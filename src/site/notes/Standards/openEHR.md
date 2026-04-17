@@ -21,7 +21,7 @@ The AP-HP ecosystem and French health informatics community use openEHR archetyp
 - Maps to: [[Standards/HL7 FHIR\|HL7 FHIR]] (bidirectional mapping supported)
 - Maps to: [[Standards/SNOMED CT\|SNOMED CT]] (archetypes use SNOMED CT terms)
 - Maps to: [[Standards/OMOP CDM\|OMOP CDM]] (ETL pipeline from openEHR to OMOP)
-- Relevant context: [[Governance/AP-HP\|AP-HP]] informatics ecosystem, [[Governance/Health Data Hub\|Health Data Hub]]
+- Relevant context: [[Governance/AP-HP\|AP-HP]] informatics ecosystem, [[Platforms/Health Data Hub\|Health Data Hub]]
 - Related standards: [[Standards/CDISC\|CDISC]] (clinical trials), [[Standards/OMOP CDM\|OMOP CDM]] (observational)
 
 ## Resources

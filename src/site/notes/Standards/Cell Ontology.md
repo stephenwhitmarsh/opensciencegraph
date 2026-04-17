@@ -8,7 +8,7 @@
 ## Overview
 The Cell Ontology (CL) is the OBO Foundry standard ontology for describing cell types across all organisms. It provides a controlled, hierarchically organised vocabulary of ~2,500 cell type terms covering the full range of cell types found in multicellular organisms — from broad categories (neuron, glial cell, immune cell) to highly specific subtypes (parvalbumin-positive interneuron, dopaminergic neuron of the substantia nigra pars compacta).
 
-With the explosion of single-cell RNA-sequencing ([[Actors/iGENSEQ\|iGENSEQ]]), spatial transcriptomics, and brain cell atlas projects ([[Actors/BICAN\|BICAN]], [[Governance/Human Brain Project\|Human Brain Project]]), CL has become critically important for annotating cell type identities in single-cell datasets — providing the controlled vocabulary that enables cross-study comparison, meta-analysis, and machine-readable cell type annotations.
+With the explosion of single-cell RNA-sequencing ([[Actors/iGENSEQ\|iGENSEQ]]), spatial transcriptomics, and brain cell atlas projects ([[Actors/BICAN\|BICAN]], [[Actors/Human Brain Project\|Human Brain Project]]), CL has become critically important for annotating cell type identities in single-cell datasets — providing the controlled vocabulary that enables cross-study comparison, meta-analysis, and machine-readable cell type annotations.
 
 ## Neuroscience-Relevant Cell Types
 CL contains a rich hierarchy of neural and glial cell types:
@@ -25,7 +25,7 @@ CL is the standard vocabulary for cell type annotation in single-cell data:
 - **AnnData** / h5ad files — CL terms stored in `.obs` metadata for cell type labels
 - **CELLxGENE** (CZI) — requires CL terms for all cell type annotations in the CELLxGENE Data Portal (largest single-cell human data collection)
 - **[[Actors/BICAN\|BICAN]]** cell atlas — uses CL for all annotated cell types in the mammalian brain atlas
-- **[[Governance/Human Brain Project\|Human Brain Project]]** — brain cell types in EBRAINS data linked to CL
+- **[[Actors/Human Brain Project\|Human Brain Project]]** — brain cell types in EBRAINS data linked to CL
 - **Allen Brain Cell Atlas** — cell types mapped to CL identifiers
 
 ## OBO Foundry Integration

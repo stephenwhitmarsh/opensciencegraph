@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/actors/embl/","dg-note-properties":{"name":"European Molecular Biology Laboratory","aliases":["EMBL","EMBL-EBI"],"website":"https://www.embl.org","type":"institute","scope":"european","domain":["genomics","bioimaging","multimodal"],"status":"active","founded":1974,"parent_org":"EMBL Member States (27 countries)"}}
+{"dg-publish":true,"permalink":"/actors/embl/","dg-note-properties":{"name":"European Molecular Biology Laboratory","aliases":["EMBL","EMBL-EBI","European Bioinformatics Institute","EBI"],"website":"https://www.embl.org","type":"institute","scope":"european","domain":["genomics","bioimaging","multimodal"],"status":"active","founded":1974,"parent_org":"EMBL Member States (27 countries)"}}
 ---
 
 
@@ -23,7 +23,7 @@ EMBL-EBI operates the core European data infrastructure for life sciences, inclu
 - **[[Platforms/EGA\|EGA]]** — European Genome-phenome Archive (controlled-access genomics)
 - **[[Platforms/EVA\|EVA]]** — European Variation Archive (open-access variant data)
 - **[[Platforms/IDR\|IDR]]** — Image Data Resource (reference microscopy/imaging datasets)
-- **ENA** — European Nucleotide Archive (INSDC partner; raw sequences)
+- **[[Platforms/ENA\|ENA]]** — European Nucleotide Archive (INSDC partner; raw sequences)
 - **UniProt** — protein sequence and function database
 - **ChEMBL** — bioactive molecules and drug data
 - **ArrayExpress** / **BioStudies** — functional genomics data
@@ -31,20 +31,19 @@ EMBL-EBI operates the core European data infrastructure for life sciences, inclu
 - **Ensembl** — genome browser and annotation (human, mouse, and others)
 - **PDBe** — Protein Data Bank in Europe (macromolecular structures)
 
-## Relevance to Neuroscience
-EMBL's direct relevance to [[Actors/Paris Brain Institute\|Paris Brain Institute]] includes:
+## Neuroscience Relevance
+EMBL's key contributions to neuroscience include:
 - **EMBL Grenoble** — structural biology resources at ESRF (French synchrotron), relevant to structural neuroscience and drug target characterisation
-- **EMBL-EBI databases** — EGA (genomics data deposition/access), EVA (variant data), IDR (microscopy data), ENA (sequencing data) are all primary deposition and access points for ICM research outputs
-- **EMBL Barcelona** — single-cell and tissue biology directly relevant to BICAN and neurological disease cell type characterisation
+- **EMBL-EBI databases** — [[Platforms/EGA\|EGA]] (genomics data deposition/access), [[Platforms/EVA\|EVA]] (variant data), [[Platforms/IDR\|IDR]] (microscopy data), [[Platforms/ENA\|ENA]] (sequencing data) are all primary deposition and access points for [[Actors/Paris Brain Institute\|ICM]] research outputs
+- **EMBL Barcelona** — single-cell and tissue biology directly relevant to [[Actors/BICAN\|BICAN]] and neurological disease cell type characterisation
 
 ## Connections
-- Operates: [[Platforms/EGA\|EGA]], [[Platforms/EVA\|EVA]], [[Platforms/IDR\|IDR]], ENA, UniProt, ChEMBL, Ensembl, BioImage Archive
+- Operates: [[Platforms/EGA\|EGA]], [[Platforms/EVA\|EVA]], [[Platforms/IDR\|IDR]], [[Platforms/ENA\|ENA]], UniProt, ChEMBL, Ensembl, BioImage Archive
 - Part of: [[Governance/ELIXIR\|ELIXIR]] (EMBL-EBI is the ELIXIR Hub)
 - Hosts: Bio-Hub of [[Governance/Euro-BioImaging\|Euro-BioImaging]] (Heidelberg)
 - Partners: [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/EATRIS\|EATRIS]], [[Governance/ECRIN\|ECRIN]] (ESFRI cluster)
 - French node: EMBL Grenoble (ESRF beamlines); IFB = [[Governance/IFB\|IFB]] (French ELIXIR node)
 - Standards: [[Actors/GA4GH\|GA4GH]] (EMBL-EBI co-leads several GA4GH workstreams)
-- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (data deposition in EGA/EVA/IDR; ELIXIR hub services via IFB)
 
 ## Resources
 - https://www.embl.org

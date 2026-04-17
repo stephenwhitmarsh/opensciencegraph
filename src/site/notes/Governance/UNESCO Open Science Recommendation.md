@@ -55,7 +55,7 @@ The Recommendation provides the internationally agreed definition of open scienc
 ## Connections
 - Aligns with: [[Governance/FAIR Principles\|FAIR Principles]], [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/EC Open Science Policy\|EC Open Science Policy]]
 - French implementation: [[Governance/CoSO\|CoSO]], [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/Barometre Science Ouverte\|Barometre Science Ouverte]]
-- Partners: [[Governance/EOSC\|EOSC]], [[Governance/OpenAIRE\|OpenAIRE]], [[Governance/RDA\|RDA]]
+- Partners: [[Governance/EOSC\|EOSC]], [[Platforms/OpenAIRE\|OpenAIRE]], [[Governance/RDA\|RDA]]
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (provides normative framework for ICM open science commitments; referenced in CNRS/Inserm open science policies)
 
 ## Resources

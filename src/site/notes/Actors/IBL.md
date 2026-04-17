@@ -28,7 +28,6 @@ The International Brain Laboratory is a global consortium of ~20 experimental an
 - Coordinated by: Flatiron Institute (Center for Computational Neuroscience)
 - Funders: Simons Foundation, Wellcome Trust
 - Related: [[Actors/Allen Institute for Brain Science\|Allen Institute for Brain Science]] (complementary large-scale atlas)
-- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (model for multi-lab open collaboration)
 
 ## Resources
 - https://www.internationalbrainlab.com

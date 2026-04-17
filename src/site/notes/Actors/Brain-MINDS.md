@@ -36,7 +36,6 @@ The programme explicitly adopts **open data principles**: all datasets are publi
 - Data sharing: [[Platforms/OpenNeuro\|OpenNeuro]] (SRPBS dataset confirmed); [[Platforms/DANDI Archive\|DANDI Archive]] (potential future electrophysiology; not yet confirmed as active Brain/MINDS deposit point)
 - Lead institutions: RIKEN Center for Brain Science, Kyoto University, ATR, University of Tokyo
 - International alignment: [[Actors/Human Connectome Project\|Human Connectome Project]] (comparable human imaging goals), [[Platforms/EBRAINS\|EBRAINS]] (European brain atlas counterpart), [[Actors/NIH BRAIN Initiative\|NIH BRAIN Initiative]] (US counterpart)
-- Relevant to [[Actors/Paris Brain Institute\|Paris Brain Institute]]: shared non-human primate neuroscience expertise; complementary brain atlas datasets; INCF standards alignment
 
 ## Resources
 - https://brainminds.jp/en/ (programme overview)

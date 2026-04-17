@@ -25,11 +25,11 @@ For [[Actors/Paris Brain Institute\|Paris Brain Institute]], GEO is relevant as 
 GEO organises data into three levels: **Platform (GPL)** — describes the array or sequencer used; **Sample (GSM)** — a single biological sample; raw and processed data; **Series (GSE)** — a collection of samples forming a study; the primary submission unit. Raw sequencing data (FASTQ files) associated with GEO submissions are typically archived in **SRA (Sequence Read Archive)**, which is NCBI's companion repository for raw reads, cross-linked from GEO series records.
 
 ## International Partners (INSDC)
-GEO is part of the **International Nucleotide Sequence Database Collaboration (INSDC)** along with **[[Platforms/DDBJ\|DDBJ]]** (DNA Data Bank of Japan) and **ENA** (European Nucleotide Archive, EMBL-EBI). These three databases mirror each other's sequence data, ensuring global redundancy and access.
+GEO is part of the **International Nucleotide Sequence Database Collaboration (INSDC)** along with **[[Platforms/DDBJ\|DDBJ]]** (DNA Data Bank of Japan) and **[[Platforms/ENA\|ENA]]** (European Nucleotide Archive, EMBL-EBI). These three databases mirror each other's sequence data, ensuring global redundancy and access.
 
 ## Connections
 - Operated by: NCBI / NIH
-- Part of: INSDC (with [[Platforms/DDBJ\|DDBJ]] and ENA/EMBL-EBI)
+- Part of: INSDC (with [[Platforms/DDBJ\|DDBJ]] and [[Platforms/ENA\|ENA]]/EMBL-EBI)
 - Raw data companion: SRA (Sequence Read Archive, NCBI)
 - Controlled-access alternative (human data): [[Platforms/dbGaP\|dbGaP]] (NIH/US), [[Platforms/EGA\|EGA]] (European)
 - Standards: [[Standards/VCF\|VCF]] (for variant data), [[Standards/GO\|GO]] (gene annotation)

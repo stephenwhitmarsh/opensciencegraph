@@ -16,14 +16,14 @@ ICD-11 is the WHO's updated disease classification, officially endorsed in 2019 
 - Full **SNOMED CT mapping** — official cross-map between ICD-11 and SNOMED CT
 
 ## French Adoption Timeline
-France has committed to ICD-11 adoption. The transition is coordinated by the **ATIH** (Agence Technique de l'Information sur l'Hospitalisation). CIM-11 (the French translation) will progressively replace CIM-10 in PMSI, SNDS, and AP-HP systems. [[Governance/Health Data Hub\|Health Data Hub]] and [[Governance/AP-HP\|AP-HP]] datasets will carry both codes during the transition period.
+France has committed to ICD-11 adoption. The transition is coordinated by the **ATIH** (Agence Technique de l'Information sur l'Hospitalisation). CIM-11 (the French translation) will progressively replace CIM-10 in PMSI, SNDS, and AP-HP systems. [[Platforms/Health Data Hub\|Health Data Hub]] and [[Governance/AP-HP\|AP-HP]] datasets will carry both codes during the transition period.
 
 ## Connections
 - Successor to: [[Standards/ICD-10\|ICD-10]] (replaces CIM-10 in French health systems)
 - Official mapping: [[Standards/SNOMED CT\|SNOMED CT]] ↔ ICD-11 (WHO-maintained cross-map)
 - Harmonised by: [[Standards/MONDO\|MONDO]] (integrates ICD-11 into unified disease ontology)
 - Used in: [[Standards/OMOP CDM\|OMOP CDM]] (ICD-11 vocabulary being integrated in Athena)
-- Relevant to: [[Governance/Health Data Hub\|Health Data Hub]], [[Governance/AP-HP\|AP-HP]], [[Actors/Paris Brain Institute\|Paris Brain Institute]]
+- Relevant to: [[Platforms/Health Data Hub\|Health Data Hub]], [[Governance/AP-HP\|AP-HP]], [[Actors/Paris Brain Institute\|Paris Brain Institute]]
 
 ## Resources
 - https://icd.who.int/en (WHO ICD-11 browser)

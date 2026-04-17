@@ -25,14 +25,14 @@ The **CI-SIS** is France's master interoperability framework for health informat
 ANS operates France's national patient health portal (**Mon Espace Santé**) and coordinates the **Espace Numérique de Santé** — the French national personal health record system, which stores patient documents in [[Standards/HL7 FHIR\|HL7 FHIR]] format and is accessible to all French citizens.
 
 ### EHDS National HDAB
-ANS is the designated national health data access body (**HDAB**) candidate for France under [[Governance/EHDS\|EHDS]] (European Health Data Space), responsible for managing secondary use access to French health data in the EHDS framework — working alongside [[Governance/Health Data Hub\|Health Data Hub]] which currently handles the operational SNDS access.
+ANS is the designated national health data access body (**HDAB**) candidate for France under [[Governance/EHDS\|EHDS]] (European Health Data Space), responsible for managing secondary use access to French health data in the EHDS framework — working alongside [[Platforms/Health Data Hub\|Health Data Hub]] which currently handles the operational SNDS access.
 
 ## Connections
 - Manages: French [[Standards/SNOMED CT\|SNOMED CT]] NRC (National Release Centre)
 - Publishes: French [[Standards/HL7 FHIR\|HL7 FHIR]] IGs (CI-SIS FHIR profiles)
 - Operates: Mon Espace Santé (French national health portal, FHIR-based)
 - Framework: CI-SIS (French health IT interoperability framework)
-- Partners: [[Governance/Health Data Hub\|Health Data Hub]] (SNDS data access), [[Governance/AP-HP\|AP-HP]] (largest French hospital)
+- Partners: [[Platforms/Health Data Hub\|Health Data Hub]] (SNDS data access), [[Governance/AP-HP\|AP-HP]] (largest French hospital)
 - European: [[Governance/EHDS\|EHDS]] national HDAB candidate; European eHealth Network
 - Standards managed: [[Standards/SNOMED CT\|SNOMED CT]] (French NRC), [[Standards/HL7 FHIR\|HL7 FHIR]] (French profiles), [[Standards/LOINC\|LOINC]], [[Standards/ICD-10\|ICD-10]] (CIM-10 French version)
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (French FHIR profiles for clinical data; SNOMED CT French terms for AP-HP EDS; EHDS secondary use framework)

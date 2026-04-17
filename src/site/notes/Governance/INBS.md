@@ -13,7 +13,7 @@ coordination between these infrastructures, supports their integration into Euro
 The full INBS network includes 9 national infrastructures. Those most directly relevant to [[Actors/Paris Brain Institute\|Paris Brain Institute]] and open neuroscience are:
 
 - **[[Governance/France BioImaging\|France BioImaging]]** (FBI) — biological and biomedical imaging at the cellular/subcellular scale; microscopy; French node of [[Governance/Euro-BioImaging\|Euro-BioImaging]]
-- **[[Governance/France Life Imaging\|France Life Imaging]]** (FLI) — in vivo biomedical imaging (MRI, PET); [[Governance/CATI\|CATI]] is its neuroimaging data management node
+- **[[Governance/France Life Imaging\|France Life Imaging]]** (FLI) — in vivo biomedical imaging (MRI, PET); [[Actors/CATI\|CATI]] is its neuroimaging data management node
 - **[[Governance/IFB\|IFB]]** (Institut Français de Bioinformatique / ELIXIR-FR) — national bioinformatics infrastructure; French node of [[Governance/ELIXIR\|ELIXIR]]
 - **FRISBI** (French Infrastructure for Integrated Structural Biology) — structural biology platforms
 - **PHENOME** — plant phenotyping (less directly relevant)
@@ -32,7 +32,7 @@ across all member infrastructures.
 - Member infrastructures: [[Governance/France BioImaging\|France BioImaging]], [[Governance/France Life Imaging\|France Life Imaging]], [[Governance/IFB\|IFB]]
 - European integration: [[Governance/ELIXIR\|ELIXIR]], [[Governance/Euro-BioImaging\|Euro-BioImaging]], [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/EATRIS\|EATRIS]], [[Governance/ECRIN\|ECRIN]], [[Governance/EOSC\|EOSC]]
 - Policy alignment: [[Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[Governance/Ouvrir la Science\|Ouvrir la Science]]
-- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (FBI, FLI, IFB are all ICM-adjacent)
+- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (FBI, FLI, IFB are all [[Actors/Paris Brain Institute\|ICM]]-adjacent)
 
 ## Resources
 - https://www.insb.cnrs.fr/fr/infrastructures-nationales

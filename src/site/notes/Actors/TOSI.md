@@ -6,7 +6,7 @@
 # TOSI - Tanenbaum Open Science Institute
 
 ## Overview
-TOSI is the open science institute at The Neuro (Montreal Neurological Institute-Hospital, McGill University), established in 2016 with a $20M gift from the Larry and Judy Tanenbaum family. It was the first institute in the world to formally adopt Open Science as a core institutional value. TOSI's mission is to establish open science best practices within The Neuro and to build a growing alliance of Canadian neuroscience research institutes committed to open science principles. It is directly relevant to [[Actors/Paris Brain Institute\|Paris Brain Institute]] as a peer institution and model for open science implementation.
+TOSI is the open science institute at The Neuro (Montreal Neurological Institute-Hospital, McGill University), established in 2016 with a $20M gift from the Larry and Judy Tanenbaum family. It was the first institute in the world to formally adopt Open Science as a core institutional value. TOSI's mission is to establish open science best practices within The Neuro and to build a growing alliance of Canadian neuroscience research institutes committed to open science principles.
 
 ## Key Activities
 - Open Science Principles framework — developed and exported to partner institutes
@@ -34,7 +34,6 @@ Institutes that have adopted TOSI-approved Open Science Principles:
 - Partners: [[Actors/CONP\|CONP]] (Canadian Open Neuroscience Platform — overlapping community)
 - Standards adopted: [[Standards/BIDS\|BIDS]], [[Platforms/LORIS\|LORIS]] (C-BIG Repository)
 - Open science: institutional mandate — all data and code released per TOSI Open Science Principles
-- Related: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (peer open science institute)
 - Scope: north-american, with growing international reach
 
 ## Resources

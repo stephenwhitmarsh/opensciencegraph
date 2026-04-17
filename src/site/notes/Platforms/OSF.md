@@ -20,7 +20,7 @@ Widely used in psychology and increasingly in neuroscience and clinical research
 ## Connections
 - Produced by: Center for Open Science (COS) — https://www.cos.io
 - Integrates with: [[Platforms/Zenodo\|Zenodo]], [[Actors/ReproNim\|ReproNim]], GitHub, Figshare, Dataverse
-- Related: [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Governance/OpenAIRE\|OpenAIRE]] (preprint indexing)
+- Related: [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Platforms/OpenAIRE\|OpenAIRE]] (preprint indexing)
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (pre-registration of clinical trials and neuroimaging studies, open materials sharing)
 
 ## Resources

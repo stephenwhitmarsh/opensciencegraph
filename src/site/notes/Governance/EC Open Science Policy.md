@@ -16,7 +16,7 @@ The EC open science policy operates through several instruments: mandatory grant
 All Horizon Europe projects are required to make publications open access immediately upon publication (Plan S / cOAlition S), produce a Data Management Plan (DMP) within 6 months of project start, make research data "as open as possible, as closed as necessary" under [[Governance/FAIR Principles\|FAIR Principles]], deposit data in [[Governance/EOSC\|EOSC]]-compatible repositories (e.g. [[Platforms/Zenodo\|Zenodo]], [[Platforms/OpenNeuro\|OpenNeuro]], [[Platforms/EBRAINS\|EBRAINS]], [[Platforms/EGA\|EGA]] for sensitive data), and follow the European Code of Conduct for Research Integrity (ALLEA).
 
 ### European Open Science Cloud (EOSC)
-The [[Governance/EOSC\|EOSC]] is the operational implementation of EC open science policy — a federated infrastructure for open science data across Europe. The EOSC Association governs the EOSC ecosystem, with [[Governance/OpenAIRE\|OpenAIRE]], [[Governance/ELIXIR\|ELIXIR]], [[Platforms/EBRAINS\|EBRAINS]], [[Governance/Euro-BioImaging\|Euro-BioImaging]], and others as service providers.
+The [[Governance/EOSC\|EOSC]] is the operational implementation of EC open science policy — a federated infrastructure for open science data across Europe. The EOSC Association governs the EOSC ecosystem, with [[Platforms/OpenAIRE\|OpenAIRE]], [[Governance/ELIXIR\|ELIXIR]], [[Platforms/EBRAINS\|EBRAINS]], [[Governance/Euro-BioImaging\|Euro-BioImaging]], and others as service providers.
 
 ### Plan S / cOAlition S
 The EC co-leads **cOAlition S** (with national funders including [[Governance/ANR Open Science Policy\|ANR Open Science Policy]]), implementing **Plan S** — the requirement that all publicly funded research be published open access without embargo from 2021. The Rights Retention Strategy (RRS) allows authors to retain rights for immediate open-access deposit even in subscription journals.
@@ -32,7 +32,7 @@ French open science policy ([[Governance/Ouvrir la Science\|Ouvrir la Science]],
 - Aligns with: [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]]
 - Legislates: [[Governance/EHDS\|EHDS]] (health data), Data Governance Act, Data Act
 - Promotes: [[Governance/FAIR Principles\|FAIR Principles]], Research Data Alliance ([[Governance/RDA\|RDA]])
-- Partners: [[Governance/OpenAIRE\|OpenAIRE]], [[Governance/ELIXIR\|ELIXIR]], [[Platforms/EBRAINS\|EBRAINS]], [[Governance/Euro-BioImaging\|Euro-BioImaging]]
+- Partners: [[Platforms/OpenAIRE\|OpenAIRE]], [[Governance/ELIXIR\|ELIXIR]], [[Platforms/EBRAINS\|EBRAINS]], [[Governance/Euro-BioImaging\|Euro-BioImaging]]
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (Horizon Europe grant conditions, EOSC data deposit requirements, Plan S OA mandate)
 
 ## Resources

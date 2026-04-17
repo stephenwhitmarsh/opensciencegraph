@@ -32,19 +32,12 @@ BICAN spans several complementary projects:
 - Cell type taxonomy: [[Standards/Cell Ontology\|Cell Ontology]] (CL) — OBO Foundry
 - Multi-omics integration aligned with [[Actors/GA4GH\|GA4GH]] standards
 
-## Relevance to Paris Brain Institute
-BICAN provides foundational reference data for:
-- Neurological disease research at [[Actors/Paris Brain Institute\|Paris Brain Institute]] — cell type context for patient genomics and transcriptomics from [[Actors/iGENSEQ\|iGENSEQ]]
-- Comparative analysis with human brain cell type atlases in Alzheimer's, Parkinson's, and ALS research programmes
-- Electrophysiology annotation at ePHYS platform — BICAN NHP ephys data provides reference cell-type firing properties
-
 ## Connections
 - Parent programme: [[Actors/NIH BRAIN Initiative\|NIH BRAIN Initiative]]
 - Data archives: [[Platforms/NeMO Archive\|NeMO Archive]], [[Platforms/DANDI Archive\|DANDI Archive]] ([[Standards/NWB\|NWB]]), BIL, AWS Open Data
 - Standards: [[Standards/NWB\|NWB]], [[Standards/BIDS\|BIDS]], [[Standards/UBERON\|UBERON]], [[Standards/Cell Ontology\|Cell Ontology]], [[Actors/GA4GH\|GA4GH]], [[Standards/AnnData\|AnnData]]
 - Annotation: [[Standards/GO\|GO]] (gene function)
 - Related: [[Actors/Allen Institute for Brain Science\|Allen Institute for Brain Science]] (predecessor atlases), Human Cell Atlas
-- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (reference cell atlas for disease studies)
 
 ## Resources
 - https://braininitiative.nih.gov/brain-programs/cell-atlas

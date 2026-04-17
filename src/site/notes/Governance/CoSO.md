@@ -8,22 +8,22 @@
 ## Overview
 The Comité pour la Science Ouverte (CoSO) is the French interministerial committee responsible for coordinating and implementing the national open science policy under [[Governance/Ouvrir la Science\|Ouvrir la Science]]. Created in 2018 by the Ministry of Higher Education and Research (MESR), CoSO brings together representatives from all major French research organisations — CNRS, Inserm, ANR, CPU/France Universités, IRD, INRAE, and others — to develop guidelines, promote best practices, and track progress on open science implementation across French publicly funded research.
 
-CoSO is essentially the operational governance body of [[Governance/Ouvrir la Science\|Ouvrir la Science]]: it drafts the policy documents, coordinates thematic working groups, manages the Fonds National pour la Science Ouverte (FNSO), and interfaces with European open science initiatives ([[Governance/EOSC\|EOSC]], [[Governance/OpenAIRE\|OpenAIRE]]).
+CoSO is essentially the operational governance body of [[Governance/Ouvrir la Science\|Ouvrir la Science]]: it drafts the policy documents, coordinates thematic working groups, manages the Fonds National pour la Science Ouverte (FNSO), and interfaces with European open science initiatives ([[Governance/EOSC\|EOSC]], [[Platforms/OpenAIRE\|OpenAIRE]]).
 
 ## Structure: Four Colleges
 CoSO operates through four thematic colleges, each addressing a pillar of [[Governance/Ouvrir la Science\|Ouvrir la Science]]:
 
 ### College Publications
-Open access to scientific publications; implementation of Plan S / cOAlition S in France; diamond open access journal support via the FNSO; HAL mandate compliance and [[Governance/HAL\|HAL]] institutional portals; preprint policies and rights retention strategies.
+Open access to scientific publications; implementation of Plan S / cOAlition S in France; diamond open access journal support via the FNSO; HAL mandate compliance and [[Platforms/HAL\|HAL]] institutional portals; preprint policies and rights retention strategies.
 
 ### College Research Data
-[[Governance/FAIR Principles\|FAIR Principles]] implementation for French research data; [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]] development and governance; DMP mandates via [[Governance/OPIDoR\|OPIDoR]]; disciplinary repository alignment ([[Platforms/OpenNeuro\|OpenNeuro]], [[Platforms/EGA\|EGA]], [[Platforms/NCBI GEO\|NCBI GEO]]); [[Governance/EHDS\|EHDS]] national implementation for health data.
+[[Governance/FAIR Principles\|FAIR Principles]] implementation for French research data; [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]] development and governance; DMP mandates via [[Platforms/OPIDoR\|OPIDoR]]; disciplinary repository alignment ([[Platforms/OpenNeuro\|OpenNeuro]], [[Platforms/EGA\|EGA]], [[Platforms/NCBI GEO\|NCBI GEO]]); [[Governance/EHDS\|EHDS]] national implementation for health data.
 
 ### College Open Software
 Open source software publication mandates; Software Heritage deposit recommendations; code citation practices; ORCID and software persistent identifiers.
 
 ### College Competences and Training
-Open science literacy in researcher training (doctoral schools); data steward profession development; [[Governance/RDMkit\|RDMkit]] and [[Governance/OPIDoR\|OPIDoR]] DORANum training resources; evaluation reform (moving beyond impact factors — San Francisco Declaration / DORA).
+Open science literacy in researcher training (doctoral schools); data steward profession development; [[Platforms/RDMkit\|RDMkit]] and [[Platforms/OPIDoR\|OPIDoR]] DORANum training resources; evaluation reform (moving beyond impact factors — San Francisco Declaration / DORA).
 
 ## Key Outputs
 - **Second National Plan for Open Science (2021–2024)** — CoSO drafted and monitors implementation; see [[Governance/Ouvrir la Science\|Ouvrir la Science]]
@@ -37,8 +37,8 @@ CoSO includes representatives from MESR (Ministry — secretariat), CNRS, Inserm
 ## Connections
 - Implements: [[Governance/Ouvrir la Science\|Ouvrir la Science]], Second PNSO, FNSO (Fonds National pour la Science Ouverte)
 - Members: [[Governance/CNRS Open Science\|CNRS Open Science]], [[Governance/Inserm Open Science\|Inserm Open Science]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[Governance/AP-HP\|AP-HP]], [[Governance/IFB\|IFB]], [[Actors/Sorbonne Universite\|Sorbonne Universite]]
-- Infrastructure managed/coordinated: [[Governance/HAL\|HAL]], [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Governance/OPIDoR\|OPIDoR]]
-- European: [[Governance/EOSC\|EOSC]], [[Governance/OpenAIRE\|OpenAIRE]], cOAlition S / Plan S
+- Infrastructure managed/coordinated: [[Platforms/HAL\|HAL]], [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Platforms/OPIDoR\|OPIDoR]]
+- European: [[Governance/EOSC\|EOSC]], [[Platforms/OpenAIRE\|OpenAIRE]], cOAlition S / Plan S
 - Monitoring: [[Governance/Barometre Science Ouverte\|Barometre Science Ouverte]]
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (open science policy compliance; CNRS/Inserm parent org participation)
 

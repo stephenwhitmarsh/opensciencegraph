@@ -29,7 +29,7 @@ FHIR has gone through several major versions:
 - **R4B (2022)** — minor update; adds medication knowledge and clinical reasoning resources
 - **R5 (2023)** — latest; improved data modelling, subscriptions, cross-version mapping
 
-Most production deployments in France ([[Governance/AP-HP\|AP-HP]], [[Governance/Health Data Hub\|Health Data Hub]]) use **R4**.
+Most production deployments in France ([[Governance/AP-HP\|AP-HP]], [[Platforms/Health Data Hub\|Health Data Hub]]) use **R4**.
 
 ## SMART on FHIR
 **SMART on FHIR** (Substitutable Medical Applications, Reusable Technologies) is the OAuth2/OpenID Connect-based authorisation framework built on top of FHIR, enabling third-party applications to securely access patient data from FHIR servers with patient/clinician consent. It is the standard for EHR app ecosystems (Epic, Cerner, Oracle Health) and is used in clinical research portal applications.
@@ -37,7 +37,7 @@ Most production deployments in France ([[Governance/AP-HP\|AP-HP]], [[Governance
 ## FHIR in France
 - **ANS** (Agence du Numérique en Santé) publishes French national FHIR Implementation Guides (IGs) — profiles that constrain FHIR resources to French healthcare context
 - **AP-HP EDS** exposes some data via FHIR R4 endpoints; the Hôpital Numérique programme requires FHIR compliance
-- **[[Governance/Health Data Hub\|Health Data Hub]]** uses FHIR as part of its interoperability framework alongside [[Standards/OMOP CDM\|OMOP CDM]] for secondary data use
+- **[[Platforms/Health Data Hub\|Health Data Hub]]** uses FHIR as part of its interoperability framework alongside [[Standards/OMOP CDM\|OMOP CDM]] for secondary data use
 
 ## FHIR and OMOP
 FHIR and [[Standards/OMOP CDM\|OMOP CDM]] serve complementary roles:
@@ -48,7 +48,7 @@ FHIR and [[Standards/OMOP CDM\|OMOP CDM]] serve complementary roles:
 ## Connections
 - Maps to: [[Standards/OMOP CDM\|OMOP CDM]] (ETL pathway), [[Standards/openEHR\|openEHR]] (bidirectional mapping), [[Standards/DICOM\|DICOM]] (ImagingStudy resource), [[Standards/CDISC\|CDISC]] (ResearchStudy / clinical trial data)
 - Coded values use: [[Standards/SNOMED CT\|SNOMED CT]], [[Standards/LOINC\|LOINC]], [[Standards/ICD-10\|ICD-10]], [[Standards/ICD-11\|ICD-11]], [[Standards/MedDRA\|MedDRA]]
-- Adopted by: [[Governance/Health Data Hub\|Health Data Hub]], [[Governance/AP-HP\|AP-HP]], [[Governance/ECRIN\|ECRIN]], [[Platforms/i2b2\|i2b2]]
+- Adopted by: [[Platforms/Health Data Hub\|Health Data Hub]], [[Governance/AP-HP\|AP-HP]], [[Governance/ECRIN\|ECRIN]], [[Platforms/i2b2\|i2b2]]
 - Mandated by: [[Governance/EHDS\|EHDS]] (primary EHR interoperability standard across EU)
 - French coordination: ANS (national FHIR IGs and profiles)
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (AP-HP EDS FHIR access, EHDS compliance, clinical trial data integration)

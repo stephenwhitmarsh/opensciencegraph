@@ -49,14 +49,14 @@ and infrastructures. This distinction matters for the vault:
 | Neurophysiology | [[Standards/NWB\|NWB]], [[Platforms/DANDI Archive\|DANDI Archive]] |
 | Microscopy | [[Standards/OME File Formats\|OME File Formats]], [[Platforms/OMERO\|OMERO]] via [[Actors/OME\|OME]], [[Standards/REMBI\|REMBI]] metadata |
 | Genomics | [[Standards/VCF\|VCF]], [[Actors/GA4GH\|GA4GH]], [[Standards/Phenopackets\|Phenopackets]] |
-| Clinical / EHR | [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/HL7 FHIR\|HL7 FHIR]], [[Governance/Health Data Hub\|Health Data Hub]] |
+| Clinical / EHR | [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/HL7 FHIR\|HL7 FHIR]], [[Platforms/Health Data Hub\|Health Data Hub]] |
 | Clinical coding | [[Standards/SNOMED CT\|SNOMED CT]], [[Standards/LOINC\|LOINC]], [[Standards/ICD-10\|ICD-10]], [[Standards/CCAM\|CCAM]], [[Standards/MedDRA\|MedDRA]] |
 | Disease ontology | [[Standards/MONDO\|MONDO]], [[Standards/ORDO\|ORDO]], [[Standards/HPO\|HPO]] |
 | Brain annotation | [[Standards/UBERON\|UBERON]], [[Standards/openMINDS\|openMINDS]], [[Standards/Cognitive Atlas\|Cognitive Atlas]], [[Standards/HED\|HED]] |
 | Provenance | [[Standards/PROV-O\|PROV-O]], [[Standards/NIDM\|NIDM]] |
 | Data catalogues | [[Standards/DCAT\|DCAT]], [[Standards/Dublin Core\|Dublin Core]] |
-| French research data | [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Governance/OPIDoR\|OPIDoR]] |
-| European infrastructure | [[Governance/EOSC\|EOSC]], [[Governance/ELIXIR\|ELIXIR]], [[Governance/OpenAIRE\|OpenAIRE]] |
+| French research data | [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Platforms/OPIDoR\|OPIDoR]] |
+| European infrastructure | [[Governance/EOSC\|EOSC]], [[Governance/ELIXIR\|ELIXIR]], [[Platforms/OpenAIRE\|OpenAIRE]] |
 
 ## Created By
 - [[FORCE11\|FORCE11]] — co-authored the original 2016 Wilkinson et al. paper
@@ -69,9 +69,9 @@ These bodies have FAIR as a core operational mandate — not just alignment:
 - [[Actors/INCF\|INCF]] — FAIR neuroscience as explicit mission; FAIR-Checker tool
 - [[Governance/ELIXIR\|ELIXIR]] — FAIR data services across European life science nodes
 - [[Governance/IFB\|IFB]] — FAIR-Checker tool; FAIR compliance support for French researchers
-- [[Governance/Health Data Hub\|Health Data Hub]] — FAIR data access infrastructure for French health data
+- [[Platforms/Health Data Hub\|Health Data Hub]] — FAIR data access infrastructure for French health data
 - [[Governance/ANR Open Science Policy\|ANR Open Science Policy]] — mandates FAIR deposit for all funded projects
-- [[Governance/OPIDoR\|OPIDoR]] — DMP tooling implementing FAIR requirements
+- [[Platforms/OPIDoR\|OPIDoR]] — DMP tooling implementing FAIR requirements
 
 ## Resources
 - https://www.go-fair.org/fair-principles/

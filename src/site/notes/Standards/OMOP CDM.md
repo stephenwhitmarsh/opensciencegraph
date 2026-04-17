@@ -8,7 +8,7 @@
 ## Overview
 The OMOP Common Data Model (CDM) is the open standard for structuring observational health data — EHR records, insurance claims, registries — into a common format that enables federated analytical studies across institutions without sharing raw patient data. Developed within the OMOP initiative (funded by the FDA) and now maintained by the **OHDSI** (Observational Health Data Sciences and Informatics) open-science community, the OMOP CDM is deployed in 300+ databases covering 700 million+ patient records across 30+ countries.
 
-In France, [[Governance/Health Data Hub\|Health Data Hub]] and [[Governance/AP-HP\|AP-HP]] have adopted OMOP CDM as the standard for their health data warehouses, making it the primary analytical framework for clinical research using French health data. All data accessible via the Health Data Hub Datalab is standardised to OMOP CDM version 5.4.
+In France, [[Platforms/Health Data Hub\|Health Data Hub]] and [[Governance/AP-HP\|AP-HP]] have adopted OMOP CDM as the standard for their health data warehouses, making it the primary analytical framework for clinical research using French health data. All data accessible via the Health Data Hub Datalab is standardised to OMOP CDM version 5.4.
 
 ## CDM Structure
 The OMOP CDM organises clinical data into standardised **domain tables**:
@@ -47,18 +47,17 @@ The OHDSI community develops open-source analytical tools that run on OMOP CDM:
 OMOP CDM's key innovation is enabling **federated distributed network studies**: each site runs the same analytical code locally on their OMOP database; only aggregate results (counts, summary statistics) are shared — no raw data transfer; enables enormous effective sample sizes (OHDSI network studies routinely include 100M+ patients across 20+ databases); EHDS mandates OMOP CDM for secondary use of European health data under the European Health Data Space regulation.
 
 ## OMOP CDM in France
-- **[[Governance/Health Data Hub\|Health Data Hub]]** — all SNDS data accessible via HDH Datalab is in OMOP CDM v5.4
-- **[[Governance/AP-HP\|AP-HP]] EDS** — AP-HP's Entrepôt de Données de Santé is OMOP CDM-based; covers 8M+ patients from 39 AP-HP hospitals
+- **[[Platforms/Health Data Hub\|Health Data Hub]]** — all SNDS data accessible via HDH Datalab is in OMOP CDM v5.4
+- **[[Governance/AP-HP\|AP-HP]] [[Platforms/EDS AP-HP\|EDS]]** — AP-HP's Entrepôt de Données de Santé is [[Standards/OMOP CDM\|OMOP CDM]]-based; covers 19M patients from 38 AP-HP hospitals
 - **i2b2 → OMOP migration** — many French hospitals are migrating from [[Platforms/i2b2\|i2b2]] to OMOP CDM for better international interoperability
 - **[[Governance/ECRIN\|ECRIN]]** — uses OMOP CDM for observational study data standardisation
 - **[[Governance/BBMRI-ERIC\|BBMRI-ERIC]]** — promotes OMOP CDM for biobank-linked clinical data
 
 ## Connections
-- Adopted by: [[Governance/Health Data Hub\|Health Data Hub]], [[Governance/AP-HP\|AP-HP]], [[Governance/ECRIN\|ECRIN]], [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Platforms/i2b2\|i2b2]]
+- Adopted by: [[Platforms/Health Data Hub\|Health Data Hub]], [[Governance/AP-HP\|AP-HP]] ([[Platforms/EDS AP-HP\|EDS AP-HP]]), [[Governance/ECRIN\|ECRIN]], [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Platforms/i2b2\|i2b2]]
 - Maps to: [[Standards/HL7 FHIR\|HL7 FHIR]] (bidirectional ETL; OMOP-on-FHIR mapping), [[Standards/CDISC\|CDISC]] (OMOP↔SDTM mapping for trial data)
 - Vocabularies: [[Standards/SNOMED CT\|SNOMED CT]], [[Standards/LOINC\|LOINC]], [[Standards/ICD-10\|ICD-10]], [[Standards/ICD-11\|ICD-11]], [[Standards/MedDRA\|MedDRA]], [[Standards/CCAM\|CCAM]], [[Standards/RxNorm\|RxNorm]], [[Standards/MeSH\|MeSH]], [[Standards/HPO\|HPO]], [[Standards/MONDO\|MONDO]], [[Standards/ORDO\|ORDO]]
 - Mandated by: [[Governance/EHDS\|EHDS]] (secondary use standardisation for European health data)
-- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (AP-HP EDS clinical data access for neurological disease research; Health Data Hub population neurology studies)
 
 ## Resources
 - https://ohdsi.org

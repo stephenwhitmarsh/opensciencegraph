@@ -6,7 +6,7 @@
 # CEA — Commissariat à l'énergie atomique et aux énergies alternatives
 
 ## Overview
-The CEA (Commissariat à l'énergie atomique et aux énergies alternatives) is France's national research organisation for energy, defence, information technologies, and life sciences. Founded in 1945, it is one of the largest public research bodies in France and Europe. For neuroscience and the open science ecosystem, CEA's most relevant division is **CEA-NeuroSpin / CEA Paris-Saclay**, which houses two major research facilities directly connected to ICM and the French translational neuroscience infrastructure.
+The CEA (Commissariat à l'énergie atomique et aux énergies alternatives) is France's national research organisation for energy, defence, information technologies, and life sciences. Founded in 1945, it is one of the largest public research bodies in France and Europe. For neuroscience and the open science ecosystem, CEA's most relevant division is **CEA-NeuroSpin / CEA Paris-Saclay**, which houses two major research facilities directly connected to [[Actors/Paris Brain Institute\|ICM]] and the French translational neuroscience infrastructure.
 
 CEA coordinates [[Governance/NeurATRIS\|NeurATRIS]], the French national translational neuroscience infrastructure and French component of [[Governance/EATRIS\|EATRIS]]-ERIC.
 
@@ -35,7 +35,7 @@ CEA's ultra-high-field MRI centre, one of the most powerful in Europe:
 ## Connections
 - Coordinates: [[Governance/NeurATRIS\|NeurATRIS]] (CEA is the umbrella coordinator and funder)
 - Part of: [[Governance/France Life Imaging\|France Life Imaging]] (via NeuroSpin and SHFJ)
-- Partner: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (NeurATRIS shared services; CENIR/ICM ↔ SHFJ/MIRCen translational continuum)
+- Partner: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (NeurATRIS shared services; CENIR/[[Actors/Paris Brain Institute\|ICM]] ↔ SHFJ/MIRCen translational continuum)
 - Partner: [[Actors/Institut de Myologie\|Institut de Myologie]] (NeurATRIS node)
 - European parent: [[Governance/EATRIS\|EATRIS]] (NeurATRIS is the French EATRIS neuroscience node)
 - Policy: [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]]

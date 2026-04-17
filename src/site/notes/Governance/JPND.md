@@ -13,7 +13,7 @@ JPND connects the key institutes that are also [[Governance/CURE-ND\|CURE-ND]] a
 [[Governance/CNRS Open Science\|CNRS Open Science]] and [[Governance/Inserm Open Science\|Inserm Open Science]] as participating funders).
 
 ## Structure and Funding Mechanism
-JPND operates through transnational joint calls (JTC — Joint Transnational Calls), in which national funding agencies co-fund multi-country consortia addressing shared research priorities. Research groups from ICM/Paris can access JPND funding through ANR (Agence Nationale de la Recherche) as France's JPND national
+JPND operates through transnational joint calls (JTC — Joint Transnational Calls), in which national funding agencies co-fund multi-country consortia addressing shared research priorities. Research groups from [[Actors/Paris Brain Institute\|ICM]]/Paris can access JPND funding through ANR (Agence Nationale de la Recherche) as France's JPND national
 funding body.
 
 Key funding categories:
@@ -32,8 +32,8 @@ JPND has established an **Ethics Board** addressing open data and responsible co
 JPND is also one of the members of the **EBRA (European Brain Research Area)** project, which coordinated European and global brain initiatives including HBP/EBRAINS, ERA-Net NEURON, and [[Actors/ENIGMA Consortium\|ENIGMA Consortium]].
 
 ## Connections
-- Key national participants: [[Actors/DZNE\|DZNE]] (Germany), [[Actors/UK DRI\|UK DRI]] (UK), ICM/CNRS/Inserm (France), plus 27+ other national research agencies
-- Alliance overlap: [[Governance/CURE-ND\|CURE-ND]] (DZNE, UK DRI, ICM are all JPND and CURE-ND members)
+- Key national participants: [[Actors/DZNE\|DZNE]] (Germany), [[Actors/UK DRI\|UK DRI]] (UK), [[Actors/Paris Brain Institute\|ICM]]/CNRS/Inserm (France), plus 27+ other national research agencies
+- Alliance overlap: [[Governance/CURE-ND\|CURE-ND]] ([[Actors/DZNE\|DZNE]], [[Actors/UK DRI\|UK DRI]], [[Actors/Paris Brain Institute\|ICM]] are all JPND and CURE-ND members)
 - Infrastructure: [[Platforms/EBRAINS\|EBRAINS]], [[Governance/EOSC\|EOSC]], [[Governance/BBMRI-ERIC\|BBMRI-ERIC]]
 - Consortia: [[Actors/ENIGMA Consortium\|ENIGMA Consortium]] (EBRA coordination)
 - Policy: [[Governance/EC Open Science Policy\|EC Open Science Policy]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]]

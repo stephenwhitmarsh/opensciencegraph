@@ -29,7 +29,7 @@ Dublin Core is the **lingua franca of metadata** — it is:
 - Harvested by aggregators (OpenAIRE, [[Governance/EOSC\|EOSC]]) for cross-portal search
 
 ## Connections
-- Used by: [[Platforms/Zenodo\|Zenodo]], [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Governance/OpenAIRE\|OpenAIRE]], HAL
+- Used by: [[Platforms/Zenodo\|Zenodo]], [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Platforms/OpenAIRE\|OpenAIRE]], HAL
 - Enriched by: [[Standards/DCAT\|DCAT]] (adds dataset-specific concepts), DataCite (adds citation metadata)
 - Implements: [[Governance/FAIR Principles\|FAIR Principles]] F1, F2, F4 (at a basic level)
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (all data deposits and publications)

@@ -67,7 +67,7 @@ For single-cell RNA-seq (10x Genomics), FASTQ files contain cell barcodes and UM
 ## Data Deposition
 FASTQ files are the preferred raw data submission format for sequence archives:
 - **NCBI SRA** (Sequence Read Archive) — primary US raw read archive; cross-linked with [[Platforms/NCBI GEO\|NCBI GEO]]
-- **ENA** (European Nucleotide Archive, EMBL-EBI) — primary European raw read archive; INSDC partner
+- **ENA** ([[Platforms/ENA\|ENA]], European Nucleotide Archive, EMBL-EBI) — primary European raw read archive; INSDC partner
 - **DDBJ** — Japanese national sequence archive; INSDC partner
 - **[[Platforms/EGA\|EGA]]** — controlled-access human FASTQ; Crypt4GH encryption required for sensitive data
 
@@ -76,7 +76,7 @@ Raw FASTQ deposition is increasingly mandated by journals and funders (NIH DMS P
 ## Connections
 - Produced by: [[Actors/iGENSEQ\|iGENSEQ]] (all sequencing modalities: WGS, WES, RNA-seq, scRNA-seq, ATAC-seq)
 - Downstream format: [[Standards/SAM-BAM-CRAM\|SAM-BAM-CRAM]] (after alignment); [[Standards/AnnData\|AnnData]] (after single-cell counting)
-- Deposited in: NCBI SRA / ENA (open), [[Platforms/EGA\|EGA]] (controlled access human data)
+- Deposited in: NCBI SRA / [[Platforms/ENA\|ENA]] (open), [[Platforms/EGA\|EGA]] (controlled access human data)
 - Governed by: [[Actors/GA4GH\|GA4GH]] (hts-specs; FASTQ informally part of the broader sequencing standards ecosystem)
 - Analysis: [[Actors/DAC\|DAC]] (quality control pipelines; FastQC, MultiQC, fastp; alignment workflows)
 - Related formats: FASTA (sequence only, no quality; used for reference genomes and assemblies)

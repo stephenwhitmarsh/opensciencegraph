@@ -27,12 +27,12 @@ RTmfm partners with [[Governance/France BioImaging\|France BioImaging]] and GDR 
 
 ## Connections
 - Parent network: RTmfm / CNRS MITI
-- Member: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (ICM participates in this group)
+- Member: [[Actors/Paris Brain Institute\|Paris Brain Institute]] ([[Actors/Paris Brain Institute\|ICM]] participates in this group)
 - Related working group: [[Governance/QUAREP-LiMi\|QUAREP-LiMi]] (RTmfm GT-3M is active in QUAREP-LiMi)
 - Standards alignment: [[Standards/OME File Formats\|OME File Formats]], [[Governance/FAIR Principles\|FAIR Principles]] (F and R pillars)
 - Tools: [[Actors/OME\|OME]] (OMERO recommended for platform data management)
 - French infrastructure: [[Governance/France BioImaging\|France BioImaging]] (RTmfm partner)
-- DMP tools: [[Governance/OPIDoR\|OPIDoR]] (DMP guidelines relevant to platform DMPs)
+- DMP tools: [[Platforms/OPIDoR\|OPIDoR]] (DMP guidelines relevant to platform DMPs)
 - Policy context: [[Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[Governance/Ouvrir la Science\|Ouvrir la Science]]
 
 ## Resources

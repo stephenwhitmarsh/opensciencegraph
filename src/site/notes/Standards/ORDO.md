@@ -19,7 +19,7 @@ ORDO organises rare diseases using ORPHA codes (e.g. ORPHA:411 for Parkinson's d
 ## French Relevance
 - **Orphanet** is headquartered in Paris, coordinated by INSERM — making it a direct ICM neighbour institution
 - All French **Centres de Référence Maladies Rares (CRMR)** use ORPHA codes
-- [[Governance/Health Data Hub\|Health Data Hub]] rare disease module uses ORDO for coding
+- [[Platforms/Health Data Hub\|Health Data Hub]] rare disease module uses ORDO for coding
 - European Reference Networks (ERNs) — ERN-RND (rare neurological diseases) and ERN-EpiCARE (rare epilepsies) use ORDO for patient registry coding
 
 ## Key Neurological ORPHA Codes
@@ -35,7 +35,7 @@ ORDO organises rare diseases using ORPHA codes (e.g. ORPHA:411 for Parkinson's d
 ## Connections
 - Part of: [[Standards/MONDO\|MONDO]] (ORDO integrated as MONDO sub-hierarchy)
 - Complements: [[Standards/HPO\|HPO]] (phenotype description alongside ORPHA disease codes)
-- Integrated in: [[Governance/Health Data Hub\|Health Data Hub]] (rare disease), [[Governance/BBMRI-ERIC\|BBMRI-ERIC]] (biobank coding)
+- Integrated in: [[Platforms/Health Data Hub\|Health Data Hub]] (rare disease), [[Governance/BBMRI-ERIC\|BBMRI-ERIC]] (biobank coding)
 - French parent: INSERM (→ [[Governance/Inserm Open Science\|Inserm Open Science]])
 - Part of: [[Governance/OBO Foundry\|OBO Foundry]] ecosystem
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (rare neurological disease research, CRMR)

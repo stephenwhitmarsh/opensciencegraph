@@ -30,7 +30,7 @@ The following OBO Foundry member ontologies have dedicated nodes:
 | UBERON | [[Standards/UBERON\|UBERON]] | Cross-species anatomy |
 | MONDO | [[Standards/MONDO\|MONDO]] | Unified disease ontology (harmonises ICD, OMIM, ORDO) |
 | ORDO | [[Standards/ORDO\|ORDO]] | Orphanet rare disease classification |
-| OBI | [[Actors/OBI\|OBI]] | Biomedical investigation protocols and assays |
+| OBI | [[Standards/OBI\|OBI]] | Biomedical investigation protocols and assays |
 | Cell Ontology | [[Standards/Cell Ontology\|Cell Ontology]] | Cell type classification |
 | ChEBI | [[Standards/ChEBI\|ChEBI]] | Chemical entities of biological interest |
 | MeSH | [[Standards/MeSH\|MeSH]] | Medical subject headings (NLM; OBO aligned) |
@@ -43,7 +43,7 @@ The following OBO Foundry member ontologies have dedicated nodes:
 - **ROBOT** — command-line tool for OBO ontology manipulation and quality control (https://robot.obolibrary.org)
 
 ## Connections
-- Member ontologies: [[Standards/GO\|GO]], [[Standards/HPO\|HPO]], [[Standards/UBERON\|UBERON]], [[Standards/MONDO\|MONDO]], [[Standards/ORDO\|ORDO]], [[Actors/OBI\|OBI]], [[Standards/Cell Ontology\|Cell Ontology]], [[Standards/ChEBI\|ChEBI]]
+- Member ontologies: [[Standards/GO\|GO]], [[Standards/HPO\|HPO]], [[Standards/UBERON\|UBERON]], [[Standards/MONDO\|MONDO]], [[Standards/ORDO\|ORDO]], [[Standards/OBI\|OBI]], [[Standards/Cell Ontology\|Cell Ontology]], [[Standards/ChEBI\|ChEBI]]
 - Complements: [[Actors/GA4GH\|GA4GH]] (genomics data standards), [[Actors/INCF\|INCF]] (neuroscience data standards), [[Standards/HL7 FHIR\|HL7 FHIR]] (clinical interoperability)
 - Adopted by: [[Standards/OMOP CDM\|OMOP CDM]] (Athena vocabulary includes OBO terms), [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/ELIXIR\|ELIXIR]], [[Platforms/EBRAINS\|EBRAINS]]
 - Reference publication: Ashburner et al. (2001) *Gene Ontology*; Smith et al. (2007) *Nature Biotechnology* doi:10.1038/nbt1346

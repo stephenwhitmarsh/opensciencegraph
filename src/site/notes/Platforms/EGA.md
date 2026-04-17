@@ -23,7 +23,7 @@ EGA is directly relevant to [[Actors/Paris Brain Institute\|Paris Brain Institut
 EGA uses a **two-tier access model**: (1) **Data submission** — researchers submit data and establish a DAC with defined access conditions (consent-based, IRB-linked); (2) **Data access** — external researchers apply to the DAC for access; approved applicants receive secure download credentials. This model complies with GDPR and enables sharing of sensitive health data under controlled conditions — aligned with [[Governance/EHDS\|EHDS]] secondary use frameworks.
 
 ## Federated EGA (FEGA)
-The **Federated EGA** initiative extends the EGA model to national nodes, allowing countries to host sensitive genomic data locally while maintaining discoverability in the central EGA catalogue. French sensitive genomic data may eventually be hosted via a French FEGA node aligned with [[Governance/Health Data Hub\|Health Data Hub]] and [[Governance/EHDS\|EHDS]] requirements.
+The **Federated EGA** initiative extends the EGA model to national nodes, allowing countries to host sensitive genomic data locally while maintaining discoverability in the central EGA catalogue. French sensitive genomic data may eventually be hosted via a French FEGA node aligned with [[Platforms/Health Data Hub\|Health Data Hub]] and [[Governance/EHDS\|EHDS]] requirements.
 
 ## Connections
 - Operated by: EMBL-EBI + CRG (Barcelona)
@@ -31,7 +31,7 @@ The **Federated EGA** initiative extends the EGA model to national nodes, allowi
 - Access governance: [[Actors/GA4GH\|GA4GH]] Data Use Ontology (DUO) for machine-readable consent terms; [[Standards/Phenopackets\|Phenopackets]] for phenotype linkage
 - Standards: [[Standards/VCF\|VCF]], [[Actors/GA4GH\|GA4GH]] standards (Beacon API, DRS)
 - Complementary open-access: [[Platforms/NCBI GEO\|NCBI GEO]], [[Platforms/DDBJ\|DDBJ]]
-- French alignment: [[Governance/Health Data Hub\|Health Data Hub]] (health data), [[Governance/IFB\|IFB]] (ELIXIR-FR node)
+- French alignment: [[Platforms/Health Data Hub\|Health Data Hub]] (health data), [[Governance/IFB\|IFB]] (ELIXIR-FR node)
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (controlled-access genomics from neurological disease cohorts, GWAS data, multi-omics)
 
 ## Resources

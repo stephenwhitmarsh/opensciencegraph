@@ -34,7 +34,7 @@ The overlap with neuroscience is primarily through:
 - European nodes: DARIAH-EU, CLARIN-EU
 - Storage/publication: Nakala → [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]] (catalogue integration)
 - Policy: [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[Governance/CNRS Open Science\|CNRS Open Science]]
-- French ecosystem: [[Governance/CoSO\|CoSO]], [[Governance/data.gouv.fr\|data.gouv.fr]]
+- French ecosystem: [[Governance/CoSO\|CoSO]], [[Platforms/data.gouv.fr\|data.gouv.fr]]
 - Related: [[Governance/INBS\|INBS]] (analogous umbrella for biology/health)
 
 ## Resources

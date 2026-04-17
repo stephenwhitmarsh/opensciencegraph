@@ -8,8 +8,6 @@
 
 This index covers all data format standards, metadata frameworks, terminologies, and ontologies in the graph. Sections follow the data lifecycle from acquisition format through to research data management.
 
----
-
 ## Neuroimaging
 
 - [[Standards/BIDS\|BIDS]] — Brain Imaging Data Structure; de facto community standard for neuroimaging datasets
@@ -87,13 +85,11 @@ This index covers all data format standards, metadata frameworks, terminologies,
 ## Research Data Management
 
 - [[Standards/DCAT\|DCAT]] — W3C Data Catalog Vocabulary; powers [[Governance/EOSC\|EOSC]] and [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]] discoverability
-- [[Standards/Dublin Core\|Dublin Core]] — 15-element base metadata standard; present in all repositories ([[Platforms/Zenodo\|Zenodo]], [[Governance/HAL\|HAL]])
+- [[Standards/Dublin Core\|Dublin Core]] — 15-element base metadata standard; present in all repositories ([[Platforms/Zenodo\|Zenodo]], [[Platforms/HAL\|HAL]])
 - [[Standards/OBI\|OBI]] — Ontology for Biomedical Investigations; formal study protocol description
 - [[Standards/PROV-O\|PROV-O]] — W3C Provenance Ontology; foundation for [[Standards/NIDM\|NIDM]] and DataLad provenance tracking
-- [[Standards/RRID\|RRID]] — Research Resource Identifiers; persistent IDs for reagents, software, and core facilities; governed by [[Governance/NIF\|NIF]]
+- [[Standards/RRID\|RRID]] — Research Resource Identifiers; persistent IDs for reagents, software, and core facilities; governed by [[Platforms/NIF\|NIF]]
 - [[Standards/ROR\|ROR]] — Research Organization Registry; persistent identifiers for research institutions
-
----
 
 ## Filtering
 

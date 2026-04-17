@@ -24,7 +24,7 @@ MeSH is organised into **Descriptor Records** (main concepts) and **Supplementar
 - **[[Platforms/ClinicalTrials.gov\|ClinicalTrials.gov]]** — condition and intervention fields use MeSH terms for standardised trial registration and search
 - **[[Standards/OMOP CDM\|OMOP CDM]]** — MeSH concepts mapped in the OMOP vocabulary (via Athena) for conditions and drug classes
 - **[[Platforms/dbGaP\|dbGaP]]** — phenotype descriptions in GWAS studies use MeSH disease terms
-- **[[Governance/NIF\|NIF]]** — RRID registry uses MeSH for resource categorisation
+- **[[Platforms/NIF\|NIF]]** — RRID registry uses MeSH for resource categorisation
 - **[[Standards/GO\|GO]]** / **[[Standards/HPO\|HPO]]** alignment — MeSH disease terms cross-referenced with HPO phenotype terms and GO biological process terms
 
 ## Relationship to Other Disease Terminologies
@@ -40,7 +40,7 @@ MeSH, [[Standards/ICD-10\|ICD-10]], [[Standards/SNOMED CT\|SNOMED CT]], and [[St
 
 ## Connections
 - Produced by: NLM / NIH
-- Used by: PubMed, [[Platforms/ClinicalTrials.gov\|ClinicalTrials.gov]], [[Platforms/dbGaP\|dbGaP]], [[Standards/OMOP CDM\|OMOP CDM]], [[Governance/NIF\|NIF]]
+- Used by: PubMed, [[Platforms/ClinicalTrials.gov\|ClinicalTrials.gov]], [[Platforms/dbGaP\|dbGaP]], [[Standards/OMOP CDM\|OMOP CDM]], [[Platforms/NIF\|NIF]]
 - Maps to: [[Standards/SNOMED CT\|SNOMED CT]], [[Standards/ICD-10\|ICD-10]], [[Standards/MONDO\|MONDO]], [[Standards/HPO\|HPO]] (via cross-references)
 - Complements: [[Standards/RxNorm\|RxNorm]] (MeSH covers drug classes; RxNorm covers clinical formulations)
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (PubMed literature search; ClinicalTrials.gov registration; OMOP CDM concept mapping)

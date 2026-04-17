@@ -27,7 +27,7 @@ openMINDS schemas are designed to fulfil the FAIR principles:
 - Required for: [[Platforms/EBRAINS\|EBRAINS]] data and model sharing
 - Uses: [[Standards/UBERON\|UBERON]] (brain region annotation), [[Standards/BIDS\|BIDS]] (dataset organisation), [[Standards/NWB\|NWB]] (electrophysiology data format)
 - Complements: [[Standards/REMBI\|REMBI]] (microscopy metadata), [[Standards/BIDS\|BIDS]] (neuroimaging organisation)
-- Relevant to: [[Platforms/EBRAINS\|EBRAINS]] member institutions, [[Actors/Donders Institute\|Donders Institute]], [[Governance/Human Brain Project\|Human Brain Project]]
+- Relevant to: [[Platforms/EBRAINS\|EBRAINS]] member institutions, [[Actors/Donders Institute\|Donders Institute]], [[Actors/Human Brain Project\|Human Brain Project]]
 
 ## Resources
 - https://openminds.ebrains.eu

@@ -26,13 +26,12 @@ The **GA4GH Neuroscience Community** (https://www.ga4gh.org/community/neuroscien
 - Adapting [[Standards/Phenopackets\|Phenopackets]] and [[Standards/VCF\|VCF]] for neurological disease genomics
 - Connecting brain disease genomics with clinical phenotype data ([[Standards/HPO\|HPO]], [[Standards/ORDO\|ORDO]])
 - Interoperability between genomics repositories ([[Platforms/EGA\|EGA]], [[Platforms/dbGaP\|dbGaP]]) and neuroscience data archives ([[Platforms/DANDI Archive\|DANDI Archive]], [[Platforms/OpenNeuro\|OpenNeuro]])
-- Relevant to [[Actors/Paris Brain Institute\|Paris Brain Institute]] through neurogenomics programmes and [[Actors/iGENSEQ\|iGENSEQ]] data deposition
 
 ## Connections
 - Standards produced: [[Standards/VCF\|VCF]], [[Standards/Phenopackets\|Phenopackets]], [[Standards/SAM-BAM-CRAM\|SAM-BAM-CRAM]]
 - Ontologies used: [[Standards/HPO\|HPO]] (Human Phenotype Ontology, integrated in Phenopackets)
 - Interoperates with: [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/SNOMED CT\|SNOMED CT]]
-- Adopted by: [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/ELIXIR\|ELIXIR]], [[Actors/UK Biobank\|UK Biobank]], [[Governance/Health Data Hub\|Health Data Hub]]
+- Adopted by: [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/ELIXIR\|ELIXIR]], [[Actors/UK Biobank\|UK Biobank]], [[Platforms/Health Data Hub\|Health Data Hub]]
 - Required by: [[Governance/EHDS\|EHDS]] (genomic data secondary use from March 2031)
 - Partners: [[Actors/INCF\|INCF]] (GA4GH–INCF Neuroscience Community co-lead programme)
 - Related: [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/EATRIS\|EATRIS]], [[Governance/ECRIN\|ECRIN]]

@@ -8,7 +8,7 @@
 ## Overview
 BBMRI-ERIC (Biobanking and Biomolecular Resources Research Infrastructure — European Research Infrastructure Consortium) is the European research infrastructure for biobanking, connecting national biobank networks across 20+ member countries to enable standardised biological sample and data sharing for biomedical research. Established as an ERIC in 2013 under ESFRI coordination, BBMRI-ERIC provides the governance, standards, and IT infrastructure that allow researchers to discover, access, and use biological samples and associated data from biobanks across Europe.
 
-For [[Actors/Paris Brain Institute\|Paris Brain Institute]], BBMRI-ERIC is directly relevant through the [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]] — ICM's biobank which operates within the French BIOBANQUES node of BBMRI-ERIC — and through [[Actors/Institut de Myologie\|Institut de Myologie]]'s Myobank-AFM, which also participates in the BBMRI-ERIC network.
+For [[Actors/Paris Brain Institute\|Paris Brain Institute]], BBMRI-ERIC is directly relevant through the [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]] — [[Actors/Paris Brain Institute\|ICM]]'s biobank which operates within the French BIOBANQUES node of BBMRI-ERIC — and through [[Actors/Institut de Myologie\|Institut de Myologie]]'s Myobank-AFM, which also participates in the BBMRI-ERIC network.
 
 ## Structure
 
@@ -28,11 +28,11 @@ BBMRI-ERIC is part of the ESFRI Health and Food Research Infrastructure cluster 
 
 ## Connections
 - French node: BIOBANQUES (federates French biobanks including [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]])
-- ICM connection: [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]] (neurology biobank), [[Actors/Institut de Myologie\|Institut de Myologie]] (Myobank-AFM — neuromuscular biobank)
+- [[Actors/Paris Brain Institute\|ICM]] connection: [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]] (neurology biobank), [[Actors/Institut de Myologie\|Institut de Myologie]] (Myobank-AFM — neuromuscular biobank)
 - ESFRI cluster: [[Governance/ELIXIR\|ELIXIR]], [[Governance/EATRIS\|EATRIS]], [[Governance/ECRIN\|ECRIN]], [[Governance/Euro-BioImaging\|Euro-BioImaging]]
 - Standards: [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/VCF\|VCF]], [[Standards/Phenopackets\|Phenopackets]], MIABIS
 - Access governance: [[Actors/GA4GH\|GA4GH]] DUO (Data Use Ontology) for consent term machine-reading
-- Partners: [[Governance/Health Data Hub\|Health Data Hub]], [[Actors/UK Biobank\|UK Biobank]], [[Governance/EOSC\|EOSC]], [[Actors/GA4GH\|GA4GH]]
+- Partners: [[Platforms/Health Data Hub\|Health Data Hub]], [[Actors/UK Biobank\|UK Biobank]], [[Governance/EOSC\|EOSC]], [[Actors/GA4GH\|GA4GH]]
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (Banque ADN et Cellules BBMRI integration; sample discovery for neurological disease research)
 
 ## Resources

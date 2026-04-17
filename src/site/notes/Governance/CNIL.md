@@ -17,7 +17,7 @@ Health data is a special category under GDPR (Article 9) and requires explicit l
 
 ## Relationship to Health Data Hub and SNDS
 
-Access to the [[Platforms/SNDS\|SNDS]] via the [[Governance/Health Data Hub\|Health Data Hub]] is conditional on CNIL authorisation or conformity to the relevant reference methodology for SNDS-based research. The [[Governance/Health Data Hub\|Health Data Hub]] operates under a CNIL-approved framework and acts as a trusted intermediary, but individual research projects accessing [[Platforms/SNDS\|SNDS]] data through the platform must still obtain their own CNIL clearance. CNIL audits [[Governance/Health Data Hub\|Health Data Hub]] operations and has previously issued formal notices regarding data hosting arrangements.
+Access to the [[Platforms/SNDS\|SNDS]] via the [[Platforms/Health Data Hub\|Health Data Hub]] is conditional on CNIL authorisation or conformity to the relevant reference methodology for SNDS-based research. The [[Platforms/Health Data Hub\|Health Data Hub]] operates under a CNIL-approved framework and acts as a trusted intermediary, but individual research projects accessing [[Platforms/SNDS\|SNDS]] data through the platform must still obtain their own CNIL clearance. CNIL audits [[Platforms/Health Data Hub\|Health Data Hub]] operations and has previously issued formal notices regarding data hosting arrangements.
 
 ## Relationship to Biobanks and Genomics
 
@@ -25,7 +25,7 @@ Access to the [[Platforms/SNDS\|SNDS]] via the [[Governance/Health Data Hub\|Hea
 
 ## Relationship to GDPR and EHDS
 
-CNIL is France's designated supervisory authority under GDPR and participates in the European Data Protection Board (EDPB), which coordinates enforcement across EU member states. In the context of the [[Governance/EHDS\|EHDS]] (European Health Data Space), CNIL will play a role in overseeing French compliance with the secondary use provisions of the regulation, working alongside the [[Governance/Health Data Hub\|Health Data Hub]] in its role as the candidate French Health Data Access Body (HDAB).
+CNIL is France's designated supervisory authority under GDPR and participates in the European Data Protection Board (EDPB), which coordinates enforcement across EU member states. In the context of the [[Governance/EHDS\|EHDS]] (European Health Data Space), CNIL will play a role in overseeing French compliance with the secondary use provisions of the regulation, working alongside the [[Platforms/Health Data Hub\|Health Data Hub]] in its role as the candidate French Health Data Access Body (HDAB).
 
 ## Relationship to ANS and Code de la Santé Publique
 
@@ -33,9 +33,9 @@ CNIL works in close coordination with [[Governance/ANS\|ANS]] on health IT stand
 
 ## Connections
 
-- Oversees: [[Governance/Health Data Hub\|Health Data Hub]], [[Platforms/SNDS\|SNDS]], [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]], all French health research data processing
+- Oversees: [[Platforms/Health Data Hub\|Health Data Hub]], [[Platforms/SNDS\|SNDS]], [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]], all French health research data processing
 - GDPR supervisory authority relevant to: [[Platforms/EGA\|EGA]] data transfers, [[Platforms/dbGaP\|dbGaP]] data transfers, [[Standards/OMOP CDM\|OMOP CDM]] deployments at [[Governance/AP-HP\|AP-HP]]
-- Coordinates with: [[Governance/ANS\|ANS]], [[Governance/Health Data Hub\|Health Data Hub]], CESREES, CPP (Comités de Protection des Personnes)
+- Coordinates with: [[Governance/ANS\|ANS]], [[Platforms/Health Data Hub\|Health Data Hub]], CESREES, CPP (Comités de Protection des Personnes)
 - Legislative basis: [[Governance/Code de la Sante Publique\|Code de la Sante Publique]], Loi Informatique et Libertés, GDPR
 - European coordination: European Data Protection Board (EDPB)
 - Relevant to: [[Governance/EHDS\|EHDS]], [[Actors/iGENSEQ\|iGENSEQ]], [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]], [[Actors/DAC\|DAC]]

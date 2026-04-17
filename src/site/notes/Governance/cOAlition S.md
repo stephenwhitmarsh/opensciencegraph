@@ -17,7 +17,7 @@ The ten Plan S principles cover licence requirements, quality standards for open
 
 - **Rights Retention Strategy (RRS)**: researchers retain copyright in their accepted manuscript by asserting a CC BY licence at submission, regardless of the publisher's default terms; this allows deposit in an open repository even if the journal is not fully open access
 - **Transformative agreements**: funders support "read and publish" or "publish and read" agreements with publishers as a transitional mechanism, provided these agreements include a clear end date and a commitment to full open access
-- **Approved repositories**: Plan S recognises a set of approved open access repositories; [[Platforms/Zenodo\|Zenodo]], [[Governance/HAL\|HAL]], [[Governance/OpenAIRE\|OpenAIRE]] and institutional repositories with appropriate metadata and licence policies qualify
+- **Approved repositories**: Plan S recognises a set of approved open access repositories; [[Platforms/Zenodo\|Zenodo]], [[Platforms/HAL\|HAL]], [[Platforms/OpenAIRE\|OpenAIRE]] and institutional repositories with appropriate metadata and licence policies qualify
 - **Journal checker tool**: a public tool allowing researchers to verify whether a specific journal is compliant with their funder's Plan S implementation
 
 ## Member Funders
@@ -33,16 +33,16 @@ cOAlition S membership includes major European and international funders. Member
 
 ## Relationship to Open Infrastructure
 
-cOAlition S actively supports open access infrastructure over commercial platforms. The initiative funds and endorses [[Governance/OpenAIRE\|OpenAIRE]] as a key technical implementation partner. [[Platforms/Zenodo\|Zenodo]], operated by CERN and [[Governance/OpenAIRE\|OpenAIRE]], is one of the primary Plan S compliant repositories. The Rights Retention Strategy specifically encourages deposit in institutional repositories and subject repositories alongside or instead of publisher-hosted versions, strengthening the role of [[Governance/HAL\|HAL]] in the French context and [[bioRxiv\|bioRxiv]]/[[medRxiv\|medRxiv]] (see [[Platforms/Preprint Servers\|Preprint Servers]]) as compliant deposit routes.
+cOAlition S actively supports open access infrastructure over commercial platforms. The initiative funds and endorses [[Platforms/OpenAIRE\|OpenAIRE]] as a key technical implementation partner. [[Platforms/Zenodo\|Zenodo]], operated by CERN and [[Platforms/OpenAIRE\|OpenAIRE]], is one of the primary Plan S compliant repositories. The Rights Retention Strategy specifically encourages deposit in institutional repositories and subject repositories alongside or instead of publisher-hosted versions, strengthening the role of [[Platforms/HAL\|HAL]] in the French context and [[bioRxiv\|bioRxiv]]/[[medRxiv\|medRxiv]] (see [[Platforms/Preprint Servers\|Preprint Servers]]) as compliant deposit routes.
 
 ## Connections
 
 - Secretariat: Science Europe
 - French implementation: [[Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/CNRS Open Science\|CNRS Open Science]], [[Governance/Inserm Open Science\|Inserm Open Science]]
 - European implementation: [[Governance/EC Open Science Policy\|EC Open Science Policy]], [[Governance/EOSC\|EOSC]]
-- Compliant repositories: [[Platforms/Zenodo\|Zenodo]], [[Governance/HAL\|HAL]], [[Governance/OpenAIRE\|OpenAIRE]], [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]]
+- Compliant repositories: [[Platforms/Zenodo\|Zenodo]], [[Platforms/HAL\|HAL]], [[Platforms/OpenAIRE\|OpenAIRE]], [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]]
 - Compliant preprint servers: [[Platforms/Preprint Servers\|Preprint Servers]] (bioRxiv, medRxiv)
-- Technical partner: [[Governance/OpenAIRE\|OpenAIRE]]
+- Technical partner: [[Platforms/OpenAIRE\|OpenAIRE]]
 - Relevant funders: ANR, ERC, UKRI, Wellcome Trust, NWO, FWO
 
 ## Resources

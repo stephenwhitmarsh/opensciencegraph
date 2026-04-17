@@ -22,28 +22,28 @@ Builds on and extends the NNCR: mutualized HPC and cloud resources across IFB's 
 ### FAIR Data Management and AI
 - Develops FAIR-compliant data management frameworks for multi-omics, imaging, and phenotype data integration
 - Addresses AI for life sciences through standardised data pipelines compatible with machine learning workflows
-- Provides structured DMP support via [[Governance/OPIDoR\|OPIDoR]] tooling
+- Provides structured DMP support via [[Platforms/OPIDoR\|OPIDoR]] tooling
 
 ### Implementation Studies (Thematic Pilots)
 Five case studies demonstrating the framework across different communities:
 1. **IS1** — multi-omics and imaging integration (most relevant to neuroscience)
 2. **IS2** — marine ecology (EMBRC France)
-3. **IS3** — health data (interfaces with [[Governance/Health Data Hub\|Health Data Hub]] ecosystem)
+3. **IS3** — health data (interfaces with [[Platforms/Health Data Hub\|Health Data Hub]] ecosystem)
 4. **IS4** — microbial research
 5. **IS5** — agriculture
 
 ## Relevance to Paris Brain Institute
 For [[Actors/Paris Brain Institute\|Paris Brain Institute]], MUDIS4LS is relevant through:
-- **IS1 (multi-omics + imaging integration)** — directly addresses the challenge of combining neuroimaging data ([[Standards/BIDS\|BIDS]] / [[Governance/CATI\|CATI]]) with genomics ([[Actors/iGENSEQ\|iGENSEQ]]) and clinical data ([[Standards/OMOP CDM\|OMOP CDM]]) in a FAIR-compliant framework
-- **IS3 (health data)** — interfaces with [[Governance/Health Data Hub\|Health Data Hub]] and [[Governance/EHDS\|EHDS]] secondary use infrastructure
-- **DAC connectivity** — ICM's Data Analysis Core uses IFB platforms and benefits from the NNCR computing resources extended under MUDIS4LS
+- **IS1 (multi-omics + imaging integration)** — directly addresses the challenge of combining neuroimaging data ([[Standards/BIDS\|BIDS]] / [[Actors/CATI\|CATI]]) with genomics ([[Actors/iGENSEQ\|iGENSEQ]]) and clinical data ([[Standards/OMOP CDM\|OMOP CDM]]) in a FAIR-compliant framework
+- **IS3 (health data)** — interfaces with [[Platforms/Health Data Hub\|Health Data Hub]] and [[Governance/EHDS\|EHDS]] secondary use infrastructure
+- **DAC connectivity** — [[Actors/Paris Brain Institute\|ICM]]'s Data Analysis Core uses IFB platforms and benefits from the NNCR computing resources extended under MUDIS4LS
 
 ## Connections
 - Coordinated by: [[Governance/IFB\|IFB]] (IFB manages MUDIS4LS)
 - Part of: [[Governance/INBS\|INBS]] ecosystem
 - Data-producing infrastructure partners: France Génomique, [[Governance/France BioImaging\|France BioImaging]], [[Governance/France Life Imaging\|France Life Imaging]], EMBRC France, and others
-- Repository alignment: [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Governance/EOSC\|EOSC]], [[Governance/OpenAIRE\|OpenAIRE]]
-- DMP tooling: [[Governance/OPIDoR\|OPIDoR]] (FAIR compliance and data management plans)
+- Repository alignment: [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Governance/EOSC\|EOSC]], [[Platforms/OpenAIRE\|OpenAIRE]]
+- DMP tooling: [[Platforms/OPIDoR\|OPIDoR]] (FAIR compliance and data management plans)
 - Standards: [[Governance/FAIR Principles\|FAIR Principles]], [[Standards/BIDS\|BIDS]], [[Standards/VCF\|VCF]], [[Standards/OME File Formats\|OME File Formats]]
 - Policy: [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]]
 - Funded by: ANR Equipex+ PIA3 (France 2030 programme)

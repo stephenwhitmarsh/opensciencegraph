@@ -6,10 +6,10 @@
 # EOSC - European Open Science Cloud
 
 ## Overview
-EOSC is the EU's flagship open science infrastructure providing a federated ecosystem for research data, services, and tools across European research communities. It mandates [[Governance/FAIR Principles\|FAIR Principles]] for EU-funded research and integrates [[Platforms/EBRAINS\|EBRAINS]], [[Governance/OpenAIRE\|OpenAIRE]], [[Governance/ELIXIR\|ELIXIR]], and national infrastructures including French ones.
+EOSC is the EU's flagship open science infrastructure providing a federated ecosystem for research data, services, and tools across European research communities. It mandates [[Governance/FAIR Principles\|FAIR Principles]] for EU-funded research and integrates [[Platforms/EBRAINS\|EBRAINS]], [[Platforms/OpenAIRE\|OpenAIRE]], [[Governance/ELIXIR\|ELIXIR]], and national infrastructures including French ones.
 
 ## Connections
-- Integrated: [[Platforms/EBRAINS\|EBRAINS]], [[Governance/OpenAIRE\|OpenAIRE]], [[Governance/ELIXIR\|ELIXIR]], [[Platforms/Zenodo\|Zenodo]]
+- Integrated: [[Platforms/EBRAINS\|EBRAINS]], [[Platforms/OpenAIRE\|OpenAIRE]], [[Governance/ELIXIR\|ELIXIR]], [[Platforms/Zenodo\|Zenodo]]
 - Implements: [[Governance/FAIR Principles\|FAIR Principles]]
 - French alignment: [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]]
 - Partners: [[Governance/RDA\|RDA]]

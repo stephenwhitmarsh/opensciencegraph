@@ -39,7 +39,7 @@ Plain text; human-inspectable with standard tools (`head`, `grep`); used as inte
 The working standard. BGZF (Blocked GNU Zip Format) compression enables random access via `.bai` index files — a key property for variant calling and genome browsers. Tools: **samtools**, **Picard**, **GATK**, **IGV**. Typical size: 10–100 GB per whole-genome sample.
 
 ### CRAM
-Reference-based compression: instead of storing the full sequence, CRAM stores only differences from the reference genome, achieving 30–60% size reduction over BAM with no information loss (lossless) or minor approximation (lossy, for archiving). Requires access to the reference genome for decoding. Increasingly the archival standard — [[Platforms/EGA\|EGA]], SRA, and [[Actors/EMBL\|EMBL]]-EBI's ENA all accept CRAM. Governed by [[Actors/GA4GH\|GA4GH]]; encrypted CRAM via Crypt4GH is the recommended format for controlled-access human genomic data submission.
+Reference-based compression: instead of storing the full sequence, CRAM stores only differences from the reference genome, achieving 30–60% size reduction over BAM with no information loss (lossless) or minor approximation (lossy, for archiving). Requires access to the reference genome for decoding. Increasingly the archival standard — [[Platforms/EGA\|EGA]], SRA, and [[Actors/EMBL\|EMBL]]-EBI's [[Platforms/ENA\|ENA]] all accept CRAM. Governed by [[Actors/GA4GH\|GA4GH]]; encrypted CRAM via Crypt4GH is the recommended format for controlled-access human genomic data submission.
 
 ## Position in the NGS Pipeline
 
@@ -68,7 +68,7 @@ BAM/CRAM files are the primary submission format for controlled-access human gen
 - **[[Platforms/EGA\|EGA]]** (European Genome-phenome Archive) — CRAM recommended for all human WGS/WES submissions; Crypt4GH encryption required
 - **[[Platforms/dbGaP\|dbGaP]]** — BAM/CRAM for GWAS and WGS controlled-access submissions
 - **[[Platforms/NCBI GEO\|NCBI GEO]]** / SRA — BAM for aligned RNA-seq, ATAC-seq, ChIP-seq data
-- **[[Platforms/EVA\|EVA]]** — accepts VCF derived from BAM/CRAM processing; raw reads via ENA
+- **[[Platforms/EVA\|EVA]]** — accepts VCF derived from BAM/CRAM processing; raw reads via [[Platforms/ENA\|ENA]]
 
 ## GA4GH Standards Integration
 [[Actors/GA4GH\|GA4GH]] governs SAM/BAM/CRAM through the hts-specs repository and has built additional standards on top:
@@ -81,7 +81,7 @@ BAM/CRAM files are the primary submission format for controlled-access human gen
 - Governed by: [[Actors/GA4GH\|GA4GH]] (hts-specs)
 - Upstream format: [[Standards/FASTQ\|FASTQ]] (raw reads from sequencer)
 - Downstream formats: [[Standards/VCF\|VCF]] (variant calling), [[Standards/AnnData\|AnnData]] (expression quantification)
-- Deposited in: [[Platforms/EGA\|EGA]], [[Platforms/dbGaP\|dbGaP]], [[Platforms/NCBI GEO\|NCBI GEO]] / SRA, [[Platforms/EVA\|EVA]] (via ENA)
+- Deposited in: [[Platforms/EGA\|EGA]], [[Platforms/dbGaP\|dbGaP]], [[Platforms/NCBI GEO\|NCBI GEO]] / SRA, [[Platforms/EVA\|EVA]] (via [[Platforms/ENA\|ENA]])
 - Encryption: Crypt4GH ([[Actors/GA4GH\|GA4GH]] standard for controlled-access submissions)
 - Relevant to: [[Actors/iGENSEQ\|iGENSEQ]] (primary output of all WGS, WES, RNA-seq, ATAC-seq pipelines); [[Actors/DAC\|DAC]] (analysis pipelines operating on BAM/CRAM); [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]] (downstream of banked DNA)
 

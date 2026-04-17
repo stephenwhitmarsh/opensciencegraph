@@ -6,7 +6,7 @@
 # SNDS
 
 ## Overview
-The Système National des Données de Santé (SNDS) is the French national health data system, covering virtually the entire French population (67+ million people). It consolidates claims data from health insurance (SNIIRAM), hospital discharge summaries (PMSI), causes of death (CépiDC), and disability data. It is the primary resource for large-scale epidemiological, pharmacological, and clinical research in France, and is governed and made accessible via the [[Governance/Health Data Hub\|Health Data Hub]].
+The Système National des Données de Santé (SNDS) is the French national health data system, covering virtually the entire French population (67+ million people). It consolidates claims data from health insurance (SNIIRAM), hospital discharge summaries (PMSI), causes of death (CépiDC), and disability data. It is the primary resource for large-scale epidemiological, pharmacological, and clinical research in France, and is governed and made accessible via the [[Platforms/Health Data Hub\|Health Data Hub]].
 
 ## Scope and Coverage
 - **Population**: ~99% of French residents; longitudinal follow-up possible since 2003
@@ -16,7 +16,7 @@ The Système National des Données de Santé (SNDS) is the French national healt
 - **MDPH/CNSA** — disability compensation and care data (partial linkage)
 
 ## Data Access
-- **Authorized research access** via the [[Governance/Health Data Hub\|Health Data Hub]] Datalab (secure processing environment; no data export)
+- **Authorized research access** via the [[Platforms/Health Data Hub\|Health Data Hub]] Datalab (secure processing environment; no data export)
 - Access tiers: **Permanent access** (CNAM-approved standing committees, e.g. EPI-PHARE); **Project access** (requires CNIL authorisation + CESREES opinion for sensitive projects; INDS pathway); **Simplified access** for pre-approved uses (public health agencies, HAS)
 - Data is pseudonymised (not anonymised); individual-level re-identification is prohibited
 
@@ -26,7 +26,7 @@ The Système National des Données de Santé (SNDS) is the French national healt
 - Drug coding: ATC (Anatomical Therapeutic Chemical) via CIS/CIP codes
 - Laboratory: [[Standards/LOINC\|LOINC]] (in progress via ANS interoperability mandates)
 - Rare diseases: [[Standards/ORDO\|ORDO]] codes used in rare disease PMSI module (PMSI-CMD)
-- Standardisation pivot: [[Standards/OMOP CDM\|OMOP CDM]] (via [[Governance/Health Data Hub\|Health Data Hub]] Datalab transformation)
+- Standardisation pivot: [[Standards/OMOP CDM\|OMOP CDM]] (via [[Platforms/Health Data Hub\|Health Data Hub]] Datalab transformation)
 
 ## Standards and Interoperability
 - [[Standards/OMOP CDM\|OMOP CDM]] — HDH transforms SNDS extracts to OMOP for federated research
@@ -35,7 +35,7 @@ The Système National des Données de Santé (SNDS) is the French national healt
 - [[Governance/EHDS\|EHDS]] — SNDS is designated as the primary dataset for France's EHDS obligations; HDH is France's candidate HDAB (Health Data Access Body)
 
 ## Connections
-- Hosted and governed by: [[Governance/Health Data Hub\|Health Data Hub]]
+- Hosted and governed by: [[Platforms/Health Data Hub\|Health Data Hub]]
 - Hospital data source: [[Governance/AP-HP\|AP-HP]] (PMSI contribution from Assistance Publique)
 - Standards: [[Standards/ICD-10\|ICD-10]], [[Standards/CCAM\|CCAM]], [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/LOINC\|LOINC]], [[Standards/ORDO\|ORDO]]
 - European context: [[Governance/EHDS\|EHDS]], [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/EOSC\|EOSC]]

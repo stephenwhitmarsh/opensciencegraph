@@ -32,7 +32,6 @@ Large-scale multi-ethnic genomic studies using population biobanks:
 - Open data platforms: [[Platforms/Synapse AMP-AD\|Synapse AMP-AD]] (CommonMind, PsychENCODE data); [[Platforms/dbGaP\|dbGaP]], [[Platforms/NCBI GEO\|NCBI GEO]], [[Platforms/EGA\|EGA]] (controlled access genomics)
 - Consortia: [[Actors/ENIGMA Consortium\|ENIGMA Consortium]], CommonMind Consortium, PsychENCODE
 - Data formats: [[Standards/AnnData\|AnnData]], [[Standards/VCF\|VCF]], [[Platforms/NCBI GEO\|NCBI GEO]] formats
-- Relevant to ICM: [[Actors/iGENSEQ\|iGENSEQ]] (RNA-seq / scRNA-seq data); [[Actors/DAC\|DAC]] (analysis pipelines)
 - Cohorts: [[Actors/UK Biobank\|UK Biobank]]
 - CURE-ND peers: [[Actors/Paris Brain Institute\|Paris Brain Institute]], [[Actors/DZNE\|DZNE]], [[Actors/UK DRI\|UK DRI]] (neurodegeneration overlap)
 

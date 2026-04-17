@@ -3,10 +3,10 @@
 ---
 
 
-# Banque ADN et Cellules — ICM DNA and Cell Bank
+# Banque ADN et Cellules — [[Actors/Paris Brain Institute\|ICM]] DNA and Cell Bank
 
 ## Overview
-The Banque ADN et Cellules is [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s biological resource centre (BRC) for neurological disease research, hosted at ICM as one of its 10 core technological platforms. It collects, processes, stores, and distributes biological resources — DNA, RNA, cells, CSF, plasma, and iPSCs — from patients with neurological disorders and healthy controls. The bank supports ICM research teams and external academic and industrial collaborators in accessing biological material for neurogenomics, biomarker discovery, and translational research.
+The Banque ADN et Cellules is [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s biological resource centre (BRC) for neurological disease research, hosted at [[Actors/Paris Brain Institute\|ICM]] as one of its 10 core technological platforms. It collects, processes, stores, and distributes biological resources — DNA, RNA, cells, CSF, plasma, and iPSCs — from patients with neurological disorders and healthy controls. The bank supports [[Actors/Paris Brain Institute\|ICM]] research teams and external academic and industrial collaborators in accessing biological material for neurogenomics, biomarker discovery, and translational research.
 
 ## Biological Resources Collected
 - **DNA** — germline genomic DNA from neurological disease patients (Alzheimer's, Parkinson's, ALS, MS, rare neurological diseases)

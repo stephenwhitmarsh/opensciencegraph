@@ -6,7 +6,7 @@
 # HPO - Human Phenotype Ontology
 
 ## Overview
-The Human Phenotype Ontology is the standard controlled vocabulary for describing human disease phenotypes — abnormal morphological, physiological, and behavioural features — in a machine-readable, hierarchically organised format. With 18,000+ terms covering all organ systems including the nervous system, HPO is the primary phenotype language for rare disease genomics globally. It is directly integrated into [[Standards/Phenopackets\|Phenopackets]] and is used by virtually every rare disease gene discovery programme, including neurological disease cohorts relevant to [[Actors/Paris Brain Institute\|Paris Brain Institute]].
+The Human Phenotype Ontology is the standard controlled vocabulary for describing human disease phenotypes — abnormal morphological, physiological, and behavioural features — in a machine-readable, hierarchically organised format. With 18,000+ terms covering all organ systems including the nervous system, HPO is the primary phenotype language for rare disease genomics globally. It is directly integrated into [[Standards/Phenopackets\|Phenopackets]] and is used by virtually every rare disease gene discovery programme.
 
 ## Created / Governed By
 - The Jackson Laboratory (JAX) and the Monarch Initiative — primary development
@@ -29,7 +29,6 @@ HPO's neurological and psychiatric sub-ontologies are among the most detailed, c
 - Governed by: [[Actors/GA4GH\|GA4GH]] (via Phenopackets Work Stream)
 - Maps to: [[Standards/SNOMED CT\|SNOMED CT]], [[Standards/OMOP CDM\|OMOP CDM]] (via concept mapping)
 - Complements: [[Standards/MONDO\|MONDO]] (disease-level), [[Standards/ORDO\|ORDO]] (rare disease specifics)
-- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (rare neurological disease research)
 - Part of: [[Governance/OBO Foundry\|OBO Foundry]] (https://obofoundry.org/ontology/hp.html)
 
 ## Resources

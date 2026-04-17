@@ -38,7 +38,7 @@ OSIRIS relies on international standards throughout:
 - Core contributors: [[Actors/Institut Curie\|Institut Curie]], Institut Bergonié, Centre Léon Bérard; AP-HP HEGP
 - French governance: [[Governance/Code de la Sante Publique\|Code de la Sante Publique]], CNIL, [[Governance/ANS\|ANS]]
 - Standards: [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/ICD-10\|ICD-10]], [[Standards/MedDRA\|MedDRA]], [[Standards/RxNorm\|RxNorm]], [[Standards/ATC\|ATC]], [[Standards/OMOP CDM\|OMOP CDM]], [[Platforms/i2b2\|i2b2]]
-- Related French oncology infrastructure: SIRICs, Unicancer, [[Governance/Health Data Hub\|Health Data Hub]]
+- Related French oncology infrastructure: SIRICs, Unicancer, [[Platforms/Health Data Hub\|Health Data Hub]]
 - Relevant to [[Actors/Paris Brain Institute\|Paris Brain Institute]]: neuro-oncology data sharing context; OSIRIS is the French standard for multi-centre cancer genomics trials
 
 ## Resources

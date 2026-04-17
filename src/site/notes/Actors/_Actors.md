@@ -6,17 +6,18 @@
 
 *[[MOC\|MOC]]*
 
-This index covers all organisational nodes in the graph: research institutes, international consortia, funding bodies, genomics organisations, bioimaging bodies, and ICM's own internal platforms and core facilities. The central node of the entire graph is [[Actors/Paris Brain Institute\|Paris Brain Institute]] (ICM), whose platforms and affiliations drive much of the network's topology.
-
----
+This index covers all organisational nodes in the graph: research institutes, international consortia, funding bodies, genomics organisations, bioimaging bodies, and [[Actors/Paris Brain Institute\|ICM]]'s own internal platforms and core facilities. The central node of the entire graph is [[Actors/Paris Brain Institute\|Paris Brain Institute]] (ICM), whose platforms and affiliations drive much of the network's topology.
 
 ## ICM — Paris Brain Institute and Core Facilities
 
-- [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]] — ICM DNA and cell biobank; [[Governance/IBiSA\|IBiSA]]-labelled; [[Governance/BBMRI-ERIC\|BBMRI-ERIC]] partner; upstream source for [[Actors/iGENSEQ\|iGENSEQ]]
-- [[Actors/CENIR\|CENIR]] — ICM neuroimaging centre; 3T MRI x2, PET-MRI, MEG; [[Governance/France Life Imaging\|France Life Imaging]] node; data via [[Governance/CATI\|CATI]]
-- [[Actors/DAC\|DAC]] — ICM Data Analysis Core; bioinformatics, statistics, FAIR workflows; [[Governance/IFB\|IFB]]/[[Governance/OPIDoR\|OPIDoR]] interface
-- [[Actors/iGENSEQ\|iGENSEQ]] — ICM NGS platform; RNA-seq, scRNA-seq, WGS/WES; data to [[Platforms/NCBI GEO\|NCBI GEO]] / [[Platforms/EGA\|EGA]] / [[Platforms/EVA\|EVA]]
-- [[Actors/Paris Brain Institute\|Paris Brain Institute]] — ICM; central node of this graph; hosts [[Actors/CENIR\|CENIR]], [[Governance/CATI\|CATI]], [[Actors/iGENSEQ\|iGENSEQ]], [[Actors/DAC\|DAC]], [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]] and 5 other platforms
+- [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]] — [[Actors/Paris Brain Institute\|ICM]] DNA and cell biobank; [[Governance/IBiSA\|IBiSA]]-labelled; [[Governance/BBMRI-ERIC\|BBMRI-ERIC]] partner; upstream source for [[Actors/iGENSEQ\|iGENSEQ]]
+- [[Actors/CATI\|CATI]] — [[Actors/Paris Brain Institute\|ICM]] neuroimaging data centre; multi-site MRI harmonisation, BIDS conversion, QC pipelines; [[Governance/France Life Imaging\|France Life Imaging]] node
+- [[Actors/CENIR\|CENIR]] — [[Actors/Paris Brain Institute\|ICM]] neuroimaging centre; 3T MRI x2, PET-MRI, MEG; [[Governance/France Life Imaging\|France Life Imaging]] node; data via [[Actors/CATI\|CATI]]
+- [[Actors/CIC Neurosciences\|CIC Neurosciences]] — INSERM CIC-1422; Inserm/[[Governance/AP-HP\|AP-HP]] clinical trial platform at Pitié-Salpêtrière; ~80 studies/year; [[Governance/ECRIN\|ECRIN]] node via F-CRIN
+- [[Actors/DAC\|DAC]] — [[Actors/Paris Brain Institute\|ICM]] Data Analysis Core; bioinformatics, statistics, FAIR workflows; [[Governance/IFB\|IFB]]/[[Platforms/OPIDoR\|OPIDoR]] interface
+- [[Actors/iCRIN\|iCRIN]] — [[Actors/Paris Brain Institute\|ICM]] translational clinical research programme; 13 disease-area themes; backed by [[Actors/CIC Neurosciences\|CIC Neurosciences]]
+- [[Actors/iGENSEQ\|iGENSEQ]] — [[Actors/Paris Brain Institute\|ICM]] NGS platform; RNA-seq, scRNA-seq, WGS/WES; data to [[Platforms/NCBI GEO\|NCBI GEO]] / [[Platforms/EGA\|EGA]] / [[Platforms/EVA\|EVA]]
+- [[Actors/Paris Brain Institute\|Paris Brain Institute]] — ICM; central node of this graph; hosts [[Actors/CENIR\|CENIR]], [[Actors/CATI\|CATI]], [[Actors/iGENSEQ\|iGENSEQ]], [[Actors/DAC\|DAC]], [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]] and 5 other platforms
 
 ## Paris and French Peer Institutions
 
@@ -24,7 +25,7 @@ This index covers all organisational nodes in the graph: research institutes, in
 - [[Actors/Institut Curie\|Institut Curie]] — PICT-IBiSA imaging platform; [[Governance/France BioImaging\|France BioImaging]] node; [[Governance/QUAREP-LiMi\|QUAREP-LiMi]] participation
 - [[Actors/Institut de Myologie\|Institut de Myologie]] — international reference centre for neuromuscular diseases; co-located at Pitie-Salpetriere; founding [[Governance/NeurATRIS\|NeurATRIS]] node
 - [[Actors/Institut Pasteur\|Institut Pasteur]] — founding [[Governance/France BioImaging\|France BioImaging]] node; Icy software; strong open science policy (90% OA)
-- [[Actors/Sorbonne Universite\|Sorbonne Universite]] — founding governing member of ICM; Faculty of Medicine at Pitie-Salpetriere; strong open science policy
+- [[Actors/Sorbonne Universite\|Sorbonne Universite]] — founding governing member of [[Actors/Paris Brain Institute\|ICM]]; Faculty of Medicine at Pitie-Salpetriere; strong open science policy
 
 ## CURE-ND Alliance Partners
 
@@ -40,7 +41,8 @@ This index covers all organisational nodes in the graph: research institutes, in
 - [[Actors/Brain-MINDS\|Brain-MINDS]] — Japan's AMED-funded brain mapping programme; open marmoset atlas; SRPBS dataset on [[Platforms/OpenNeuro\|OpenNeuro]]
 - [[Actors/CONP\|CONP]] — Canadian Open Neuroscience Platform; federated [[Standards/BIDS\|BIDS]] portal; DataLad backend
 - [[Actors/Donders Institute\|Donders Institute]] — European open-data pioneer; FieldTrip toolbox; mandatory data sharing policy
-- [[Actors/ENIGMA Consortium\|ENIGMA Consortium]] — federated meta-analysis across 45+ working groups; ICM participates
+- [[Actors/ENIGMA Consortium\|ENIGMA Consortium]] — federated meta-analysis across 45+ working groups; [[Actors/Paris Brain Institute\|ICM]] participates
+- [[Actors/Human Brain Project\|Human Brain Project]] — EU Horizon Flagship (2013–2023); created [[Platforms/EBRAINS\|EBRAINS]]; Julich Brain Atlas; [[Standards/openMINDS\|openMINDS]]; [[Actors/Paris Brain Institute\|ICM]] participant
 - [[Actors/Human Connectome Project\|Human Connectome Project]] — landmark open MRI dataset; produced [[Standards/CIFTI\|CIFTI]] format
 - [[Actors/IBL\|IBL]] — International Brain Laboratory; fully open data/code model; Brain Wide Map on [[Platforms/DANDI Archive\|DANDI Archive]]
 - [[Actors/INCF\|INCF]] — International Neuroinformatics Coordinating Facility; governs [[Standards/BIDS\|BIDS]], endorses [[Standards/NWB\|NWB]]/[[Standards/HED\|HED]]/[[Standards/NIDM\|NIDM]]
@@ -54,15 +56,13 @@ This index covers all organisational nodes in the graph: research institutes, in
 ## Genomics, Health Data and Informatics
 
 - [[Actors/GA4GH\|GA4GH]] — Global Alliance for Genomics and Health; governs [[Standards/VCF\|VCF]], [[Standards/Phenopackets\|Phenopackets]], Beacon, DRS, DUO
-- [[Actors/OHDSI\|OHDSI]] — Observational Health Data Sciences and Informatics; maintains [[Standards/OMOP CDM\|OMOP CDM]]; ATLAS, ACHILLES, HADES tools; 700M+ patient records globally
+- [[Actors/OHDSI\|OHDSI]] — Observational Health Data Sciences and Informatics; maintains [[Standards/OMOP CDM\|OMOP CDM]]; ATLAS, ACHILLES, HADES tools; 700M+ patient records globally; used by [[Platforms/EDS AP-HP\|EDS AP-HP]] and [[Platforms/Health Data Hub\|Health Data Hub]]
 - [[Actors/UK Biobank\|UK Biobank]] — 500,000 participants; 50,000+ brain MRI; genomics; RAP cloud platform
 
 ## Molecular Biology and Bioimaging
 
 - [[Actors/EMBL\|EMBL]] — European Molecular Biology Laboratory; operates EMBL-EBI ([[Platforms/EGA\|EGA]], [[Platforms/EVA\|EVA]], [[Platforms/IDR\|IDR]], ENA, Ensembl)
 - [[Actors/OME\|OME]] — Open Microscopy Environment; produces [[Standards/OME File Formats\|OME File Formats]] (OME-TIFF, OME-NGFF), Bio-Formats, [[Platforms/OMERO\|OMERO]]
-
----
 
 ## Filtering
 

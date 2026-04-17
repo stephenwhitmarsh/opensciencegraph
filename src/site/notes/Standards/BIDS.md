@@ -8,7 +8,7 @@
 ## Overview
 BIDS (Brain Imaging Data Structure) is the de facto community standard for organising and describing neuroimaging and electrophysiology datasets in a consistent, machine-readable directory and file naming structure. Published in 2016 (Gorgolewski et al., *Nature Scientific Data*), BIDS emerged from the need to eliminate the idiosyncratic, lab-specific dataset organisation that made sharing and reuse of neuroimaging data nearly impossible. It is now mandated or strongly recommended by all major neuroscience data repositories and is the primary format for open neuroimaging data worldwide.
 
-BIDS is governed by [[Actors/INCF\|INCF]] and the [[Governance/BIDS Steering Group\|BIDS Steering Group]] via an open, community-driven extension process. [[Governance/CATI\|CATI]] at [[Actors/Paris Brain Institute\|Paris Brain Institute]] uses BIDS for all its multi-site cohort data management.
+BIDS is governed by [[Actors/INCF\|INCF]] and the [[Governance/BIDS Steering Group\|BIDS Steering Group]] via an open, community-driven extension process. [[Actors/CATI\|CATI]] at [[Actors/Paris Brain Institute\|Paris Brain Institute]] uses BIDS for all its multi-site cohort data management.
 
 ## What BIDS Defines
 BIDS specifies:
@@ -55,7 +55,7 @@ BIDS distinguishes two dataset layers:
 - Requires: [[Standards/NIfTI\|NIfTI]] (mandatory MRI/PET image format within BIDS)
 - Compatible with: [[Standards/NIDM\|NIDM]] (provenance layer), [[Standards/HED\|HED]] (event annotation), [[Standards/EDF\|EDF]] (accepted EEG/iEEG format alongside BrainVision and FIF), [[Standards/BrainVision\|BrainVision]] (accepted research EEG format alongside EDF and FIF)
 - Required by: [[Platforms/OpenNeuro\|OpenNeuro]], [[Platforms/EBRAINS\|EBRAINS]], [[Platforms/DANDI Archive\|DANDI Archive]], [[Actors/CONP\|CONP]], [[Platforms/BrainLife.io\|BrainLife.io]]
-- Adopted by: [[Actors/ReproNim\|ReproNim]], [[Platforms/NeuroVault\|NeuroVault]], [[Platforms/LORIS\|LORIS]], [[Governance/CATI\|CATI]], [[Platforms/Neurobagel\|Neurobagel]], [[Actors/Paris Brain Institute\|Paris Brain Institute]]
+- Adopted by: [[Actors/ReproNim\|ReproNim]], [[Platforms/NeuroVault\|NeuroVault]], [[Platforms/LORIS\|LORIS]], [[Actors/CATI\|CATI]], [[Platforms/Neurobagel\|Neurobagel]], [[Actors/Paris Brain Institute\|Paris Brain Institute]]
 - Used with: [[Standards/DICOM\|DICOM]] (source format, converted via dcm2niix/heudiconv)
 - Reference publication: Gorgolewski et al. (2016) *Nature Scientific Data* doi:10.1038/sdata.2016.44
 

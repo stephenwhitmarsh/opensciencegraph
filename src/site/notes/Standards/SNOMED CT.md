@@ -8,7 +8,7 @@
 ## Overview
 SNOMED CT is the world's most comprehensive and widely used clinical healthcare terminology, maintained by SNOMED International (an international non-profit organisation). It contains over 350,000 active concepts covering diseases, clinical findings, procedures, body structures, substances, organisms, and observable entities — all described with formal, machine-readable definitions and organised in a polyhierarchical structure.
 
-SNOMED CT is the core clinical terminology for [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/HL7 FHIR\|HL7 FHIR]], and [[Standards/openEHR\|openEHR]], making it the foundational vocabulary layer for health data interoperability globally. France joined SNOMED International in 2023, enabling French health organisations including [[Governance/AP-HP\|AP-HP]] to use SNOMED CT under the international licence — directly relevant to the [[Governance/Health Data Hub\|Health Data Hub]] and [[Governance/EHDS\|EHDS]] ecosystem.
+SNOMED CT is the core clinical terminology for [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/HL7 FHIR\|HL7 FHIR]], and [[Standards/openEHR\|openEHR]], making it the foundational vocabulary layer for health data interoperability globally. France joined SNOMED International in 2023, enabling French health organisations including [[Governance/AP-HP\|AP-HP]] to use SNOMED CT under the international licence — directly relevant to the [[Platforms/Health Data Hub\|Health Data Hub]] and [[Governance/EHDS\|EHDS]] ecosystem.
 
 ## History
 - **1965** — SNOMED precursor (SNOP) created by the College of American Pathologists
@@ -36,7 +36,7 @@ Key concept hierarchies relevant to neuroscience:
 - French National Release provides French-language translations and France-specific extensions
 - Mandated for use in French EHR systems under the ANS interoperability framework
 - [[Governance/AP-HP\|AP-HP]] EDS (Entrepôt de Données de Santé) maps clinical data to SNOMED CT
-- [[Standards/OMOP CDM\|OMOP CDM]] deployments at [[Governance/Health Data Hub\|Health Data Hub]] use SNOMED CT as the primary condition and procedure vocabulary (via Athena)
+- [[Standards/OMOP CDM\|OMOP CDM]] deployments at [[Platforms/Health Data Hub\|Health Data Hub]] use SNOMED CT as the primary condition and procedure vocabulary (via Athena)
 
 ## Role in the Data Ecosystem
 
@@ -45,11 +45,11 @@ Key concept hierarchies relevant to neuroscience:
 | [[Standards/OMOP CDM\|OMOP CDM]] | Primary vocabulary for conditions, procedures, observations (domain: Condition, Procedure) |
 | [[Standards/HL7 FHIR\|HL7 FHIR]] | Coded values in Condition, Procedure, Observation, AllergyIntolerance resources |
 | [[Standards/openEHR\|openEHR]] | Archetype term bindings; preferred terminology for clinical concepts |
-| [[Governance/Health Data Hub\|Health Data Hub]] | Core terminology for EDS semantic standardisation |
+| [[Platforms/Health Data Hub\|Health Data Hub]] | Core terminology for EDS semantic standardisation |
 | [[Governance/EHDS\|EHDS]] | Mandated as primary clinical terminology for European health data spaces |
 
 ## Connections
-- Integrated into: [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/openEHR\|openEHR]], [[Governance/Health Data Hub\|Health Data Hub]]
+- Integrated into: [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/openEHR\|openEHR]], [[Platforms/Health Data Hub\|Health Data Hub]]
 - Used by: [[Governance/AP-HP\|AP-HP]] (EDS), [[Governance/ECRIN\|ECRIN]] (clinical trials), [[Governance/EHDS\|EHDS]] member states
 - Mandated by: [[Governance/EHDS\|EHDS]] (core clinical terminology for EHR content)
 - Maps to: [[Standards/ICD-10\|ICD-10]] / [[Standards/ICD-11\|ICD-11]] (official WHO cross-maps maintained by SNOMED International)
@@ -57,7 +57,6 @@ Key concept hierarchies relevant to neuroscience:
 - Harmonised by: [[Standards/MONDO\|MONDO]] (SNOMED disease concepts integrated into unified ontology)
 - Related: [[Standards/HPO\|HPO]] (phenotype layer — more granular for rare disease genomics)
 - French coordination: ANS (Agence du Numérique en Santé) — NRC France
-- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (OMOP CDM clinical data standardisation, AP-HP EDS linkage, EHDS compliance)
 
 ## Resources
 - https://www.snomed.org

@@ -10,7 +10,7 @@ EATRIS is a European Research Infrastructure Consortium (ERIC) that provides res
 
 ## Key Services Relevant to Neuroscience
 - **Biomarker development** — validated biomarker assays for neurological diseases (e.g. CSF biomarkers for Alzheimer's, neuroinflammation markers)
-- **Imaging** — access to PET tracers and imaging analysis for clinical trials; connects to [[Governance/France Life Imaging\|France Life Imaging]] and [[Governance/CATI\|CATI]] workflows
+- **Imaging** — access to PET tracers and imaging analysis for clinical trials; connects to [[Governance/France Life Imaging\|France Life Imaging]] and [[Actors/CATI\|CATI]] workflows
 - **Advanced therapies** — gene therapy, cell therapy access infrastructure
 - **Multi-omics** — transcriptomics, proteomics, metabolomics for disease stratification
 

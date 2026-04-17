@@ -9,7 +9,7 @@
 Health Data Research UK (HDR UK) is the UK's national institute for health data science, established in 2018 to accelerate the trustworthy use of health data for research and innovation that benefits patients and the public. It is funded by a consortium of UK public funders including UKRI (UK Research and Innovation), the Department of Health and Social Care in England (and equivalent devolved bodies), Wellcome Trust, British Heart Foundation, Cancer Research UK, and other major medical research charities.
 
 HDR UK operates through a distributed model, linking UK universities, NHS organisations, and national health data resources into a coherent research infrastructure. It is the
-UK's primary FAIR health data infrastructure and the institutional counterpart to France's [[Governance/Health Data Hub\|Health Data Hub]] within the broader [[Governance/EHDS\|EHDS]] (European Health Data Space) framework.
+UK's primary FAIR health data infrastructure and the institutional counterpart to France's [[Platforms/Health Data Hub\|Health Data Hub]] within the broader [[Governance/EHDS\|EHDS]] (European Health Data Space) framework.
 
 HDR UK participated in the 2026 CURE-ND AI/ML workshop alongside directors of [[Actors/Paris Brain Institute\|Paris Brain Institute]], [[Actors/UK DRI\|UK DRI]], [[Actors/DZNE\|DZNE]], and [[Actors/Mission Lucidity\|Mission Lucidity]], underscoring its role at the intersection of health data science and neurodegenerative disease research.
 
@@ -35,12 +35,12 @@ HDR UK implements [[Governance/FAIR Principles\|FAIR Principles]] across its pro
 - International alignment with [[Governance/EOSC\|EOSC]], [[Actors/GA4GH\|GA4GH]], and [[Governance/RDA\|RDA]]
 
 ## Connections
-- UK counterpart to: [[Governance/Health Data Hub\|Health Data Hub]] (France), [[Governance/EHDS\|EHDS]] (EU framework)
+- UK counterpart to: [[Platforms/Health Data Hub\|Health Data Hub]] (France), [[Governance/EHDS\|EHDS]] (EU framework)
 - Key datasets: [[Actors/UK Biobank\|UK Biobank]], NHS Digital, SAIL Databank
 - Standards: [[Standards/OMOP CDM\|OMOP CDM]], [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/DCAT\|DCAT]], [[Governance/FAIR Principles\|FAIR Principles]]
 - Consortia: [[Actors/UK DRI\|UK DRI]] (UK Health Data Research Alliance member); [[Governance/CURE-ND\|CURE-ND]] (invited participant in 2026 AI/ML workshop on health data and neurodegeneration)
 - International: [[Governance/EOSC\|EOSC]], [[Actors/GA4GH\|GA4GH]], [[Governance/RDA\|RDA]]
-- French parallel: [[Governance/Health Data Hub\|Health Data Hub]] (equivalent national health data institute)
+- French parallel: [[Platforms/Health Data Hub\|Health Data Hub]] (equivalent national health data institute)
 
 ## Resources
 - https://www.hdruk.ac.uk

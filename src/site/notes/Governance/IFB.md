@@ -14,7 +14,7 @@ The Institut Français de Bioinformatique is the French national bioinformatics 
 - **DSW@IFB** (https://dsw.france-bioinformatique.fr) — IFB's own Data Stewardship Wizard instance, an ELIXIR Recommended Interoperability Resource. IFB uses DSW primarily for **collaborative development of thematic DMP templates** for French life sciences infrastructures (France BioImaging, France Génomique, ProFI, MetaboHUB, etc.) and to build machine-actionable DMPs for infrastructure platforms. Free for academic users. Distinct from DMP OPIDoR (see below).
 - **DMP OPIDoR** — IFB **recommends** DMP OPIDoR (https://dmp.opidor.fr), which is hosted and operated by INIST-CNRS (not by IFB), as the primary DMP tool for French researchers writing project DMPs for ANR and other funders. IFB's maDMP4LS project has developed programmatic integration between DSW@IFB and DMP OPIDoR so that DMP data can flow between the two systems.
 - **FAIR-Checker** (https://fair-checker.france-bioinformatique.fr) — automated FAIR assessment tool for digital resources; developed by IFB, contributing to [[Governance/ELIXIR\|ELIXIR]] FAIR services
-- **Cat OPIDoR** — IFB's services are listed in Cat OPIDoR (the national RDM service catalogue operated by INIST-CNRS via [[Governance/OPIDoR\|OPIDoR]])
+- **Cat OPIDoR** — IFB's services are listed in Cat OPIDoR (the national RDM service catalogue operated by INIST-CNRS via [[Platforms/OPIDoR\|OPIDoR]])
 
 ### Computing Infrastructure
 - **National Network of Computing Resources (NNCR)** — distributed HPC infrastructure: IFB-core cloud (Lyon) and cluster (Orsay) plus 9 regional HPC platforms; open to French and international life sciences research
@@ -32,11 +32,11 @@ IFB is the operational life sciences bioinformatics node sitting between the pol
 ## Connections
 - European node: [[Governance/ELIXIR\|ELIXIR]] (ELIXIR-FR)
 - Disciplinary node: [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]] (life sciences competence centre)
-- DMP tools: DSW@IFB (IFB's own Data Stewardship Wizard instance for life sciences DMP template development); recommends [[Governance/OPIDoR\|OPIDoR]] DMP OPIDoR (operated by INIST-CNRS) for general project DMPs; interoperability between the two in development
+- DMP tools: DSW@IFB (IFB's own Data Stewardship Wizard instance for life sciences DMP template development); recommends [[Platforms/OPIDoR\|OPIDoR]] DMP OPIDoR (operated by INIST-CNRS) for general project DMPs; interoperability between the two in development
 - Policy alignment: [[Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/CNRS Open Science\|CNRS Open Science]]
 - Umbrella: [[Governance/INBS\|INBS]] (French national biology/health infrastructure network)
 - Partners: [[Governance/France BioImaging\|France BioImaging]], [[Governance/France Life Imaging\|France Life Imaging]], [[Actors/GA4GH\|GA4GH]] (genomics standards adoption)
-- Develops FAIR tools: FAIR-Checker (automated [[Governance/FAIR Principles\|FAIR Principles]] assessment), [[Governance/OPIDoR\|OPIDoR]] DMP tooling, usegalaxy.fr reproducible workflows
+- Develops FAIR tools: FAIR-Checker (automated [[Governance/FAIR Principles\|FAIR Principles]] assessment), [[Platforms/OPIDoR\|OPIDoR]] DMP tooling, usegalaxy.fr reproducible workflows
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (bioinformatics, genomics, DMP support, FAIR compliance)
 
 

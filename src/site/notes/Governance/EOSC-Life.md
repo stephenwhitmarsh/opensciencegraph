@@ -15,9 +15,9 @@ The 13 participating ESFRI (European Strategy Forum on Research Infrastructures)
 
 **Cloud-based analysis infrastructure**: EOSC-Life developed the Life Science Login (LS Login), a federated identity and access management system allowing researchers to use a single login across participating infrastructures. This is directly relevant to controlled-access data in [[Platforms/EGA\|EGA]], [[Governance/BBMRI-ERIC\|BBMRI-ERIC]] and clinical research contexts.
 
-**WorkflowHub**: a FAIR workflow registry (https://workflowhub.eu) allowing researchers to publish, share and reuse computational workflows with metadata, versioning and DOIs. WorkflowHub is developed with [[Governance/ELIXIR\|ELIXIR]] and supports CWL (Common Workflow Language), Nextflow, Galaxy and Snakemake workflows. It integrates with [[Platforms/Zenodo\|Zenodo]] for DOI minting and with [[Governance/ORCID\|ORCID]] for contributor attribution.
+**WorkflowHub**: a FAIR workflow registry (https://workflowhub.eu) allowing researchers to publish, share and reuse computational workflows with metadata, versioning and DOIs. WorkflowHub is developed with [[Governance/ELIXIR\|ELIXIR]] and supports CWL (Common Workflow Language), Nextflow, Galaxy and Snakemake workflows. It integrates with [[Platforms/Zenodo\|Zenodo]] for DOI minting and with [[Platforms/ORCID\|ORCID]] for contributor attribution.
 
-**FAIR data management tools**: EOSC-Life produced the Research Data Management Kit ([[Governance/RDMkit\|RDMkit]]) in collaboration with [[Governance/ELIXIR\|ELIXIR]], a community-maintained guide to FAIR data management for life scientists covering all stages of the data lifecycle. RDMkit is now maintained by [[Governance/ELIXIR\|ELIXIR]] as a long-term resource.
+**FAIR data management tools**: EOSC-Life produced the Research Data Management Kit ([[Platforms/RDMkit\|RDMkit]]) in collaboration with [[Governance/ELIXIR\|ELIXIR]], a community-maintained guide to FAIR data management for life scientists covering all stages of the data lifecycle. RDMkit is now maintained by [[Governance/ELIXIR\|ELIXIR]] as a long-term resource.
 
 **Cross-infrastructure demonstrators**: the project ran a series of cross-infrastructure use cases demonstrating end-to-end FAIR data sharing across participating infrastructures, including rare disease genomics ([[Governance/BBMRI-ERIC\|BBMRI-ERIC]] + [[Governance/ELIXIR\|ELIXIR]] + [[Governance/ECRIN\|ECRIN]]), COVID-19 data ([[Governance/ELIXIR\|ELIXIR]] + [[Governance/BBMRI-ERIC\|BBMRI-ERIC]]) and bioimaging ([[Governance/Euro-BioImaging\|Euro-BioImaging]] + [[Actors/EMBL\|EMBL]]).
 
@@ -30,9 +30,9 @@ Although the EOSC-Life project formally ended in 2023, its outputs continue unde
 - Funded by: [[Governance/EC Open Science Policy\|EC Open Science Policy]] (Horizon 2020)
 - Part of: [[Governance/EOSC\|EOSC]] ecosystem
 - Participating infrastructures (selected): [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/EATRIS\|EATRIS]], [[Governance/ECRIN\|ECRIN]], [[Governance/ELIXIR\|ELIXIR]], [[Actors/EMBL\|EMBL]], [[Governance/Euro-BioImaging\|Euro-BioImaging]]
-- Key outputs: WorkflowHub, LS Login, [[Governance/RDMkit\|RDMkit]]
-- [[Governance/RDMkit\|RDMkit]] maintained by: [[Governance/ELIXIR\|ELIXIR]]
-- WorkflowHub integrates with: [[Platforms/Zenodo\|Zenodo]], [[Governance/ORCID\|ORCID]]
+- Key outputs: WorkflowHub, LS Login, [[Platforms/RDMkit\|RDMkit]]
+- [[Platforms/RDMkit\|RDMkit]] maintained by: [[Governance/ELIXIR\|ELIXIR]]
+- WorkflowHub integrates with: [[Platforms/Zenodo\|Zenodo]], [[Platforms/ORCID\|ORCID]]
 - FAIR alignment: [[Governance/FAIR Principles\|FAIR Principles]], [[Governance/RDA\|RDA]]
 
 ## Resources

@@ -8,12 +8,10 @@
 
 This index covers all data platforms, repositories, and data capture systems in the graph. Sections are organised by data domain and research phase, from primary data deposition through to clinical trial infrastructure and general-purpose research data sharing.
 
----
-
 ## Neuroimaging Repositories
 
 - [[Platforms/DANDI Archive\|DANDI Archive]] — [[Actors/NIH BRAIN Initiative\|NIH BRAIN Initiative]] archive for neurophysiology ([[Standards/NWB\|NWB]] required)
-- [[Platforms/EBRAINS\|EBRAINS]] — EU brain research infrastructure; [[Standards/BIDS\|BIDS]] + [[Standards/NWB\|NWB]] + [[Standards/openMINDS\|openMINDS]]; ICM is member
+- [[Platforms/EBRAINS\|EBRAINS]] — EU brain research infrastructure; [[Standards/BIDS\|BIDS]] + [[Standards/NWB\|NWB]] + [[Standards/openMINDS\|openMINDS]]; [[Actors/Paris Brain Institute\|ICM]] is member
 - [[Platforms/NeuroVault\|NeuroVault]] — unthresholded statistical maps, parcellations, atlases; meta-analysis via Neurosynth
 - [[Platforms/OpenNeuro\|OpenNeuro]] — leading open [[Standards/BIDS\|BIDS]] repository (MRI, EEG, MEG, iEEG, PET); CC0/PDDL; DataLad
 
@@ -26,7 +24,7 @@ This index covers all data platforms, repositories, and data capture systems in 
 
 ## Neuroscience Multiomics
 
-- [[Platforms/Brain-CODE\|Brain-CODE]] — [[Actors/OBI\|OBI]] neuroinformatics platform; 240+ researchers; [[Platforms/LORIS\|LORIS]]/[[Platforms/XNAT\|XNAT]]/[[Actors/CONP\|CONP]] federation; FAIR; multimodal brain disorder data
+- [[Platforms/Brain-CODE\|Brain-CODE]] — [[Standards/OBI\|OBI]] neuroinformatics platform; 240+ researchers; [[Platforms/LORIS\|LORIS]]/[[Platforms/XNAT\|XNAT]]/[[Actors/CONP\|CONP]] federation; FAIR; multimodal brain disorder data
 - [[Platforms/Synapse AMP-AD\|Synapse AMP-AD]] — Sage Bionetworks; AMP-AD Knowledge Portal; CommonMind; PsychENCODE; open Alzheimer's and psychiatric brain multiomics
 
 ## Genomics and Sequence Archives
@@ -34,6 +32,7 @@ This index covers all data platforms, repositories, and data capture systems in 
 - [[Platforms/dbGaP\|dbGaP]] — NIH controlled-access repository for GWAS and human genotype-phenotype data
 - [[Platforms/DDBJ\|DDBJ]] — Japanese national sequence database; INSDC partner (mirrors NCBI/ENA)
 - [[Platforms/EGA\|EGA]] — [[Actors/EMBL\|EMBL]]-EBI/CRG controlled-access repository for human genomics and phenotypic data
+- [[Platforms/ENA\|ENA]] — [[Actors/EMBL\|EMBL]]-EBI open-access raw sequence archive; INSDC partner (mirrors NCBI SRA/[[Platforms/DDBJ\|DDBJ]])
 - [[Platforms/EVA\|EVA]] — [[Actors/EMBL\|EMBL]]-EBI open-access variant archive; short variants and structural variants
 - [[Platforms/NCBI GEO\|NCBI GEO]] — primary open-access repository for gene expression and functional genomics data
 - [[Platforms/NeMO Archive\|NeMO Archive]] — primary [[Actors/NIH BRAIN Initiative\|NIH BRAIN Initiative]] / [[Actors/BICAN\|BICAN]] multi-omics repository; single-cell brain atlas data
@@ -47,20 +46,28 @@ This index covers all data platforms, repositories, and data capture systems in 
 
 - [[Platforms/CleanWEB\|CleanWEB]] — Telemedicine Technologies eClinical suite; [[Governance/AP-HP\|AP-HP]] institutional eCRF platform since 2003; regulatory-grade clinical trials
 - [[Platforms/ClinicalTrials.gov\|ClinicalTrials.gov]] — world's largest clinical trial registry and results database (NLM/NIH)
+- [[Platforms/EDS AP-HP\|EDS AP-HP]] — AP-HP clinical data warehouse; 19M patients; [[Standards/OMOP CDM\|OMOP CDM]] + [[Standards/HL7 FHIR\|HL7 FHIR]]; Cohort360; CNIL-authorised since 2017
+- [[Platforms/Health Data Hub\|Health Data Hub]] — French national health data platform; SNDS (67M people); secure Datalab; [[Standards/OMOP CDM\|OMOP CDM]]; [[Governance/EHDS\|EHDS]] national HDAB candidate
 - [[Platforms/i2b2\|i2b2]] — clinical data warehousing platform; deployed at [[Governance/AP-HP\|AP-HP]] alongside [[Standards/OMOP CDM\|OMOP CDM]]
-- [[Platforms/REDCap\|REDCap]] — secure web-based eCRF and clinical data capture platform; supported at ICM by [[Actors/DAC\|DAC]]
-- [[Platforms/SNDS\|SNDS]] — Systeme National des Donnees de Sante; French national health data system; managed by [[Governance/Health Data Hub\|Health Data Hub]]; core resource for epidemiological and health economics research
+- [[Platforms/REDCap\|REDCap]] — secure web-based eCRF and clinical data capture platform; supported at [[Actors/Paris Brain Institute\|ICM]] by [[Actors/DAC\|DAC]]
+- [[Platforms/SNDS\|SNDS]] — Systeme National des Donnees de Sante; French national health data system; managed by [[Platforms/Health Data Hub\|Health Data Hub]]; core resource for epidemiological and health economics research
 - [[Platforms/VIVLI\|VIVLI]] — global clinical trial individual patient data sharing platform; controlled access enclave
 
 ## General Research Data and Publications
 
+- [[Platforms/data.gouv.fr\|data.gouv.fr]] — French government open data portal; umbrella for [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]] and [[Platforms/Health Data Hub\|Health Data Hub]]; operated by Etalab/DINUM
+- [[Platforms/DataCite\|DataCite]] — international DOI registration agency for research data and software; persistent identifier infrastructure underlying [[Platforms/Zenodo\|Zenodo]], [[Platforms/OpenNeuro\|OpenNeuro]], [[Platforms/DANDI Archive\|DANDI Archive]] and [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]]
+- [[Platforms/HAL\|HAL]] — French national open access publication archive; mandatory deposit under [[Governance/ANR Open Science Policy\|ANR]], [[Governance/CNRS Open Science\|CNRS]], [[Governance/Inserm Open Science\|Inserm]] mandates; CCSD/CNRS operated
+- [[Platforms/NIF\|NIF]] — Neuroscience Information Framework; RRID identifiers for research resources; neuroscience repository registry
+- [[Platforms/OpenAIRE\|OpenAIRE]] — EU open science infrastructure; operates [[Platforms/Zenodo\|Zenodo]]; harvests 900+ repositories; Horizon Europe OA compliance monitoring
+- [[Platforms/OPIDoR\|OPIDoR]] — French national RDM tools suite; DMP OPIDoR, Cat OPIDoR, DORANum, JurisDoR; INIST-CNRS operated
 - [[Platforms/OSF\|OSF]] — Open Science Framework / Center for Open Science; pre-registration, data/code sharing, preprints
+- [[Platforms/ORCID\|ORCID]] — persistent digital identifier for researchers; embedded across all repositories, funders and publishers in the graph
 - [[Platforms/Preprint Servers\|Preprint Servers]] — bioRxiv (life sciences) and medRxiv (clinical research); open access by default; DOI; ORCID
+- [[Platforms/RDMkit\|RDMkit]] — [[Governance/ELIXIR\|ELIXIR]] research data management toolkit; life sciences FAIR guidance; French resources via [[Governance/IFB\|IFB]]
 - [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]] — national multidisciplinary research data repository; recommended by [[Governance/ANR Open Science Policy\|ANR]], [[Governance/CNRS Open Science\|CNRS]], [[Governance/Inserm Open Science\|Inserm]]
-- [[Platforms/Software Heritage\|Software Heritage]] — universal software source code archive; SWHIDs; French open science mandate for code deposit; [[Governance/HAL\|HAL]] integration
-- [[Platforms/Zenodo\|Zenodo]] — CERN/[[Governance/OpenAIRE\|OpenAIRE]] general-purpose repository; DOIs; recommended for EU-funded projects
-
----
+- [[Platforms/Software Heritage\|Software Heritage]] — universal software source code archive; SWHIDs; French open science mandate for code deposit; [[Platforms/HAL\|HAL]] integration
+- [[Platforms/Zenodo\|Zenodo]] — CERN/[[Platforms/OpenAIRE\|OpenAIRE]] general-purpose repository; DOIs; recommended for EU-funded projects
 
 ## Filtering
 

@@ -31,10 +31,10 @@ NIfTI is the pivot format: produced from [[Standards/DICOM\|DICOM]], consumed by
 ## Connections
 - Converted from: [[Standards/DICOM\|DICOM]] (via dcm2niix, heudiconv, MRIcroGL)
 - Required by: [[Standards/BIDS\|BIDS]] (mandatory MRI/PET image format within BIDS datasets)
-- Used by: [[Governance/CATI\|CATI]], [[Platforms/OpenNeuro\|OpenNeuro]], [[Platforms/LORIS\|LORIS]], [[Platforms/XNAT\|XNAT]], [[Platforms/EBRAINS\|EBRAINS]], [[Platforms/BrainLife.io\|BrainLife.io]], [[Platforms/NeuroVault\|NeuroVault]], [[Platforms/DANDI Archive\|DANDI Archive]] (indirectly via BIDS)
+- Used by: [[Actors/CATI\|CATI]], [[Platforms/OpenNeuro\|OpenNeuro]], [[Platforms/LORIS\|LORIS]], [[Platforms/XNAT\|XNAT]], [[Platforms/EBRAINS\|EBRAINS]], [[Platforms/BrainLife.io\|BrainLife.io]], [[Platforms/NeuroVault\|NeuroVault]], [[Platforms/DANDI Archive\|DANDI Archive]] (indirectly via BIDS)
 - Analysis ecosystems: FSL, FreeSurfer, SPM, ANTs, nilearn, MRtrix3, AFNI
 - Related formats: DICOM (source), [[Standards/CIFTI\|CIFTI]] (surface+volume HCP format), MGH/MGZ (FreeSurfer native), MINC (Canadian neuroimaging format)
-- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]], [[Governance/CATI\|CATI]], [[Actors/Human Connectome Project\|Human Connectome Project]], [[Actors/ADNI\|ADNI]], [[Actors/UK Biobank\|UK Biobank]], [[Actors/ENIGMA Consortium\|ENIGMA Consortium]]
+- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]], [[Actors/CATI\|CATI]], [[Actors/Human Connectome Project\|Human Connectome Project]], [[Actors/ADNI\|ADNI]], [[Actors/UK Biobank\|UK Biobank]], [[Actors/ENIGMA Consortium\|ENIGMA Consortium]]
 
 ## Resources
 - https://nifti.nimh.nih.gov

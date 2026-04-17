@@ -25,7 +25,7 @@ The Donders Institute at Radboud University (Nijmegen, Netherlands) is one of Eu
 - Part of: [[Platforms/EBRAINS\|EBRAINS]] member network, [[Governance/EOSC\|EOSC]]
 - Standards adopted: [[Standards/BIDS\|BIDS]], [[Standards/NWB\|NWB]], Radboud Data Repository (FAIR-compliant DOI deposit)
 - Collaborates with: [[Actors/ENIGMA Consortium\|ENIGMA Consortium]], [[Actors/Human Connectome Project\|Human Connectome Project]]
-- European peers: [[Governance/Human Brain Project\|Human Brain Project]] / [[Platforms/EBRAINS\|EBRAINS]], [[Governance/ELIXIR\|ELIXIR]]
+- European peers: [[Actors/Human Brain Project\|Human Brain Project]] / [[Platforms/EBRAINS\|EBRAINS]], [[Governance/ELIXIR\|ELIXIR]]
 - Related: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (peer European neuroscience institute)
 - Tools produced: FieldTrip (MEG/EEG), Automatic Analysis (fMRI pipelines)
 

@@ -39,17 +39,17 @@ OHDSI coordinates multi-database **network studies** — analytical studies that
 OHDSI maintains an open **Phenotype Library** of validated ATLAS cohort definitions for hundreds of clinical conditions, enabling researchers to reuse rigorously validated phenotype algorithms for disease cohorts.
 
 ## OHDSI in France
-- [[Governance/Health Data Hub\|Health Data Hub]] — all SNDS data in the HDH Datalab is OMOP CDM v5.4; ATLAS is the primary analytical interface for HDH users
-- [[Governance/AP-HP\|AP-HP]] EDS — OMOP CDM-based; ATLAS and ACHILLES deployed
+- [[Platforms/Health Data Hub\|Health Data Hub]] — all SNDS data in the HDH Datalab is OMOP CDM v5.4; ATLAS is the primary analytical interface for HDH users
+- [[Platforms/EDS AP-HP\|EDS AP-HP]] — [[Standards/OMOP CDM\|OMOP CDM]]-based; ATLAS and ACHILLES deployed
 - French OHDSI community — active participation in OHDSI Europe annual symposia
 
 ## Connections
 - Maintains: [[Standards/OMOP CDM\|OMOP CDM]] (the standard)
-- Adopted by: [[Governance/Health Data Hub\|Health Data Hub]], [[Governance/AP-HP\|AP-HP]], [[Governance/ECRIN\|ECRIN]], [[Governance/BBMRI-ERIC\|BBMRI-ERIC]]
+- Adopted by: [[Platforms/Health Data Hub\|Health Data Hub]], [[Platforms/EDS AP-HP\|EDS AP-HP]], [[Governance/ECRIN\|ECRIN]], [[Governance/BBMRI-ERIC\|BBMRI-ERIC]]
 - Tools: ATLAS, ACHILLES, HADES R packages, DataQualityDashboard
 - Vocabularies (via Athena): [[Standards/SNOMED CT\|SNOMED CT]], [[Standards/LOINC\|LOINC]], [[Standards/ICD-10\|ICD-10]], [[Standards/MedDRA\|MedDRA]], [[Standards/RxNorm\|RxNorm]], [[Standards/CCAM\|CCAM]], [[Standards/HPO\|HPO]], [[Standards/MONDO\|MONDO]]
 - Mandated by: [[Governance/EHDS\|EHDS]] (OMOP CDM for secondary use)
-- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (AP-HP EDS access via ATLAS; Health Data Hub neurological disease cohort studies; OMOP CDM phenotyping for research)
+- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] ([[Platforms/EDS AP-HP\|EDS AP-HP]] access via ATLAS; [[Platforms/Health Data Hub\|Health Data Hub]] neurological disease cohort studies; [[Standards/OMOP CDM\|OMOP CDM]] phenotyping for research)
 
 ## Resources
 - https://ohdsi.org

@@ -36,7 +36,7 @@ The [[Governance/EHDS\|EHDS]] regulation (EU 2025/327) mandates [[Standards/HL7 
 ## Connections
 
 - Builds on: [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/DICOM\|DICOM]], [[Standards/SNOMED CT\|SNOMED CT]], [[Standards/LOINC\|LOINC]]
-- Relevant to: [[Governance/EHDS\|EHDS]], [[Governance/ANS\|ANS]], [[Governance/AP-HP\|AP-HP]], [[Governance/ECRIN\|ECRIN]], [[Governance/Health Data Hub\|Health Data Hub]]
+- Relevant to: [[Governance/EHDS\|EHDS]], [[Governance/ANS\|ANS]], [[Governance/AP-HP\|AP-HP]], [[Governance/ECRIN\|ECRIN]], [[Platforms/Health Data Hub\|Health Data Hub]]
 - Complements: [[Standards/CDISC\|CDISC]] (research data), [[Standards/OMOP CDM\|OMOP CDM]] (observational research)
 - Testing mechanism: IHE Connectathon (Europe, North America)
 - National node: IHE France (coordinated via [[Governance/ANS\|ANS]])

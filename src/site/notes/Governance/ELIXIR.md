@@ -28,25 +28,25 @@ ELIXIR organises its services into five platforms:
 | **Training** | Life science training coordination | TeSS training portal, Software Carpentry |
 
 ### ELIXIR Communities
-Cross-node thematic communities focusing on specific research areas: **Human Data Community** — GDPR-compliant sharing of sensitive human genomic/health data; directly relevant to [[Platforms/EGA\|EGA]], [[Governance/EHDS\|EHDS]], and [[Governance/Health Data Hub\|Health Data Hub]] integration; **Rare Diseases Community** — rare disease data standards ([[Standards/ORDO\|ORDO]], [[Standards/HPO\|HPO]], [[Standards/Phenopackets\|Phenopackets]]); aligned with [[Standards/ERN Vocabularies\|ERN Vocabularies]] and ELIXIR-RD; **Marine Metagenomics**, **Plant Sciences**, **Metabolomics**, **Proteomics**.
+Cross-node thematic communities focusing on specific research areas: **Human Data Community** — GDPR-compliant sharing of sensitive human genomic/health data; directly relevant to [[Platforms/EGA\|EGA]], [[Governance/EHDS\|EHDS]], and [[Platforms/Health Data Hub\|Health Data Hub]] integration; **Rare Diseases Community** — rare disease data standards ([[Standards/ORDO\|ORDO]], [[Standards/HPO\|HPO]], [[Standards/Phenopackets\|Phenopackets]]); aligned with [[Standards/ERN Vocabularies\|ERN Vocabularies]] and ELIXIR-RD; **Marine Metagenomics**, **Plant Sciences**, **Metabolomics**, **Proteomics**.
 
 ## ELIXIR AAI
 The ELIXIR Authentication and Authorisation Infrastructure (ELIXIR AAI) provides federated identity (researchers log in once using their institutional account via eduGAIN and access all ELIXIR services), group and permission management for controlled-access data (e.g. [[Platforms/EGA\|EGA]] access), and the basis for the European Genome-phenome Archive DAC access workflow.
 
 ## Relevance to Paris Brain Institute
-- **[[Governance/IFB\|IFB]]** (ELIXIR-FR) provides ICM with NNCR computing, FAIR-Checker, DMP tools, and usegalaxy.fr — all ELIXIR-delivered services
-- **[[Governance/RDMkit\|RDMkit]]** is an ELIXIR product providing research data management guidance including a France-specific page maintained by IFB
-- **[[Platforms/EGA\|EGA]]** and **[[Platforms/EVA\|EVA]]** (ELIXIR Core Data Resources at EMBL-EBI) are the primary controlled-access and open-access genomics repositories for ICM's [[Actors/iGENSEQ\|iGENSEQ]] sequencing data
+- **[[Governance/IFB\|IFB]]** (ELIXIR-FR) provides [[Actors/Paris Brain Institute\|ICM]] with NNCR computing, FAIR-Checker, DMP tools, and usegalaxy.fr — all ELIXIR-delivered services
+- **[[Platforms/RDMkit\|RDMkit]]** is an ELIXIR product providing research data management guidance including a France-specific page maintained by IFB
+- **[[Platforms/EGA\|EGA]]** and **[[Platforms/EVA\|EVA]]** (ELIXIR Core Data Resources at EMBL-EBI) are the primary controlled-access and open-access genomics repositories for [[Actors/Paris Brain Institute\|ICM]]'s [[Actors/iGENSEQ\|iGENSEQ]] sequencing data
 - **[[Governance/MUDIS4LS\|MUDIS4LS]]** is the French national infrastructure project built on IFB (ELIXIR-FR) to advance FAIR data management aligned with ELIXIR standards
 
 ## Connections
 - Hub: [[Actors/EMBL\|EMBL]]-EBI (Hinxton)
 - French node: [[Governance/IFB\|IFB]] (ELIXIR-FR)
-- Core databases: [[Platforms/EGA\|EGA]], [[Platforms/EVA\|EVA]], ENA, UniProt, Ensembl, BioStudies
+- Core databases: [[Platforms/EGA\|EGA]], [[Platforms/EVA\|EVA]], [[Platforms/ENA\|ENA]], UniProt, Ensembl, BioStudies
 - ESFRI cluster: [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/EATRIS\|EATRIS]], [[Governance/ECRIN\|ECRIN]], [[Governance/Euro-BioImaging\|Euro-BioImaging]]
 - Part of: [[Governance/EOSC\|EOSC]] (ELIXIR is a key EOSC service provider)
 - Standards: [[Governance/FAIR Principles\|FAIR Principles]], [[Actors/GA4GH\|GA4GH]] (Beacon, DRS, DUO), [[Standards/Phenopackets\|Phenopackets]]
-- Tools: [[Governance/RDMkit\|RDMkit]], TeSS, bio.tools, OpenEBench
+- Tools: [[Platforms/RDMkit\|RDMkit]], TeSS, bio.tools, OpenEBench
 - French infrastructure: [[Governance/IFB\|IFB]], [[Governance/MUDIS4LS\|MUDIS4LS]]
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (IFB/ELIXIR-FR services for genomics, compute, DMP, FAIR compliance)
 

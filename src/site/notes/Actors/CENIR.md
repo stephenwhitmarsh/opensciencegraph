@@ -6,7 +6,7 @@
 # CENIR — Centre de NeuroImagerie de Recherche
 
 ## Overview
-CENIR (Centre de NeuroImagerie de Recherche) is [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s human neuroimaging research centre, one of ICM's 10 core technological platforms. Located at Pitié-Salpêtrière Hospital, it provides state-of-the-art multimodal human neuroimaging for research and translational studies, serving ICM research teams, [[Governance/NeurATRIS\|NeurATRIS]] external users, and academic and industrial collaborators.
+CENIR (Centre de NeuroImagerie de Recherche) is [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s human neuroimaging research centre, one of [[Actors/Paris Brain Institute\|ICM]]'s 10 core technological platforms. Located at Pitié-Salpêtrière Hospital, it provides state-of-the-art multimodal human neuroimaging for research and translational studies, serving [[Actors/Paris Brain Institute\|ICM]] research teams, [[Governance/NeurATRIS\|NeurATRIS]] external users, and academic and industrial collaborators.
 
 ## Equipment
 - **3T MRI × 2** — structural, functional (fMRI), diffusion, spectroscopy
@@ -18,13 +18,13 @@ CENIR (Centre de NeuroImagerie de Recherche) is [[Actors/Paris Brain Institute\|
 
 ## Research Role
 CENIR is the primary neuroimaging node for:
-- Multisite cohort studies managed by [[Governance/CATI\|CATI]] (MEMENTO, INSIGHT-preAD, iShare)
+- Multisite cohort studies managed by [[Actors/CATI\|CATI]] (MEMENTO, INSIGHT-preAD, iShare)
 - [[Governance/NeurATRIS\|NeurATRIS]] clinical neuroimaging services (Phase I/II trial imaging endpoints)
 - Molecular neuroimaging (PET tracers for Alzheimer's, Parkinson's biomarkers)
 - Cognitive neuroscience (fMRI, MEG, EEG combined protocols)
 
 ## Data Management
-For multisite cohort studies, CENIR data is processed through [[Governance/CATI\|CATI]] pipelines:
+For multisite cohort studies, CENIR data is processed through [[Actors/CATI\|CATI]] pipelines:
 - Raw DICOM → [[Standards/NIfTI\|NIfTI]] conversion and [[Standards/BIDS\|BIDS]] organisation via CATIconv
 - Multi-site MRI harmonisation and automated QC
 - Data deposited on [[Platforms/OpenNeuro\|OpenNeuro]] (open datasets) or secure platforms for controlled-access cohorts
@@ -33,8 +33,8 @@ For individual research projects outside the CATI framework, data management is 
 
 ## Connections
 - Hosted at: [[Actors/Paris Brain Institute\|Paris Brain Institute]]
-- Data management: [[Governance/CATI\|CATI]] (multisite cohort data; DICOM → NIfTI → BIDS); individual research projects managed independently
-- Part of: [[Governance/France Life Imaging\|France Life Imaging]] (FLI primary neuroimaging node at ICM)
+- Data management: [[Actors/CATI\|CATI]] (multisite cohort data; DICOM → NIfTI → BIDS); individual research projects managed independently
+- Part of: [[Governance/France Life Imaging\|France Life Imaging]] (FLI primary neuroimaging node at [[Actors/Paris Brain Institute\|ICM]])
 - Labelled by: [[Governance/IBiSA\|IBiSA]] (national platform quality label)
 - External access: [[Governance/NeurATRIS\|NeurATRIS]] (clinical neuroimaging for Phase I/II trial endpoints)
 - Standards: [[Standards/BIDS\|BIDS]], [[Standards/NIfTI\|NIfTI]], [[Standards/DICOM\|DICOM]], [[Standards/EDF\|EDF]] (clinical EEG and SEEG recordings), [[Standards/BrainVision\|BrainVision]] (research EEG)

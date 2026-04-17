@@ -29,7 +29,7 @@ The Institut Pasteur is a founding node of [[Governance/France BioImaging\|Franc
 - Open science policy: [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]]
 - Tools: Icy (bioimage analysis, interoperates with [[Actors/OME\|OME]])
 - Standards: [[Standards/OME File Formats\|OME File Formats]], [[Standards/BIDS\|BIDS]] (neuroimaging data sharing)
-- DMP: [[Governance/OPIDoR\|OPIDoR]]
+- DMP: [[Platforms/OPIDoR\|OPIDoR]]
 - Related: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (Paris peer institution, overlapping networks), [[Actors/Institut Curie\|Institut Curie]]
 
 ## Resources

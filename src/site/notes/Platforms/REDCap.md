@@ -8,7 +8,7 @@
 ## Overview
 REDCap (Research Electronic Data Capture) is a secure, web-based software platform for building and managing online surveys and databases for research and clinical data collection. Developed at Vanderbilt University in 2004 and now supported by a global consortium of 6,000+ institutional partners, REDCap is the de facto standard electronic data capture (EDC) tool for academic clinical research and clinical trials worldwide. It is used for eCRF (electronic Case Report Form) design, longitudinal study management, survey distribution, and clinical data warehousing.
 
-At [[Actors/Paris Brain Institute\|Paris Brain Institute]], REDCap is used for clinical data management and is supported by the [[Actors/DAC\|DAC]] (Data Analysis Core), which provides REDCap training and helpdesk support to ICM researchers and clinicians.
+At [[Actors/Paris Brain Institute\|Paris Brain Institute]], REDCap is used for clinical data management and is supported by the [[Actors/DAC\|DAC]] (Data Analysis Core), which provides REDCap training and helpdesk support to [[Actors/Paris Brain Institute\|ICM]] researchers and clinicians.
 
 ## Key Features
 
@@ -39,7 +39,7 @@ At [[Actors/Paris Brain Institute\|Paris Brain Institute]], REDCap is used for c
 - **External modules** — community-developed extensions (500+)
 
 ## REDCap Consortium and Deployment
-REDCap is free to non-profit institutions that join the REDCap consortium (https://www.project-redcap.org). Each institution hosts its own REDCap server; the consortium provides software updates, documentation, and community support. In France: [[Governance/AP-HP\|AP-HP]] operates REDCap instances for clinical data collection across its hospitals; [[Governance/ECRIN\|ECRIN]] operates a GDPR-compliant REDCap instance available to ECRIN-supported multinational clinical studies; [[Actors/Paris Brain Institute\|Paris Brain Institute]] / [[Actors/DAC\|DAC]] runs an institutional REDCap instance supporting ICM research teams.
+REDCap is free to non-profit institutions that join the REDCap consortium (https://www.project-redcap.org). Each institution hosts its own REDCap server; the consortium provides software updates, documentation, and community support. In France: [[Governance/AP-HP\|AP-HP]] operates REDCap instances for clinical data collection across its hospitals; [[Governance/ECRIN\|ECRIN]] operates a GDPR-compliant REDCap instance available to ECRIN-supported multinational clinical studies; [[Actors/Paris Brain Institute\|Paris Brain Institute]] / [[Actors/DAC\|DAC]] runs an institutional REDCap instance supporting [[Actors/Paris Brain Institute\|ICM]] research teams.
 
 ## Standards Alignment
 - **[[Standards/CDISC\|CDISC]]** — REDCap exports to CDISC ODM (Operational Data Model) XML; complements SDTM/ADaM pipelines
@@ -47,7 +47,7 @@ REDCap is free to non-profit institutions that join the REDCap consortium (https
 - **[[Standards/OMOP CDM\|OMOP CDM]]** — REDCap data can be mapped to OMOP CDM via ETL pipelines
 
 ## Connections
-- Support at ICM: [[Actors/DAC\|DAC]] (REDCap training, helpdesk, instance management)
+- Support at [[Actors/Paris Brain Institute\|ICM]]: [[Actors/DAC\|DAC]] (REDCap training, helpdesk, instance management)
 - Deployed at: [[Governance/AP-HP\|AP-HP]], [[Governance/ECRIN\|ECRIN]] (multinational trials instance)
 - Standards: [[Standards/CDISC\|CDISC]] (ODM XML export), [[Standards/HL7 FHIR\|HL7 FHIR]] (CDIS module)
 - Complements: [[Standards/OMOP CDM\|OMOP CDM]] (downstream ETL from REDCap to OMOP)

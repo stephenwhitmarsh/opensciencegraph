@@ -15,8 +15,8 @@ ANR is the main French public research funding agency. Since 2019, all funded pr
 
 ## Connections
 - Implements: [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/FAIR Principles\|FAIR Principles]]
-- Recommended infrastructure: [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Platforms/Zenodo\|Zenodo]], [[Governance/OPIDoR\|OPIDoR]] (mandatory DMP tool)
-- European alignment: EU Horizon Europe, [[Governance/EOSC\|EOSC]], [[Governance/OpenAIRE\|OpenAIRE]]
+- Recommended infrastructure: [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Platforms/Zenodo\|Zenodo]], [[Platforms/OPIDoR\|OPIDoR]] (mandatory DMP tool)
+- European alignment: EU Horizon Europe, [[Governance/EOSC\|EOSC]], [[Platforms/OpenAIRE\|OpenAIRE]]
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (all ANR-funded projects must comply)
 
 ## Resources

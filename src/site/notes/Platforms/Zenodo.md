@@ -6,10 +6,10 @@
 # Zenodo
 
 ## Overview
-Zenodo is a general-purpose open research repository (CERN / [[Governance/OpenAIRE\|OpenAIRE]]). It accepts any research output up to 50 GB per deposit, assigns DOIs, and provides long-term preservation. Recommended for EU-funded projects and by [[Governance/ANR Open Science Policy\|ANR Open Science Policy]].
+Zenodo is a general-purpose open research repository (CERN / [[Platforms/OpenAIRE\|OpenAIRE]]). It accepts any research output up to 50 GB per deposit, assigns DOIs, and provides long-term preservation. Recommended for EU-funded projects and by [[Governance/ANR Open Science Policy\|ANR Open Science Policy]].
 
 ## Connections
-- Part of: [[Governance/OpenAIRE\|OpenAIRE]], [[Governance/EOSC\|EOSC]]
+- Part of: [[Platforms/OpenAIRE\|OpenAIRE]], [[Governance/EOSC\|EOSC]]
 - Related: [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Platforms/OSF\|OSF]]
 - Recommended by: [[Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[Governance/Ouvrir la Science\|Ouvrir la Science]]
 - FAIR compliance: DOI assignment, open metadata, CC licences, long-term preservation at CERN

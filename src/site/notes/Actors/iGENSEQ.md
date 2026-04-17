@@ -6,7 +6,7 @@
 # iGENSEQ — Genomics and Sequencing Platform
 
 ## Overview
-iGENSEQ is [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s next-generation sequencing (NGS) platform, one of ICM's 10 core technological platforms. It provides a full suite of genomic sequencing services to ICM research teams and external academic and industrial collaborators, covering bulk transcriptomics, single-cell genomics, whole-genome and whole-exome sequencing, and targeted panels.
+iGENSEQ is [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s next-generation sequencing (NGS) platform, one of [[Actors/Paris Brain Institute\|ICM]]'s 10 core technological platforms. It provides a full suite of genomic sequencing services to [[Actors/Paris Brain Institute\|ICM]] research teams and external academic and industrial collaborators, covering bulk transcriptomics, single-cell genomics, whole-genome and whole-exome sequencing, and targeted panels.
 
 ## Services
 - **RNA-seq** — bulk, stranded, total or polyA-selected
@@ -20,7 +20,7 @@ iGENSEQ is [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s next-genera
 ## Open Science Connections
 - **Data deposition** — sequencing data from publications deposited in [[Platforms/NCBI GEO\|NCBI GEO]] (open) or [[Platforms/EGA\|EGA]] (controlled access for human data)
 - **Variant data** — variant calls in [[Standards/VCF\|VCF]] format; deposited in [[Platforms/EVA\|EVA]] or [[Platforms/dbGaP\|dbGaP]] depending on consent conditions
-- **Standards** — data aligned with [[Actors/GA4GH\|GA4GH]] standards; [[Standards/GO\|GO]] term enrichment for transcriptomics; [[Standards/HPO\|HPO]]/[[Standards/ORDO\|ORDO]] phenotype annotation for rare disease genomics
+- **Standards** — data aligned with [[Actors/GA4GH\|GA4GH]] standards; [[Standards/GO\|GO]] term enrichment for transcriptomics; [[Standards/HPO\|HPO]] phenotype annotation for rare disease genomics
 - **Biobank link** — primary downstream user of [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]] DNA and RNA stocks
 - **Bioinformatics** — analysis pipelines run via [[Governance/IFB\|IFB]] computing resources (MUDIS4LS/NNCR); [[Actors/DAC\|DAC]] provides bioinformatics support
 

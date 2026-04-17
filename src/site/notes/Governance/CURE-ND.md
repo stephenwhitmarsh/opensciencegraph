@@ -8,7 +8,7 @@
 ## Overview
 CURE-ND is a European alliance of four leading non-profit neurodegenerative disease research institutes, launched in 2020 to accelerate scientific discovery and advocate for long-term European investment in brain research. The four founding members are **[[Actors/DZNE\|DZNE]]** (German Centre for Neurodegenerative Diseases, Germany), **[[Actors/Paris Brain Institute\|Paris Brain Institute]]** (Institut du Cerveau / ICM, France), **[[Actors/Mission Lucidity\|Mission Lucidity]]** (imec / KU Leuven / VIB / UZ Leuven, Belgium), and **[[Actors/UK DRI\|UK DRI]]** (UK Dementia Research Institute, UK).
 
-Together the four institutes represent more than 2,000 researchers across the continent. ICM is a **founding member**, with Director General Prof. Alexis Brice among the signatories at the 2020 launch.
+Together the four institutes represent more than 2,000 researchers across the continent. [[Actors/Paris Brain Institute\|ICM]] is a **founding member**, with Director General Prof. Alexis Brice among the signatories at the 2020 launch.
 
 ## Mission and Activities
 
@@ -22,7 +22,7 @@ Annual workshops for Early Career Researchers from all four institutes: 2022 —
 CURE-ND advocates jointly to European institutions and funders for long-term, coordinated investment in neurodegenerative disease research, calling for increased Horizon Europe budgets and a coherent European brain health strategy.
 
 ## Open Science Relevance
-Although CURE-ND is primarily a collaborative research alliance rather than a data infrastructure initiative, it facilitates open science across its member institutes by promoting joint data access and sharing across the four institutes, enabling cross-border researcher mobility and co-supervision, and aligning data standards and methodologies (neuroimaging, single-cell, clinical) across DZNE, ICM, Mission Lucidity and UK DRI. The 2026 CURE-ND AI/ML workshop explicitly engaged [[Governance/HDR UK\|HDR UK]] on health data science and FAIR data practices for neurodegeneration research.
+Although CURE-ND is primarily a collaborative research alliance rather than a data infrastructure initiative, it facilitates open science across its member institutes by promoting joint data access and sharing across the four institutes, enabling cross-border researcher mobility and co-supervision, and aligning data standards and methodologies (neuroimaging, single-cell, clinical) across DZNE, [[Actors/Paris Brain Institute\|ICM]], Mission Lucidity and UK DRI. The 2026 CURE-ND AI/ML workshop explicitly engaged [[Governance/HDR UK\|HDR UK]] on health data science and FAIR data practices for neurodegeneration research.
 
 ## Connections
 - Founding members: [[Actors/DZNE\|DZNE]], [[Actors/Paris Brain Institute\|Paris Brain Institute]], [[Actors/Mission Lucidity\|Mission Lucidity]], [[Actors/UK DRI\|UK DRI]]

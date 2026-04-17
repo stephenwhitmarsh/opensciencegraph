@@ -30,7 +30,7 @@ ATC is a standardised vocabulary in the [[Standards/OMOP CDM\|OMOP CDM]] Athena 
 
 ## Connections
 - Maintained by: WHO Collaborating Centre for Drug Statistics Methodology (WHOCC, Oslo)
-- Used in: [[Standards/OMOP CDM\|OMOP CDM]] (Athena vocabulary), [[Platforms/SNDS\|SNDS]] (French national health data), [[Governance/Health Data Hub\|Health Data Hub]], [[Governance/AP-HP\|AP-HP]] EDS, [[Standards/OSIRIS\|OSIRIS]] (oncology drug coding)
+- Used in: [[Standards/OMOP CDM\|OMOP CDM]] (Athena vocabulary), [[Platforms/SNDS\|SNDS]] (French national health data), [[Platforms/Health Data Hub\|Health Data Hub]], [[Governance/AP-HP\|AP-HP]] EDS, [[Standards/OSIRIS\|OSIRIS]] (oncology drug coding)
 - Complementary terminologies: [[Standards/RxNorm\|RxNorm]] (US clinical drug names), [[Standards/ChEBI\|ChEBI]] (chemical entities), [[Standards/MedDRA\|MedDRA]] (adverse events)
 - Relevant to [[Actors/Paris Brain Institute\|Paris Brain Institute]]: drug coding in SNDS-based pharmacoepidemiology studies; required for OMOP CDM drug_exposure table analysis; used in neurological drug utilisation research (antiepileptics, antiparkinson agents — ATC N03/N04)
 

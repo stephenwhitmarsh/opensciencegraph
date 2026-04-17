@@ -24,7 +24,7 @@ The BRAIN (Brain Research through Advancing Innovative Neurotechnologies) Initia
 ## Connections
 - Funds: [[Platforms/DANDI Archive\|DANDI Archive]], [[Standards/NWB\|NWB]], [[Actors/Allen Institute for Brain Science\|Allen Institute for Brain Science]]
 - Data format mandate: [[Standards/NWB\|NWB]]
-- Complementary: [[Governance/Human Brain Project\|Human Brain Project]] / [[Platforms/EBRAINS\|EBRAINS]] (EU counterpart), [[Actors/Human Connectome Project\|Human Connectome Project]] (precursor large-scale effort)
+- Complementary: [[Actors/Human Brain Project\|Human Brain Project]] / [[Platforms/EBRAINS\|EBRAINS]] (EU counterpart), [[Actors/Human Connectome Project\|Human Connectome Project]] (precursor large-scale effort)
 - Policy alignment: NIH DMS Policy connects to [[Governance/FAIR Principles\|FAIR Principles]] F1 and A1
 - Related consortia: [[Actors/IBL\|IBL]] (Simons/Wellcome funded, uses BRAIN data standards), [[Actors/INCF\|INCF]] (international standards body partnering with BRAIN)
 

@@ -13,8 +13,8 @@ ENIGMA conducts coordinated neuroimaging and genetics studies across 45+ working
 - ENIGMA Toolbox (open-source surface-based analysis)
 - Harmonised MRI acquisition protocols and processing pipelines
 
-## Confirmed ICM Participation
-ICM researchers (primarily Baptiste Couvy-Duchesne, Sorbonne Université / Paris Brain Institute) appear as named authors in the following ENIGMA working group publications:
+## Confirmed [[Actors/Paris Brain Institute\|ICM]] Participation
+[[Actors/Paris Brain Institute\|ICM]] researchers (primarily Baptiste Couvy-Duchesne, Sorbonne Université / Paris Brain Institute) appear as named authors in the following ENIGMA working group publications:
 - **ENIGMA-MDD** (Major Depressive Disorder) — multiple publications including brain age replication studies, antidepressant use and brain morphology, and deep learning classification of MDD (2022–2025)
 - **ENIGMA-STB** (Suicidal Thoughts and Behaviours) — white matter microstructure mega-analysis across 40 cohorts
 - **ENIGMA-TS** (Tourette Syndrome) — Pitié-Salpêtrière Department of Neurophysiology (Worbe / Hartmann group) listed as a contributing site

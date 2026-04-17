@@ -6,7 +6,7 @@
 # EBRAINS
 
 ## Overview
-EBRAINS is the open neuroscience research infrastructure created by the [[Governance/Human Brain Project\|Human Brain Project]] (HBP) and launched as an independent infrastructure in 2020. It is the central European hub for brain data sharing, brain atlas services, simulation, and HPC for neuroscience, integrated into [[Governance/EOSC\|EOSC]] as a key service provider. [[Actors/Paris Brain Institute\|Paris Brain Institute]] is a participating institution, contributing data and using EBRAINS services for data sharing and computational neuroscience.
+EBRAINS is the open neuroscience research infrastructure created by the [[Actors/Human Brain Project\|Human Brain Project]] (HBP) and launched as an independent infrastructure in 2020. It is the central European hub for brain data sharing, brain atlas services, simulation, and HPC for neuroscience, integrated into [[Governance/EOSC\|EOSC]] as a key service provider. [[Actors/Paris Brain Institute\|Paris Brain Institute]] is a participating institution, contributing data and using EBRAINS services for data sharing and computational neuroscience.
 
 EBRAINS is currently on the path to becoming an **ERIC** (European Research Infrastructure Consortium), which will give it permanent legal and funding status comparable to [[Governance/BBMRI-ERIC\|BBMRI-ERIC]], [[Governance/ELIXIR\|ELIXIR]], and [[Governance/EATRIS\|EATRIS]].
 
@@ -34,16 +34,16 @@ EBRAINS is currently on the path to becoming an **ERIC** (European Research Infr
 **Live Papers** — interactive, reproducible scientific publications that embed data, code, and simulations directly in the paper; readers can re-execute analyses; built on EBRAINS infrastructure.
 
 ## EBRAINS and EOSC
-EBRAINS is one of the flagship neuroscience services within [[Governance/EOSC\|EOSC]]: EBRAINS datasets and services are discoverable via the EOSC Portal; openMINDS metadata is harvested by [[Governance/OpenAIRE\|OpenAIRE]] for EU open science monitoring; EBRAINS is a model for domain-specific EOSC service integration.
+EBRAINS is one of the flagship neuroscience services within [[Governance/EOSC\|EOSC]]: EBRAINS datasets and services are discoverable via the EOSC Portal; openMINDS metadata is harvested by [[Platforms/OpenAIRE\|OpenAIRE]] for EU open science monitoring; EBRAINS is a model for domain-specific EOSC service integration.
 
 ## Connections
-- Created by: [[Governance/Human Brain Project\|Human Brain Project]]
+- Created by: [[Actors/Human Brain Project\|Human Brain Project]]
 - Part of: [[Governance/EOSC\|EOSC]] (key service provider)
 - Standards: [[Standards/BIDS\|BIDS]], [[Standards/NWB\|NWB]], [[Standards/openMINDS\|openMINDS]] (required metadata), [[Standards/UBERON\|UBERON]]
 - Partners: [[Actors/INCF\|INCF]], [[Governance/ELIXIR\|ELIXIR]], [[Governance/ECRIN\|ECRIN]], [[Actors/Paris Brain Institute\|Paris Brain Institute]], [[Actors/Donders Institute\|Donders Institute]], [[Actors/GA4GH\|GA4GH]]
 - Atlases: Julich Brain Atlas, Allen CCF ([[Standards/UBERON\|UBERON]] annotation)
 - Simulation: SpiNNaker, BrainScaleS, NEST, NEURON
-- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (ICM participates; data sharing; atlas-linked research; [[Standards/openMINDS\|openMINDS]] metadata for BIDS/NWB datasets)
+- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] ([[Actors/Paris Brain Institute\|ICM]] participates; data sharing; atlas-linked research; [[Standards/openMINDS\|openMINDS]] metadata for BIDS/NWB datasets)
 
 ## Resources
 - https://ebrains.eu

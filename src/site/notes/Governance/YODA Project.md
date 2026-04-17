@@ -34,7 +34,7 @@ YODA has had direct influence on US and international data sharing policy:
 YODA is relevant to [[Actors/Paris Brain Institute\|Paris Brain Institute]] clinical research in two ways:
 - **Data access**: ICM clinical investigators may apply for access to YODA-held trial data for secondary analyses in neurological or psychiatric conditions
 - **Model**: YODA's governance model (independent third-party DAC, public posting of decisions, standardised DUAs) is a reference for clinical data sharing policy development in France and Europe, including [[Governance/ECRIN\|ECRIN]] and
-  [[Governance/Health Data Hub\|Health Data Hub]] frameworks
+  [[Platforms/Health Data Hub\|Health Data Hub]] frameworks
 
 ## Connections
 - Related platforms: [[Platforms/VIVLI\|VIVLI]] (overlapping clinical trial data sharing scope; VIVLI focuses on individual participant data from academic sponsors; YODA focuses on industry trials)

@@ -10,8 +10,8 @@ Ouvrir la Science is the French national open science plan (2018, updated 2021-2
 
 ## Key Pillars (2021–2024) — Second PNSO
 The Second National Plan for Open Science (2021–2024, https://www.ouvrirlascience.fr/second-national-plan-for-open-science-npos/) expanded the original 2018 PNSO with four pillars:
-1. **Open access to publications** — via [[Governance/HAL\|HAL]]; cOAlition S / Plan S alignment
-2. **FAIR research data** — via [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]]; mandatory DMPs via [[Governance/OPIDoR\|OPIDoR]]
+1. **Open access to publications** — via [[Platforms/HAL\|HAL]]; cOAlition S / Plan S alignment
+2. **FAIR research data** — via [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]]; mandatory DMPs via [[Platforms/OPIDoR\|OPIDoR]]
 3. **Open source software** — Software Heritage deposits; code citation
 4. **Transform research practices and incentives** — open science in hiring/evaluation
 
@@ -20,8 +20,8 @@ The **National Fund for Open Science** (https://www.ouvrirlascience.fr/national-
 
 ## Connections
 - Implemented by: [[Governance/CoSO\|CoSO]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[Governance/CNRS Open Science\|CNRS Open Science]], [[Governance/Inserm Open Science\|Inserm Open Science]]
-- Infrastructure: [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Governance/HAL\|HAL]], Software Heritage, [[Governance/OPIDoR\|OPIDoR]]
-- European alignment: [[Governance/EOSC\|EOSC]], [[Governance/OpenAIRE\|OpenAIRE]], [[Governance/UNESCO Open Science Recommendation\|UNESCO Open Science Recommendation]]
+- Infrastructure: [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Platforms/HAL\|HAL]], Software Heritage, [[Platforms/OPIDoR\|OPIDoR]]
+- European alignment: [[Governance/EOSC\|EOSC]], [[Platforms/OpenAIRE\|OpenAIRE]], [[Governance/UNESCO Open Science Recommendation\|UNESCO Open Science Recommendation]]
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (DMP mandates, open data requirements)
 
 ## Resources
