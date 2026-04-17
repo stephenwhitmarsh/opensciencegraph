@@ -39,7 +39,7 @@ Every node uses a lean, non-redundant YAML frontmatter schema. The following fie
 ---
 ## Contributing
 
-The graph is built as an [Obsidian](https://obsidian.md/) vault and openly available in the [git repository](https://gitlab.com/icm-institute/dac/opensciencegraph). Contributions, corrections and suggestions are welcome — open an issue or pull request there, or [email me](mailto:stephen.whitmarsh@icm-institute.org) directly. In open science perhaps more than anywhere else, this quote by W.B. Yeats rings true:
+The graph is built as an [Obsidian](https://obsidian.md/) vault, published [here](https://publish.obsidian.md/openscience), and openly available in the [git repository](https://gitlab.com/icm-institute/dac/opensciencegraph). Contributions, corrections and suggestions are welcome — open an issue or pull request there, or [email me](mailto:stephen.whitmarsh@icm-institute.org) directly. In open science perhaps more than anywhere else, this quote by W.B. Yeats rings true:
 
 > *There are no strangers here, just friends you haven't met yet*
 

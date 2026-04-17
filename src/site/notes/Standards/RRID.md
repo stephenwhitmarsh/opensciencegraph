@@ -36,7 +36,7 @@ All ICM platforms are registered in the SciCrunch Registry and should be cited u
 
 ## How to Cite
 The standard citation format is the resource name followed by the RRID in parentheses, e.g.:
-> *"Data analysis was performed using the Paris Brain Institute Data Analysis Core Facility (RRID:SCR_026138)."*
+> *"Data analysis was performed by the Paris Brain Institute Data Analysis Core Facility (RRID:SCR_026138)."*
 
 ## Connections
 - Produced by: [[Governance/NIF\|NIF]] (Neuroscience Information Framework / SciCrunch)
@@ -48,8 +48,3 @@ The standard citation format is the resource name followed by the RRID in parent
 - https://www.rrids.org (RRID initiative)
 - https://scicrunch.org (SciCrunch Registry — RRID resolver)
 - https://coremarketplace.org (CoreMarketplace — core facility RRIDs)
-- https://scicrunch.org/resolver/SCR_026379 (Paris Brain Institute)
-- https://scicrunch.org/resolver/SCR_026138 (DAC)
-- https://scicrunch.org/resolver/SCR_026393 (ICM Quant)
-- https://scicrunch.org/resolver/SCR_026412 (ePHYS)
-- https://scicrunch.org/resolver/SCR_026394 (PRISME)

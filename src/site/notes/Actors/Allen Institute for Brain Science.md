@@ -9,7 +9,7 @@
 The Allen Institute produces large-scale open-access neuroscience datasets and tools. It co-founded [[Standards/NWB\|NWB]] and is known for the Allen Brain Atlas series, the Allen Cell Types Database, and large-scale Neuropixels electrophysiology datasets archived on [[Platforms/DANDI Archive\|DANDI Archive]].
 
 ## Standards Co-Created
-- [[Standards/NWB\|NWB]] — co-founded with INCF
+- [[Standards/NWB\|NWB]] — co-founded with [[Actors/INCF\|INCF]]
 
 ## Key Outputs
 - Allen Brain Atlas (mouse and human gene expression)
