@@ -24,6 +24,7 @@ This index covers all governance bodies, national and European research infrastr
 - [[Governance/CATI\|CATI]] — Centre d'Acquisition et de Traitement des Images; hosted at ICM; [[Governance/France Life Imaging\|France Life Imaging]] neuroimaging node
 - [[Governance/France BioImaging\|France BioImaging]] — national cellular imaging infrastructure; French node of [[Governance/Euro-BioImaging\|Euro-BioImaging]]; ICM participates
 - [[Governance/France Life Imaging\|France Life Imaging]] — national in vivo imaging infrastructure; [[Governance/CATI\|CATI]] is its neuroimaging data node; ICM participates
+- [[Governance/IBiSA\|IBiSA]] — GIS for labelling and funding of technological platforms and CRBs in biology, health and agronomy; labels [[Actors/CENIR\|CENIR]] and [[Actors/iGENSEQ\|iGENSEQ]]
 - [[Governance/IFB\|IFB]] — Institut Francais de Bioinformatique ([[Governance/ELIXIR\|ELIXIR]]-FR); FAIR-Checker; usegalaxy.fr; HPC
 - [[Governance/INBS\|INBS]] — umbrella for all French national biology/health infrastructures ([[Governance/France BioImaging\|France BioImaging]], [[Governance/France Life Imaging\|France Life Imaging]], [[Governance/IFB\|IFB]], BIOBANQUES)
 - [[Governance/MUDIS4LS\|MUDIS4LS]] — [[Governance/IFB\|IFB]]-coordinated FAIR digital infrastructure for French life sciences; multi-omics + imaging integration; ICM participates
@@ -80,7 +81,6 @@ This index covers all governance bodies, national and European research infrastr
 - [[Governance/ARDC\|ARDC]] — Australian Research Data Commons; national FAIR/RDM infrastructure; [[Governance/EOSC\|EOSC]] counterpart; [[Governance/RDA\|RDA]] partner
 - [[Governance/FAIR Principles\|FAIR Principles]] — 15 Findable/Accessible/Interoperable/Reusable principles (Wilkinson et al. 2016)
 - [[Governance/GFRN\|GFRN]] — Global Federation of Reproducibility Networks; includes French RFRR network
-- [[Governance/GO FAIR\|GO FAIR]] — international initiative for [[Governance/FAIR Principles\|FAIR]] implementation; Three-Point FAIRification Framework
 - [[Governance/HDR UK\|HDR UK]] — Health Data Research UK; UK national health data science institute; [[Governance/FAIR Principles\|FAIR]]; [[Standards/OMOP CDM\|OMOP CDM]]; [[Standards/HL7 FHIR\|HL7 FHIR]]; [[Governance/CURE-ND\|CURE-ND]] AI/ML workshop participant
 - [[Governance/RDA\|RDA]] — Research Data Alliance; FAIR Data Maturity Model; 120+ working groups
 - [[Governance/UNESCO Open Science Recommendation\|UNESCO Open Science Recommendation]] — 2021 global framework for open science policy

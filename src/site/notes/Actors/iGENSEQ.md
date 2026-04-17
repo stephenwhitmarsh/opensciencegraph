@@ -26,6 +26,7 @@ iGENSEQ is [[Actors/Paris Brain Institute\|Paris Brain Institute]]'s next-genera
 
 ## Connections
 - Hosted at: [[Actors/Paris Brain Institute\|Paris Brain Institute]]
+- Labelled by: [[Governance/IBiSA\|IBiSA]] (national platform quality label)
 - Upstream biobank: [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]]
 - Bioinformatics support: DAC (Data Analysis Core)
 - Computing: [[Governance/IFB\|IFB]] (NNCR / [[Governance/MUDIS4LS\|MUDIS4LS]] — planned for future use)

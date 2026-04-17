@@ -40,8 +40,7 @@ The French network (https://www.recherche-reproductible.fr) focuses on:
 - Policy alignment: [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/FAIR Principles\|FAIR Principles]]
 - Tool ecosystem: [[Platforms/OSF\|OSF]] (preregistration), [[Actors/ReproNim\|ReproNim]] (neuroimaging reproducibility)
 - Related: [[Governance/OHBM Open Science SIG\|OHBM Open Science SIG]] (neuroscience-specific open science community)
-- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (reproducibility training,
-  pre-registration culture, open code practices)
+- Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (reproducibility training, pre-registration culture, open code practices)
 
 ## Resources
 - https://www.reproducibilitynetwork.com (GFRN)

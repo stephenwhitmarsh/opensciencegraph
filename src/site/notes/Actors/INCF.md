@@ -29,7 +29,7 @@ INCF coordinates neuroscience data standards and neuroinformatics infrastructure
 ## Connections
 - Standards governed: [[Standards/BIDS\|BIDS]], [[Standards/NWB\|NWB]], [[Standards/HED\|HED]], [[Standards/NIDM\|NIDM]]
 - French national node: coordinated via the French INCF node consortium (includes CNRS and affiliated institutions)
-- Partners: [[Governance/OHBM Open Science SIG\|OHBM Open Science SIG]], [[Governance/RDA\|RDA]], [[Governance/GO FAIR\|GO FAIR]], [[Platforms/EBRAINS\|EBRAINS]], [[Actors/ReproNim\|ReproNim]], [[Actors/GA4GH\|GA4GH]]
+- Partners: [[Governance/OHBM Open Science SIG\|OHBM Open Science SIG]], [[Governance/RDA\|RDA]], [[Platforms/EBRAINS\|EBRAINS]], [[Actors/ReproNim\|ReproNim]], [[Actors/GA4GH\|GA4GH]]
 
 ## Resources
 - https://incf.org

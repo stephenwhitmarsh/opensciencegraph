@@ -11,7 +11,7 @@ provenance, data citation, FAIR) and the neuroscience standards bodies — prima
 
 ## Role and Activities
 - **Standards advocacy** — promotes adoption of [[Standards/BIDS\|BIDS]], [[Standards/NWB\|NWB]], and [[Governance/FAIR Principles\|FAIR Principles]] within the RDA community; ensures neuroscience use cases are represented in RDA working group outputs (e.g. FAIR Data Maturity Model, Persistent Identifiers WG)
-- **Community bridge** — connects the open data management community ([[Governance/RDA\|RDA]], [[FORCE11\|FORCE11]], [[Governance/GO FAIR\|GO FAIR]]) with neuroscience data standards bodies ([[Actors/INCF\|INCF]], [[Governance/OHBM Open Science SIG\|OHBM Open Science SIG]], [[Actors/ENIGMA Consortium\|ENIGMA Consortium]])
+- **Community bridge** — connects the open data management community ([[Governance/RDA\|RDA]], [[FORCE11\|FORCE11]]) with neuroscience data standards bodies ([[Actors/INCF\|INCF]], [[Governance/OHBM Open Science SIG\|OHBM Open Science SIG]], [[Actors/ENIGMA Consortium\|ENIGMA Consortium]])
 - **FAIR neuroscience** — develops guidance on FAIR implementation specifically for neuroimaging and neurophysiology data, contributing to [[Governance/RDMkit\|RDMkit]] neuroscience content
 - **Plenary outputs** — presents at RDA plenaries to disseminate neuroscience open data practices to the broader research data management community
 
@@ -25,7 +25,7 @@ provenance, data citation, FAIR) and the neuroscience standards bodies — prima
 - Part of: [[Governance/RDA\|RDA]]
 - Connects: [[Actors/INCF\|INCF]], [[Standards/BIDS\|BIDS]], [[Standards/NWB\|NWB]], [[Platforms/EBRAINS\|EBRAINS]], [[Governance/OHBM Open Science SIG\|OHBM Open Science SIG]]
 - Contributes to: [[Governance/RDMkit\|RDMkit]] (neuroscience content), [[Governance/FAIR Principles\|FAIR Principles]] implementation
-- Related: [[Governance/INCF Working Groups\|INCF Working Groups]] (overlapping community), [[Governance/GO FAIR\|GO FAIR]] Neuroscience IN
+- Related: [[Governance/INCF Working Groups\|INCF Working Groups]] (overlapping community)
 
 ## Resources
 - https://www.rd-alliance.org/groups/neuroscience-ig

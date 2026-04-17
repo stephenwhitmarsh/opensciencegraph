@@ -21,7 +21,7 @@ The **National Fund for Open Science** (https://www.ouvrirlascience.fr/national-
 ## Connections
 - Implemented by: [[Governance/CoSO\|CoSO]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[Governance/CNRS Open Science\|CNRS Open Science]], [[Governance/Inserm Open Science\|Inserm Open Science]]
 - Infrastructure: [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Governance/HAL\|HAL]], Software Heritage, [[Governance/OPIDoR\|OPIDoR]]
-- European alignment: [[Governance/EOSC\|EOSC]], [[Governance/OpenAIRE\|OpenAIRE]], [[Governance/GO FAIR\|GO FAIR]], [[Governance/UNESCO Open Science Recommendation\|UNESCO Open Science Recommendation]]
+- European alignment: [[Governance/EOSC\|EOSC]], [[Governance/OpenAIRE\|OpenAIRE]], [[Governance/UNESCO Open Science Recommendation\|UNESCO Open Science Recommendation]]
 - Relevant to: [[Actors/Paris Brain Institute\|Paris Brain Institute]] (DMP mandates, open data requirements)
 
 ## Resources

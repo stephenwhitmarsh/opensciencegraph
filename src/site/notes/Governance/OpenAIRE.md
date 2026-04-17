@@ -45,7 +45,7 @@ All Horizon Europe projects are required to:
 - Operates: [[Platforms/Zenodo\|Zenodo]] (general-purpose repository)
 - Part of: [[Governance/EOSC\|EOSC]] (key service provider and governance member)
 - Harvests: [[Governance/HAL\|HAL]], [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Platforms/EGA\|EGA]], [[Platforms/OpenNeuro\|OpenNeuro]], 900+ repositories
-- Partners: [[Governance/RDA\|RDA]], [[Governance/GO FAIR\|GO FAIR]], [[Governance/ELIXIR\|ELIXIR]]
+- Partners: [[Governance/RDA\|RDA]], [[Governance/ELIXIR\|ELIXIR]]
 - Monitors: Horizon Europe OA compliance, French OA rates (via [[Governance/HAL\|HAL]] metadata)
 - Standards: [[Standards/DCAT\|DCAT]] (dataset metadata), [[Standards/Dublin Core\|Dublin Core]] (base metadata), [[Governance/FAIR Principles\|FAIR Principles]] (R1.1 licence, F1 PID)
 - French alignment: [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]], [[Governance/HAL\|HAL]]

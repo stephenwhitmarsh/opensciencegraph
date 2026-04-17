@@ -35,6 +35,7 @@ For individual research projects outside the CATI framework, data management is 
 - Hosted at: [[Actors/Paris Brain Institute\|Paris Brain Institute]]
 - Data management: [[Governance/CATI\|CATI]] (multisite cohort data; DICOM → NIfTI → BIDS); individual research projects managed independently
 - Part of: [[Governance/France Life Imaging\|France Life Imaging]] (FLI primary neuroimaging node at ICM)
+- Labelled by: [[Governance/IBiSA\|IBiSA]] (national platform quality label)
 - External access: [[Governance/NeurATRIS\|NeurATRIS]] (clinical neuroimaging for Phase I/II trial endpoints)
 - Standards: [[Standards/BIDS\|BIDS]], [[Standards/NIfTI\|NIfTI]], [[Standards/DICOM\|DICOM]], [[Standards/EDF\|EDF]] (clinical EEG and SEEG recordings), [[Standards/BrainVision\|BrainVision]] (research EEG)
 - Cohorts: MEMENTO, INSIGHT-preAD, iShare (multisite longitudinal via CATI)

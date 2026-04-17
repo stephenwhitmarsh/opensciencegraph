@@ -20,7 +20,7 @@ The full INBS network includes 9 national infrastructures. Those most directly r
 - **METABOHUB** — metabolomics infrastructure
 - **PROTEOMICS FRENCH INFRASTRUCTURE** (ProFI) — proteomics
 - **BIOBANQUES** — French biobank network; connects to [[Governance/BBMRI-ERIC\|BBMRI-ERIC]]
-- **IBISA** — network of technological platforms in biology and health
+- **[[Governance/IBiSA\|IBiSA]]** — GIS for labelling and funding of technological platforms and CRBs across all INBS; the entry point into the national infrastructure system
 
 ## Role in the French Open Science Ecosystem
 INBS is the structural backbone linking French national biology/health platforms to each other, to European ESFRI infrastructures, and to the

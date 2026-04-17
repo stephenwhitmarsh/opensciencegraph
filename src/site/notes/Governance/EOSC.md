@@ -12,7 +12,7 @@ EOSC is the EU's flagship open science infrastructure providing a federated ecos
 - Integrated: [[Platforms/EBRAINS\|EBRAINS]], [[Governance/OpenAIRE\|OpenAIRE]], [[Governance/ELIXIR\|ELIXIR]], [[Platforms/Zenodo\|Zenodo]]
 - Implements: [[Governance/FAIR Principles\|FAIR Principles]]
 - French alignment: [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Platforms/Recherche Data Gouv\|Recherche Data Gouv]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]]
-- Partners: [[Governance/RDA\|RDA]], [[Governance/GO FAIR\|GO FAIR]]
+- Partners: [[Governance/RDA\|RDA]]
 - Related regulation: [[Governance/EHDS\|EHDS]] (health sector data space, aligned with EOSC)
 
 ## Resources

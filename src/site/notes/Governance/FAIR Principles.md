@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/governance/fair-principles/","dg-note-properties":{"name":"FAIR Principles","aliases":["FAIR","Findable Accessible Interoperable Reusable"],"website":"https://www.go-fair.org/fair-principles/","type":"framework","scope":"international","domain":["multimodal"],"status":"active","founded":2016,"icon":"https://www.go-fair.org/wp-content/uploads/2019/01/GO_FAIR_favicon.png"}}
+{"dg-publish":true,"permalink":"/governance/fair-principles/","dg-note-properties":{"name":"FAIR Principles","aliases":["FAIR","Findable Accessible Interoperable Reusable"],"website":"https://www.fairprinciples.org","type":"framework","scope":"international","domain":["multimodal"],"status":"active","founded":2016,"icon":"https://www.go-fair.org/wp-content/uploads/2019/01/GO_FAIR_favicon.png"}}
 ---
 
 
@@ -60,12 +60,10 @@ and infrastructures. This distinction matters for the vault:
 
 ## Created By
 - [[FORCE11\|FORCE11]] — co-authored the original 2016 Wilkinson et al. paper
-- [[Governance/GO FAIR\|GO FAIR]] — developed the Three-Point FAIRification Framework
 - [[Governance/RDA\|RDA]] — produced the FAIR Data Maturity Model (RDA WG output, 2020)
 
 ## Actively Promoted / Measured By
 These bodies have FAIR as a core operational mandate — not just alignment:
-- [[Governance/GO FAIR\|GO FAIR]] — FAIRification framework and Implementation Networks
 - [[Governance/RDA\|RDA]] — FAIR Data Maturity Model, working group outputs
 - [[Governance/EOSC\|EOSC]] — mandates FAIR for all EU-funded research data
 - [[Actors/INCF\|INCF]] — FAIR neuroscience as explicit mission; FAIR-Checker tool
