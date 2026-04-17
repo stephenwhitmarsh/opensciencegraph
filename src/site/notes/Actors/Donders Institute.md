@@ -15,11 +15,11 @@ The Donders Institute at Radboud University (Nijmegen, Netherlands) is one of Eu
 - Donders Centre for Medical Neuroscience (DCMN) — clinical neuroscience
 
 ## Open Science Practices
-- Radboud Data Repository (RDR) — institutional open data repository for all Donders datasets, FAIR-compliant with persistent DOIs; absorbed the original Donders Repository in 2023
+- **Radboud Data Repository (RDR)** (https://data.ru.nl) — institutional open data repository for all Donders datasets, FAIR-compliant with persistent DOIs; the original Donders Repository (https://data.donders.ru.nl) was merged into the RDR in November 2023; all legacy URLs redirect to the RDR
 - Mandatory data sharing policy for all publications from the institute
 - Dedicated data management and research data stewardship support staff
 - Active contribution to [[Standards/BIDS\|BIDS]] specification and tooling (fieldtrip, MNE)
-- FieldTrip — widely used open-source MEG/EEG analysis toolbox, developed at Donders
+- **FieldTrip** (https://www.fieldtriptoolbox.org) — widely used open-source MEG/EEG/iEEG analysis toolbox developed at Donders; one of the first major toolboxes to implement native [[Standards/BIDS\|BIDS]] read/write support and a reference implementation for EEG/MEG/iEEG BIDS; actively contributes to [[Standards/BIDS\|BIDS]] extension proposals (BEPs) for electrophysiology
 
 ## Connections
 - Part of: [[Platforms/EBRAINS\|EBRAINS]] member network, [[Governance/EOSC\|EOSC]]
@@ -31,5 +31,7 @@ The Donders Institute at Radboud University (Nijmegen, Netherlands) is one of Eu
 
 ## Resources
 - https://www.ru.nl/en/donders-institute
-- https://data.ru.nl (Radboud Data Repository)
+- https://data.ru.nl (Radboud Data Repository — current; includes all legacy Donders Repository datasets)
+- https://data.donders.ru.nl (legacy Donders Repository URL — redirects to RDR)
+- https://www.ru.nl/en/donders-institute/research/open-science (Donders open science policy and practices)
 - https://www.fieldtriptoolbox.org

@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/actors/dac/","tags":["icm/uses"],"dg-note-properties":{"name":"Data Analysis Core","aliases":["DAC","ICM Data Analysis Core"],"website":"https://dac.institutducerveau.org","type":"facility","scope":"french","domain":["multimodal","genomics","neuroimaging"],"status":"active","founded":2010,"parent_org":"Paris Brain Institute","tags":["icm/uses"]}}
 ---
 
-
+![DAC_FR.png\|400](/img/user/Actors/DAC_FR.png)
 # DAC — Data Analysis Core
 
 ## Overview

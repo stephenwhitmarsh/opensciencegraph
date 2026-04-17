@@ -20,18 +20,22 @@ The Banque ADN et Cellules is [[Actors/Paris Brain Institute\|Paris Brain Instit
 ## Quality and Certification
 - Operates under French biobank regulatory framework ([[Governance/Code de la Sante Publique\|Code de la Sante Publique]] Articles L. 1243-3 ff.)
 - CNIL-authorised for biological sample collection and data management
+- **ISO 20387** certified — international standard for biobanking quality management
+- **[[Governance/IBiSA\|IBiSA]]** labelled — national platform quality label for French biology/health infrastructure
 
 ## Connections to Open Science Ecosystem
-- **[[Governance/BBMRI-ERIC\|BBMRI-ERIC]]** — French biobanks are integrated into the BBMRI-ERIC federated biobank catalogue; Banque ADN samples are discoverable via BBMRI
-- **[[Actors/iGENSEQ\|iGENSEQ]]** — primary downstream user for genomic sequencing of banked DNA
-- **[[Governance/CATI\|CATI]]** — imaging-biobank linkage for multimodal cohorts (MEMENTO, INSIGHT-preAD)
+- **[[Governance/BBMRI-ERIC\|BBMRI-ERIC]]** — CRB partner of the BBMRI-ERIC federated European biobank catalogue; samples discoverable via BBMRI
+- **3C-R** — member of the French national biological resource centre network since 2006
+- **[[Governance/IBiSA\|IBiSA]]** — IBiSA-labelled platform
+- **[[Actors/iGENSEQ\|iGENSEQ]]** — primary downstream user for genomic sequencing of banked DNA; joint identito-vigilance genotyping set up with iGENSEQ in 2020
 - **[[Actors/Institut de Myologie\|Institut de Myologie]]** — Myobank-AFM is the analogous neuromuscular biobank at the same Pitié-Salpêtrière campus
 
 ## Connections
 - Hosted at: [[Actors/Paris Brain Institute\|Paris Brain Institute]]
 - Regulatory framework: [[Governance/Code de la Sante Publique\|Code de la Sante Publique]], CNIL
-- Biobank network: [[Governance/BBMRI-ERIC\|BBMRI-ERIC]] (federated European biobank catalogue)
-- Downstream platforms: [[Actors/iGENSEQ\|iGENSEQ]], [[Governance/CATI\|CATI]]
+- Biobank networks: [[Governance/BBMRI-ERIC\|BBMRI-ERIC]] (federated European biobank catalogue), 3C-R (French national CRB network, member since 2006)
+- Labelled by: [[Governance/IBiSA\|IBiSA]]
+- Downstream platform: [[Actors/iGENSEQ\|iGENSEQ]]
 - Analogous resource: Myobank-AFM at [[Actors/Institut de Myologie\|Institut de Myologie]]
 - Policy: [[Governance/Ouvrir la Science\|Ouvrir la Science]], [[Governance/ANR Open Science Policy\|ANR Open Science Policy]]
 

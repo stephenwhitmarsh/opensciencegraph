@@ -12,7 +12,7 @@ This index covers all organisational nodes in the graph: research institutes, in
 
 ## ICM — Paris Brain Institute and Core Facilities
 
-- [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]] — ICM DNA and cell biobank; [[Governance/BBMRI-ERIC\|BBMRI-ERIC]]; [[Standards/HPO\|HPO]]/[[Standards/ORDO\|ORDO]] phenotyping; links to [[Actors/iGENSEQ\|iGENSEQ]] and [[Governance/CATI\|CATI]]
+- [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]] — ICM DNA and cell biobank; [[Governance/IBiSA\|IBiSA]]-labelled; [[Governance/BBMRI-ERIC\|BBMRI-ERIC]] partner; upstream source for [[Actors/iGENSEQ\|iGENSEQ]]
 - [[Actors/CENIR\|CENIR]] — ICM neuroimaging centre; 3T MRI x2, PET-MRI, MEG; [[Governance/France Life Imaging\|France Life Imaging]] node; data via [[Governance/CATI\|CATI]]
 - [[Actors/DAC\|DAC]] — ICM Data Analysis Core; bioinformatics, statistics, FAIR workflows; [[Governance/IFB\|IFB]]/[[Governance/OPIDoR\|OPIDoR]] interface
 - [[Actors/iGENSEQ\|iGENSEQ]] — ICM NGS platform; RNA-seq, scRNA-seq, WGS/WES; data to [[Platforms/NCBI GEO\|NCBI GEO]] / [[Platforms/EGA\|EGA]] / [[Platforms/EVA\|EVA]]

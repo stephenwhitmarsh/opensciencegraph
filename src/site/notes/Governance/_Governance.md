@@ -37,6 +37,12 @@ This index covers all governance bodies, national and European research infrastr
 - [[Governance/CNIL\|CNIL]] — Commission Nationale de l'Informatique et des Libertés; French independent data protection authority; issues authorisations and reference methodologies for health and genomic research data; GDPR supervisory authority; oversight of [[Governance/Health Data Hub\|Health Data Hub]], [[Platforms/SNDS\|SNDS]], [[Actors/Banque ADN et Cellules\|Banque ADN et Cellules]] and all French health research data processing
 - [[Governance/Code de la Sante Publique\|Code de la Sante Publique]] — French public health law; governs health data access, biobanking, clinical research
 - [[Governance/Health Data Hub\|Health Data Hub]] — French national health data platform; [[Platforms/SNDS\|SNDS]]; [[Standards/OMOP CDM\|OMOP CDM]]; [[Governance/EHDS\|EHDS]] national HDAB candidate
+
+## French Clinical Research Infrastructure
+
+- [[Governance/CIC Neurosciences\|CIC Neurosciences]] — INSERM CIC-1422; Inserm/[[Governance/AP-HP\|AP-HP]] clinical trial platform at Pitié-Salpêtrière; operational backbone for ICM trial conduct; [[Governance/ECRIN\|ECRIN]] node via F-CRIN
+- [[Governance/iCRIN\|iCRIN]] — ICM's translational clinical research programme; 13 disease-area themes bridging basic research and AP-HP clinical services; backed by [[Governance/CIC Neurosciences\|CIC Neurosciences]]
+
 ## Healthcare Interoperability
 
 - [[Governance/IHE\|IHE]] — Integrating the Healthcare Enterprise; international initiative producing implementation profiles on top of [[Standards/HL7 FHIR\|HL7 FHIR]], [[Standards/DICOM\|DICOM]] and [[Standards/SNOMED CT\|SNOMED CT]]; IHE France coordinated via [[Governance/ANS\|ANS]]; foundational to [[Governance/EHDS\|EHDS]] technical compliance and [[Governance/AP-HP\|AP-HP]] clinical IT architecture
